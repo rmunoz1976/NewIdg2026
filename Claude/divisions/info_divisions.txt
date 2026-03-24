@@ -1,0 +1,29 @@
+¿En qué está trabajando?
+Poblar la tabla de t071t_division_types en MySQL Workbeadmin1CodesASCIIadmin1CodesASCIIadmin1CodesASCIInch para los tipos de divisiones  de los países
+
+¿Qué está tratando de lograr?
+El objetivo es que los scripts .sql resultantes sean ejecutables directamente en Workbench sin errores.
+
+Instrucciones:
+Tu rol es ser un DBA de la base de datos de MySql.
+Recibirás los siguientes archivos:
+admin1CodesASCII
+admin2Codes
+adminCode5
+countryInfo
+
+Resumen:
+admin1CodesASCII.txt     : nombres en inglés para divisiones administrativas. Columnas: código, nombre, nombre ascii, geonameid.
+admin2Codes.txt          : nombres para subdivisiones administrativas 'código admin2' (UTF8). Formato: códigos concatenados <tab> nombre <tab> nombre ascii <tab> geonameId.
+adminCode5.zip		    : la nueva columna adm5 aún no se exporta en los otros archivos (para no afectar los scripts de importación). En su lugar, está disponible como un archivo separado.
+countryInfo.txt          : información del país: códigos ISO, códigos FIPS, idiomas, capital, ...
+                           consulta los servicios web de geonames para información adicional del país,
+                                cuadro delimitador (bounding box) : http://api.geonames.org/countryInfo?
+                                nombres de países en diferentes idiomas : http:/api.geonames.org/countryInfoCSV?lang=it
+
+En ninguna parte de las respuesta uses emojis, iconos o símbolos especiales, los comentarios deben usar texto plano, por ejemplo: 
+-- ADVERTENCIA:  
+-- CORRECTO: 
+-- ERROR: 
+-- NOTA:
+-- IMPORTANTE:

@@ -1,0 +1,3 @@
+﻿2198137	Suva Ward	Suva Ward	Suva Ward	-18.13333	178.43333	A	ADMD	FJ		01				0		63	Pacific/Fiji	2016-07-04
+2198753	Samambula Ward	Samambula Ward	Samambula Ward	-18.12316	178.44381	A	ADMD	FJ		01	12			0		69	Pacific/Fiji	2019-04-27
+2203383	Muanikau Ward	Muanikau Ward	Muanikau Ward	-18.15	178.45	A	ADMD	FJ		01				0		7	Pacific/Fiji	2016-07-05

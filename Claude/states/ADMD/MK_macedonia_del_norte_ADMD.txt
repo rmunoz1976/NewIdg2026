@@ -1,0 +1,9 @@
+﻿862951	Grad Gevgelija	Grad Gevgelija	Grad Gevgelija	41.13333	22.5	A	ADMD	MK		33				0		65	Europe/Skopje	2016-08-04
+862966	Grad Negotino	Grad Negotino		41.48333	22.08333	A	ADMD	MK		69				0		166	Europe/Skopje	2001-08-06
+862967	Grad Štip	Grad Stip	Grad Stip,Grad Štip,Stip,Štip	41.75	22.2	A	ADMD	MK		98				0		319	Europe/Skopje	2012-01-20
+862968	Grad Radoviš	Grad Radovis	Grad Radovis,Grad Radoviš,Radovis,Radoviš	41.63333	22.46667	A	ADMD	MK		84				0		371	Europe/Skopje	2012-01-20
+862969	Grad Kočani	Grad Kocani	Grad Kocani,Grad Kočani,Kocani,Kočani	41.91667	22.41667	A	ADMD	MK		46				0		383	Europe/Skopje	2012-01-20
+862970	Grad Berovo	Grad Berovo	Berovo,Grad Berovo	41.7	22.85	A	ADMD	MK		04				0		892	Europe/Skopje	2014-05-29
+862971	Grad Delčevo	Grad Delcevo	Delcevo,Delčevo,Grad Delcevo,Grad Delčevo	41.96667	22.76667	A	ADMD	MK		22				0		621	Europe/Skopje	2012-01-20
+862972	Крива Паланка	Kriva Palanka	Kriva Palanka,Крива Паланка	42.2	22.33333	A	ADMD	MK		52				0		641	Europe/Skopje	2008-02-29
+862976	Grad Probištip	Grad Probistip	Grad Probistip,Grad Probištip,Probistip,Probištip	42	22.18333	A	ADMD	MK		83				0		582	Europe/Skopje	2012-01-20

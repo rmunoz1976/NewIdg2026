@@ -1,0 +1,2 @@
+﻿7874632	Barrio Santa Isabel	Barrio Santa Isabel	Barrio Santa Isabel	4.60152	-74.1028	A	ZN	CO		34				0		2563	America/Bogota	2011-07-08
+8337214	Vereda Las Palmas	Vereda Las Palmas		6.14324	-75.5398	A	ZN	CO		02	05266			0	2500	2581	America/Bogota	2016-12-14

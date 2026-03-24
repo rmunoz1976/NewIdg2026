@@ -1,0 +1,6 @@
+﻿8559118	Ḩayy as Sabāhīyah	Hayy as Sabahiyah	Hayy as Sabahiyah,Hittin - Al Yarmuk - Al Qadisiyah,htyn  alyrmwk  alqadsyt,hy alsbahyt,حطين ـ اليرموك ـ القادسية,حي السباهية,Ḩayy as Sabāhīyah,Ḩiţţīn - Al Yarmūk - Al Qādisīyah	35.94698	38.97982	A	ADMD	SY		04				0		243	Asia/Damascus	2013-07-08
+8559135	Al Minţaqah ath Thālithah	Al Mintaqah ath Thalithah	Al Mintaqah ath Thalithah,Al Minţaqah ath Thālithah,almntqt althaltht,المنطقة الثالثة	35.96247	39.02306	A	ADMD	SY		04				0		248	Asia/Damascus	2013-07-08
+8559136	Al Minţaqah ath Thāniyah	Al Mintaqah ath Thaniyah	Al Mintaqah ath Thaniyah,Al Minţaqah ath Thāniyah,almntqt althanyt,المنطقة الثانية	35.96243	39.0017	A	ADMD	SY		04				0		254	Asia/Damascus	2013-07-08
+8559137	Al Minţaqah ar Rābi‘ah	Al Mintaqah ar Rabi`ah	Al Mintaqah ar Rabi`ah,Al Minţaqah ar Rābi‘ah,almntqt alrabʿt,المنطقة الرابعة	35.95035	39.03224	A	ADMD	SY		04				0		244	Asia/Damascus	2013-07-08
+8559138	Al Minţaqah al Khāmisah	Al Mintaqah al Khamisah	Al Mintaqah al Khamisah,Al Minţaqah al Khāmisah,almntqt alkhamst,المنطقة الخامسة	35.94669	39.01998	A	ADMD	SY		04				0		255	Asia/Damascus	2013-07-08
+8559139	Al Minţaqah al Ūlá	Al Mintaqah al Ula	Al Mintaqah al Ula,Al Minţaqah al Ūlá,almntqt alawly,المنطقة الأولى	35.95423	39.00148	A	ADMD	SY		04				0		255	Asia/Damascus	2013-07-08

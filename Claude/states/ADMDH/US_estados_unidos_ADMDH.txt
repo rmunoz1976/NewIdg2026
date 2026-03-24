@@ -1,0 +1,12 @@
+﻿4353196	District 10	District 10	District 10,District 10 Election District	39.54108	-76.57518	A	ADMDH	US		MD	005			0	178	185	America/New_York	2016-03-21
+4353207	District 11	District 11	District 11,District 11 Election District	39.43951	-76.45992	A	ADMDH	US		MD	005			0	64	84	America/New_York	2016-03-21
+4353218	District 12	District 12	District 12,District 12 Election District	39.25769	-76.50924	A	ADMDH	US		MD	005			0	6	7	America/New_York	2016-03-21
+4353239	District 14	District 14	District 14,District 14 Election District	39.35669	-76.50052	A	ADMDH	US		MD	005			0	46	47	America/New_York	2016-03-21
+4353291	District 2	District 2	District 2,District 2 Election District	39.36526	-76.81486	A	ADMDH	US		MD	005			0	168	170	America/New_York	2016-03-21
+4353443	District 8	District 8	District 8,District 8 Election District	39.4883	-76.66335	A	ADMDH	US		MD	005			0	85	84	America/New_York	2016-03-21
+4353457	District 9	District 9	District 9,District 9 Election District	39.40184	-76.58557	A	ADMDH	US		MD	005			0	117	118	America/New_York	2016-03-21
+4517408	Township of Madison (historical)	Township of Madison (historical)	Madison Township	39.79756	-84.2905	A	ADMDH	US		OH	113			0	251	252	America/New_York	2020-09-14
+4522169	Township of Randolph (historical)	Township of Randolph (historical)	Randolph Township	39.86144	-84.29772	A	ADMDH	US		OH	113			0	288	288	America/New_York	2020-09-14
+4618189	District 11	District 11		35.20703	-88.33754	A	ADMDH	US		TN	071			0	138	138	America/Chicago	2012-08-24
+5160805	Township of Lima (historical)	Township of Lima (historical)	Lima Township	40.00756	-82.73739	A	ADMDH	US		OH	089			0	331	330	America/New_York	2020-09-14
+7165542	Township of Creston Village (historical)	Township of Creston Village (historical)	Township of Creston,Township of Creston Village (historical)	40.99132	-81.88528	A	ADMDH	US		OH	103			0	301	301	America/New_York	2020-09-14

@@ -1,0 +1,219 @@
+﻿2625267	Viðvíkurhreppur	Vidvikurhreppur		65.75	-19.31667	A	ADMD	IS		41				0		239	Atlantic/Reykjavik	1994-01-14
+2625340	Vestur-Skaftafellssýsla	Vestur-Skaftafellssysla		63.5	-18.5	A	ADMD	IS		42				0		35	Atlantic/Reykjavik	2004-03-10
+2625353	Vestur-Eyjafjallahreppur	Vestur-Eyjafjallahreppur		63.63333	-19.88333	A	ADMD	IS		42				0		605	Atlantic/Reykjavik	1994-01-14
+2625515	Vallahreppur	Vallahreppur		65.15	-14.55	A	ADMD	IS		38				0		79	Atlantic/Reykjavik	1994-01-14
+2625654	Tunguhreppur	Tunguhreppur	Tungnahreppur,Tunguhreppur	65.53333	-14.46667	A	ADMD	IS		38				0		59	Atlantic/Reykjavik	2012-01-17
+2626004	Þórshafnarhreppur	Torshafnarhreppur		66.2	-15.31667	A	ADMD	IS		40				0		40	Atlantic/Reykjavik	2004-03-11
+2626201	Svínavatnshreppur	Svinavatnshreppur		65.5	-20	A	ADMD	IS		41				0		304	Atlantic/Reykjavik	2004-03-11
+2626309	Svarfaðardalshreppur	Svarfadardalshreppur		65.98333	-18.75	A	ADMD	IS		40				0		736	Atlantic/Reykjavik	1994-01-14
+2626361	Suður-Múlasýsla	Sudur-Mulasysla		64.83333	-14.25	A	ADMD	IS		38				0		145	Atlantic/Reykjavik	2014-11-11
+2626362	Suðurlandskjördæmi	Sudurlandskjordami		64.3	-19	A	ADMD	IS		42	8610			0		518	Atlantic/Reykjavik	2020-03-07
+2626541	Stöðvarhreppur	Stodvarhreppur		64.35	-14	A	ADMD	IS		38				0		-9999	Atlantic/Reykjavik	1994-01-14
+2626652	Staðarhreppur	Stadarhreppur		65.68333	-19.56667	A	ADMD	IS		41				0		2	Atlantic/Reykjavik	1994-01-14
+2626834	Skriðuhreppur	Skriduhreppur		65.65	-18.53333	A	ADMD	IS		40				0		133	Atlantic/Reykjavik	1994-01-14
+2626840	Skriðdalshreppur	Skriddalshreppur		64.96667	-14.61667	A	ADMD	IS		38				0		265	Atlantic/Reykjavik	1994-01-14
+2626980	Skeggjastaðahreppur	Skeggjastadahreppur		66	-15	A	ADMD	IS		38				0		223	Atlantic/Reykjavik	2004-03-11
+2626985	Skefilsstaðahreppur	Skefilsstadahreppur		65.9	-19.95	A	ADMD	IS		41				0		128	Atlantic/Reykjavik	1994-01-14
+2626997	Skarðshreppur	Skardshreppur		65.66667	-19.71667	A	ADMD	IS		41				0		410	Atlantic/Reykjavik	1994-01-14
+2627068	Skagafjarðarsýsla	Skagafjardarsysla		65.5	-19.25	A	ADMD	IS		41	5200			0		357	Atlantic/Reykjavik	2023-02-10
+2627132	Siglufjarðarkaupstaður	Siglufjardarkaupstadur	Siglufjardharkaupstadhur,Siglufjarðarkaupstaður,Siglufjordur,Siglufjörður	66.16667	-18.83333	A	ADMD	IS		41				0		340	Atlantic/Reykjavik	2010-08-09
+2627143	Seyðisfjarðarhreppur	Seydisfjardarhreppur		65.28333	-13.95	A	ADMD	IS		38				0		-9999	Atlantic/Reykjavik	1994-01-14
+2627279	Seiluhreppur	Seiluhreppur	Seiluhreppur,Seyluhreppur	65.56667	-19.5	A	ADMD	IS		41				0		44	Atlantic/Reykjavik	2012-01-17
+2627290	Saurbæjarhreppur	Saurbajarhreppur		65.38333	-18.25	A	ADMD	IS		40				0		119	Atlantic/Reykjavik	1994-01-14
+2627316	Sauðaneshreppur	Saudaneshreppur		66.05	-15.45	A	ADMD	IS		40				0		127	Atlantic/Reykjavik	1994-01-14
+2627538	Rípurhreppur	Ripurhreppur		65.68333	-19.45	A	ADMD	IS		41				0		15	Atlantic/Reykjavik	1994-01-14
+2627573	Reykjahreppur	Reykjahreppur		65.96667	-17.18333	A	ADMD	IS		40				0		293	Atlantic/Reykjavik	1994-01-14
+2627594	Reykdælahreppur	Reykdalahreppur		65.73333	-17.3	A	ADMD	IS		40				0		275	Atlantic/Reykjavik	1994-01-14
+2627600	Reyðarfjarðarhreppur	Reydarfjardarhreppur		65.06667	-14.25	A	ADMD	IS		38				0		802	Atlantic/Reykjavik	1994-01-14
+2627644	Raufarhafnarhreppur	Raufarhafnarhreppur		66.46667	-15.95	A	ADMD	IS		40				0		1	Atlantic/Reykjavik	2004-03-11
+2627711	Rangárvallasýsla	Rangarvallasysla		63.91667	-20	A	ADMD	IS		42				0		170	Atlantic/Reykjavik	2004-03-10
+2627734	Presþólahreppur	Prestolahreppur		66.33333	-16.25	A	ADMD	IS		40				0		102	Atlantic/Reykjavik	1994-01-14
+2627764	Öxnadalshreppur	Oxnadalshreppur		65.56667	-18.5	A	ADMD	IS		40				0		504	Atlantic/Reykjavik	1994-01-14
+2627769	Öxarfjarðarhreppur	Oxarfjardarhreppur	Oxarfjardharhreppur,Öxarfjardharhreppur,Öxarfjarðarhreppur	66	-16.21667	A	ADMD	IS		40				0		364	Atlantic/Reykjavik	2010-08-09
+2627823	Öngulsstaðahreppur	Ongulsstadahreppur		65.5	-18	A	ADMD	IS		40				0		955	Atlantic/Reykjavik	1994-01-14
+2627845	Ólafsfjarðarbær	Olafsfjardarbar	Olafsfjardharbaer,Olafsfjordur,Ólafsfjarðarbær,Ólafsfjörður	66.08333	-18.75	A	ADMD	IS		40				0		381	Atlantic/Reykjavik	2010-08-09
+2627956	Norður-Múlasýsla	Nordur-Mulasysla		65.5	-15	A	ADMD	IS		38	7502			0		670	Atlantic/Reykjavik	2020-03-07
+2627957	Norðurlandskjördæmi Vestra	Nordurlandskjordami Vestra		65.56667	-20	A	ADMD	IS		41	5612			0		70	Atlantic/Reykjavik	2020-03-07
+2627958	Norðurlandskjördæmi Eystra	Nordurlandskjordami Eystra		65.5	-17.5	A	ADMD	IS		40	6612			0		538	Atlantic/Reykjavik	2020-03-07
+2627978	Norðfjarðarhreppur	Nordfjardarhreppur		65.11667	-13.8	A	ADMD	IS		38				0		14	Atlantic/Reykjavik	1994-01-14
+2628022	Nesjahreppur	Nesjahreppur		64.41667	-15.21667	A	ADMD	IS		38				0		627	Atlantic/Reykjavik	1994-01-14
+2628116	Mýrahreppur	Myrahreppur		64.35	-15.55	A	ADMD	IS		38				0		196	Atlantic/Reykjavik	1994-01-14
+2628223	Mjóafjarðarhreppur	Mjoafjardarhreppur		65.18333	-13.93333	A	ADMD	IS		38				0		445	Atlantic/Reykjavik	2004-03-11
+2628484	Lýtingsstaðahreppur	Lytingsstadahreppur		65.4	-19.2	A	ADMD	IS		41				0		263	Atlantic/Reykjavik	1994-01-14
+2628537	Loðmundarfjarðarhreppur	Lodmundarfjardarhreppur		65.36667	-13.93333	A	ADMD	IS		38				0		182	Atlantic/Reykjavik	1994-01-14
+2628549	Ljósavatnshreppur	Ljosavatnshreppur		65.81667	-17.61667	A	ADMD	IS		40				0		438	Atlantic/Reykjavik	1994-01-14
+2628670	Leiðvallarhreppur	Leidvallarhreppur		63.6	-18.11667	A	ADMD	IS		42				0		15	Atlantic/Reykjavik	1994-01-14
+2629307	Kirkjubæjarhreppur	Kirkjubajarhreppur		63.75	-18	A	ADMD	IS		42				0		38	Atlantic/Reykjavik	1994-01-14
+2629383	Kelduneshreppur	Kelduneshreppur		66	-16.78333	A	ADMD	IS		40				0		157	Atlantic/Reykjavik	2004-03-11
+2629586	Jökuldalshreppur	Jokuldalshreppur		65.25	-15.5	A	ADMD	IS		38				0		521	Atlantic/Reykjavik	1994-01-14
+2629783	Hvammshreppur	Hvammshreppur		63.5	-18.9	A	ADMD	IS		42				0		265	Atlantic/Reykjavik	1994-01-14
+2629837	Húsavíkurbær	Husavikurbar	Husavik,Husavikurbaer,Húsavík,Húsavíkurbær	66.03333	-17.33333	A	ADMD	IS		40				0		131	Atlantic/Reykjavik	2010-08-09
+2629934	Hríseyjarhreppur	Hriseyjarhreppur		66	-18.38333	A	ADMD	IS		40				0		55	Atlantic/Reykjavik	2004-03-11
+2630049	Hrafnagilshreppur	Hrafnagilshreppur		65.55	-18.2	A	ADMD	IS		40				0		394	Atlantic/Reykjavik	1994-01-14
+2630094	Hörgslandshreppur	Horgslandshreppur		63.95	-17.66667	A	ADMD	IS		42				0		48	Atlantic/Reykjavik	1994-01-14
+2630108	Holtshreppur	Holtshreppur		66.03333	-18.96667	A	ADMD	IS		41				0		470	Atlantic/Reykjavik	1994-01-14
+2630250	Hólahreppur	Holahreppur		65.65	-19	A	ADMD	IS		41				0		557	Atlantic/Reykjavik	1994-01-14
+2630276	Hofsóshreppur	Hofsoshreppur		65.9	-19.4	A	ADMD	IS		41				0		27	Atlantic/Reykjavik	1994-01-14
+2630281	Hofshreppur	Hofshreppur		65.86667	-19.2	A	ADMD	IS		41				0		770	Atlantic/Reykjavik	1994-01-14
+2630282	Hofshreppur	Hofshreppur		64	-16.83333	A	ADMD	IS		38				0		615	Atlantic/Reykjavik	1994-01-14
+2630391	Hlíðarhreppur	Hlidarhreppur		65.6	-14.66667	A	ADMD	IS		38				0		612	Atlantic/Reykjavik	1994-01-14
+2630435	Hjaltastaðahreppur	Hjaltastadahreppur		65.5	-14.16667	A	ADMD	IS		38				0		199	Atlantic/Reykjavik	1994-01-14
+2630577	Helgustaðahreppur	Helgustadahreppur		65.01667	-13.71667	A	ADMD	IS		38				0		213	Atlantic/Reykjavik	1994-01-14
+2630761	Hálshreppur	Halshreppur		65.75	-17.86667	A	ADMD	IS		40				0		142	Atlantic/Reykjavik	1994-01-14
+2630862	Haganeshreppur	Haganeshreppur		66	-19.15	A	ADMD	IS		41				0		265	Atlantic/Reykjavik	1994-01-14
+2630921	Hafnarhreppur	Hafnarhreppur		64.28333	-15.2	A	ADMD	IS		38				0		1	Atlantic/Reykjavik	1994-01-14
+2631140	Grímseyjarhreppur	Grimseyjarhreppur		66.53333	-18	A	ADMD	IS		40				0		12	Atlantic/Reykjavik	2004-03-11
+2631296	Glæsibæjarhreppur	Glasibajarhreppur		65.65	-18.25	A	ADMD	IS		40				0		756	Atlantic/Reykjavik	1994-01-14
+2631408	Geiþellnahreppur	Geitellnahreppur		64.66667	-14.78333	A	ADMD	IS		38				0		981	Atlantic/Reykjavik	1994-01-14
+2631704	Fljótshlíðarhreppur	Fljotshlidarhreppur		63.73333	-19.75	A	ADMD	IS		42				0		431	Atlantic/Reykjavik	1994-01-14
+2631736	Flateyjarhreppur	Flateyjarhreppur		66.15	-17.91667	A	ADMD	IS		40				0		-9999	Atlantic/Reykjavik	1994-01-14
+2631812	Fjallahreppur	Fjallahreppur		65.75	-16	A	ADMD	IS		40				0		473	Atlantic/Reykjavik	1994-01-14
+2631853	Fellshreppur	Fellshreppur		66	-19.33333	A	ADMD	IS		41				0		65	Atlantic/Reykjavik	1994-01-14
+2631862	Fellahreppur	Fellahreppur		65.25	-14.7	A	ADMD	IS		38				0		499	Atlantic/Reykjavik	2004-03-11
+2631886	Fáskrúðsfjarðarhreppur	Faskrudsfjardarhreppur		64.91667	-14.05	A	ADMD	IS		38				0		6	Atlantic/Reykjavik	2004-03-11
+2632004	Eyjafjarðarsýsla	Eyjafjardarsysla		65.5	-18.41667	A	ADMD	IS		40	6513			0		797	Atlantic/Reykjavik	2020-03-07
+2632032	Eskifjarðarhreppur	Eskifjardarhreppur		65.08333	-14	A	ADMD	IS		38				0		419	Atlantic/Reykjavik	1994-01-14
+2632129	Eiðahreppur	Eidahreppur		65.35	-14.21667	A	ADMD	IS		38				0		492	Atlantic/Reykjavik	1994-01-14
+2632135	Egilsstaðahreppur	Egilsstadahreppur		65.26667	-14.4	A	ADMD	IS		38				0		33	Atlantic/Reykjavik	1994-01-14
+2632172	Dyrhólahreppur	Dyrholahreppur		63.5	-19.25	A	ADMD	IS		42				0		144	Atlantic/Reykjavik	1994-01-14
+2632402	Búlandshreppur	Bulandshreppur		64.66667	-14.41667	A	ADMD	IS		38				0		274	Atlantic/Reykjavik	1994-01-14
+2632432	Búðahreppur	Budahreppur		64.93333	-13.98333	A	ADMD	IS		38				0		180	Atlantic/Reykjavik	1994-01-14
+2632657	Borgarhafnarhreppur	Borgarhafnarhreppur		64.21667	-15.93333	A	ADMD	IS		38				0		801	Atlantic/Reykjavik	1994-01-14
+2632683	Bólstaðarhlíðarhreppur	Bolstadarhlidarhreppur		65.45	-19.75	A	ADMD	IS		41				0		292	Atlantic/Reykjavik	2004-03-11
+2632856	Beruneshreppur	Beruneshreppur		64.76667	-14.5	A	ADMD	IS		38				0		405	Atlantic/Reykjavik	1994-01-14
+2632916	Bárðdælahreppur	Barddalahreppur		65.5	-17.41667	A	ADMD	IS		40				0		496	Atlantic/Reykjavik	1994-01-14
+2632997	Bæjarhreppur	Bajarhreppur		64.43333	-14.9	A	ADMD	IS		38				0		50	Atlantic/Reykjavik	1994-01-14
+2633030	Austur-Skaftafellssýsla	Austur-Skaftafellssysla		64.25	-16	A	ADMD	IS		38				0		1140	Atlantic/Reykjavik	2004-03-10
+2633033	Austurlandskjördæmi	Austurlandskjordami	Austurland,Austurlandskjordaemi,Austurlandskjördæmi	65	-15.5	A	ADMD	IS		38	7620			0		652	Atlantic/Reykjavik	2020-06-10
+2633043	Austur-Eyjafallahreppur	Austur-Eyjafallahreppur		63.55	-19.58333	A	ADMD	IS		42				0		241	Atlantic/Reykjavik	1994-01-14
+2633127	Árskógshreppur	Arskogshreppur		65.83333	-18.41667	A	ADMD	IS		40				0		578	Atlantic/Reykjavik	1994-01-14
+2633160	Arnarneshreppur	Arnarneshreppur		65.81667	-18.25	A	ADMD	IS		40				0		37	Atlantic/Reykjavik	2004-03-11
+2633236	Álftavershreppur	Alftavershreppur		63.5	-18.5	A	ADMD	IS		42				0		35	Atlantic/Reykjavik	1994-01-14
+2633314	Aðaldælahreppur	Adaldalahreppur		65.9	-17.48333	A	ADMD	IS		40				0		23	Atlantic/Reykjavik	2004-03-11
+3337407	Þingeyjarsýsla	Tingeyjarsysla		65.33333	-15	A	ADMD	IS		38				0		519	Atlantic/Reykjavik	2011-03-07
+3345265	Hörgárbyggð	Horgarbyggd		65.63333	-18.41667	A	ADMD	IS		40				0		922	Atlantic/Reykjavik	2004-03-11
+3345267	Austurbyggð	Austurbyggd		64.83333	-14	A	ADMD	IS		38	7300			0		368	Atlantic/Reykjavik	2020-03-09
+3345268	Austur-Hérað	Austur-Herad		65.16667	-14.5	A	ADMD	IS		38	7620			0		103	Atlantic/Reykjavik	2020-03-09
+3345271	Norður-Hérað	Nordur-Herad		65.16667	-15.25	A	ADMD	IS		38	7620			0		539	Atlantic/Reykjavik	2020-03-09
+3411933	Snæfellsnessýsla	Snafellsnessysla	Snaefellsnessysla,Snafellsnessysla- og Hnappadalssysla,Snæfellsnessýsla,Snæfellsnessýsla- og Hnappadalssýsla	64.83333	-23	A	ADMD	IS		45	3714			0		12	Atlantic/Reykjavik	2020-03-07
+3412018	Vinðælishreppur	Vindalishreppur		65.78333	-20.16667	A	ADMD	IS		41				0		306	Atlantic/Reykjavik	1994-01-14
+3412026	Villingaholtshreppur	Villingaholtshreppur	Villingaholtshreppur	63.9	-20.78333	A	ADMD	IS		42				0		34	Atlantic/Reykjavik	2013-02-08
+3412079	Vestur-Landeyjahreppur	Vestur-Landeyjahreppur		63.7	-20.38333	A	ADMD	IS		42				0		8	Atlantic/Reykjavik	1994-01-14
+3412098	Vestfjarðakjördæmi	Vestfjardakjordami	Vestfjardhakjordaemi,Vestfjarðakjördæmi	65.8	-22.5	A	ADMD	IS		44	4911			0		324	Atlantic/Reykjavik	2020-03-07
+3412131	Vatnsleysustrandarhreppur	Vatnsleysustrandarhreppur	Vatnsleysustrandarhreppur	63.96667	-22.2	A	ADMD	IS		43				0		100	Atlantic/Reykjavik	2013-02-08
+3412411	Torfalækjarhreppur	Torfalakjarhreppur		65.61667	-20.15	A	ADMD	IS		41				0		90	Atlantic/Reykjavik	2004-03-11
+3412488	Þverárhreppur	Tverarhreppur		65.5	-20.68333	A	ADMD	IS		41				0		32	Atlantic/Reykjavik	1994-01-14
+3412489	Þverárhlíðarhreppur	Tverarhlidarhreppur		64.8	-21.15	A	ADMD	IS		45				0		459	Atlantic/Reykjavik	1994-01-14
+3412594	Þorkelshólshreppur	Torkelsholshreppur		65.28333	-20.6	A	ADMD	IS		41				0		262	Atlantic/Reykjavik	1994-01-14
+3412649	Þingvallahreppur	Tingvallahreppur		64.26667	-21.1	A	ADMD	IS		42				0		118	Atlantic/Reykjavik	1994-01-14
+3412658	Þingeyrarhreppur	Tingeyrarhreppur		65.85	-23.5	A	ADMD	IS		44				0		102	Atlantic/Reykjavik	1994-01-14
+3412794	Sveinsstaðahreppur	Sveinsstadahreppur		65.5	-20.4	A	ADMD	IS		41				0		59	Atlantic/Reykjavik	2004-03-11
+3412874	Suðurfjarðarhreppur	Sudurfjardarhreppur		65.65	-23.46667	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	1994-01-14
+3412879	Suðureyrarhreppur	Sudureyrarhreppur		66.11667	-23.48333	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	1994-01-14
+3412889	Stykkishólmshreppur	Stykkisholmshreppur	Stykkisholmshreppur,Stykkishólmshreppur	65.15	-22.75	A	ADMD	IS		45				0		-9999	Atlantic/Reykjavik	2013-02-08
+3412917	Strandasýsla	Strandasysla	Strandasysla,Strandasýsla	65.75	-22	A	ADMD	IS		44				0		150	Atlantic/Reykjavik	2013-02-08
+3412919	Strandarhreppur	Strandarhreppur	Strandarhreppur	64.41667	-21.45	A	ADMD	IS		45				0		584	Atlantic/Reykjavik	2013-02-08
+3413010	Stokkseyrarhreppur	Stokkseyrarhreppur	Stokkseyrarhreppur	63.86667	-21	A	ADMD	IS		42				0		9	Atlantic/Reykjavik	2013-02-08
+3413095	Stafholtstungnahreppur	Stafholtstungnahreppur	Stafholtstungnahreppur	64.76667	-21.65	A	ADMD	IS		45				0		358	Atlantic/Reykjavik	2013-02-08
+3413110	Staðarsveit	Stadarsveit		64.85	-23.25	A	ADMD	IS		45				0		55	Atlantic/Reykjavik	1994-01-14
+3413113	Staðarhreppur	Stadarhreppur		65.16667	-21	A	ADMD	IS		41				0		253	Atlantic/Reykjavik	1994-01-14
+3413196	Snæfjallahreppur	Snafjallahreppur		66.13333	-22.71667	A	ADMD	IS		44				0		18	Atlantic/Reykjavik	1994-01-14
+3413223	Sléttuhreppur	Slettuhreppur	Slettuhreppur,Sléttuhreppur	66.4	-22.75	A	ADMD	IS		44				0		302	Atlantic/Reykjavik	2013-02-08
+3413304	Skógarstrandarhreppur	Skogarstrandarhreppur	Skogarstrandarhreppur,Skógarstrandarhreppur	64.98333	-22.26667	A	ADMD	IS		45				0		112	Atlantic/Reykjavik	2013-02-08
+3413346	Skilmannahreppur	Skilmannahreppur	Skilmannahreppur	64.36667	-21.85	A	ADMD	IS		45				0		17	Atlantic/Reykjavik	2013-02-08
+3413372	Skeiðahreppur	Skeidahreppur		64.05	-20.56667	A	ADMD	IS		42				0		79	Atlantic/Reykjavik	2007-05-30
+3413402	Skarðshreppur	Skardshreppur		65.28333	-22.25	A	ADMD	IS		45				0		199	Atlantic/Reykjavik	1994-01-14
+3413533	Selvogshreppur	Selvogshreppur	Selvogshreppur	63.93333	-21.6	A	ADMD	IS		42				0		311	Atlantic/Reykjavik	2013-02-08
+3413603	Selfosshreppur	Selfosshreppur	Selfosshreppur	63.93333	-21	A	ADMD	IS		42				0		16	Atlantic/Reykjavik	2013-02-08
+3413657	Saurbæjarhreppur	Saurbajarhreppur		65.36667	-21.83333	A	ADMD	IS		45				0		237	Atlantic/Reykjavik	2004-03-11
+3413695	Sandvíkurhreppur	Sandvikurhreppur	Sandvikurhreppur,Sandvíkurhreppur	63.91667	-21.11667	A	ADMD	IS		42				0		10	Atlantic/Reykjavik	2013-02-08
+3413830	Reykjavík	Reykjavik	Reykjavik,Reykjavík	64.13333	-21.9	A	ADMD	IS		39				0		45	Atlantic/Reykjavik	2013-02-08
+3413844	Reykjarfjarðarhreppur	Reykjarfjardarhreppur		65.85	-22.65	A	ADMD	IS		44				0		13	Atlantic/Reykjavik	1994-01-14
+3413850	Reykjaneskjördæmi	Reykjaneskjordami	Reykjaneskjordaemi,Reykjaneskjördæmi	64	-22	A	ADMD	IS		39	1400			0		126	Atlantic/Reykjavik	2020-03-07
+3413875	Reykholtsdalshreppur	Reykholtsdalshreppur	Reykholtsdalshreppur	63.63333	-21.4	A	ADMD	IS		42				0		-9999	Atlantic/Reykjavik	2013-02-08
+3413930	Rauðasandshreppur	Raudasandshreppur		65.51667	-24.2	A	ADMD	IS		44				0		220	Atlantic/Reykjavik	1994-01-14
+3413980	Patrekshreppur	Patrekshreppur	Patrekshreppur	65.6	-24	A	ADMD	IS		44				0		26	Atlantic/Reykjavik	2013-02-08
+3414008	Óspakseyrarhreppur	Ospakseyrarhreppur	Ospakseyrarhreppur,Óspakseyrarhreppur	65.46667	-21.5	A	ADMD	IS		44				0		115	Atlantic/Reykjavik	2013-02-08
+3414078	Ólafsvíkurhreppur	Olafsvikurhreppur	Olafsvikurhreppur,Ólafsvíkurhreppur	64.86667	-23.73333	A	ADMD	IS		45				0		322	Atlantic/Reykjavik	2013-02-08
+3414094	Ögurhreppur	Ogurhreppur	Ogurhreppur,Ögurhreppur	65.9	-22.76667	A	ADMD	IS		44				0		500	Atlantic/Reykjavik	2013-02-08
+3414179	Norðurárdalshreppur	Nordurardalshreppur		64.86667	-21.25	A	ADMD	IS		45				0		271	Atlantic/Reykjavik	1994-01-14
+3414220	Njarðvíkurhreppur	Njardvikurhreppur	Keflavikur Hreppur,Keflavíkur Hreppur,Njardhvikurhreppur,Njarðvíkurhreppur	63.95	-22.5	A	ADMD	IS		43				0		20	Atlantic/Reykjavik	2011-03-06
+3414232	Neshreppur	Neshreppur	Nes Utan Ennis,Neshreppur	64.88333	-23.9	A	ADMD	IS		45				0		85	Atlantic/Reykjavik	2012-01-17
+3414278	Nauteyrarhreppur	Nauteyrarhreppur	Nauteyrarhreppur	65.93333	-22.25	A	ADMD	IS		44				0		372	Atlantic/Reykjavik	2013-02-08
+3414327	Mýrahreppur	Myrahreppur	Myrahreppur,Mýrahreppur	65.9	-23.36667	A	ADMD	IS		44				0		601	Atlantic/Reykjavik	2013-02-08
+3414365	Múlahreppur	Mulahreppur	Mulahreppur,Múlahreppur	65.6	-22.75	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	2013-02-08
+3414377	Mosvallahreppur	Mosvallahreppur	Mosvallahreppur	65.96667	-23.4	A	ADMD	IS		44				0		694	Atlantic/Reykjavik	2013-02-08
+3414457	Miklholtshreppur	Miklholtshreppur	Miklaholtshreppur,Miklholtshreppur	64.88333	-22.68333	A	ADMD	IS		45				0		163	Atlantic/Reykjavik	2012-01-17
+3414466	Miðvesturlandskjördæmi	Midvesturlandskjordami	Midhvesturland,Midhvesturlandskjordaemi,Midvesturland,Miðvesturland,Miðvesturlandskjördæmi	65	-21.83333	A	ADMD	IS		45	3811			0		203	Atlantic/Reykjavik	2020-06-10
+3414474	Miðneshreppur	Midneshreppur		64	-22.66667	A	ADMD	IS		43				0		30	Atlantic/Reykjavik	1994-01-14
+3414548	Miðdalahreppur	Middalahreppur		64.95	-21.51667	A	ADMD	IS		45				0		496	Atlantic/Reykjavik	1994-01-14
+3414671	Lundarreykjadalshreppur	Lundarreykjadalshreppur	Lundarreykjadalshreppur	64.55	-21.25	A	ADMD	IS		45				0		283	Atlantic/Reykjavik	2013-02-08
+3414810	Leirár- og Melahreppur	Leirar- og Melahreppur	Leirar- og Melahreppur,Leirár- og Melahreppur	64.45	-21.95	A	ADMD	IS		45				0		56	Atlantic/Reykjavik	2013-02-08
+3414837	Laxárdalshreppur	Laxardalshreppur	Laxardalshreppur,Laxárdalshreppur	65.2	-21.5	A	ADMD	IS		45				0		100	Atlantic/Reykjavik	2013-02-08
+3414863	Laugardalshreppur	Laugardalshreppur	Laugardalshreppur	64.33333	-20.75	A	ADMD	IS		42				0		514	Atlantic/Reykjavik	2013-02-08
+3414947	Landmannahreppur	Landmannahreppur		64	-20.15	A	ADMD	IS		42				0		93	Atlantic/Reykjavik	1994-01-14
+3415216	Kópavogshreppur	Kopavogshreppur	Kopavogshreppur,Kópavogshreppur	64.1	-21.8	A	ADMD	IS		39				0		73	Atlantic/Reykjavik	2013-02-08
+3415271	Kolbeinsstaðahreppur	Kolbeinsstadahreppur		64.85	-22.2	A	ADMD	IS		45				0		259	Atlantic/Reykjavik	2004-03-11
+3415305	Klofningshreppur	Klofningshreppur	Klofningshreppur	65.21667	-22.4	A	ADMD	IS		45				0		516	Atlantic/Reykjavik	2013-02-08
+3415356	Kjósarsýsla	Kjosarsysla	Kjosarsysla,Kjosarysysla,Kjósarsýsla	64.25	-21.5	A	ADMD	IS		39	1606			0		395	Atlantic/Reykjavik	2020-07-08
+3415387	Kjalarneshreppur	Kjalarneshreppur	Kjalarneshreppur	64.21667	-21.61667	A	ADMD	IS		39				0		232	Atlantic/Reykjavik	2013-02-08
+3415411	Kirkjuhvammshreppur	Kirkjuhvammshreppur	Kirkjuhvammshreppur	65.5	-20.9	A	ADMD	IS		41				0		270	Atlantic/Reykjavik	2013-02-08
+3415420	Kirkjubólshreppur	Kirkjubolshreppur	Kirkjubolshreppur,Kirkjubólshreppur	65.65	-21.55	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	2013-02-08
+3415465	Ketildalahreppur	Ketildalahreppur	Dalahreppur,Ketildalahreppur,Ketildalshreppur	65.7	-23.85	A	ADMD	IS		44				0		469	Atlantic/Reykjavik	2012-01-17
+3415688	Innri-Akraneshreppur	Innri-Akraneshreppur	Innri-Akraneshreppur	64.31667	-22	A	ADMD	IS		45				0		89	Atlantic/Reykjavik	2013-02-08
+3415728	Hvolhreppur	Hvolhreppur		63.75	-20.21667	A	ADMD	IS		42				0		35	Atlantic/Reykjavik	1994-01-14
+3415738	Hvítársíðuhreppur	Hvitarsiduhreppur		64.73333	-21.05	A	ADMD	IS		45				0		287	Atlantic/Reykjavik	2004-03-11
+3415812	Hvammstangahreppur	Hvammstangahreppur	Hvammstangahreppur	65.4	-20.95	A	ADMD	IS		41				0		33	Atlantic/Reykjavik	2013-02-08
+3415816	Hvammshreppur	Hvammshreppur	Hvammshreppur	65.21667	-21.8	A	ADMD	IS		45				0		35	Atlantic/Reykjavik	2013-02-08
+3415942	Hrófbergshreppur	Hrofbergshreppur	Hrofbergshreppur,Hrófbergshreppur	65.78333	-21.73333	A	ADMD	IS		44				0		7	Atlantic/Reykjavik	2013-02-08
+3416010	Hraunhreppur	Hraunhreppur	Hraunhreppur	64.75	-22.03333	A	ADMD	IS		45				0		356	Atlantic/Reykjavik	2013-02-08
+3416013	Hraungerðishreppur	Hraungerdishreppur		63.95	-20.88333	A	ADMD	IS		42				0		26	Atlantic/Reykjavik	2004-03-11
+3416091	Hörðudalshreppur	Hordudalshreppur		65	-21.91667	A	ADMD	IS		45				0		129	Atlantic/Reykjavik	1994-01-14
+3416105	Holtahreppur	Holtahreppur		63.93333	-20.41667	A	ADMD	IS		42				0		118	Atlantic/Reykjavik	1994-01-14
+3416119	Hólshreppur	Holshreppur	Holshreppur,Hólshreppur	66.16667	-23.35	A	ADMD	IS		44				0		241	Atlantic/Reykjavik	2013-02-08
+3416143	Hólmavíkurhreppur	Holmavikurhreppur	Holmavikurhreppur,Hólmavíkurhreppur	65.7	-21.7	A	ADMD	IS		44				0		1	Atlantic/Reykjavik	2013-02-08
+3416249	Höfðahreppur	Hofdahreppur		65.83333	-20.33333	A	ADMD	IS		41				0		1	Atlantic/Reykjavik	2004-03-11
+3416530	Haukadalshreppur	Haukadalshreppur	Haukadalshreppur	65.05	-21.5	A	ADMD	IS		45				0		313	Atlantic/Reykjavik	2013-02-08
+3416609	Hálsahreppur	Halsahreppur	Halsahreppur,Hálsahreppur	64.66667	-21.06667	A	ADMD	IS		45				0		120	Atlantic/Reykjavik	2013-02-08
+3416718	Hafnahreppur	Hafnahreppur	Hafnahreppur	63.9	-22.61667	A	ADMD	IS		43				0		60	Atlantic/Reykjavik	2013-02-08
+3416805	Gullbringusýsla	Gullbringusysla	Gullbringusysla,Gullbringusýsla	63.91667	-22.25	A	ADMD	IS		43				0		236	Atlantic/Reykjavik	2012-02-01
+3416815	Gufudalshreppur	Gufudalshreppur	Gufudalshreppur	65.65	-22.4	A	ADMD	IS		44				0		606	Atlantic/Reykjavik	2013-02-08
+3416826	Grunnavíkurhreppur	Grunnavikurhreppur	Grunnavikurhreppur,Grunnavíkurhreppur	66.28333	-22.5	A	ADMD	IS		44				0		349	Atlantic/Reykjavik	2013-02-08
+3416886	Grindavíkurkaupstaður	Grindavikurkaupstadur	Grindavikurbar,Grindavikurhreppur,Grindavikurkaupstadhur,Grindavíkurbær,Grindavíkurhreppur,Grindavíkurkaupstaður	63.9	-22.3	A	ADMD	IS		43				0		297	Atlantic/Reykjavik	2010-08-09
+3416901	Grímsneshreppur	Grimsneshreppur		64.08333	-20.83333	A	ADMD	IS		42				0		97	Atlantic/Reykjavik	2007-05-30
+3416942	Grafningshreppur	Grafningshreppur		64.11667	-21.2	A	ADMD	IS		42				0		139	Atlantic/Reykjavik	2007-05-30
+3416989	Gnúpverjahreppur	Gnupverjahreppur		64.15	-20.25	A	ADMD	IS		42				0		191	Atlantic/Reykjavik	2007-05-30
+3417081	Gerðahreppur	Gerdahreppur		64.06667	-22.65	A	ADMD	IS		43				0		1	Atlantic/Reykjavik	1994-01-14
+3417145	Geiradalshreppur	Geiradalshreppur	Geiradalshreppur	65.5	-21.8	A	ADMD	IS		44				0		509	Atlantic/Reykjavik	2013-02-08
+3417159	Gaulverjabæjarhreppur	Gaulverjabajarhreppur		63.85	-20.83333	A	ADMD	IS		42				0		13	Atlantic/Reykjavik	2004-03-11
+3417249	Fróðárhreppur	Frodarhreppur		64.88333	-23.5	A	ADMD	IS		45				0		481	Atlantic/Reykjavik	1994-01-14
+3417259	Fremri-Torfustaðahreppur	Fremri-Torfustadahreppur		65.13333	-20.75	A	ADMD	IS		41				0		209	Atlantic/Reykjavik	1994-01-14
+3417364	Flateyrarhreppur	Flateyrarhreppur	Flateyrarhreppur	66.05	-23.61667	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	2013-02-08
+3417366	Flateyjarhreppur	Flateyjarhreppur	Flateyjarhreppur	65.38333	-22.85	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	2013-02-08
+3417432	Fellsstrandarhreppur	Fellsstrandarhreppur	Fellsstrandarhreppur	65.15	-22.2	A	ADMD	IS		45				0		80	Atlantic/Reykjavik	2013-02-08
+3417435	Fellshreppur	Fellshreppur	Fellshreppur	65.55	-21.4	A	ADMD	IS		44				0		169	Atlantic/Reykjavik	2013-02-08
+3417513	Eyrarsveit	Eyrarsveit	Eyrarsveit,Eyrr	64.93333	-23.25	A	ADMD	IS		45				0		-9999	Atlantic/Reykjavik	2015-05-12
+3417515	Eyrarhreppur	Eyrarhreppur	Eyrarhreppur	66.08333	-23.18333	A	ADMD	IS		44				0		638	Atlantic/Reykjavik	2013-02-08
+3417529	Eyrarbakkahreppur	Eyrarbakkahreppur	Eyrarbakkahreppur	63.86667	-21.15	A	ADMD	IS		42				0		5	Atlantic/Reykjavik	2013-02-08
+3417563	Engihlíðarhreppur	Engihlidarhreppur		65.66667	-20.15	A	ADMD	IS		41				0		581	Atlantic/Reykjavik	1994-01-14
+3417769	Djúpárhreppur	Djuparhreppur	Djuparhreppur,Djúpárhreppur	63.75	-20.66667	A	ADMD	IS		42				0		10	Atlantic/Reykjavik	2013-02-08
+3417816	Dalasýsla	Dalasysla	Dalasysla,Dalasýsla	65.25	-22	A	ADMD	IS		45				0		761	Atlantic/Reykjavik	2012-02-01
+3417984	Breiðuvíkurhreppur	Breiduvikurhreppur	Breidavikur Hreppur,Breidhuvikurhreppur,Breiðavíkur Hreppur,Breiðuvíkurhreppur	64.78333	-23.8	A	ADMD	IS		45				0		683	Atlantic/Reykjavik	2011-03-06
+3418074	Borgarneshreppur	Borgarneshreppur	Borgarneshreppur	64.55	-21.9	A	ADMD	IS		45				0		-9999	Atlantic/Reykjavik	2013-02-08
+3418129	Blönduóshreppur	Blonduoshreppur		65.65	-20.3	A	ADMD	IS		41				0		37	Atlantic/Reykjavik	1994-01-14
+3418217	Biskupstungnahreppur	Biskupstungnahreppur		64.28333	-20.35	A	ADMD	IS		42				0		91	Atlantic/Reykjavik	1994-01-14
+3418306	Barðastrandarhreppur	Bardastrandarhreppur		65.55	-23.3	A	ADMD	IS		44				0		375	Atlantic/Reykjavik	1994-01-14
+3418380	Bæjarhreppur	Bajarhreppur		65.23333	-21.25	A	ADMD	IS		44				0		149	Atlantic/Reykjavik	2004-03-11
+3418412	Austur-Landeyjahreppur	Austur-Landeyjahreppur		63.61667	-20.26667	A	ADMD	IS		42				0		8	Atlantic/Reykjavik	1994-01-14
+3418444	Auðkúluhreppur	Audkuluhreppur		65.75	-23.5	A	ADMD	IS		44				0		-9999	Atlantic/Reykjavik	1994-01-14
+3418463	Áshreppur	Ashreppur		65.4	-20.21667	A	ADMD	IS		41				0		334	Atlantic/Reykjavik	2004-03-11
+3418509	Árnessýsla	Arnessysla	Arnessysla,Árnessýsla	64.25	-20.5	A	ADMD	IS		42				0		89	Atlantic/Reykjavik	2012-02-01
+3418580	Andakílshreppur	Andakilshreppur	Andakilshreppur,Andakílshreppur	64.58333	-21.73333	A	ADMD	IS		45				0		18	Atlantic/Reykjavik	2013-02-08
+3418610	Álftaneshreppur	Alftaneshreppur	Alftaneshreppur,Álftaneshreppur	64.65	-22	A	ADMD	IS		45				0		49	Atlantic/Reykjavik	2013-02-08
+3426186	Húnavatnssýsla	Hunavatnssysla	Hunavatnssysla,Húnavatnssýsla	65.33333	-20.5	A	ADMD	IS		41				0		584	Atlantic/Reykjavik	2013-02-09
+3426189	Ísafjarðarsýsla	Isafjardarsysla		66	-22.75	A	ADMD	IS		44				0		264	Atlantic/Reykjavik	2004-03-11
+3426190	Barðastrandarsýsla	Bardastrandarsysla		65.58333	-23	A	ADMD	IS		44				0		239	Atlantic/Reykjavik	2004-03-11
+3426191	Mýra- og Borgarfjarðarsýsla	Myra- og Borgarfjardarsysla		64.58333	-21.25	A	ADMD	IS		45				0		253	Atlantic/Reykjavik	2004-03-11
+3426205	Borgarfjarðarsveit	Borgarfjardarsveit		64.58333	-21.25	A	ADMD	IS		45				0		253	Atlantic/Reykjavik	2004-03-11
+3426208	Hvalfjarðarstrandarhreppur	Hvalfjardarstrandarhreppur		64.41667	-21.58333	A	ADMD	IS		45				0		239	Atlantic/Reykjavik	2004-03-11
+3426214	Broddaneshreppur	Broddaneshreppur	Broddaneshreppur	65.5	-21.45	A	ADMD	IS		44				0		245	Atlantic/Reykjavik	2013-02-09

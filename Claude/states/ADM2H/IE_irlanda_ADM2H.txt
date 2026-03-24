@@ -1,0 +1,7 @@
+﻿2960991	Waterford	Waterford	Contae Phort Lairge,Contae Phort Láirge,County Waterford,Port Lairge,Port Láirge,Waterford	52.25	-7.5	A	ADM2H	IE		M	27			67063		189	Europe/Dublin	2017-07-24
+2961189	South Tipperary	South Tipperary	South Riding,Tipperary County South Riding,Tipperary South Riding	52.41667	-7.83333	A	ADM2H	IE		M	40			88432		105	Europe/Dublin	2015-05-24
+2961190	North Tipperary	North Tipperary	North Riding,Tipperary County North Riding,Tipperary North Ridin	52.75	-7.83333	A	ADM2H	IE		M	38			70322		108	Europe/Dublin	2015-05-24
+2962941	County Limerick	County Limerick	Contae Luimnigh,Limerick,Luimneach	52.5	-8.75	A	ADM2H	IE		M	16			134703		29	Europe/Dublin	2017-07-24
+2964573	Baile Átha Cliath	Baile Atha Cliath	Baile Atha Cliath,Baile Átha Cliath,Co Dublin,Contae Bhaile Atha Cliath,Contae Bhaile Átha Cliath,County Dublin,Dublin	53.38046	-6.27113	A	ADM2H	IE		L	07			1146503		38	Europe/Dublin	2016-03-25
+7778674	Waterford City	Waterford City	Port Lairge,Port Láirge,Vedrafjordr,Veðrafjǫrðr	52.24182	-7.10843	A	ADM2H	IE		M	41			46732		18	Europe/Dublin	2017-07-24
+7778675	Limerick City	Limerick City	Luimneach	52.66806	-8.65024	A	ADM2H	IE		M	37			57106		20	Europe/Dublin	2017-07-24

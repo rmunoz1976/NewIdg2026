@@ -1,0 +1,4 @@
+﻿7284139	Quintana Roo	Quintana Roo		20.86959	-88.63117	A	ADMD	MX		31				0		20	America/Merida	2010-03-27
+12266958	Benito Juárez	Benito Juarez	Benito Juarez,Benito Juárez,Delegacion Benito Juarez,Delegación Benito Juárez,Demarcacion Territorial Benito Juarez,Demarcación Territorial Benito Juárez	19.37952	-99.16108	A	ADMD	MX		09				0		2252	America/Mexico_City	2021-08-11
+12266959	Cuauhtémoc	Cuauhtemoc	Cuauhtemoc,Cuauhtémoc,Delegacion Cuauhtemoc,Delegación Cuauhtémoc,Demarcacion Territorial Cuauhtemoc,Demarcación Territorial Cuauhtémoc	19.43434	-99.14755	A	ADMD	MX		09				0		2240	America/Mexico_City	2021-08-11
+12266960	Gustavo A. Madero	Gustavo A. Madero	Delegacion Gustavo A. Madero,Delegación Gustavo A. Madero,Demarcacion Territorial Gustavo A. Madero,Demarcación Territorial Gustavo A. Madero,Gustavo A. Madero	19.49574	-99.12672	A	ADMD	MX		09				0		2241	America/Mexico_City	2021-08-11

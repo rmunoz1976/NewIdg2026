@@ -1,0 +1,4 @@
+﻿1668354	Tainan	Tainan	T'ai-nan,T'ai-nan Hsien,Tainan,Tainan Sian,Tainan Xian,T’ai-nan,T’ai-nan Hsien,tai nan xian,臺南縣	23.15027	120.34194	A	ADM2H	TW		04	TNQ			0		16	Asia/Taipei	2024-07-12
+1668392	Taichung	Taichung	T'ai-chung Shih,Tai Chung Municipality,Taichung,Taijhong Shih,Taizhong Shi,T’ai-chung Shih,tai zhong shi,台中市,臺中市	24.15926	120.66145	A	ADM2H	TW		04	TXG			1050000	202	94	Asia/Taipei	2024-07-12
+6724652	Kao-hsiung Hsien	Kao-hsiung Hsien	Gaosyong Sian,Gaoxiong Xian,Kao-hsiung,Kaohsiung,gao xiong xian,高雄縣	23.02166	120.65694	A	ADM2H	TW		04	KHQ			0		343	Asia/Taipei	2014-02-07
+6724653	T’ai-chung Hsien	T'ai-chung Hsien	T'ai-chung,Taichung,Taijhong Sian,Taizhong Xian,T’ai-chung,tai zhong xian,taijung si,臺中縣,타이중 시	24.20916	120.90944	A	ADM2H	TW		04	TXQ			0		788	Asia/Taipei	2024-07-12

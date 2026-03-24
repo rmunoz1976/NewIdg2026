@@ -1,0 +1,5 @@
+﻿5880873	Western District	Western District		-14.31667	-170.76667	A	ADM1	AS		050				32435	377	439	Pacific/Pago_Pago	2013-06-26
+5881199	Swains Island	Swains Island	Island of Swains Island,US Unincorporated Unorganized Territory administered by American Samoa	-11.056	-171.082	A	ADM1	AS		040				37		0	Pacific/Pago_Pago	2011-06-09
+5881219	Eastern District	Eastern District		-14.26667	-170.65	A	ADM1	AS		010				23441	22	63	Pacific/Pago_Pago	2015-04-21
+5881436	Manu'a District	Manu'a District	District of Manu`a,Manu'a	-14.23327	-169.47458	A	ADM1	AS		020				1400	73	804	Pacific/Pago_Pago	2019-07-26
+7309441	Rose Atoll	Rose Atoll	Motu O Manu,Rose Island	-14.54583	-168.15	A	ADM1	AS		030				1		-9999	Pacific/Pago_Pago	2019-07-26

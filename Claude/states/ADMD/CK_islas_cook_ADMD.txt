@@ -1,0 +1,52 @@
+﻿4035452	Vaii	Vaii	Vaii	-21.25947	-159.74383	A	ADMD	CK		00				0		102	Pacific/Rarotonga	2018-06-08
+4035483	Tikioki	Tikioki	Tikioki	-21.26551	-159.74365	A	ADMD	CK		00				0		20	Pacific/Rarotonga	2018-06-08
+4035567	Pouara	Pouara	Pouara,Pu Ara	-21.23239	-159.73527	A	ADMD	CK		00				0		12	Pacific/Rarotonga	2018-06-08
+4035611	Nukupure	Nukupure	Nukupure,Nukupuro	-21.25279	-159.73331	A	ADMD	CK		00				0		31	Pacific/Rarotonga	2018-06-08
+4035671	Maii	Maii	Maii	-21.2642	-159.73814	A	ADMD	CK		00				0		20	Pacific/Rarotonga	2018-06-08
+4035727	Aroko	Aroko	Arako,Aroko	-21.25062	-159.73183	A	ADMD	CK		00				0		24	Pacific/Rarotonga	2018-06-08
+4035733	Aremango	Aremango	Aremango	-21.25751	-159.73722	A	ADMD	CK		00				0		44	Pacific/Rarotonga	2018-06-08
+4035735	Areiti	Areiti	Areiti	-21.25493	-159.73533	A	ADMD	CK		00				0		22	Pacific/Rarotonga	2018-06-08
+4036521	Taravao District	Taravao District	Taravao District,Taravoa	-18.88437	-159.79055	A	ADMD	CK		00				0		32	Pacific/Rarotonga	2018-06-09
+11876784	Puapuautu	Puapuautu	Puapuautu	-21.20825	-159.80242	A	ADMD	CK		00				0		54	Pacific/Rarotonga	2018-06-11
+11876785	Kaikaveka	Kaikaveka	Kaikaveka	-21.21077	-159.79946	A	ADMD	CK		00				0		74	Pacific/Rarotonga	2018-06-11
+11876790	Vaikai	Vaikai	Vaikai	-21.20677	-159.76614	A	ADMD	CK		00				0		18	Pacific/Rarotonga	2018-06-11
+11876791	Tapae I Uta	Tapae I Uta	Tapae I Uta	-21.21458	-159.76053	A	ADMD	CK		00				0		137	Pacific/Rarotonga	2018-06-11
+11876792	Tapae	Tapae	Tapae	-21.20508	-159.7596	A	ADMD	CK		00				0		18	Pacific/Rarotonga	2018-06-11
+11876793	Punataia	Punataia	Punataia	-21.20486	-159.75691	A	ADMD	CK		00				0		13	Pacific/Rarotonga	2018-06-11
+11876794	Kiikii	Kiikii	Kiikii	-21.21238	-159.75413	A	ADMD	CK		00				0		98	Pacific/Rarotonga	2018-06-11
+11876795	Araitetonga	Araitetonga	Araitetonga	-21.21238	-159.75413	A	ADMD	CK		00				0		98	Pacific/Rarotonga	2018-06-11
+11876796	Tupaoa	Tupaoa	Tupaoa	-21.22201	-159.75315	A	ADMD	CK		00				0		55	Pacific/Rarotonga	2018-06-11
+11876797	Vaenga	Vaenga	Vaenga	-21.23114	-159.7405	A	ADMD	CK		00				0		68	Pacific/Rarotonga	2018-06-11
+11876798	Turangi	Turangi	Turangi	-21.23935	-159.74679	A	ADMD	CK		00				0		85	Pacific/Rarotonga	2018-06-11
+11876799	Ngati Au	Ngati Au	Ngati Au	-21.23936	-159.73203	A	ADMD	CK		00				0		12	Pacific/Rarotonga	2018-06-11
+11876800	Ngati Maoate	Ngati Maoate	Ngati Maoate	-21.24053	-159.73138	A	ADMD	CK		00				0		12	Pacific/Rarotonga	2018-06-11
+11876801	Ngati Vaikai	Ngati Vaikai	Ngati Vaikai	-21.24218	-159.72987	A	ADMD	CK		00				0		9	Pacific/Rarotonga	2018-06-11
+11876802	Avana	Avana	Avana	-21.25143	-159.75498	A	ADMD	CK		00				0		73	Pacific/Rarotonga	2018-06-11
+11876804	Akapuao	Akapuao	Akapuao	-21.26718	-159.7498	A	ADMD	CK		00				0		28	Pacific/Rarotonga	2018-06-11
+11876805	Te Puna	Te Puna	Te Puna	-21.26523	-159.7545	A	ADMD	CK		00				0		82	Pacific/Rarotonga	2018-06-11
+11876806	Titikaveka	Titikaveka	Titikaveka	-21.26857	-159.75719	A	ADMD	CK		00				0		18	Pacific/Rarotonga	2018-06-11
+11876807	Kauare	Kauare	Kauare	-21.26692	-159.75947	A	ADMD	CK		00				0		22	Pacific/Rarotonga	2018-06-11
+11876808	Arakuo	Arakuo	Arakuo	-21.26137	-159.76446	A	ADMD	CK		00				0		66	Pacific/Rarotonga	2018-06-11
+11876809	Turoa	Turoa	Turoa	-21.26285	-159.77092	A	ADMD	CK		00				0		24	Pacific/Rarotonga	2018-06-11
+11876810	Totokoitu	Totokoitu	Totokoitu	-21.25483	-159.77303	A	ADMD	CK		00				0		101	Pacific/Rarotonga	2018-06-11
+11876811	Avaavaroa	Avaavaroa	Avaavaroa	-21.25411	-159.78007	A	ADMD	CK		00				0		102	Pacific/Rarotonga	2018-06-11
+11876812	Vaimaanga	Vaimaanga	Vaimaanga	-21.25065	-159.78674	A	ADMD	CK		00				0		99	Pacific/Rarotonga	2018-06-11
+11876813	Rutaki	Rutaki	Rutaki	-21.24809	-159.7993	A	ADMD	CK		00				0		134	Pacific/Rarotonga	2018-06-11
+11876814	Vaiakura	Vaiakura	Vaiakura	-21.23982	-159.81185	A	ADMD	CK		00				0		173	Pacific/Rarotonga	2018-06-11
+11876815	Kavera	Kavera	Kavera	-21.24391	-159.80884	A	ADMD	CK		00				0		143	Pacific/Rarotonga	2018-06-11
+11876816	Aroa	Aroa	Aroa	-21.25133	-159.81357	A	ADMD	CK		00				0		17	Pacific/Rarotonga	2018-06-11
+11876817	Arerenga	Arerenga	Arerenga	-21.22809	-159.82292	A	ADMD	CK		00				0		15	Pacific/Rarotonga	2018-06-11
+11876818	Inave	Inave	Inave	-21.22516	-159.81539	A	ADMD	CK		00				0		136	Pacific/Rarotonga	2018-06-11
+11876819	Tokerau	Tokerau	Tokerau	-21.21966	-159.81785	A	ADMD	CK		00				0		81	Pacific/Rarotonga	2018-06-11
+11876820	Pokoinu I Raro	Pokoinu I Raro	Pokoinu I Raro	-21.21282	-159.82358	A	ADMD	CK		00				0		11	Pacific/Rarotonga	2018-06-11
+11876821	Atupa	Atupa	Atupa	-21.20809	-159.79392	A	ADMD	CK		00				0		27	Pacific/Rarotonga	2018-06-11
+11876822	Avatiu	Avatiu	Avatiu	-21.2245	-159.79609	A	ADMD	CK		00				0		88	Pacific/Rarotonga	2020-11-01
+11876823	Ruatonga	Ruatonga	Ruatonga	-21.21599	-159.78581	A	ADMD	CK		00				0		74	Pacific/Rarotonga	2018-06-11
+11876824	Tauae	Tauae	Tauae	-21.21917	-159.77969	A	ADMD	CK		00				0		141	Pacific/Rarotonga	2018-06-11
+11876825	Takuvaine	Takuvaine	Takuvaine	-21.22667	-159.77204	A	ADMD	CK		00				0		95	Pacific/Rarotonga	2018-06-11
+11876826	Ngatipa	Ngatipa	Ngatipa	-21.2121	-159.7672	A	ADMD	CK		00				0		74	Pacific/Rarotonga	2018-06-11
+11876829	Titama	Titama	Titama	-21.21985	-159.74342	A	ADMD	CK		00				0		28	Pacific/Rarotonga	2018-06-11
+11876830	Tupapa	Tupapa	Tupapa	-21.21876	-159.7357	A	ADMD	CK		00				0		9	Pacific/Rarotonga	2018-06-11
+11876832	Matavera	Matavera	Matavera	-21.2289	-159.74786	A	ADMD	CK		00				0		88	Pacific/Rarotonga	2018-06-11
+11876840	Pokoinu	Pokoinu	Pokoinu	-21.21109	-159.81491	A	ADMD	CK		00				0		29	Pacific/Rarotonga	2018-06-11
+11876841	Akaoa	Akaoa	Akaoa	-21.2347	-159.819	A	ADMD	CK		00				0		97	Pacific/Rarotonga	2018-06-11

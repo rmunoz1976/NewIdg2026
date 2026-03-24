@@ -1,0 +1,5 @@
+﻿729689	Leninski Rayon	Leninski Rayon	East Ward,First Rayon,I-i Rayon,Iztok Ward,Leninski Rajon,Purvi Rayon Leninski,Pŭrvi Rayon Leninski,Stalin,Stalin Rayon,Stalin Ward,Stalinski Rayon,Ленински Район	42.58333	23.45	A	ADM2H	BG		42				0		1046	Europe/Sofia	2012-07-21
+730236	Kolarovski Rayon	Kolarovski Rayon	II-i Rayon,Kolarov,Kolarovski Rajon,Second Rayon,Vtori Rayon Kolarovski,Коларовски Район	42.76667	23.33333	A	ADM2H	BG		42				0		518	Europe/Sofia	2012-07-21
+730352	Kirkovski Rayon	Kirkovski Rayon	Kirkovski rajon,Shesti Rayon Kirkovski,VI-i Rayon,Кирковски район	42.61667	23.26667	A	ADM2H	BG		42				0		1643	Europe/Sofia	2012-07-21
+732260	Dimitrovski Rayon	Dimitrovski Rayon	Dimitrov,Dimitrovski rajon,III-i Rayon,Third Rayon,Treti Rayon Dimitrovski,Димитровски район	42.68333	23.16667	A	ADM2H	BG		42				0		760	Europe/Sofia	2012-07-21
+733187	Blagoevski Rayon	Blagoevski Rayon	Blagoev,Blagoevski rajon,Chetvurti Rayon Blagoevski,Chetvŭrti Rayon Blagoevski,Fourth Rayon,IV-i Rayon,Благоевски район	42.58333	23.33333	A	ADM2H	BG		42				0		1291	Europe/Sofia	2012-07-21

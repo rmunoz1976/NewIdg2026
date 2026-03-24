@@ -1,0 +1,2 @@
+﻿7030346	Modisi	Modisi	Modisi	0.4507	124.4356	A	ADM3H	ID		31				0	130	47	Asia/Makassar	2022-09-06
+11594681	Kecamatan Tebet	Kecamatan Tebet		-6.2316	106.84605	A	ADM3H	ID		04	3171			0		17	Asia/Jakarta	2017-07-05

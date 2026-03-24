@@ -1,0 +1,172 @@
+﻿2178960	Woodville County	Woodville County	Woodville	-40.33333	176	A	ADM1H	NZ		00				0		113	Pacific/Auckland	2012-07-21
+2179008	Winton	Winton		-46.15	168.31667	A	ADM1H	NZ		00				0		49	Pacific/Auckland	2012-07-21
+2179284	Whangaroa County	Whangaroa County	Whangaroa	-35.08333	173.75	A	ADM1H	NZ		00				0		29	Pacific/Auckland	2012-07-21
+2179289	Whangarei County	Whangarei County	Whangarei	-35.66667	174.25	A	ADM1H	NZ		00				0		104	Pacific/Auckland	2012-07-21
+2179450	Westport	Westport	Westport Borough	-41.75	171.6	A	ADM1H	NZ		00				0		4	Pacific/Auckland	2012-07-21
+2179464	Westland County	Westland County	Westland	-43.5	170	A	ADM1H	NZ		00				0		1057	Pacific/Auckland	2012-07-21
+2179582	Waverley	Waverley		-39.76667	174.63333	A	ADM1H	NZ		00				0		85	Pacific/Auckland	2012-07-21
+2179668	Wanganui County	Wanganui County	Wanganui	-39.75	175.25	A	ADM1H	NZ		00				0		387	Pacific/Auckland	2012-07-21
+2179693	Wallace County	Wallace County	Wallace	-45.5	167.83333	A	ADM1H	NZ		00				0		314	Pacific/Auckland	2012-07-21
+2179757	Waiuku	Waiuku		-37.25	174.73333	A	ADM1H	NZ		00				0		9	Pacific/Auckland	2012-07-21
+2179775	Waitotara County	Waitotara County	Waitotara	-39.75	175	A	ADM1H	NZ		00				0		334	Pacific/Auckland	2012-07-21
+2179813	Waitemata	Waitemata		-36.78333	174.61667	A	ADM1H	NZ		00				0		20	Pacific/Auckland	2012-07-21
+2179840	Waitara	Waitara		-39	174.23333	A	ADM1H	NZ		00				0		9	Pacific/Auckland	2012-07-21
+2179860	Waitaki County	Waitaki County	Waitaki	-44.75	170.25	A	ADM1H	NZ		00				0		1293	Pacific/Auckland	2012-07-21
+2179916	Wairoa County	Wairoa County	Wairoa	-38.91667	177.33333	A	ADM1H	NZ		00				0		200	Pacific/Auckland	2012-07-21
+2179926	Wairewa County	Wairewa County	Wairewa	-43.8	172.75	A	ADM1H	NZ		00				0		1	Pacific/Auckland	2012-07-21
+2179950	Wairarapa South County	Wairarapa South County	Wairarapa South	-41.16667	175.66667	A	ADM1H	NZ		00				0		544	Pacific/Auckland	2012-07-21
+2179978	Waipukurau District	Waipukurau District	Patangata County,Waipukurau,Waipukurau County	-40.16667	176.66667	A	ADM1H	NZ		00				0		67	Pacific/Auckland	2012-07-21
+2180008	Waipawa District	Waipawa District	Waipawa,Waipawa County	-39.91667	176.41667	A	ADM1H	NZ		00				0		205	Pacific/Auckland	2012-07-21
+2180058	Waipa County	Waipa County	Waipa	-38	175.41667	A	ADM1H	NZ		00				0		60	Pacific/Auckland	2012-07-21
+2180164	Waimea County	Waimea County	Waimea	-41.5	172.75	A	ADM1H	NZ		00				0		346	Pacific/Auckland	2012-07-21
+2180172	Waimate West County	Waimate West County	Waimate West	-39.5	174.08333	A	ADM1H	NZ		00				0		117	Pacific/Auckland	2012-07-21
+2180176	Waimate County	Waimate County	Waimate	-44.58333	170.66667	A	ADM1H	NZ		00				0		418	Pacific/Auckland	2012-07-21
+2180187	Waimarino County	Waimarino County	Waimarino	-39.41667	175.41667	A	ADM1H	NZ		00				0		613	Pacific/Auckland	2012-07-21
+2180202	Waimairi County	Waimairi County	Waimairi	-43.46667	172.63333	A	ADM1H	NZ		00				0		10	Pacific/Auckland	2012-07-21
+2180247	Waikohu County	Waikohu County	Waikohu	-38.41667	177.58333	A	ADM1H	NZ		00				0		418	Pacific/Auckland	2012-07-21
+2180395	Waihi	Waihi		-37.4	175.83333	A	ADM1H	NZ		00				0		105	Pacific/Auckland	2012-07-21
+2180396	Waihemo County	Waihemo County	Waihemo	-45.33333	170.5	A	ADM1H	NZ		00				0		419	Pacific/Auckland	2012-07-21
+2180400	Waiheke County	Waiheke County		-36.75	175	A	ADM1H	NZ		00				0		-9999	Pacific/Auckland	2012-07-21
+2180459	Waiapu County	Waiapu County	Waiapu	-38	178.16667	A	ADM1H	NZ		00				0		470	Pacific/Auckland	2012-07-21
+2180494	Vincent County	Vincent County	Vincent	-44.66667	169.5	A	ADM1H	NZ		00				0		679	Pacific/Auckland	2012-07-21
+2180581	Upper Hutt	Upper Hutt		-41.11667	175.06667	A	ADM1H	NZ		00				0		62	Pacific/Auckland	2012-07-21
+2180822	Tuapeka County	Tuapeka County	Tuapeka	-45.66667	169.5	A	ADM1H	NZ		00				0		437	Pacific/Auckland	2012-07-21
+2180832	Tuakau	Tuakau		-37.25	174.95	A	ADM1H	NZ		00				0		73	Pacific/Auckland	2012-07-21
+2180996	Tokoroa	Tokoroa		-38.21667	175.86667	A	ADM1H	NZ		00				0		335	Pacific/Auckland	2012-07-21
+2181375	Te Puke	Te Puke		-37.7794	176.32919	A	ADM1H	NZ		E8	022			0		16	Pacific/Auckland	2012-07-21
+2181428	Temuka	Temuka		-44.25	171.26667	A	ADM1H	NZ		00				0		19	Pacific/Auckland	2012-07-21
+2181591	Te Awamutu	Te Awamutu		-38	175.31667	A	ADM1H	NZ		00				0		51	Pacific/Auckland	2012-07-21
+2181607	Te Aroha	Te Aroha		-37.53333	175.55	A	ADM1H	NZ		00				0		12	Pacific/Auckland	2012-07-21
+2181690	Tawa	Tawa		-41.16667	174.81667	A	ADM1H	NZ		00				0		109	Pacific/Auckland	2012-07-21
+2181731	Tauranga County	Tauranga County	Tauranga	-37.76542	176.12114	A	ADM1H	NZ		00				0		22	Pacific/Auckland	2012-07-21
+2181741	Taupo County	Taupo County	Taupo	-38.83333	176.33333	A	ADM1H	NZ		00				0		719	Pacific/Auckland	2012-07-21
+2181777	Taumarunui County	Taumarunui County	Taumarunui	-38.83333	175.33333	A	ADM1H	NZ		00				0		225	Pacific/Auckland	2012-07-21
+2181779	Taumarunui	Taumarunui		-38.88333	175.26667	A	ADM1H	NZ		00				0		170	Pacific/Auckland	2012-07-21
+2181869	Taranaki County	Taranaki County	Taranaki	-39.16667	174	A	ADM1H	NZ		00				0		260	Pacific/Auckland	2012-07-21
+2181913	Tapanui	Tapanui		-45.93333	169.26667	A	ADM1H	NZ		00				0		176	Pacific/Auckland	2012-07-21
+2182031	Taihape	Taihape		-39.68333	175.8	A	ADM1H	NZ		00				0		438	Pacific/Auckland	2012-07-21
+2182232	Strathallan County	Strathallan County		-44.16667	171.16667	A	ADM1H	NZ		00				0		119	Pacific/Auckland	2012-07-21
+2182235	Stratford County	Stratford County	Stratford,Whangamomona County	-39.25	174.66667	A	ADM1H	NZ		00				0		334	Pacific/Auckland	2012-07-21
+2182500	Southland County	Southland County	Southland	-46	168.66667	A	ADM1H	NZ		00				0		299	Pacific/Auckland	2012-07-21
+2182716	Silverpeaks County	Silverpeaks County		-45.66667	170.33333	A	ADM1H	NZ		00				0		416	Pacific/Auckland	2012-07-21
+2183089	Runanga	Runanga	Runanga Borough	-42.4	171.25	A	ADM1H	NZ		00				0		20	Pacific/Auckland	2012-07-21
+2183169	Roxburgh	Roxburgh		-45.54063	169.31464	A	ADM1H	NZ		F7				0		101	Pacific/Auckland	2012-07-21
+2183322	Rodney County	Rodney County	Rodney	-36.5	174.5	A	ADM1H	NZ		00				0		32	Pacific/Auckland	2012-07-21
+2183737	Rangiora District	Rangiora District	Rangiora,Rangiora County	-43.33333	172.5	A	ADM1H	NZ		00				0		62	Pacific/Auckland	2012-07-21
+2183853	Raglan County	Raglan County	Raglan	-37.66667	175	A	ADM1H	NZ		00				0		132	Pacific/Auckland	2012-07-21
+2184160	Pukekohe	Pukekohe	Pukekokhe,Пукекохе	-37.2	174.9	A	ADM1H	NZ		00				0		73	Pacific/Auckland	2012-07-21
+2184398	Porirua	Porirua		-41.13333	174.83333	A	ADM1H	NZ		G2				0		23	Pacific/Auckland	2019-03-20
+2184486	Pohangina County	Pohangina County	Pohangina	-40.08333	175.91667	A	ADM1H	NZ		00				0		267	Pacific/Auckland	2012-07-21
+2184642	Piako County	Piako County	Piako	-37.58333	175.58333	A	ADM1H	NZ		00				0		19	Pacific/Auckland	2012-07-21
+2184659	Petone	Petone		-41.23333	174.88333	A	ADM1H	NZ		00				0		111	Pacific/Auckland	2012-07-21
+2184803	Patea County	Patea County	Patea	-39.66667	174.66667	A	ADM1H	NZ		00				0		185	Pacific/Auckland	2012-07-21
+2184805	Patea	Patea		-39.75	174.48333	A	ADM1H	NZ		00				0		34	Pacific/Auckland	2012-07-21
+2184946	Papatoetoe	Papatoetoe		-36.97972	174.85121	A	ADM1H	NZ		00				0		7	Pacific/Auckland	2024-04-16
+2184951	Paparua County	Paparua County	Paparoa,Paparua	-43.58333	172.53333	A	ADM1H	NZ		00				0		17	Pacific/Auckland	2012-07-21
+2184979	Papakura	Papakura	Papakura Borough	-37.06667	174.95	A	ADM1H	NZ		00				0		23	Pacific/Auckland	2012-07-21
+2185019	Palmerston North	Palmerston North		-40.36667	175.61667	A	ADM1H	NZ		00				0		31	Pacific/Auckland	2012-07-21
+2185093	Pahiatua County	Pahiatua County	Pahiatua	-40.5	175.83333	A	ADM1H	NZ		00				0		131	Pacific/Auckland	2012-07-21
+2185122	Paeroa	Paeroa	Paeroa Borough	-37.36667	175.66667	A	ADM1H	NZ		00				0		9	Pacific/Auckland	2012-07-21
+2185147	Oxford County	Oxford County	Oxford	-43.16667	172.08333	A	ADM1H	NZ		00				0		845	Pacific/Auckland	2012-07-21
+2185340	Otamatea County	Otamatea County	Otamatea	-36.16667	174.25	A	ADM1H	NZ		00				0		14	Pacific/Auckland	2012-07-21
+2185362	Otaki	Otaki		-40.76667	175.13333	A	ADM1H	NZ		00				0		10	Pacific/Auckland	2012-07-21
+2185378	Otahuhu	Otahuhu	Otahuhu Borough	-36.95	174.85	A	ADM1H	NZ		00				0		10	Pacific/Auckland	2012-07-21
+2185421	Oroua County	Oroua County	Oroua	-40.19566	175.51414	A	ADM1H	NZ		00				0		96	Pacific/Auckland	2012-11-13
+2185504	Opotiki County	Opotiki County	Opotiki	-38	177.5	A	ADM1H	NZ		00				0		445	Pacific/Auckland	2012-07-21
+2185571	One Tree Hill	One Tree Hill		-36.9	174.78333	A	ADM1H	NZ		00				0		169	Pacific/Auckland	2012-07-21
+2185593	Onehunga	Onehunga	Onehunga,Onehunga Borough,Ōnehunga	-36.91667	174.78333	A	ADM1H	NZ		00				0		45	Pacific/Auckland	2012-07-21
+2185838	Ohinemuri County	Ohinemuri County	Ohinemuri	-37.33333	175.83333	A	ADM1H	NZ		00				0		456	Pacific/Auckland	2012-07-21
+2185875	Ohakune	Ohakune		-39.41667	175.41667	A	ADM1H	NZ		00				0		613	Pacific/Auckland	2012-07-21
+2185919	Oamaru	Oamaru		-45.08333	170.98333	A	ADM1H	NZ		F7	068			0		10	Pacific/Auckland	2019-04-22
+2186003	Northcote	Northcote		-36.81667	174.75	A	ADM1H	NZ		00				0		8	Pacific/Auckland	2012-07-21
+2186168	Ngaruawahia	Ngaruawahia	Ngaruawahia Borough	-37.66667	175.15	A	ADM1H	NZ		00				0		25	Pacific/Auckland	2012-07-21
+2186243	Newmarket	Newmarket		-36.86667	174.78333	A	ADM1H	NZ		00				0		43	Pacific/Auckland	2012-07-21
+2186247	New Lynn	New Lynn	New Lynn Borough	-36.91667	174.66667	A	ADM1H	NZ		00				0		49	Pacific/Auckland	2012-07-21
+2186314	Napier	Napier	Ahuriri,Napier,nei pi er,nepia,ネーピア,內皮爾	-39.5	176.9	A	ADM1H	NZ		00				0		6	Pacific/Auckland	2012-07-21
+2186339	Murupara	Murupara		-38.45	176.7	A	ADM1H	NZ		00				0		189	Pacific/Auckland	2012-07-21
+2186425	Mount Wellington	Mount Wellington	hui ling dun shan,mauntouerinton,mea nth wellingtan,เมานท์ เวลลิงตัน,マウントウェリントン,惠灵顿山	-36.9	174.83333	A	ADM1H	NZ		00				0		37	Pacific/Auckland	2024-01-02
+2186434	Mount Roskill	Mount Roskill		-36.91667	174.73333	A	ADM1H	NZ		00				0		73	Pacific/Auckland	2012-07-21
+2186449	Mount Herbert County	Mount Herbert County	Mount Herbert	-43.66667	172.75	A	ADM1H	NZ		00				0		369	Pacific/Auckland	2012-07-21
+2186469	Mount Albert	Mount Albert		-36.88333	174.71667	A	ADM1H	NZ		00				0		49	Pacific/Auckland	2012-07-21
+2186591	Mosgiel	Mosgiel		-45.86667	170.36667	A	ADM1H	NZ		00				0		23	Pacific/Auckland	2012-07-21
+2187200	Matamata County	Matamata County	Matamata	-38.08333	175.83333	A	ADM1H	NZ		00				0		228	Pacific/Auckland	2012-07-21
+2187201	Matamata	Matamata	Matamata Borough	-37.81667	175.76667	A	ADM1H	NZ		00				0		72	Pacific/Auckland	2012-07-21
+2187237	Masterton County	Masterton County	Masterton	-40.91667	175.83333	A	ADM1H	NZ		00				0		121	Pacific/Auckland	2012-07-21
+2187239	Masterton	Masterton		-41.95	175.65	A	ADM1H	NZ		G2	048			0		-9999	Pacific/Auckland	2012-07-21
+2187269	Martinborough	Martinborough		-41.21667	175.43333	A	ADM1H	NZ		00				0		14	Pacific/Auckland	2012-07-21
+2187303	Marlborough County	Marlborough County	Marlborough	-41.49697	173.49257	A	ADM1H	NZ		00				0		903	Pacific/Auckland	2012-07-21
+2187407	Manukau	Manukau		-35.23333	173.21667	A	ADM1H	NZ		00				0		80	Pacific/Auckland	2012-07-21
+2187431	Maniototo County	Maniototo County	Maniatoto,Maniototo	-45.16667	170	A	ADM1H	NZ		00				0		391	Pacific/Auckland	2012-07-21
+2187444	Mangonui County	Mangonui County	Mangonui	-34.66667	173	A	ADM1H	NZ		00				0		16	Pacific/Auckland	2012-07-21
+2187803	Manawatu County	Manawatu County	Manawatu	-40.33333	175.33333	A	ADM1H	NZ		00				0		29	Pacific/Auckland	2012-07-21
+2187827	Manaia	Manaia		-39.55	174.11667	A	ADM1H	NZ		00				0		71	Pacific/Auckland	2012-07-21
+2187836	Malvern County	Malvern County	Malvern	-43.21667	171.66667	A	ADM1H	NZ		00				0		1310	Pacific/Auckland	2012-07-21
+2188068	Mackenzie County	Mackenzie County	Mackenzie	-44	170.5	A	ADM1H	NZ		00				0		724	Pacific/Auckland	2012-07-21
+2188095	Lyttelton	Lyttelton		-43.6	172.71667	A	ADM1H	NZ		00				0		77	Pacific/Auckland	2012-07-21
+2188165	Lower Hutt	Lower Hutt		-41.21667	174.91667	A	ADM1H	NZ		00				0		9	Pacific/Auckland	2012-07-21
+2188406	Levin	Levin	Levin,Левин	-40.61667	175.26667	A	ADM1H	NZ		00				0		18	Pacific/Auckland	2012-07-21
+2188475	Lawrence	Lawrence		-45.91667	169.7	A	ADM1H	NZ		00				0		166	Pacific/Auckland	2012-07-21
+2188539	Lake County	Lake County	Lake	-44.83281	168.50304	A	ADM1H	NZ		00				0		1430	Pacific/Auckland	2024-05-29
+2188777	Kiwitea County	Kiwitea County	Kiwitea	-39.91667	175.83333	A	ADM1H	NZ		00				0		445	Pacific/Auckland	2012-07-21
+2189084	Kapiti	Kapiti		-40.91667	175	A	ADM1H	NZ		00				0		7	Pacific/Auckland	2012-07-21
+2189204	Kaitangata	Kaitangata		-46.28333	169.85	A	ADM1H	NZ		00				0		16	Pacific/Auckland	2012-07-21
+2189217	Kairanga County	Kairanga County	Kairanga	-40.41667	175.58333	A	ADM1H	NZ		00				0		49	Pacific/Auckland	2012-07-21
+2189269	Kaikoura County	Kaikoura County	Kaikoura	-42.33333	173.5	A	ADM1H	NZ		00				0		594	Pacific/Auckland	2012-07-21
+2189282	Kaikohe	Kaikohe		-35.4	173.8	A	ADM1H	NZ		00				0		191	Pacific/Auckland	2012-07-21
+2189530	Invercargill	Invercargill		-46.41667	168.35	A	ADM1H	NZ		00				0		6	Pacific/Auckland	2012-07-21
+2189534	Inglewood County	Inglewood County	Inglewood	-39.16667	174.25	A	ADM1H	NZ		00				0		179	Pacific/Auckland	2012-07-21
+2189537	Inangahua County	Inangahua County	Inangahua	-42.16667	172	A	ADM1H	NZ		00				0		613	Pacific/Auckland	2012-07-21
+2189589	Hutt County	Hutt County	Hutt	-41.16667	175	A	ADM1H	NZ		00				0		255	Pacific/Auckland	2012-07-21
+2189606	Hurunui County	Hurunui County		-43.08333	172.58333	A	ADM1H	NZ		00				0		236	Pacific/Auckland	2012-07-21
+2189628	Huntly	Huntly		-37.55879	175.1591	A	ADM1H	NZ		00				0		20	Pacific/Auckland	2020-03-16
+2189716	Howick	Howick		-36.9	174.95	A	ADM1H	NZ		00				0		9	Pacific/Auckland	2012-07-21
+2189771	Horowhenua County	Horowhenua County	Horowhenua	-40.75	175.33333	A	ADM1H	NZ		00				0		918	Pacific/Auckland	2012-07-21
+2189871	Hokitika	Hokitika	Hokitika Borough	-42.71667	170.96667	A	ADM1H	NZ		00				0		6	Pacific/Auckland	2012-07-21
+2189876	Hokianga County	Hokianga County	Hokianga	-35.41667	173.5	A	ADM1H	NZ		00				0		4	Pacific/Auckland	2012-07-21
+2189902	Hobson County	Hobson County	Hobson	-36	173.91667	A	ADM1H	NZ		00				0		5	Pacific/Auckland	2012-07-21
+2189979	Hikurangi	Hikurangi		-35.6	174.28333	A	ADM1H	NZ		00				0		100	Pacific/Auckland	2012-07-21
+2190073	Henderson	Henderson	Henderson Borough	-36.88333	174.63333	A	ADM1H	NZ		E7	076			0		17	Pacific/Auckland	2024-07-02
+2190085	Helensville	Helensville	Helensville Borough	-36.66667	174.45	A	ADM1H	NZ		00				0		5	Pacific/Auckland	2012-07-21
+2190112	Heathcote County	Heathcote County	Heathcote	-43.58333	172.66667	A	ADM1H	NZ		00				0		299	Pacific/Auckland	2012-07-21
+2190154	Hawera District	Hawera District	Hawera,Hawera County	-39.58333	174.33333	A	ADM1H	NZ		00				0		86	Pacific/Auckland	2012-07-21
+2190188	Hauraki Plains County	Hauraki Plains County	Hauraki Plains	-37.33333	175.5	A	ADM1H	NZ		00				0		7	Pacific/Auckland	2012-07-21
+2190325	Hamilton	Hamilton		-37.78333	175.28333	A	ADM1H	NZ		00				0		39	Pacific/Auckland	2012-07-21
+2190438	Greymouth	Greymouth	Grejmut,Greymouth Borough,Mawhera,Māwhera,ge lei mao si,geuleimauseu,gureimausu,Греймут,گرےماوتھ,グレイマウス,格雷茅斯,그레이마우스	-42.45	171.2	A	ADM1H	NZ		00				0		6	Pacific/Auckland	2012-07-21
+2190441	Grey County	Grey County	Grey	-42.5	171.66667	A	ADM1H	NZ		00				0		310	Pacific/Auckland	2012-07-21
+2190473	Green Island	Green Island		-45.95306	170.38722	A	ADM1H	NZ		00				0		-9999	Pacific/Auckland	2024-04-01
+2190503	Great Barrier Island County	Great Barrier Island County	Great Barrier	-36.16667	175.41667	A	ADM1H	NZ		00				0		121	Pacific/Auckland	2012-07-21
+2190644	Golden Bay County	Golden Bay County		-40.83333	172.58333	A	ADM1H	NZ		00				0		561	Pacific/Auckland	2012-07-21
+2190728	Glen Eden	Glen Eden		-36.91667	174.65	A	ADM1H	NZ		00				0		40	Pacific/Auckland	2012-07-21
+2190806	Geraldine	Geraldine		-44.1	171.25	A	ADM1H	NZ		00				0		107	Pacific/Auckland	2012-07-21
+2190937	Franklin County	Franklin County	Franklin	-37.16667	175	A	ADM1H	NZ		00				0		129	Pacific/Auckland	2012-07-21
+2190950	Foxton	Foxton		-40.47271	175.28534	A	ADM1H	NZ		00				0		7	Pacific/Auckland	2020-04-07
+2191115	Fiord County	Fiord County	Fiord	-45.5	167	A	ADM1H	NZ		00				0		26	Pacific/Auckland	2012-07-21
+2191173	Featherston County	Featherston County	Featherston	-41.33333	175.41667	A	ADM1H	NZ		00				0		189	Pacific/Auckland	2012-07-21
+2191175	Featherston	Featherston		-41.11667	175.31667	A	ADM1H	NZ		00				0		45	Pacific/Auckland	2012-07-21
+2191242	Eyre County	Eyre County	Eyre	-43.41667	172.41667	A	ADM1H	NZ		00				0		97	Pacific/Auckland	2012-07-21
+2191348	Eltham County	Eltham County	Eltham	-39.45	174.41667	A	ADM1H	NZ		00				0		253	Pacific/Auckland	2012-07-21
+2191372	Ellesmere County	Ellesmere County	Ellesmere	-43.75	172.25	A	ADM1H	NZ		00				0		37	Pacific/Auckland	2012-07-21
+2191379	Ellerslie	Ellerslie		-36.9	174.81667	A	ADM1H	NZ		00				0		35	Pacific/Auckland	2012-07-21
+2191408	Eketahuna County	Eketahuna County	Eketahuna	-40.66667	175.83333	A	ADM1H	NZ		00				0		233	Pacific/Auckland	2012-07-21
+2191422	Egmont County	Egmont County	Egmont	-39.33333	173.91667	A	ADM1H	NZ		00				0		264	Pacific/Auckland	2012-07-21
+2191488	East Coast Bays	East Coast Bays		-36.73333	174.75	A	ADM1H	NZ		00				0		23	Pacific/Auckland	2012-07-21
+2191511	Eastbourne	Eastbourne		-41.29196	174.90651	A	ADM1H	NZ		00				0		182	Pacific/Auckland	2014-10-07
+2191561	Dunedin	Dunedin	Danidin,Danidina,Danidinas,Danīdina,Dun Eidinn,Dunidin,Dùn Eidinn,Edimburgum,Otepoti,da ni din,dan ni ding,daniden,danidini,deonideun,dnydn,dnydyn,dunedin,dunedina,dyunedina,tunetin,Ōtepoti,Данидин,Данідін,Дънидин,Դանիդին,דנידין,دنيدن,دنیدن,ڈنیڈن,डुनेडिन,ड्युनेडिन,ডুনেডিন,துனெடின்,డునెడిన్,ಡುನೆಡಿನ್‌,ഡുനെഡിൻ,ดะนีดิน,დანიდინი,ダニーデン,但尼丁,더니든	-45.88333	170.51667	A	ADM1H	NZ		00				0		-9999	Pacific/Auckland	2012-07-21
+2191775	Devonport	Devonport		-36.83333	174.78333	A	ADM1H	NZ		00				0		5	Pacific/Auckland	2012-07-21
+2191912	Dargaville	Dargaville	Dargaville Borouogh	-35.95	173.86667	A	ADM1H	NZ		00				0		2	Pacific/Auckland	2012-07-21
+2191921	Dannevirke County	Dannevirke County	Dannevirke	-40.38333	176.33333	A	ADM1H	NZ		00				0		377	Pacific/Auckland	2012-07-21
+2191923	Dannevirke	Dannevirke		-40.2	176.1	A	ADM1H	NZ		00				0		227	Pacific/Auckland	2012-07-21
+2192010	Cromwell	Cromwell	Cromwell Borough	-45.05	169.23333	A	ADM1H	NZ		00				0		556	Pacific/Auckland	2012-07-21
+2192134	Cook County	Cook County	Cook	-38.58333	178	A	ADM1H	NZ		00				0		145	Pacific/Auckland	2012-07-21
+2192266	Clutha County	Clutha County	Clutha	-46.33333	169.5	A	ADM1H	NZ		00				0		240	Pacific/Auckland	2012-07-21
+2192287	Clifton County	Clifton County	Clifton	-38.91667	174.58333	A	ADM1H	NZ		00				0		168	Pacific/Auckland	2012-07-21
+2192363	Christchurch	Christchurch		-43.53333	172.66667	A	ADM1H	NZ		00				0		6	Pacific/Auckland	2012-07-21
+2192379	Cheviot County	Cheviot County	Cheviot	-42.75	173.25	A	ADM1H	NZ		00				0		48	Pacific/Auckland	2012-07-21
+2192708	Cambridge	Cambridge		-37.9	175.46667	A	ADM1H	NZ		G1				0		66	Pacific/Auckland	2012-07-21
+2192842	Buller County	Buller County	Buller	-41.5	172.16667	A	ADM1H	NZ		G3				0		565	Pacific/Auckland	2012-07-21
+2192880	Bruce County	Bruce County	Bruce	-46.16667	169.83333	A	ADM1H	NZ		00				0		8	Pacific/Auckland	2012-07-21
+2193190	Birkenhead	Birkenhead		-36.81667	174.71667	A	ADM1H	NZ		00				0		62	Pacific/Auckland	2012-07-21
+2193505	Bay of Islands	Bay of Islands	Bay of Islands	-35.33333	174	A	ADM1H	NZ		F6	2193505			0		104	Pacific/Auckland	2012-07-21
+2193770	Ashburton County	Ashburton County	Ashburton	-43.66667	171.5	A	ADM1H	NZ		00				0		346	Pacific/Auckland	2012-07-21
+2193962	Amuri County	Amuri County	Amuri	-42.5	172.66667	A	ADM1H	NZ		00				0		1206	Pacific/Auckland	2012-07-21
+2194064	Akaroa County	Akaroa County	Akaroa	-43.75073	172.9981	A	ADM1H	NZ		00				0		367	Pacific/Auckland	2014-09-12

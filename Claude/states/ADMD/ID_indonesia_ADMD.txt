@@ -1,0 +1,38 @@
+﻿1213517	Kabupaten Tapanuli Utara	Kabupaten Tapanuli Utara	Daerah Tingkat II Tapanuli Utara,Kabupaten Tapanuli Utara	2.25	98.75	A	ADMD	ID		00				0		1405	Asia/Jakarta	2012-01-17
+1214248	Kabupaten Pasaman	Kabupaten Pasaman	Daerah Tingkat II Pasaman,Kabupaten Pasaman	0.33333	99.75	A	ADMD	ID		00				0		737	Asia/Jakarta	2012-01-17
+1625179	Kabupaten Tanah Datar	Kabupaten Tanah Datar	Daerah Tingkat II Tanah Datar,Kabupaten Tanah Datar	-0.41708	100.442	A	ADMD	ID		24				0		1537	Asia/Jakarta	2012-01-17
+1626098	Kabupaten Sumenep	Kabupaten Sumenep	Daerah Tingkat II Sumenep,Kabupaten Sumenep	-7	114	A	ADMD	ID		00				0		16	Asia/Jakarta	2012-01-17
+1626188	Sumbawa	Sumbawa	Kabupaten Sumbawa	-8.76701	117.97256	A	ADMD	ID		17				0		6	Asia/Makassar	2014-01-05
+1626753	Kabupaten Sleman	Kabupaten Sleman	Daerah Tingkat II Sleman,Kabupaten Sleman	-7.66667	110.58333	A	ADMD	ID		00				0		240	Asia/Jakarta	2012-01-17
+1628470	Kabupaten Sawahlunto Sijunjung	Kabupaten Sawahlunto Sijunjung	Daerah Tingkat II Sawahlunto Sidjundjung,Kabupaten Sawahlunto Sidjundjung,Kabupaten Sawahlunto Sijunjung	-0.66667	101.16667	A	ADMD	ID		00				0		176	Asia/Jakarta	2012-01-17
+1629130	Kotamadya Salatiga	Kotamadya Salatiga	Kotamadya Salatiga,Kotapradja Salatiga	-7.31667	110.5	A	ADMD	ID		00				0		573	Asia/Jakarta	2012-01-17
+1630365	Kabupaten Purbolinggo	Kabupaten Purbolinggo	Daerah Tingkat II Purbolinggo,Kabupaten Purbolinggo,Purbalingga	-7.33333	109.5	A	ADMD	ID		00				0		118	Asia/Jakarta	2012-01-17
+1631765	Kabupaten Pekalongan	Kabupaten Pekalongan	Daerah Tingkat II Pekalongan,Kabupaten Pekalongan	-7	109.66667	A	ADMD	ID		00				0		56	Asia/Jakarta	2012-01-17
+1632168	Kabupaten Pasir	Kabupaten Pasir	Daerah Tingkat II Pasir,Kabupaten Pasir	-1.75	116	A	ADMD	ID		00				0		275	Asia/Makassar	2012-01-17
+1634097	Kabupaten Ngawi	Kabupaten Ngawi	Daerah Tingkat II Ngawi,Kabupaten Ngawi	-7.5	111.66667	A	ADMD	ID		00				0		85	Asia/Jakarta	2012-01-17
+1635236	Kabupaten Minahasa	Kabupaten Minahasa	Daerah Tingkat II Minahasa,Kabupaten Minahasa	1	124.75	A	ADMD	ID		00				0		254	Asia/Makassar	2012-01-17
+1636626	Kabupaten Maluku Tengah	Kabupaten Maluku Tengah	Daerah Tingkat II Maluku Tengah,Kabupaten Maluku Tengah	-3.5	128.5	A	ADMD	ID		00				0		-9999	Asia/Jayapura	2011-09-10
+1636877	Kabupaten Magetan	Kabupaten Magetan	Daerah Tingkat II Magetan,Kabupaten Magetan	-7.66667	111.58333	A	ADMD	ID		00				0		137	Asia/Jakarta	2012-01-17
+1636883	Kabupaten Magelang	Kabupaten Magelang	Daerah Tingkat II Magelang,Kabupaten Magelang	-7.5	110.41667	A	ADMD	ID		00				0		1213	Asia/Jakarta	2012-01-17
+1637002	Kabupaten Luwu	Kabupaten Luwu	Daerah Tingkat II Luwu	-2.5	120.75	A	ADMD	ID		00				0		79	Asia/Makassar	1994-01-29
+1637649	Kabupaten Limboto	Kabupaten Limboto	Daerah Tingkat II Gorontalo,Gorotalo	0.75	122.25	A	ADMD	ID		00				0		451	Asia/Makassar	1994-01-29
+1637692	Kabupaten Limapuluh Kota	Kabupaten Limapuluh Kota	Daerah Tingkat II Limapuluh Kota,Kabupaten Fifty Kota,Kabupaten Limapuluh Kota	0.08333	100.41667	A	ADMD	ID		00				0		1556	Asia/Jakarta	2012-01-17
+1638533	Kabupaten Lampung Selatan	Kabupaten Lampung Selatan	Daerah Tingkat II Lampung Selatan,Kabupaten Lampung Selatan	-5.33333	105.25	A	ADMD	ID		00				0		92	Asia/Jakarta	2010-08-09
+1638774	Kabupaten Lahat	Kabupaten Lahat	Daerah Tingkat II Lahat,Kabupaten Lahat	-3.75	103	A	ADMD	ID		00				0		318	Asia/Jakarta	2012-01-17
+1638991	Kabupaten Kutai	Kabupaten Kutai	Daerah Tingkat II Kutai,Kabupaten Kutai,Kuatsi	0	116.5	A	ADMD	ID		14				0		15	Asia/Makassar	2014-11-13
+1640348	Kabupaten Kendal	Kabupaten Kendal	Daerah Tingkat II Kendal,Kabupaten Kendal	-7	110.16667	A	ADMD	ID		00				0		20	Asia/Jakarta	2012-01-17
+1640705	Kabupaten Kebumen	Kabupaten Kebumen	Daerah Tingkat II Kebumen,Kabupaten Kebumen	-7.66667	109.83333	A	ADMD	ID		00				0		17	Asia/Jakarta	2012-01-17
+1641300	Kabupaten Karangasem	Kabupaten Karangasem	Daerah Tingkat II Karangasem,Kabupaten Karangasem	-8.33333	115.66667	A	ADMD	ID		00				0		-9999	Asia/Makassar	2012-01-17
+1641309	Kabupaten Karanganyar	Kabupaten Karanganyar	Daerah Tingkat II Karanganjar,Kabupaten Karanganjar,Kabupaten Karanganyar	-7.58333	110.33333	A	ADMD	ID		00				0		515	Asia/Jakarta	2012-01-17
+1641718	Kabupaten Kampar	Kabupaten Kampar	Daerah Tingkat II Kampar,Kabupaten Kampar	0.33333	101.5	A	ADMD	ID		00				0		13	Asia/Jakarta	2012-01-17
+1644832	Kabupaten Fakfak	Kabupaten Fakfak	Daerah Tingkat II Fakfak,Kabupaten Fakfak	-4	134.5	A	ADMD	ID		00				0		80	Asia/Jayapura	2012-01-17
+1644931	Kabupaten Ende	Kabupaten Ende	Daerah Tingkat II Ende,Daerah Tingkat II Endeh	-8.5	121.5	A	ADMD	ID		00				0		-9999	Asia/Makassar	1994-01-29
+1646558	Kabupaten Cilacap	Kabupaten Cilacap	Daerah Tingkat II Tjilatjap,Kabupaten Cilacap,Kabupaten Tjilatjap	-7.58333	109.16667	A	ADMD	ID		00				0		14	Asia/Jakarta	2012-01-17
+1647141	Kabupaten Cianjur	Kabupaten Cianjur	Daerah Tingkat II Tjiandjur,Kabupaten Cianjur,Kabupaten Tjiandjur,Tjiadjur	-7.16667	107.08333	A	ADMD	ID		00				0		807	Asia/Jakarta	2011-09-10
+1647774	Kabupaten Bulongan	Kabupaten Bulongan	Daerah Tingkat II Bulongan,Kabupaten Bulongan	0	114.5	A	ADMD	ID		14				0		419	Asia/Pontianak	2012-11-08
+1648265	Kabupaten Bondowoso	Kabupaten Bondowoso	Daerah Tingkat II Bondowoso,Kabupaten Bondowoso	-8	114	A	ADMD	ID		00				0		839	Asia/Jakarta	2012-01-17
+1649168	Kabupaten Bengkalis	Kabupaten Bengkalis	Daerah Tingkat II Bengkalis,Kabupaten Bengkalis	1.5	101.5	A	ADMD	ID		00				0		14	Asia/Pontianak	2012-01-17
+1650327	Kabupaten Banggai	Kabupaten Banggai	Daerah Tingkat II Banggai,Kabupaten Banggai	-1	123	A	ADMD	ID		00				0		-9999	Asia/Makassar	2012-01-17
+8659091	Lombok	Lombok	LOP,Lombok,Pulau Lombok	-8.57287	116.34384	A	ADMD	ID		17				0		417	Asia/Makassar	2014-01-05
+12448817	Bandar Laksamana	Bandar Laksamana	Kecamatan Bandar Laksamana	1.43917	101.71167	A	ADMD	ID		37	1408			0	100	44	Asia/Jakarta	2025-07-24
+13589535	Maluku	Maluku	Maluku	-1.30612	128.99384	A	ADMD	ID		28	8106			0		-9999	Asia/Jayapura	2026-02-26

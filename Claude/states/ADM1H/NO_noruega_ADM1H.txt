@@ -1,0 +1,11 @@
+﻿3132064	Vest-Agder Fylke	Vest-Agder Fylke	Agdir,Agðir,Vest-Agder,Vest-Agder Fylke	58.1513	7.9947	A	ADM1H	NO		19				161276		17	Europe/Oslo	2019-12-14
+3137400	Sør-Trøndelag Fylke	Sor-Trondelag Fylke	Sor-Trondelag,Sor-Trondelag Fylke,Sør-Trøndelag,Sør-Trøndelag Fylke	63.4292	10.3945	A	ADM1H	NO		16				272567		18	Europe/Oslo	2018-05-04
+3137966	Sogn og Fjordane Fylke	Sogn og Fjordane Fylke	Sogn og Fjordane,Sogn og Fjordane Fylke	61.1826	6.8526	A	ADM1H	NO		15				107032		-9999	Europe/Oslo	2019-12-14
+3143487	Oppland fylke	Oppland fylke	Opland,Oppland,Oppland Fylke,Oppland county	61.1163	10.4622	A	ADM1H	NO		11				183851		210	Europe/Oslo	2019-12-14
+3144148	Nord-Trøndelag Fylke	Nord-Trondelag Fylke	Nord-Trondelag,Nord-Trøndelag,Trondelag,Trøndelag	64.28042	12.26667	A	ADM1H	NO		10				128444		260	Europe/Oslo	2019-05-07
+3151864	Hordaland Fylke	Hordaland Fylke	Hordaland,Hordaland Fylke	60.3867	5.3325	A	ADM1H	NO		07				448343		7	Europe/Oslo	2019-12-14
+3153403	Hedmark fylke	Hedmark fylke	Hedmark,Hedmark Fylke,Hedmark county	60.7953	11.0827	A	ADM1H	NO		06				188376		133	Europe/Oslo	2019-12-14
+3162354	Aust-Agder fylke	Aust-Agder fylke	Agdir,Agðir,Aust-Agder,Aust-Agder Fylke,Aust-Agder county	58.4643	8.768	A	ADM1H	NO		02				106842		51	Europe/Oslo	2019-12-14
+12110595	Viken	Viken		60.08051	9.89478	A	ADM1H	NO		30				1252384		227	Europe/Oslo	2024-01-13
+12110597	Troms og Finnmark	Troms og Finnmark		69.72429	23.71225	A	ADM1H	NO		54				242168		579	Europe/Oslo	2024-01-13
+12110599	Vestfold og Telemark	Vestfold og Telemark		59.49381	8.72285	A	ADM1H	NO		38				421882		986	Europe/Oslo	2024-01-13

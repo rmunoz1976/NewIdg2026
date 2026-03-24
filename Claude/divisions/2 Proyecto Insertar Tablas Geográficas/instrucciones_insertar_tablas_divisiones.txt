@@ -1,0 +1,59 @@
+Instrucciones de generación de INSERTs
+Fuentes de consulta (en orden de confiabilidad)
+countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+
+Proceso obligatorio antes de escribir cualquier INSERT
+1. Leer el DDL completo del archivo tablas_divisiones.sql
+2. Para cada tabla y cada campo, leer su COMMENT, ese COMMENT define exactamente
+   qué información debe almacenarse en el campo. No asumir por el nombre del campo.
+3. Identificar el idioma oficial del país, define name_original en todas las tablas
+4. Identificar el tipo de división geográfica de primer nivel del país
+5. Verificar en t070t_divisions si ese tipo ya existe por code ( no duplicar )
+6. Buscar geo_id del país en geonames.org
+7. Para cada subdivisión: geo_id, código ISO, nombre ISO, nombre nativo
+8. Buscar id_currency en t054c_currency_type_registros.txt por código ISO 4217
+9. code_dane / code_dian, solo aplica si hay relación con Colombia; NULL en los demás casos
+
+Regla general: COMMENT del campo = contrato de datos
+Antes de asignar cualquier valor, leer el COMMENT del campo en el DDL. 
+Ejemplos de cómo interpretarlos:
+COMMENT del campo                               Qué debe contener
+'Nombre del tipo geográfico en español'         El tipo (Provincia, Departamento, Estado), NO el nombre del lugar
+'Nombre del tipo geográfico en idioma oficial'  El tipo escrito en el idioma nativo del país (ej: ولایت, Oblast, 省)
+'Nombre del departamento en español'            El nombre del lugar específico en español (ej: Kabul, Cundinamarca)
+'Nombre del departamento en idioma oficial'     El nombre del lugar en escritura nativa (ej: کابل, Москва)
+'Nombre oficial ISO del tipo geográfico'        El término que usa el estándar ISO para ese tipo (ej: Wilāyat, Oblast)
+'Nombre oficial ISO del departamento'           El nombre del lugar tal como aparece en ISO 3166-2, con diacríticos (ej: Kābul)
+
+Tabla t070t_divisions
+Almacena tipos de división geográfica, no lugares. Cada campo describe el tipo, no un lugar específico.
+
+Si el tipo ya existe por code, no insertar. Usar WHERE NOT EXISTS.
+
+Reglas del campo name_transcribed (aplica a todas las tablas)
+- Solo caracteres ASCII: a-z, 0-9, espacios y guiones
+- Sin diacríticos:  ā→a  ī→i  ū→u  ñ→n  é→e  ō→o  ş→s  etc.
+- Mantener números tal cual
+- Todo en minúsculas
+- Escrituras no latinas (árabe, cirílico, chino, japonés, etc.) → transliteración estándar
+
+Ejemplos de algunos países:
+País name_original name_transcribed
+Afganistán کابل kabul
+Afganistán هرات herat
+Afganistán ولایت wilayat
+Arabia Saudita الرياض al riyadh
+Arabia Saudita جدة jeddah
+Rusia Москва moskva
+Rusia Санкт-Петербург sankt-peterburg
+China 北京市朝阳区 beijing shi chaoyang qu
+China 上海市浦东新区 shanghai shi pudong xin qu
+Japón 東京都渋谷区 tokyo-to shibuya-ku
+Japón 東京都港区 tokyo-to minato-ku
+Colombia Cundinamarca cundinamarca
+España País Vasco pais vasco
+Brasil São Paulo sao paulo

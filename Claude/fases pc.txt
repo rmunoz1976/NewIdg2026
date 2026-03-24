@@ -1,0 +1,139 @@
+1. Fases
+
+1.1. Fase Splash Screen (Pantalla de presentación<
+
+Aparece cuando el usuario abre la app.
+Muestra una animación y su duración es de 5 segundos
+Luego pasa a Login Screen
+
+2. Fase: Login Screen
+
+2.1. Fase: Ingreso
+
+Objetivo:
+Permitir que el usuario se autentique en la app de manera segura y acceder al Menú Principal, ofreciendo también opciones de recuperación de contraseña y registro.
+
+Flujo de interacción del usuario
+
+1. Ingreso de correo electrónico
+    El usuario digita su correo en el campo correspondiente.
+    Validación: el formato debe ser correcto (`usuario@dominio.com`).
+
+2. Ingreso de contraseña
+    El usuario digita su contraseña en el campo correspondiente.
+    La contraseña debe cumplir con las siguientes reglas de seguridad:
+      Longitud: mínimo 12 caracteres, máximo 16 caracteres
+      Complejidad:
+        Al menos 1 letra mayúscula
+        Al menos 1 letra minúscula
+        Al menos 1 número
+        No se permiten caracteres especiales
+      Sensible a mayúsculas y minúsculas
+
+3. Acción de autenticación: Sign In
+    El usuario da tap en el botón “Sign In”.
+    La app realiza las validaciones del correo y la contraseña.
+    Si todas las validaciones son correctas, la app navega al screen de Menú Principal.
+    Si alguna validación falla, se muestra un mensaje de error correspondiente (ej. “Correo o contraseña incorrectos”).
+
+4. Opciones adicionales en la pantalla
+    Forgot Password? (parte inferior izquierda): permite iniciar el proceso de recuperación de contraseña.
+    Sign Up (parte inferior derecha): permite registrar una nueva cuenta.
+
+---
+
+Notas de diseño UX/UI
+ Los campos de entrada están centrados en la pantalla para fácil acceso.
+ Los botones de acción están claramente diferenciados:
+   Sign In: acción principal
+   Forgot Password? / Sign Up: acciones secundarias
+ El Login Screen asegura que el usuario solo pueda avanzar al Menú Principal si cumple con los criterios de seguridad de la contraseña.
+ Mantener consistencia visual con el resto de la app: tipografía, colores y espaciado.
+
+
+### 2.2. Fase: “Forgot Password?”
+
+Cuando el usuario da **tap** en **Forgot Password?**, se debe enviar un correo al email que ingresó en el campo correspondiente.
+
+El correo debe incluir una **contraseña temporal generada aleatoriamente**, de **14 caracteres alfanuméricos en mayúsculas**.
+
+**Ejemplo de correo:**
+
+**Asunto:** Restablece tu contraseña INTERMEDIARY de forma segura
+
+**Cuerpo del correo:**
+
+Hola [Nombre del usuario],
+
+Recibimos una solicitud para restablecer tu contraseña.
+Para continuar, utiliza la siguiente contraseña temporal, válida solo durante **15 minutos**:
+
+**`A1B2C3D4E5F6G7`**
+
+Te recomendamos que, después de iniciar sesión, cambies esta contraseña por una que recuerdes fácilmente y que sea segura.
+
+Si no solicitaste este cambio, puedes ignorar este mensaje; tu contraseña actual permanecerá activa.
+
+Gracias por confiar en nosotros,
+El equipo de INTERMEDIARY
+
+---
+
+### Flujo de uso de la contraseña temporal:
+
+1. El usuario recibe el correo con la **contraseña temporal**.
+2. Accede al **login** e ingresa la clave enviada.
+3. Esta contraseña solo sirve para este acceso inicial.
+4. Después del login exitoso, se muestra la pantalla para que el usuario ingrese su **nueva contraseña** (Fase: 2. Ingreso de contraseña).
+5. Finalmente, el usuario accede al **menú principal** de la aplicación.
+
+
+
+### 2.3. Fase: “Sign Up”
+
+Cuando el usuario se registra a través de **Sign Up**, debe ingresar su 
+información básica (nombre, correo electrónico, contraseña, etc.).
+
+Al completar el registro, se envía un **correo de bienvenida** al 
+email proporcionado para **confirmar su cuenta** y verificar su identidad.
+
+**Ejemplo de correo de bienvenida:**
+
+**Asunto:** Bienvenido a INTERMEDIARY
+
+**Cuerpo del correo:**
+
+Hola [Nombre del usuario],
+
+¡Bienvenido a INTERMEDIARY! 
+
+Tu cuenta se ha creado exitosamente. Para completar el proceso de registro, 
+haz clic en el siguiente enlace para **verificar tu correo electrónico**:
+
+**[Verificar mi cuenta]**
+
+Si no solicitaste esta cuenta, puedes ignorar este mensaje y no se realizará ningún cambio en nuestro sistema.
+
+Gracias por unirte a nosotros,
+El equipo de INTERMEDIARY
+
+---
+
+### Flujo de uso tras el registro:
+
+1. El usuario completa el formulario de **Sign Up** en la app.
+2. Se envía automáticamente el **correo de verificación** al email proporcionado.
+3. El usuario hace clic en el enlace de verificación del correo.
+4. Tras la verificación, puede acceder al **login** con su contraseña elegida.
+5. Finalmente, ingresa al **menú principal** de la aplicación y empieza a usarla.
+
+---
+
+Si quieres, puedo hacer también una versión **más detallada incluyendo consejos de seguridad 
+para la contraseña y tips UX**, similar a cómo hicimos la fase de “Forgot Password?”. 
+Esto hace que los usuarios tengan una experiencia más fluida y segura desde el registro.
+
+¿Quieres que haga esa versión avanzada?
+
+
+

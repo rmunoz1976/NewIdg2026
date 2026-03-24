@@ -1,0 +1,682 @@
+﻿1848006	Zaisho-mura	Zaisho-mura	Zaisho-mura	33.7	133.81667	A	ADM4H	JP		00				0		777	Asia/Tokyo	2012-07-21
+1848026	Yutaka-mura	Yutaka-mura	Urugi-mura,Wago-mura,Wagō-mura,Yutaka-mura	35.31667	137.73333	A	ADM4H	JP		00				0		1011	Asia/Tokyo	2012-07-21
+1848030	Yushima-mura	Yushima-mura	Yushima-mura	32.59968	130.34069	A	ADM4H	JP		21				0		18	Asia/Tokyo	2013-09-08
+1848186	Yoshikawa-mura	Yoshikawa-mura	Yoshikawa-mura	34.38333	132.66667	A	ADM4H	JP		00				0		237	Asia/Tokyo	2012-07-21
+1848222	Yosami-mura	Yosami-mura	Yosami-mura	34.96667	137.01667	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1848287	Yomi-son	Yomi-son	Yomi-mura,Yomi-son	35.46667	133.28333	A	ADM4H	JP		00				0		6	Asia/Tokyo	2012-07-21
+1848294	Yokoyama-mura	Yokoyama-mura	Yokoyama-mura	35.63333	139.3	A	ADM4H	JP		00				0		152	Asia/Tokyo	2012-07-21
+1848336	Yokono-mura	Yokono-mura	Yokono-mura	36.51667	139.06667	A	ADM4H	JP		00				0		454	Asia/Tokyo	2012-07-21
+1848413	Yoake-mura	Yoake-mura	Yoake-mura	33.33333	130.86667	A	ADM4H	JP		00				0		250	Asia/Tokyo	2012-07-21
+1848424	Yawata-mura	Yawata-mura	Yawata-mura	37.98333	138.35	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1848425	Yawata-mura	Yawata-mura	Yawata-mura	34.68333	132.16667	A	ADM4H	JP		00				0		816	Asia/Tokyo	2012-07-21
+1848426	Yawata-mura	Yawata-mura	Yahata,Yawata-mura	33.3	131.13333	A	ADM4H	JP		00				0		378	Asia/Tokyo	2012-07-21
+1848460	Yata-mura	Yata-mura		34.6	135.51667	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1848484	Yasuda-mura	Yasuda-mura	Yasuda-mura	34.7	131.86667	A	ADM4H	JP		00				0		23	Asia/Tokyo	2012-07-21
+1848539	Yana-mura	Yana-mura	Yana-mura	34.85	137.5	A	ADM4H	JP		00				0		58	Asia/Tokyo	2012-07-21
+1848542	Yanaka-mura	Yanaka-mura	Yachu-go,Yachū-gō,Yanaka-mura	36.23333	139.7	A	ADM4H	JP		00				0		18	Asia/Tokyo	2012-07-21
+1848555	Yana-gun	Yana-gun	Yana-gun	34.83333	137.5	A	ADM4H	JP		00				0		285	Asia/Tokyo	2012-07-21
+1848559	Yanagihara-mura	Yanagihara-mura		35.08333	138.88333	A	ADM4H	JP		00				0		9	Asia/Tokyo	2012-07-21
+1848576	Yamura-machi	Yamura-machi	Yamura-machi	35.55	138.9	A	ADM4H	JP		00				0		530	Asia/Tokyo	2012-07-21
+1848611	Yamata-mura	Yamata-mura	Yachimata-mura,Yamata-mura	36.16667	139.83333	A	ADM4H	JP		00				0		16	Asia/Tokyo	2012-07-21
+1848628	Yamasato-mura	Yamasato-mura	Sango-mura,Sangō-mura,Yamasato-mura	37.63333	139.71667	A	ADM4H	JP		00				0		315	Asia/Tokyo	2012-07-21
+1848629	Yamasa-mura	Yamasa-mura	Yamasa-mura	35.33333	133.13333	A	ADM4H	JP		00				0		206	Asia/Tokyo	2012-07-21
+1848659	Yamamoto-mura	Yamamoto-mura	Yamamoto-mura	35.46667	137.76667	A	ADM4H	JP		00				0		613	Asia/Tokyo	2012-07-21
+1848680	Yamaguchi-mura	Yamaguchi-mura	Yamaguchi-mura	34.8	135.28333	A	ADM4H	JP		00				0		454	Asia/Tokyo	2012-07-21
+1848708	Yamada-mura	Yamada-mura		39.13333	139.95	A	ADM4H	JP		00				0		459	Asia/Tokyo	2012-07-21
+1848709	Yamada-mura	Yamada-mura	Yamada-mura	35.01667	135.93333	A	ADM4H	JP		00				0		86	Asia/Tokyo	2012-07-21
+1848710	Yamada-mura	Yamada-mura		34.75	135.13333	A	ADM4H	JP		00				0		256	Asia/Tokyo	2012-07-21
+1848711	Yamada-mura	Yamada-mura	Yamada-mura	34.43333	134.83333	A	ADM4H	JP		00				0		146	Asia/Tokyo	2012-07-21
+1848796	Yagyū-mura	Yagyu-mura	Yagyu-mura,Yagyū-mura	34.7	135.96667	A	ADM4H	JP		00				0		352	Asia/Tokyo	2012-07-21
+1848837	Yachiho-mura	Yachiho-mura	Yachiho-mura	37.2	138.28333	A	ADM4H	JP		00				0		6	Asia/Tokyo	2012-07-21
+1848844	Yabunami-mura	Yabunami-mura	Yabunami-mura	36.63333	136.86667	A	ADM4H	JP		00				0		44	Asia/Tokyo	2012-07-21
+1848846	Yabukami-mura	Yabukami-mura	Yabukami-mura	37.15	138.9	A	ADM4H	JP		00				0		276	Asia/Tokyo	2012-07-21
+1848969	Wakagi-mura	Wakagi-mura	Wakagi-mura,Wakaki-mura	33.41667	130	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+1849080	Uta-machi	Uta-machi	Uda-cho,Uda-chō,Uta-machi	34.48333	135.98333	A	ADM4H	JP		00				0		423	Asia/Tokyo	2012-07-21
+1849082	Utagaki-mura	Utagaki-mura	Utagaki-mura	34.98333	135.46667	A	ADM4H	JP		00				0		286	Asia/Tokyo	2012-07-21
+1849093	Usuki-machi	Usuki-machi	Usuki-machi	33.11667	131.8	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1849215	Uragō-machi	Urago-machi		36.08333	132.98333	A	ADM4H	JP		00				0		31	Asia/Tokyo	2012-07-21
+1849255	Unuma-chō	Unuma-cho	Unuma-cho,Unuma-chō	35.41667	136.91667	A	ADM4H	JP		00				0		97	Asia/Tokyo	2014-06-05
+1849302	Umesato-mura	Umesato-mura	Umesato-mura	35.91667	139.88333	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1849336	Ukishima-mura	Ukishima-mura	Ukishima-mura	35.16667	138.78333	A	ADM4H	JP		00				0		209	Asia/Tokyo	2012-07-21
+1849390	Ugashi-mura	Ugashi-mura	Ugashi-mura,Ukashi-mura	34.46667	136	A	ADM4H	JP		00				0		447	Asia/Tokyo	2012-07-21
+1849404	Ueno-mura	Ueno-mura	Ueno-mura	35.26667	138.58333	A	ADM4H	JP		00				0		303	Asia/Tokyo	2012-07-21
+1849428	Ueda-mura	Ueda-mura	Ueda-mura	36.96667	138.9	A	ADM4H	JP		00				0		633	Asia/Tokyo	2012-07-21
+1849450	Uchiyama-mura	Uchiyama-mura	Uchiyama-mura	36.21667	138.56667	A	ADM4H	JP		00				0		830	Asia/Tokyo	2012-07-21
+1849454	Uchiura-mura	Uchiura-mura		35	138.9	A	ADM4H	JP		00				0		192	Asia/Tokyo	2012-07-21
+1849461	Uchitomi-mura	Uchitomi-mura	Uchitomi-mura	35.53333	135.73333	A	ADM4H	JP		00				0		127	Asia/Tokyo	2012-07-21
+1849471	Uchino-mura	Uchino-mura	Uchino-mura	33.53333	130.63333	A	ADM4H	JP		00				0		119	Asia/Tokyo	2012-07-21
+1849487	Uchigō-mura	Uchigo-mura	Uchigo-mura,Uchigō-mura	35.6	139.21667	A	ADM4H	JP		00				0		175	Asia/Tokyo	2012-07-21
+1849492	Uchiage-mura	Uchiage-mura	Uchiage-mura	33.51667	129.88333	A	ADM4H	JP		00				0		71	Asia/Tokyo	2012-07-21
+1849559	Tsurusaki-machi	Tsurusaki-machi		33.23333	131.7	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1849690	Tsukinada-mura	Tsukinada-mura	Tsukinada-mura	32.8	132.73333	A	ADM4H	JP		00				0		116	Asia/Tokyo	2012-07-21
+1849749	Tsuda-mura	Tsuda-mura	Tsuda-mura	34.5	136.51667	A	ADM4H	JP		00				0		35	Asia/Tokyo	2012-07-21
+1849810	Toyota-mura	Toyota-mura	Toyoda-mura,Toyota-mura	34.63333	131.81667	A	ADM4H	JP		00				0		102	Asia/Tokyo	2012-07-21
+1849822	Toyosato-mura	Toyosato-mura		34.8	136.48333	A	ADM4H	JP		00				0		59	Asia/Tokyo	2012-07-21
+1849838	Toyomi-mura	Toyomi-mura	Toyomi-mura	37.75	139.63333	A	ADM4H	JP		00				0		308	Asia/Tokyo	2012-07-21
+1849841	Toyokawa-mura	Toyokawa-mura	Toyokawa-mura	38.03333	139.95	A	ADM4H	JP		00				0		294	Asia/Tokyo	2012-07-21
+1849842	Toyokawa-mura	Toyokawa-mura		34.85	135.51667	A	ADM4H	JP		00				0		105	Asia/Tokyo	2012-07-21
+1849843	Toyokawa-mura	Toyokawa-mura	Toyokawa-mura	34.61667	131.88333	A	ADM4H	JP		00				0		323	Asia/Tokyo	2012-07-21
+1849847	Toyohara-mura	Toyohara-mura	Toyohara-mura	38.05	139.98333	A	ADM4H	JP		00				0		289	Asia/Tokyo	2012-07-21
+1849852	Toyoda-mura	Toyoda-mura	Toyoda-mura,Toyota	35.01667	139.95	A	ADM4H	JP		00				0		22	Asia/Tokyo	2012-07-21
+1849900	Tōtōmi	Totomi	Totomi,Totomi-no-kuni,Tōtōmi,Tōtōmi-no-kuni	35	137.75	A	ADM4H	JP		00				0		646	Asia/Tokyo	2012-07-21
+1849922	Toseshima-mura	Toseshima-mura	Tosejima,Toseshima-mura	37.61667	139.66667	A	ADM4H	JP		00				0		204	Asia/Tokyo	2012-07-21
+1849945	Tosa	Tosa	Tosa,Tosa-no-kuni	33.5	133.25	A	ADM4H	JP		00				0		270	Asia/Tokyo	2012-07-21
+1849963	Torisaka-mura	Torisaka-mura	Torisaka-mura,Tossaka	36.98333	138.25	A	ADM4H	JP		00				0		395	Asia/Tokyo	2012-07-21
+1849974	Torikai-mura	Torikai-mura	Torikai-mura	34.78333	135.58333	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+1850069	Tomiyama-son	Tomiyama-son	Tomiyama-mura,Tomiyama-son	34.75	133.65	A	ADM4H	JP		00				0		388	Asia/Tokyo	2012-07-21
+1850101	Tomikawa-mura	Tomikawa-mura	Tomikawa-mura	35.23333	138.43333	A	ADM4H	JP		00				0		974	Asia/Tokyo	2012-07-21
+1850121	Tomaru-mura	Tomaru-mura		37.03333	138.65	A	ADM4H	JP		00				0		264	Asia/Tokyo	2012-07-21
+1850192	Tokiwa-mura	Tokiwa-mura	Tokiwa-mura	36.88333	138.4	A	ADM4H	JP		00				0		301	Asia/Tokyo	2012-07-21
+1850193	Tokiwa-mura	Tokiwa-mura	Tokiwa-mura	35.05	135.95	A	ADM4H	JP		00				0		87	Asia/Tokyo	2012-07-21
+1850194	Tokiwa-mura	Tokiwa-mura	Tokiwa-mura	34.66667	133.75	A	ADM4H	JP		00				0		16	Asia/Tokyo	2012-07-21
+1850259	Tōgō-mura	Togo-mura	Togo-mura,Tōgō-mura	34.95	135.45	A	ADM4H	JP		00				0		223	Asia/Tokyo	2012-07-21
+1850260	Tōgō-mura	Togo-mura	Togo-mura,Tōgō-mura	34.93333	137.51667	A	ADM4H	JP		00				0		195	Asia/Tokyo	2012-07-21
+1850317	Tobishima-mura	Tobishima-mura	Tobishima-mura	39.18333	139.55	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1850469	Tawara-mura	Tawara-mura	Tahara,Tawara-mura	34.66667	135.96667	A	ADM4H	JP		00				0		384	Asia/Tokyo	2012-07-21
+1850484	Tatsuta-mura	Tatsuta-mura	Tatsuta-mura	34.85	134.6	A	ADM4H	JP		00				0		71	Asia/Tokyo	2012-07-21
+1850490	Tatsuoka-mura	Tatsuoka-mura	Tatsuoka-mura	35.46667	137.83333	A	ADM4H	JP		00				0		428	Asia/Tokyo	2012-07-21
+1850544	Tateishi-machi	Tateishi-machi		33.48333	131.46667	A	ADM4H	JP		00				0		151	Asia/Tokyo	2012-07-21
+1850592	Tarumi-chō	Tarumi-cho	Tarumi-cho,Tarumi-chō,Tarumi-mura	34.63333	135.05	A	ADM4H	JP		13	1859161	28108		0		18	Asia/Tokyo	2018-03-19
+1850629	Tanuma-machi	Tanuma-machi	Tanuma-machi	36.36667	139.58333	A	ADM4H	JP		00				0		66	Asia/Tokyo	2012-07-21
+1850643	Tano-mura	Tano-mura	Tano-mura	33.01667	131.73333	A	ADM4H	JP		00				0		375	Asia/Tokyo	2012-07-21
+1850656	Tannowa-mura	Tannowa-mura	Tannawa,Tannowa-mura	34.3	135.16667	A	ADM4H	JP		00				0		185	Asia/Tokyo	2012-07-21
+1850671	Tanihama-mura	Tanihama-mura	Tanihama-mura	37.15	138.15	A	ADM4H	JP		00				0		83	Asia/Tokyo	2012-07-21
+1850680	Tango	Tango	Tango,Tango-no-kuni	35.5	135.16667	A	ADM4H	JP		00				0		207	Asia/Tokyo	2012-07-21
+1850682	Tanesuhara-mura	Tanesuhara-mura	Tanasuhara-mura,Tanasuwara,Tanesuhara-mura,Tanezuhara	37.35	138.95	A	ADM4H	JP		00				0		459	Asia/Tokyo	2012-07-21
+1850702	Tanagawa-chō	Tanagawa-cho	Tanagawa-cho,Tanagawa-chō	34.28333	135.13333	A	ADM4H	JP		00				0		117	Asia/Tokyo	2012-07-21
+1850719	Tamba	Tamba	Tamba,Tamba-no-kuni,Taniwa-no-kuni	35.25	135.25	A	ADM4H	JP		00				0		137	Asia/Tokyo	2012-07-21
+1850747	Tamamizu-mura	Tamamizu-mura	Tamamizu-mura	32.88333	130.6	A	ADM4H	JP		00				0		50	Asia/Tokyo	2012-07-21
+1850749	Tamamiya Mura	Tamamiya Mura	Tamamiya Mura,Tamamiya-mura,tamamiyamura,tian jian gong cun,たまみやむら,タマミヤムラ,田間宮村	36.06667	139.5	A	ADM4H	JP		00				0		22	Asia/Tokyo	2013-07-06
+1850754	Tamahata-mura	Tamahata-mura	Tamahata-mura	35.63333	138.51667	A	ADM4H	JP		00				0		268	Asia/Tokyo	2012-07-21
+1850775	Takuma-machi	Takuma-machi	Takuma-machi,Takuma-mura	34.3	133.18333	A	ADM4H	JP		00				0		44	Asia/Tokyo	2012-07-21
+1850875	Takeda-mura	Takeda-mura	Takeda-mura	36.15	136.33333	A	ADM4H	JP		00				0		229	Asia/Tokyo	2012-07-21
+1850876	Takeda-mura	Takeda-mura	Takeda-mura,Taketa	35.4	133.85	A	ADM4H	JP		00				0		136	Asia/Tokyo	2012-07-21
+1850877	Takeda-mura	Takeda-mura	Takeda-mura	34.96667	139.93333	A	ADM4H	JP		00				0		80	Asia/Tokyo	2012-07-21
+1850896	Takaya-chō	Takaya-cho	Takaya-cho,Takaya-chō	34.46667	132.78333	A	ADM4H	JP		00				0		259	Asia/Tokyo	2012-07-21
+1850936	Takatera-mura	Takatera-mura	Takadera-mura,Takatera-mura	37.58333	139.76667	A	ADM4H	JP		00				0		166	Asia/Tokyo	2012-07-21
+1850983	Takase-mura	Takase-mura	Takase-mura	36.25	138.43333	A	ADM4H	JP		00				0		636	Asia/Tokyo	2012-07-21
+1851058	Takane-mura	Takane-mura	Takamine-mura,Takane-mura	35.53333	139.3	A	ADM4H	JP		00				0		142	Asia/Tokyo	2012-07-21
+1851112	Takakawara-son	Takakawara-son	Takagawara-mura,Takagawara-son,Takakawahara,Takakawara-son	34.08333	134.45	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1851128	Takaichi-mura	Takaichi-mura	Takaichi-mura	34.45	135.83333	A	ADM4H	JP		00				0		313	Asia/Tokyo	2012-07-21
+1851134	Takahashi-mura	Takahashi-mura	Takahashi-mura	35.41667	135	A	ADM4H	JP		00				0		282	Asia/Tokyo	2012-07-21
+1851143	Takahara-son	Takahara-son	Takahara-mura,Takahara-son	34.08333	134.41667	A	ADM4H	JP		00				0		9	Asia/Tokyo	2012-07-21
+1851160	Takagi-mura	Takagi-mura	Takagi-mura,Takaki-mura	34.6	131.81667	A	ADM4H	JP		00				0		261	Asia/Tokyo	2012-07-21
+1851161	Takagi-mura	Takagi-mura	Takagi-mura	33.85	135.36667	A	ADM4H	JP		00				0		220	Asia/Tokyo	2012-07-21
+1851164	Takada-shi	Takada-shi	Takada-shi,Takata-shi	37.1	138.25	A	ADM4H	JP		00				0		13	Asia/Tokyo	2012-07-21
+1851175	Takaboko-mura	Takaboko-mura	Takaboko-mura	36.13333	136.26667	A	ADM4H	JP		00				0		14	Asia/Tokyo	2012-07-21
+1851197	Tajima	Tajima	Tajima,Tajima-no-kuni	35.41667	134.75	A	ADM4H	JP		00				0		266	Asia/Tokyo	2012-07-21
+1851203	Taishō-mura	Taisho-mura	Taisho-mura,Taishō-mura	34.58333	135.6	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1851239	Tai-mura	Tai-mura	Tai-mura	33.71667	133.56667	A	ADM4H	JP		00				0		509	Asia/Tokyo	2012-07-21
+1851277	Taga-mura	Taga-mura	Taga-mura	34.45	134.85	A	ADM4H	JP		00				0		55	Asia/Tokyo	2012-07-21
+1851424	Sumoto-mura	Sumoto-mura		37.75	139.2	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1851431	Sumiyoshi-mura	Sumiyoshi-mura	Sumiyoshi-mura	37.25	136.96667	A	ADM4H	JP		00				0		86	Asia/Tokyo	2012-07-21
+1851506	Suginosawa-mura	Suginosawa-mura	Suginosawa-mura	36.86667	138.1	A	ADM4H	JP		00				0		1481	Asia/Tokyo	2012-07-21
+1851555	Subashiri-mura	Subashiri-mura		35.35	138.88333	A	ADM4H	JP		00				0		715	Asia/Tokyo	2012-07-21
+1851612	Sōga-mura	Soga-mura	Soga-mura,Sōga-mura	36.06667	137.91667	A	ADM4H	JP		00				0		1130	Asia/Tokyo	2012-07-21
+1851615	Soehi-mura	Soehi-mura	Soehi-mura	36.45	138.3	A	ADM4H	JP		00				0		679	Asia/Tokyo	2012-07-21
+1851662	Shōwa-chō	Showa-cho		34.71667	133.66667	A	ADM4H	JP		00				0		58	Asia/Tokyo	2012-07-21
+1851675	Shōnai-mura	Shonai-mura	Shonai-mura,Shonai-son,Shōnai-mura,Shōnai-son	34.51667	133.88333	A	ADM4H	JP		00				0		61	Asia/Tokyo	2012-07-21
+1851698	Shōge-mura	Shoge-mura		36.63333	136.96667	A	ADM4H	JP		00				0		57	Asia/Tokyo	2012-07-21
+1851719	Shizu-mura	Shizu-mura	Shizu-mura	35	135.98333	A	ADM4H	JP		00				0		119	Asia/Tokyo	2012-07-21
+1851732	Shiwa-mura	Shiwa-mura		33.36667	130.8	A	ADM4H	JP		00				0		54	Asia/Tokyo	2012-07-21
+1851734	Shiwahori-mura	Shiwahori-mura	Shiwabori-mura,Shiwahori-mura	34.51667	132.66667	A	ADM4H	JP		00				0		218	Asia/Tokyo	2012-07-21
+1851742	Shitsumi-gun	Shitsumi-gun		35.5	134.5	A	ADM4H	JP		00				0		691	Asia/Tokyo	2012-07-21
+1851748	Shitatani-mura	Shitatani-mura	Shimotani-mura,Shitatani-mura	37.53333	139.66667	A	ADM4H	JP		00				0		309	Asia/Tokyo	2012-07-21
+1851758	Shitagura-mura	Shitagura-mura	Shimokura,Shitagura-mura,Shitakura-mura	34.7	133.65	A	ADM4H	JP		00				0		277	Asia/Tokyo	2012-07-21
+1851797	Shirouchi-mura	Shirouchi-mura	Shirouchi-mura	33.16667	130.4	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1851824	Shirokane-mura	Shirokane-mura	Shirogane-mura,Shirokane-mura	34.31667	135.75	A	ADM4H	JP		00				0		394	Asia/Tokyo	2012-07-21
+1851901	Shiraki-chō	Shiraki-cho	Shiraki-cho,Shiraki-chō	34.55	132.63333	A	ADM4H	JP		00				0		160	Asia/Tokyo	2014-06-05
+1851929	Shirahama-mura	Shirahama-mura	Shirahama-mura	34.7	138.96667	A	ADM4H	JP		00				0		80	Asia/Tokyo	2012-07-21
+1851942	Shirahagi-mura	Shirahagi-mura	Shirahagi-mura	36.63333	137.5	A	ADM4H	JP		00				0		1152	Asia/Tokyo	2012-07-21
+1851979	Shiose-mura	Shiose-mura	Shiose-mura,Shioze	34.81667	135.31667	A	ADM4H	JP		00				0		96	Asia/Tokyo	2012-07-21
+1852045	Shinshiro-machi	Shinshiro-machi	Shinshiro-cho,Shinshiro-chō,Shinshiro-machi	34.9	137.5	A	ADM4H	JP		00				0		48	Asia/Tokyo	2012-07-21
+1852080	Shinkai-mura	Shinkai-mura	Shinkai-mura	35.9	137.7	A	ADM4H	JP		00				0		1173	Asia/Tokyo	2012-07-21
+1852087	Shinjō-son	Shinjo-son	Shinjo-mura,Shinjo-son,Shinjō-mura,Shinjō-son	34.78333	132.51667	A	ADM4H	JP		00				0		455	Asia/Tokyo	2012-07-21
+1852111	Shingō-mura	Shingo-mura	Shingo-mura,Shingō-mura	37.61667	139.75	A	ADM4H	JP		00				0		270	Asia/Tokyo	2012-07-21
+1852112	Shingō-mura	Shingo-mura		37.61667	138.73333	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1852113	Shingō-mura	Shingo-mura	Shingo-mura,Shingō-mura	36.41667	139.51667	A	ADM4H	JP		00				0		208	Asia/Tokyo	2012-07-21
+1852114	Shingō-mura	Shingo-mura	Shingo-mura,Shingō-mura	36.15	139.71667	A	ADM4H	JP		00				0		21	Asia/Tokyo	2012-07-21
+1852154	Shimoyama-mura	Shimoyama-mura	Shimoyama-mura	35.03333	137.35	A	ADM4H	JP		00				0		511	Asia/Tokyo	2012-07-21
+1852160	Shimo-uchi-mura	Shimo-uchi-mura	Shimo-uchi-mura,Shimo-yuchi-mura,Shimo-yūchi-mura,Shimouchi	35.5	136.91667	A	ADM4H	JP		00				0		63	Asia/Tokyo	2012-07-21
+1852285	Shimo-kawanishi-mura	Shimo-kawanishi-mura	Shimakwanishi,Shimo-kawanishi-mura	37.51667	138.83333	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1852290	Shimo-kawabuchi-mura	Shimo-kawabuchi-mura	Shimo-kawabuchi-mura,Shimo-kawafuchi-mura	36.33333	139.08333	A	ADM4H	JP		00				0		78	Asia/Tokyo	2012-07-21
+1852293	Shimo-kasai-son	Shimo-kasai-son	Shimo-kasai-mura,Shimo-kasai-son	34.35	133.96667	A	ADM4H	JP		00				0		101	Asia/Tokyo	2012-07-21
+1852319	Shimo-hisakata-mura	Shimo-hisakata-mura		35.46667	137.86667	A	ADM4H	JP		00				0		632	Asia/Tokyo	2012-07-21
+1852326	Shimohaguri-mura	Shimohaguri-mura		35.35	136.75	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1852338	Shimofunato-mura	Shimofunato-mura	Shimofunato-mura	37.01667	138.66667	A	ADM4H	JP		00				0		277	Asia/Tokyo	2012-07-21
+1852346	Shimodate-machi	Shimodate-machi	Shimodate-machi	36.3	139.96667	A	ADM4H	JP		00				0		28	Asia/Tokyo	2012-07-21
+1852451	Shimakami-mura	Shimakami-mura	Shimagami-mura,Shimakami-mura	37.63333	138.88333	A	ADM4H	JP		00				0		10	Asia/Tokyo	2012-07-21
+1852490	Shikishima-mura	Shikishima-mura	Shikishima-mura	36.56667	139.08333	A	ADM4H	JP		00				0		587	Asia/Tokyo	2012-07-21
+1852491	Shikishima-mura	Shikishima-mura	Shikishima-mura	34.5	135.86667	A	ADM4H	JP		00				0		181	Asia/Tokyo	2012-07-21
+1852498	Shiki-mura	Shiki-mura	Shiki-mura	34.6	135.61667	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1852545	Shigei-mura	Shigei-mura	Shigei-mura	34.33333	133.15	A	ADM4H	JP		00				0		92	Asia/Tokyo	2012-07-21
+1852547	Shigeharu-mura	Shigeharu-mura	Shigeharu-mura	34.96667	134.96667	A	ADM4H	JP		00				0		55	Asia/Tokyo	2012-07-21
+1852651	Seto-machi	Seto-machi	Seto-machi	34.21667	134.6	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1852697	Senzaki-mura	Senzaki-mura	Sensaku,Senzaki-mura	37.6	139.76667	A	ADM4H	JP		00				0		185	Asia/Tokyo	2012-07-21
+1852764	Sekishi-mura	Sekishi-mura	Sekishi-mura	34.76667	137.75	A	ADM4H	JP		00				0		12	Asia/Tokyo	2012-07-21
+1852779	Sekihara-machi	Sekihara-machi		37.45	138.76667	A	ADM4H	JP		00				0		51	Asia/Tokyo	2012-07-21
+1852832	Saya-mura	Saya-mura	Saya-mura	35.15	136.71667	A	ADM4H	JP		00				0		0	Asia/Tokyo	2012-07-21
+1852844	Sawane-machi	Sawane-machi	Sawane-machi	38.01667	138.26667	A	ADM4H	JP		00				0		82	Asia/Tokyo	2012-07-21
+1852857	Satoura-mura	Satoura-mura	Satoura-mura	34.16667	134.63333	A	ADM4H	JP		00				0		0	Asia/Tokyo	2012-07-21
+1852862	Satō-chō	Sato-cho	Sato-cho,Satō-chō	34.41667	132.45	A	ADM4H	JP		00				0		0	Asia/Tokyo	2014-06-05
+1852988	Sangō-mura	Sango-mura	Sango-mura,Sangō-mura	36.73333	137.3	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1853009	Sanchō-mura	Sancho-mura	Sancho-mura,Sanchō-mura	35.6	138.53333	A	ADM4H	JP		00				0		248	Asia/Tokyo	2012-07-21
+1853010	Sana-mura	Sana-mura	Sana-mura	34.46667	136.53333	A	ADM4H	JP		00				0		135	Asia/Tokyo	2012-07-21
+1853063	Sakurai-mura	Sakurai-mura	Sakurai-mura	35.31667	139.15	A	ADM4H	JP		00				0		35	Asia/Tokyo	2012-07-21
+1853068	Sakuragawa-mura	Sakuragawa-mura	Sakuragawa-mura	35.06667	136.2	A	ADM4H	JP		00				0		129	Asia/Tokyo	2012-07-21
+1853129	Sakaue-son	Sakaue-son	Sakaue-mura,Sakaue-son	34.25	132.13333	A	ADM4H	JP		00				0		200	Asia/Tokyo	2012-07-21
+1853130	Sakaue-mura	Sakaue-mura	Sakaue-mura	36.5	138.75	A	ADM4H	JP		00				0		703	Asia/Tokyo	2012-07-21
+1853137	Sakatani-mura	Sakatani-mura	Sakatani-mura	31.66667	131.25	A	ADM4H	JP		00				0		475	Asia/Tokyo	2012-07-21
+1853172	Sakai-mura	Sakai-mura	Sakae-mura,Sakai-mura	36.83333	138.61667	A	ADM4H	JP		00				0		779	Asia/Tokyo	2012-07-21
+1853177	Sakai-machi	Sakai-machi	Sakai-machi	36.26667	139.26667	A	ADM4H	JP		00				0		43	Asia/Tokyo	2012-07-21
+1853204	Sakae-mura	Sakae-mura	Sakae-mura	35.3	138.48333	A	ADM4H	JP		00				0		686	Asia/Tokyo	2012-07-21
+1853211	Sakaai-mura	Sakaai-mura	Sakaai-mura	34.45	135.8	A	ADM4H	JP		00				0		114	Asia/Tokyo	2012-07-21
+1853245	Saiin-mura	Saiin-mura	Saiin-mura,Sain-mura	35	135.73333	A	ADM4H	JP		00				0		30	Asia/Tokyo	2012-07-21
+1853272	Sagawa-mura	Sagawa-mura	Sagawa-mura	34.73333	135.91667	A	ADM4H	JP		00				0		150	Asia/Tokyo	2012-07-21
+1853298	Sagami	Sagami	Sagami,Sagamino-kuni	35.33333	139.25	A	ADM4H	JP		00				0		127	Asia/Tokyo	2012-07-21
+1853360	Ryūge-machi	Ryuge-machi	Ryuge-machi,Ryūge-machi	34.6	135.6	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1853380	Ryōkai-mura	Ryokai-mura	Ryokai-mura,Ryōkai-mura	33.13333	130.4	A	ADM4H	JP		00				0		-1	Asia/Tokyo	2012-07-21
+1853384	Ryōganose-mura	Ryoganose-mura	Ryoganose-mura,Ryokanose-mura,Ryōganose-mura,Ryōkanose-mura	37.7	139.46667	A	ADM4H	JP		00				0		333	Asia/Tokyo	2012-07-21
+1853396	Rokujōin-chō	Rokujoin-cho	Rokujoin-cho,Rokujoin-machi,Rokujōin-chō,Rokujōin-machi	34.51667	133.58333	A	ADM4H	JP		00				0		59	Asia/Tokyo	2012-07-21
+1853477	Ōyama-mura	Oyama-mura	Oyama-mura,Ōyama-mura	35.1	135.13333	A	ADM4H	JP		00				0		223	Asia/Tokyo	2012-07-21
+1853496	Oyake-mura	Oyake-mura	Oyake-mura	34.85	134.55	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+1853499	Ō-yagyū-mura	O-yagyu-mura	O-yagyu-mura,Ō-yagyū-mura	34.7	135.93333	A	ADM4H	JP		00				0		372	Asia/Tokyo	2012-07-21
+1853553	Ōtsuru-mura	Otsuru-mura	Otsuru-mura,Ōtsuru-mura	33.38333	130.9	A	ADM4H	JP		00				0		170	Asia/Tokyo	2013-10-07
+1853555	Ōtsu-mura	Otsu-mura	Otsu-mura,Ōtsu-mura	37.5	138.76667	A	ADM4H	JP		00				0		156	Asia/Tokyo	2012-07-21
+1853556	Ōtsu-mura	Otsu-mura	Otsu-mura,Ōtsu-mura	33.56667	133.6	A	ADM4H	JP		00				0		5	Asia/Tokyo	2012-07-21
+1853651	Ōta-mura	Ota-mura	Ota-mura,Ōta-mura	34.83333	134.6	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1853670	Otagiri-mura	Otagiri-mura	Odagiri-mura,Otagiri-mura	36.65	138.13333	A	ADM4H	JP		00				0		936	Asia/Tokyo	2012-07-21
+1853695	Ōsumi	Osumi		31.08333	130.41667	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1853702	Osowa-mura	Osowa-mura	Omba,Osoha-mura,Osowa-mura	36.01667	136.5	A	ADM4H	JP		00				0		252	Asia/Tokyo	2012-07-21
+1853731	Ōshima-mura	Oshima-mura	Oshima-mura,Ōshima-mura	35.58333	137.91667	A	ADM4H	JP		00				0		452	Asia/Tokyo	2012-07-21
+1853732	Ōshima-mura	Oshima-mura	Oshima-mura,Ōshima-mura	35.46667	135.61667	A	ADM4H	JP		00				0		6	Asia/Tokyo	2013-10-07
+1853802	Oshika-mura	Oshika-mura	Ojika-mura,Oshika-mura	35.38333	133.93333	A	ADM4H	JP		00				0		275	Asia/Tokyo	2012-07-21
+1853842	Osa-mura	Osa-mura	Osa-mura	36.45	138.33333	A	ADM4H	JP		00				0		809	Asia/Tokyo	2012-07-21
+1853852	Osaki-mura	Osaki-mura	Osaki-mura,Ozaki-mura	34.48333	134.86667	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1853911	Osada-mura	Osada-mura	Osada-mura	34.93333	138.36667	A	ADM4H	JP		00				0		9	Asia/Tokyo	2012-07-21
+1853958	Onyū-mura	Onyu-mura	Onyu-mura,Onyū-mura	35.46667	135.78333	A	ADM4H	JP		00				0		31	Asia/Tokyo	2012-07-21
+1853985	Ono-mura	Ono-mura	Ono-mura	36.03333	137.96667	A	ADM4H	JP		00				0		945	Asia/Tokyo	2012-07-21
+1853986	Ono-mura	Ono-mura	Ono-mura	34.66667	131.76667	A	ADM4H	JP		00				0		48	Asia/Tokyo	2012-07-21
+1853987	Ono-mura	Ono-mura		33.4	130.91667	A	ADM4H	JP		00				0		529	Asia/Tokyo	2012-07-21
+1853988	Onomoto-mura	Onomoto-mura		37.58333	139.66667	A	ADM4H	JP		00				0		187	Asia/Tokyo	2012-07-21
+1853996	Ōno-machi	Ono-machi	Ono-machi,Ono-mura,Ōno-machi,Ōno-mura	35.35	139.35	A	ADM4H	JP		00				0		12	Asia/Tokyo	2012-07-21
+1854059	Ōne-mura	One-mura	Ome-mura,One-mura,Ōme-mura,Ōne-mura	35.36667	139.26667	A	ADM4H	JP		00				0		48	Asia/Tokyo	2012-07-21
+1854094	Ō-mura	O-mura	O-mura,Ō-mura	34.53333	135.78333	A	ADM4H	JP		00				0		50	Asia/Tokyo	2012-07-21
+1854108	Ōmori-chō	Omori-cho	Omori-cho,Ōmori-chō	35.11667	132.45	A	ADM4H	JP		00				0		196	Asia/Tokyo	2014-04-30
+1854113	Ōmo-mura	Omo-mura	Omo-mura,Ōmo-mura	37.56667	138.93333	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1854123	Ōmizo-mura	Omizo-mura		33.23333	130.43333	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1854125	Ōmiya-machi	Omiya-machi	Omiya-cho,Omiya-machi,Ōmiya-chō,Ōmiya-machi	33.66667	133.75	A	ADM4H	JP		00				0		565	Asia/Tokyo	2012-07-21
+1854132	Ōmiwa-chō	Omiwa-cho		34.53333	135.83333	A	ADM4H	JP		00				0		62	Asia/Tokyo	2012-07-21
+1854159	Ōmi	Omi	Omi,Ōmi	35.25	136	A	ADM4H	JP		00				0		81	Asia/Tokyo	2013-10-07
+1854206	Oku-son	Oku-son	Oku-mura,Oku-son	34.66667	134.1	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1854236	Okugawa-mura	Okugawa-mura	Okugawa-mura,Okukawa	37.71667	139.68333	A	ADM4H	JP		00				0		392	Asia/Tokyo	2012-07-21
+1854249	Ōkubo-mura	Okubo-mura	Okubo-mura,Ōkubo-mura	34.86667	135.78333	A	ADM4H	JP		00				0		56	Asia/Tokyo	2012-07-21
+1854335	Okinohata-mura	Okinohata-mura	Okinohata-mura	33.15	130.4	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+1854425	Okagata-mura	Okagata-mura	Okagata-mura,Okakata	37.88333	139.16667	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1854446	Ojiro-mura	Ojiro-mura	Ojiro-mura	35.41667	134.51667	A	ADM4H	JP		00				0		374	Asia/Tokyo	2012-07-21
+1854456	Ōjigawa-mura	Ojigawa-mura	Ojigawa-mura,Ojikawa-mura,Ōjigawa-mura,Ōjikawa-mura	37.46667	138.8	A	ADM4H	JP		00				0		24	Asia/Tokyo	2012-07-21
+1854465	Ōizumi-mura	Oizumi-mura	Oizumi-mura,Ōizumi-mura	38.41667	139.81667	A	ADM4H	JP		00				0		502	Asia/Tokyo	2012-07-21
+1854481	Ōita-machi	Oita-machi	Oita-machi,Ōita-machi	33.24444	131.60564	A	ADM4H	JP		00				0		5	Asia/Tokyo	2013-10-07
+1854506	Ōi-mura	Oi-mura		33.18333	130.43333	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1854515	Oikami-mura	Oikami-mura	Oikami-mura,Okami,Ōkami	35	135.93333	A	ADM4H	JP		00				0		90	Asia/Tokyo	2012-07-21
+1854549	Ōhira-mura	Ohira-mura	Ohira-mura,Ōhira-mura	35.06667	138.9	A	ADM4H	JP		00				0		89	Asia/Tokyo	2012-07-21
+1854575	Ōhama-mura	Ohama-mura	Ohama-mura,Ōhama-mura	34.33333	133.16667	A	ADM4H	JP		00				0		13	Asia/Tokyo	2012-07-21
+1854577	Ōhama-chō	Ohama-cho	Ohama-cho,Ohama-machi,Ōhama-chō,Ōhama-machi	34.86667	136.96667	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1854604	Ogura-mura	Ogura-mura	Ogura-mura	34.9	135.78333	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1854633	Ogōchi-mura	Ogochi-mura	Ogochi-mura,Ogōchi-mura,Okochi,Okōchi	35.78333	139.01667	A	ADM4H	JP		00				0		601	Asia/Tokyo	2012-07-21
+1854675	Ogata-machi	Ogata-machi	Ogata-machi,Ogata-mura	34.23333	132.18333	A	ADM4H	JP		00				0		127	Asia/Tokyo	2012-07-21
+1854705	Ogahara-mura	Ogahara-mura	Ogahara-mura,Ogahara-son	34.71667	132.23333	A	ADM4H	JP		00				0		714	Asia/Tokyo	2012-07-21
+1854862	Oama-mura	Oama-mura	Oama-mura	32.85	130.61667	A	ADM4H	JP		00				0		389	Asia/Tokyo	2012-07-21
+1854904	Numata-chō	Numata-cho	Numata-cho,Numata-chō	34.4	132.45	A	ADM4H	JP		00				0		16	Asia/Tokyo	2014-06-05
+1854924	Nozawa-machi	Nozawa-machi	Nosawa-machi,Nozawa-machi	37.58333	139.65	A	ADM4H	JP		00				0		164	Asia/Tokyo	2012-07-21
+1855060	Nogi-mura	Nogi-mura	Nogi-mura	35.43333	133.05	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1855104	Nitta-mura	Nitta-mura	Nitta-mura	35.53333	134.85	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1855122	Nishiyama-mura	Nishiyama-mura	Nishiyama-mura	35.58333	138.55	A	ADM4H	JP		00				0		255	Asia/Tokyo	2012-07-21
+1855141	Nishiura-mura	Nishiura-mura	Nishiura-mura	34.98333	138.83333	A	ADM4H	JP		00				0		712	Asia/Tokyo	2012-07-21
+1855151	Nishi-tokida-mura	Nishi-tokida-mura	Nishi-tokida-mura	34.46667	136.56667	A	ADM4H	JP		00				0		71	Asia/Tokyo	2012-07-21
+1855165	Nishi-shiwa-mura	Nishi-shiwa-mura	Nishi-shiwa-mura	34.46667	132.63333	A	ADM4H	JP		00				0		235	Asia/Tokyo	2012-07-21
+1855176	Nishi-sakuradani-mura	Nishi-sakuradani-mura	Nishi-sakuradani-mura	35.05	136.23333	A	ADM4H	JP		00				0		159	Asia/Tokyo	2012-07-21
+1855185	Nishio-mura	Nishio-mura	Nishio-mura	36.31667	136.53333	A	ADM4H	JP		00				0		137	Asia/Tokyo	2012-07-21
+1855199	Nishi-nose-mura	Nishi-nose-mura	Nishi-nose-mura	35	135.38333	A	ADM4H	JP		00				0		399	Asia/Tokyo	2012-07-21
+1855219	Nishinakasuji-mura	Nishinakasuji-mura	Nishinakasuji-mura	35.3	135.16667	A	ADM4H	JP		00				0		23	Asia/Tokyo	2012-07-21
+1855270	Nishikawa-mura	Nishikawa-mura		37.56667	139.4	A	ADM4H	JP		00				0		280	Asia/Tokyo	2012-07-21
+1855307	Nishigōri-mura	Nishigori-mura	Nishigori-mura,Nishigōri-mura,Nishikori-mura,Nishikōri-mura	34.65	135.6	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1855464	Nigorikawa-mura	Nigorikawa-mura	Nigorikawa-mura,Nigorisawa	37.93333	139.16667	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1855487	Nezugaseki-mura	Nezugaseki-mura	Nezugaseki-mura,Nezumigaseki-mura	38.55	139.58333	A	ADM4H	JP		00				0		176	Asia/Tokyo	2012-07-21
+1855572	Nasaki-mura	Nasaki-mura		36.18333	139.85	A	ADM4H	JP		00				0		27	Asia/Tokyo	2012-07-21
+1855586	Naruo-mura	Naruo-mura	Naruo-mura	34.71667	135.36667	A	ADM4H	JP		00				0		-2	Asia/Tokyo	2012-07-21
+1855590	Naruka-mura	Naruka-mura	Naruka-mura	36.1	136.31667	A	ADM4H	JP		00				0		41	Asia/Tokyo	2012-07-21
+1855625	Nantō-chō	Nanto-cho	Nanto-cho,Nantō-chō	34.3	136.53333	A	ADM4H	JP		00				0		103	Asia/Tokyo	2013-10-07
+1855642	Nankai-chō	Nankai-cho		34.36667	134.23333	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1855644	Naniai-mura	Naniai-mura	Naniai-mura	35.61667	138.08333	A	ADM4H	JP		00				0		1622	Asia/Tokyo	2012-07-21
+1855650	Nanaura-mura	Nanaura-mura	Nanaura-mura	34.93333	139.93333	A	ADM4H	JP		00				0		162	Asia/Tokyo	2012-07-21
+1855674	Nanafuku-mura	Nanafuku-mura	Nanafuku-mura	35.96667	139.85	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1855743	Nakatsu-mura	Nakatsu-mura	Nakatsu-mura	35.51667	139.33333	A	ADM4H	JP		00				0		103	Asia/Tokyo	2012-07-21
+1855772	Nakasuji-mura	Nakasuji-mura	Nakasuji-mura	35.51667	134.83333	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+1855786	Nakase-mura	Nakase-mura	Nakase-mura	36.23333	139.28333	A	ADM4H	JP		00				0		36	Asia/Tokyo	2012-07-21
+1855792	Nakasato-mura	Nakasato-mura	Nakasato-mura	36.26667	138.46667	A	ADM4H	JP		00				0		690	Asia/Tokyo	2012-07-21
+1855794	Naka-sabaishi-mura	Naka-sabaishi-mura		37.36667	138.55	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1855842	Nakano-mura	Nakano-mura	Nakano-mura	34.75	132.28333	A	ADM4H	JP		00				0		661	Asia/Tokyo	2012-07-21
+1855854	Nakanohō-mura	Nakanoho-mura	Nakanoho-mura,Nakanohō-mura	35.51667	137.31667	A	ADM4H	JP		00				0		581	Asia/Tokyo	2014-06-05
+1855869	Nakanishi-mura	Nakanishi-mura	Nakanishi-mura	34.68333	131.8	A	ADM4H	JP		36				0		31	Asia/Tokyo	2013-04-01
+1855876	Naka-nata-mura	Naka-nata-mura	Naka-nada-mura,Naka-nata-mura,Nakanata	35.43333	135.9	A	ADM4H	JP		00				0		399	Asia/Tokyo	2012-07-21
+1855893	Naka-mura	Naka-mura	Naka-machi,Naka-mura	36.35	139.96667	A	ADM4H	JP		00				0		49	Asia/Tokyo	2012-07-21
+1855901	Nakamata-mura	Nakamata-mura		38.26667	139.58333	A	ADM4H	JP		00				0		61	Asia/Tokyo	2012-07-21
+1855994	Nakafukami-mura	Nakafukami-mura		36.96667	138.68333	A	ADM4H	JP		00				0		621	Asia/Tokyo	2012-07-21
+1856044	Nagura-mura	Nagura-mura	Nagura-mura	35.11667	137.55	A	ADM4H	JP		00				0		646	Asia/Tokyo	2012-07-21
+1856054	Nagoya-mura	Nagoya-mura	Nagoya-mura	33.53333	129.83333	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1856109	Nagataki-mura	Nagataki-mura		34.38333	135.31667	A	ADM4H	JP		00				0		22	Asia/Tokyo	2012-07-21
+1856121	Nagashino-mura	Nagashino-mura		34.93333	137.58333	A	ADM4H	JP		00				0		73	Asia/Tokyo	2012-07-21
+1856279	Nabeta-mura	Nabeta-mura	Nabeta-mura	35.06667	136.76667	A	ADM4H	JP		00				0		-3	Asia/Tokyo	2012-07-21
+1856337	Muya-machi	Muya-machi	Muya-machi	34.16667	134.61667	A	ADM4H	JP		00				0		5	Asia/Tokyo	2012-07-21
+1856349	Mutsuai-mura	Mutsuai-mura	Mutsuai-mura	37.56667	139.68333	A	ADM4H	JP		00				0		367	Asia/Tokyo	2012-07-21
+1856350	Mutsuai-mura	Mutsuai-mura	Mutsuai-mura	35.28333	138.41667	A	ADM4H	JP		00				0		342	Asia/Tokyo	2012-07-21
+1856370	Musashi	Musashi		35.83333	138.83333	A	ADM4H	JP		00				0		1247	Asia/Tokyo	2012-07-21
+1856418	Muraoka-mura	Muraoka-mura	Muraoka-mura	37.63333	139.7	A	ADM4H	JP		00				0		437	Asia/Tokyo	2012-07-21
+1856432	Murakami-mura	Murakami-mura	Murakami-mura	36.43333	138.16667	A	ADM4H	JP		00				0		663	Asia/Tokyo	2012-07-21
+1856440	Munehi-mura	Munehi-mura	Munehi-mura	34.25	135.78333	A	ADM4H	JP		00				0		766	Asia/Tokyo	2012-07-21
+1856452	Muko-mura	Muko-mura		34.71667	135.45	A	ADM4H	JP		00				0		-1	Asia/Tokyo	2012-07-21
+1856511	Motosayama-mura	Motosayama-mura	Motosayama-mura	35.78333	139.36667	A	ADM4H	JP		00				0		157	Asia/Tokyo	2012-07-21
+1856527	Motohara-mura	Motohara-mura	Motobara-mura,Motohara-mura	36.43333	138.35	A	ADM4H	JP		00				0		1096	Asia/Tokyo	2012-07-21
+1856561	Morohashi-mura	Morohashi-mura	Morohashi-mura	37.23333	137.05	A	ADM4H	JP		00				0		34	Asia/Tokyo	2012-07-21
+1856576	Mori-mura	Mori-mura	Mori-mura	33.71667	133.48333	A	ADM4H	JP		00				0		430	Asia/Tokyo	2012-07-21
+1856579	Mori-machi	Mori-machi	Mori-machi	33.3	131.16667	A	ADM4H	JP		00				0		435	Asia/Tokyo	2012-07-21
+1856672	Mizuho-mura	Mizuho-mura		36.91667	138.33333	A	ADM4H	JP		00				0		556	Asia/Tokyo	2012-07-21
+1856677	Mizuhashi-machi	Mizuhashi-machi		36.73333	137.31667	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1856686	Mizobe-mura	Mizobe-mura	Mizobe-mura	33.43333	131	A	ADM4H	JP		00				0		273	Asia/Tokyo	2012-07-21
+1856692	Miyoshi-mura	Miyoshi-mura	Miyoshi-mura	36.4	139.56667	A	ADM4H	JP		00				0		101	Asia/Tokyo	2012-07-21
+1856693	Miyoshi-mura	Miyoshi-mura	Miyoshi-mura,Miyoshi-son	34.95	133.51667	A	ADM4H	JP		00				0		454	Asia/Tokyo	2012-07-21
+1856776	Miyako-mura	Miyako-mura	Miyako-mura	34.56667	135.78333	A	ADM4H	JP		00				0		46	Asia/Tokyo	2012-07-21
+1856830	Miyabo-mura	Miyabo-mura	Miyabo-mura,Miyaho-mura	36.51667	136.53333	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1856838	Miwa-son	Miwa-son	Miwa-mura,Miwa-son	34.28333	132.08333	A	ADM4H	JP		00				0		434	Asia/Tokyo	2012-07-21
+1856841	Miwa-mura	Miwa-mura	Miwa-mura	34.73333	132.36667	A	ADM4H	JP		00				0		692	Asia/Tokyo	2012-07-21
+1856864	Mitsuoka-mura	Mitsuoka-mura	Mitsuoka-mura	36.3	138.45	A	ADM4H	JP		00				0		698	Asia/Tokyo	2012-07-21
+1856993	Misasa-mura	Misasa-mura	Misasa-mura,Misasa-son	35.4	133.9	A	ADM4H	JP		00				0		315	Asia/Tokyo	2012-07-21
+1857029	Miomote-mura	Miomote-mura		38.25	139.73333	A	ADM4H	JP		00				0		485	Asia/Tokyo	2012-07-21
+1857049	Minō-mura	Mino-mura	Mino-mura,Minō-mura	33.33333	130.66667	A	ADM4H	JP		00				0		12	Asia/Tokyo	2012-07-21
+1857056	Minochi-mura	Minochi-mura		37	138.53333	A	ADM4H	JP		00				0		766	Asia/Tokyo	2012-07-21
+1857057	Minochi-mura	Minochi-mura	Minochi-mura	34.73333	133.61667	A	ADM4H	JP		00				0		373	Asia/Tokyo	2012-07-21
+1857064	Mino	Mino	Mino,Minono-kuni	35.5	137	A	ADM4H	JP		00				0		188	Asia/Tokyo	2012-07-21
+1857118	Minami-wauchi-mura	Minami-wauchi-mura	Minami-wauchi-mura	33.98333	136.16667	A	ADM4H	JP		00				0		357	Asia/Tokyo	2012-07-21
+1857149	Minami-ōji-mura	Minami-oji-mura	Minami-oji-mura,Minami-ōji-mura	34.5	135.43333	A	ADM4H	JP		00				0		14	Asia/Tokyo	2012-07-21
+1857150	Minami-ōi-mura	Minami-oi-mura	Minami-oi-mura,Minami-ōi-mura	36.3	138.46667	A	ADM4H	JP		00				0		738	Asia/Tokyo	2012-07-21
+1857151	Minaminotsu-mura	Minaminotsu-mura	Minaminotsu-mura,Minaminozu	33	131.65	A	ADM4H	JP		00				0		136	Asia/Tokyo	2012-07-21
+1857158	Minami-mihara-mura	Minami-mihara-mura	Minami-mihara-mura,Minamihara-mura	35.01667	139.98333	A	ADM4H	JP		00				0		9	Asia/Tokyo	2012-07-21
+1857171	Minami-katsuragi-gun	Minami-katsuragi-gun		34.41667	135.71667	A	ADM4H	JP		00				0		213	Asia/Tokyo	2012-07-21
+1857184	Minami-hadano-machi	Minami-hadano-machi	Minami-hadano-machi,Minami-hatano-machi	35.35	139.21667	A	ADM4H	JP		00				0		117	Asia/Tokyo	2012-07-21
+1857210	Minakata-mura	Minakata-mura	Minakata-mura	35.63333	137.98333	A	ADM4H	JP		00				0		937	Asia/Tokyo	2012-07-21
+1857231	Mimasaka-no-kuni	Mimasaka-no-kuni	Mimasaka,Mimasaka-no-kuni	35.16667	134	A	ADM4H	JP		00				0		665	Asia/Tokyo	2012-07-21
+1857288	Mikawa	Mikawa	Mikawa,Mikawa-no-kuni	35	137.5	A	ADM4H	JP		00				0		411	Asia/Tokyo	2012-07-21
+1857349	Mie-mura	Mie-mura	Mie-mura	35.56667	135.11667	A	ADM4H	JP		00				0		66	Asia/Tokyo	2012-07-21
+1857417	Meiji-mura	Meiji-mura	Meiji-mura	36.45	138.98333	A	ADM4H	JP		00				0		287	Asia/Tokyo	2012-07-21
+1857511	Matsunaga-shi	Matsunaga-shi		34.45	133.26667	A	ADM4H	JP		00				0		0	Asia/Tokyo	2012-07-21
+1857512	Matsunaga-mura	Matsunaga-mura	Matsunaga-mura	35.45	135.81667	A	ADM4H	JP		00				0		132	Asia/Tokyo	2012-07-21
+1857616	Maruyama-higashi-mura	Maruyama-higashi-mura		36.06667	136.21667	A	ADM4H	JP		00				0		13	Asia/Tokyo	2012-07-21
+1857650	Maruoka-chō	Maruoka-cho	Maruoka-cho,Maruoka-chō	36.13333	136.26667	A	ADM4H	JP		00				0		14	Asia/Tokyo	2012-07-21
+1857657	Maru-mura	Maru-mura	Maro,Maru-mura	35.06667	139.96667	A	ADM4H	JP		00				0		128	Asia/Tokyo	2012-07-21
+1857669	Marifu-mura	Marifu-mura	Marifu-mura	33.91667	132.05	A	ADM4H	JP		00				0		-1	Asia/Tokyo	2012-07-21
+1857699	Mamuro Mura	Mamuro Mura	Mamuro Mura,Mamuro-mura,ma shi cun,mamuromura,まむろむら,マムロムラ,馬室村	36.05026	139.51751	A	ADM4H	JP		00				0		26	Asia/Tokyo	2013-07-06
+1857719	Makiyama-mura	Makiyama-mura	Makinoyama,Makiyama-mura	33.68333	135.91667	A	ADM4H	JP		00				0		501	Asia/Tokyo	2012-07-21
+1857727	Makishima-mura	Makishima-mura	Makinoshima-mura,Makishima-mura	34.9	135.8	A	ADM4H	JP		00				0		16	Asia/Tokyo	2012-07-21
+1857863	Machimi-mura	Machimi-mura	Machimi-mura,Machmi-mura	33.46667	133.3	A	ADM4H	JP		00				0		413	Asia/Tokyo	2012-07-21
+1857864	Machikita-mura	Machikita-mura	Machikita-mura	37.51667	139.93333	A	ADM4H	JP		00				0		210	Asia/Tokyo	2012-07-21
+1857886	Mabuchi-mura	Mabuchi-mura	Mabuchi-mura	35.08333	136.11667	A	ADM4H	JP		00				0		101	Asia/Tokyo	2012-07-21
+1857899	Kyūhōji-mura	Kyuhoji-mura	Kyuhoji-mura,Kyūhōji-mura	34.63333	135.58333	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1857912	Kyōshi-mura	Kyoshi-mura	Koshi-mura,Kyoshi-mura,Kyōshi-mura,Kōshi-mura	34.28333	135.15	A	ADM4H	JP		00				0		153	Asia/Tokyo	2012-07-21
+1857946	Kuzumaki-mura	Kuzumaki-mura		37.53333	138.91667	A	ADM4H	JP		00				0		23	Asia/Tokyo	2012-07-21
+1857954	Kuwatori-mura	Kuwatori-mura	Kuwadori-mura,Kuwatori-mura	37.08333	138.13333	A	ADM4H	JP		00				0		193	Asia/Tokyo	2012-07-21
+1857982	Kutsukake-mura	Kutsukake-mura	Kutsukake-mura	35.05	137.01667	A	ADM4H	JP		00				0		12	Asia/Tokyo	2012-07-21
+1858077	Kusai-mura	Kusai-mura	Kusai-mura	35.36667	136.88333	A	ADM4H	JP		00				0		31	Asia/Tokyo	2012-07-21
+1858200	Kuroki-mura	Kuroki-mura	Kuroki-mura	36.1	133.03333	A	ADM4H	JP		00				0		215	Asia/Tokyo	2012-07-21
+1858221	Kuroho-mura	Kuroho-mura	Kuroho-mura	36.6	139.1	A	ADM4H	JP		00				0		685	Asia/Tokyo	2012-07-21
+1858225	Kurohime-mura	Kurohime-mura		37.25	138.56667	A	ADM4H	JP		00				0		195	Asia/Tokyo	2012-07-21
+1858231	Kurohama Mura	Kurohama Mura	Kurohama Mura,Kurohama-mura,hei bang cun,kurohamamura,くろはまむら,クロハマムラ,黒浜村	35.98333	139.68333	A	ADM4H	JP		00				0		8	Asia/Tokyo	2013-07-06
+1858292	Kureha-mura	Kureha-mura	Kureha-mura,wu yu cun,呉羽村	36.7	137.15	A	ADM4H	JP		00				0		17	Asia/Tokyo	2015-09-06
+1858340	Kunō-mura	Kuno-mura	Kuno-mura,Kunō-mura	34.96667	138.48333	A	ADM4H	JP		00				0		12	Asia/Tokyo	2012-07-21
+1858345	Kunitomi-mura	Kunitomi-mura	Kunitomi-mura	35.5	135.78333	A	ADM4H	JP		00				0		119	Asia/Tokyo	2012-07-21
+1858519	Kuchinata-mura	Kuchinata-mura	Kuchi-nada-mura,Kuchinata-mura	35.43333	135.75	A	ADM4H	JP		00				0		491	Asia/Tokyo	2012-07-21
+1858522	Kuchiba-mura	Kuchiba-mura	Kuchiba-mura,Kuchiha-mura	34.86667	132.68333	A	ADM4H	JP		00				0		272	Asia/Tokyo	2012-07-21
+1858555	Kozu-son	Kozu-son	Kotsu-go,Kotsu-gō,Kotsu-son,Kozu-mura,Kozu-son	34.68333	134.01667	A	ADM4H	JP		00				0		74	Asia/Tokyo	2012-07-21
+1858567	Kōzuke	Kozuke	Kozuke,Kōzuke	36.5	139	A	ADM4H	JP		00				0		220	Asia/Tokyo	2012-08-05
+1858574	Kōzōji-machi	Kozoji-machi	Kozoji-machi,Kōzōji-machi	35.26667	137.05	A	ADM4H	JP		00				0		97	Asia/Tokyo	2014-06-05
+1858603	Kōyō-chō	Koyo-cho	Koyo-cho,Kōyō-chō	34.46667	132.5	A	ADM4H	JP		00				0		50	Asia/Tokyo	2014-06-05
+1858686	Kotakari-mura	Kotakari-mura	Kodakari-mura,Kotakari-mura	36.23333	137.13333	A	ADM4H	JP		00				0		647	Asia/Tokyo	2012-07-21
+1858765	Kori-mura	Kori-mura	Kori-mura	35.83333	139.13333	A	ADM4H	JP		00				0		565	Asia/Tokyo	2012-07-21
+1858835	Konanchō	Konancho		35	135.86667	A	ADM4H	JP		00				0		131	Asia/Tokyo	2012-07-21
+1858857	Komoro-machi	Komoro-machi	Komoro-machi	36.31667	138.43333	A	ADM4H	JP		00				0		686	Asia/Tokyo	2012-07-21
+1858897	Komayose-mura	Komayose-mura	Komayose-mura	36.43333	139.01667	A	ADM4H	JP		00				0		177	Asia/Tokyo	2012-07-21
+1858924	Komaki-machi	Komaki-machi	Komaki-cho,Komaki-chō,Komaki-machi	35.28333	136.91667	A	ADM4H	JP		00				0		17	Asia/Tokyo	2012-07-21
+1858958	Kokufu-mura	Kokufu-mura		36.4	136.55	A	ADM4H	JP		00				0		105	Asia/Tokyo	2012-07-21
+1859037	Koishiro-mura	Koishiro-mura	Koishiro-mura	34.53333	136.58333	A	ADM4H	JP		00				0		10	Asia/Tokyo	2012-07-21
+1859042	Koike-mura	Koike-mura	Koike-mura	37.63333	138.9	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1859154	Kobuchizawa-mura	Kobuchizawa-mura	Kobuchisawa-mura,Kobuchizawa-mura	35.88333	138.31667	A	ADM4H	JP		00				0		1028	Asia/Tokyo	2012-07-21
+1859191	Koai-mura	Koai-mura		38.11667	139.5	A	ADM4H	JP		00				0		171	Asia/Tokyo	2012-07-21
+1859203	Kizaki-mura	Kizaki-mura		37.91667	139.2	A	ADM4H	JP		00				0		0	Asia/Tokyo	2012-07-21
+1859212	Kiyosato-mura	Kiyosato-mura		35.88333	138.45	A	ADM4H	JP		00				0		1035	Asia/Tokyo	2012-07-21
+1859217	Kiyokawa-mura	Kiyokawa-mura	Kiyokawa-mura	33.85	135.41667	A	ADM4H	JP		00				0		242	Asia/Tokyo	2012-07-21
+1859242	Kitazato-mura	Kitazato-mura	Kitasato,Kitazato-mura	35.26667	138.9	A	ADM4H	JP		00				0		426	Asia/Tokyo	2012-07-21
+1859247	Kita-yamada-mura	Kita-yamada-mura	Kita-yamada-mura	33.28333	131.1	A	ADM4H	JP		00				0		356	Asia/Tokyo	2012-07-21
+1859263	Kitatoshima Gun	Kitatoshima Gun	Kita-toshima-gun,Kitatoshima Gun,bei li dao jun,kitatoshimagun,きたとしまぐん,キタトシマグン,北豊島郡	35.75	139.71667	A	ADM4H	JP		00				0		30	Asia/Tokyo	2013-07-06
+1859277	Kita-sendō-mura	Kita-sendo-mura	Kita-sendo-mura,Kita-sendō-mura	34.68333	131.88333	A	ADM4H	JP		00				0		111	Asia/Tokyo	2012-07-21
+1859394	Kisaki-mura	Kisaki-mura	Kisagi,Kisaki-mura	33.2	130.43333	A	ADM4H	JP		00				0		0	Asia/Tokyo	2012-07-21
+1859546	Kera-mura	Kera-mura	Kera-mura	33.55	133.61667	A	ADM4H	JP		00				0		166	Asia/Tokyo	2012-07-21
+1859596	Kayoi-mura	Kayoi-mura		34.41667	131.25	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1859617	Kawataya Mura	Kawataya Mura	Kawadaya,Kawataya Mura,Kawataya-mura,chuan tian gu cun,kawatayamura,かわたやむら,カワタヤムラ,川田谷村	35.98333	139.51667	A	ADM4H	JP		00				0		13	Asia/Tokyo	2013-07-06
+1859628	Kawashima-mura	Kawashima-mura	Kawashima-mura	35.98333	137.91667	A	ADM4H	JP		00				0		1292	Asia/Tokyo	2012-07-21
+1859696	Kawakita-mura	Kawakita-mura	Kawagita,Kawakita-mura	33.53333	133.93333	A	ADM4H	JP		00				0		181	Asia/Tokyo	2012-07-21
+1859718	Kawahigashi-mura	Kawahigashi-mura	Kawahigashi-mura	34.56667	135.81667	A	ADM4H	JP		00				0		45	Asia/Tokyo	2012-07-21
+1859721	Kawaharada-machi	Kawaharada-machi	Kawaharada-machi	38	138.31667	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1859754	Kawachi	Kawachi	Kawachi,Kawachi Region,Kawachi-no-kuni	34.58333	135.58333	A	ADM4H	JP		00				0		22	Asia/Tokyo	2012-07-21
+1859820	Katayama Mura	Katayama Mura	Katayama Mura,Katayama-mura,katayamamura,pian shan cun,かたやまむら,カタヤマムラ,片山村	35.76667	139.56667	A	ADM4H	JP		00				0		49	Asia/Tokyo	2013-07-06
+1859826	Katata-chō	Katata-cho	Katata-cho,Katata-chō	35.16667	135.85	A	ADM4H	JP		00				0		447	Asia/Tokyo	2013-10-07
+1859845	Kataoka-mura	Kataoka-mura	Kataoka-mura	36.15	137.98333	A	ADM4H	JP		00				0		725	Asia/Tokyo	2012-07-21
+1859850	Katano-mura	Katano-mura	Katano-mura	34.98333	137.33333	A	ADM4H	JP		00				0		331	Asia/Tokyo	2012-07-21
+1859860	Katakaidani-mura	Katakaidani-mura	Katakaidani-mura	36.76667	137.48333	A	ADM4H	JP		00				0		451	Asia/Tokyo	2012-07-21
+1859878	Kasumi-mura	Kasumi-mura	Kasumi-mura	35.78333	139.3	A	ADM4H	JP		00				0		169	Asia/Tokyo	2012-07-21
+1859902	Kaso-mura	Kaso-mura	Kaso-mura	36.58333	139.63333	A	ADM4H	JP		00				0		411	Asia/Tokyo	2012-07-21
+1859991	Kasanui-mura	Kasanui-mura	Kasanui-mura	35.03333	135.93333	A	ADM4H	JP		00				0		89	Asia/Tokyo	2012-07-21
+1860005	Kasahara Mura	Kasahara Mura	Kasahara Mura,Kasahara-mura,kasaharamura,li yuan cun,かさはらむら,カサハラムラ,笠原村	36.06667	139.53333	A	ADM4H	JP		00				0		15	Asia/Tokyo	2013-07-06
+1860042	Karishuku-mura	Karishuku-mura	Karishuku-mura	34.3	135.43333	A	ADM4H	JP		00				0		142	Asia/Tokyo	2012-07-21
+1860123	Kanō Mura	Kano Mura	Kano Mura,Kano-mura,Kanō Mura,Kanō-mura,jia na cun,kanoumura,かのうむら,カノウムラ,加納村	36.01667	139.58333	A	ADM4H	JP		00				0		19	Asia/Tokyo	2013-07-06
+1860208	Kane-mura	Kane-mura	Kane-mura	34.25	135.61667	A	ADM4H	JP		00				0		633	Asia/Tokyo	2012-07-21
+1860238	Kanazu-mura	Kanazu-mura		38.05	139.5	A	ADM4H	JP		00				0		123	Asia/Tokyo	2012-07-21
+1860314	Kamo-mura	Kamo-mura	Kamo-mura	34.73333	138.08333	A	ADM4H	JP		00				0		14	Asia/Tokyo	2012-07-21
+1860338	Kamo-chō	Kamo-cho	Kamo-cho,Kamo-chō	34.63333	133.35	A	ADM4H	JP		00				0		429	Asia/Tokyo	2014-06-05
+1860371	Kami-yoshida-mura	Kami-yoshida-mura	Kami-yoshida-mura	36.08333	138.98333	A	ADM4H	JP		00				0		549	Asia/Tokyo	2012-07-21
+1860422	Kamishina-mura	Kamishina-mura		36.4	138.25	A	ADM4H	JP		00				0		458	Asia/Tokyo	2012-07-21
+1860439	Kamioka-mura	Kamioka-mura	Kamioka-mura	34.88333	134.56667	A	ADM4H	JP		00				0		38	Asia/Tokyo	2012-07-21
+1860465	Kaminogō-mura	Kaminogo-mura	Kaminogo-mura,Kaminogō-mura	34.56667	135.91667	A	ADM4H	JP		00				0		425	Asia/Tokyo	2012-07-21
+1860468	Kaminishi-mura	Kaminishi-mura		34.18333	134.06667	A	ADM4H	JP		00				0		260	Asia/Tokyo	2012-07-21
+1860529	Kami-kitadani-mura	Kami-kitadani-mura		37.5	138.96667	A	ADM4H	JP		00				0		86	Asia/Tokyo	2012-07-21
+1860531	Kami-kawanishi-mura	Kami-kawanishi-mura	Kami-kawanishi-mura,Makikawanishi	37.46667	138.83333	A	ADM4H	JP		00				0		19	Asia/Tokyo	2012-07-21
+1860539	Kami-katagiri-mura	Kami-katagiri-mura	Kami-katagiri-mura	35.6	137.91667	A	ADM4H	JP		00				0		535	Asia/Tokyo	2012-07-21
+1860571	Kamihonami-mura	Kamihonami-mura	Kamihonami-mura	33.56667	130.63333	A	ADM4H	JP		00				0		70	Asia/Tokyo	2012-07-21
+1860589	Kamigō-mura	Kamigo-mura		36.96667	138.6	A	ADM4H	JP		00				0		477	Asia/Tokyo	2012-07-21
+1860605	Kamibata-son	Kamibata-son	Kamibata-mura,Kamibata-son,Kamihata	34.25	132.06667	A	ADM4H	JP		00				0		179	Asia/Tokyo	2012-07-21
+1860650	Kambe-mura	Kambe-mura		34.65	137.26667	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1860657	Kamate-mura	Kamate-mura		34.73333	131.9	A	ADM4H	JP		00				0		238	Asia/Tokyo	2012-07-21
+1860708	Kakishima-mura	Kakishima-mura	Kakishima-mura	34.08333	134.35	A	ADM4H	JP		00				0		17	Asia/Tokyo	2012-07-21
+1860777	Kaisai-mura	Kaisai-mura		35.26667	136.66667	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+1860815	Kaguyama-mura	Kaguyama-mura	Kaguyama-mura	34.5	135.83333	A	ADM4H	JP		00				0		80	Asia/Tokyo	2012-07-21
+1860899	Kabuto-mura	Kabuto-mura	Kabuto-mura	37.21667	137	A	ADM4H	JP		00				0		67	Asia/Tokyo	2012-07-21
+1860964	Jōnan-mura	Jonan-mura	Jonan-mura,Jōnan-mura	35.05	135.21667	A	ADM4H	JP		00				0		229	Asia/Tokyo	2012-07-21
+1860968	Jōkō Mura	Joko Mura	Joko Mura,Joko-mura,Jōkō Mura,Jōkō-mura,chang guang cun,joukoumura,じょうこうむら,ジョウコウムラ,常光村	36.05	139.55	A	ADM4H	JP		00				0		13	Asia/Tokyo	2013-07-06
+1860969	Jōjō-mura	Jojo-mura	Jojo-mura,Jōjō-mura,Kamijo,Kamijō	36.71667	137.31667	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1861000	Jizōji-mura	Jizoji-mura	Jizoji-mura,Jizōji-mura	33.7	133.48333	A	ADM4H	JP		00				0		513	Asia/Tokyo	2012-07-21
+1861086	Izumo	Izumo	Izumo,Izumo-no-kuni	35.25	133	A	ADM4H	JP		00				0		511	Asia/Tokyo	2012-07-21
+1861098	Izumi-mura	Izumi-mura	Izumi-mura	38.66667	139.96667	A	ADM4H	JP		00				0		316	Asia/Tokyo	2012-07-21
+1861099	Izumi-mura	Izumi-mura	Izumi-mura,Izumi-son	35.16667	133.88333	A	ADM4H	JP		00				0		322	Asia/Tokyo	2012-07-21
+1861110	Izumi	Izumi	Izumi,Izumi Region,Izumi-no-kuni	34.41667	135.41667	A	ADM4H	JP		00				0		174	Asia/Tokyo	2012-07-21
+1861114	Izuhara-machi	Izuhara-machi	Izuhara-machi	34.21752	129.28211	A	ADM4H	JP		00				0		139	Asia/Tokyo	2013-08-07
+1861125	Izawa-mura	Izawa-mura	Isawa-mura,Izawa-mura	34.11667	134.23333	A	ADM4H	JP		00				0		471	Asia/Tokyo	2012-07-21
+1861162	Iwawaki-son	Iwawaki-son	Iwawaki-mura,Iwawaki-son	32.36667	131.61667	A	ADM4H	JP		00				0		121	Asia/Tokyo	2012-07-21
+1861165	Iwatsuka-mura	Iwatsuka-mura		37.38333	138.75	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1861178	Iwashima-mura	Iwashima-mura	Iwashima-mura	36.56667	138.73333	A	ADM4H	JP		00				0		570	Asia/Tokyo	2012-07-21
+1861197	Iwami-mura	Iwami-mura	Iwami-mura,Sekkai-mura	34.81667	134.56667	A	ADM4H	JP		00				0		11	Asia/Tokyo	2012-07-21
+1861203	Iwami	Iwami	Iwami,Iwami-no-kuni	34.83333	132.25	A	ADM4H	JP		00				0		655	Asia/Tokyo	2012-07-21
+1861219	Iwai-machi	Iwai-machi	Iwai-machi	36.05	139.88333	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+1861269	Itoshiro-mura	Itoshiro-mura	Ishidoshiro-mura,Itoshiro-mura	36	136.76667	A	ADM4H	JP		00				0		774	Asia/Tokyo	2012-07-21
+1861276	Itonose-mura	Itonose-mura	Itonose-mura	36.61667	139.1	A	ADM4H	JP		00				0		633	Asia/Tokyo	2012-07-21
+1861342	Isobe-mura	Isobe-mura	Isobe-mura	36.1	136.26667	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+1861361	Ishiuchi-mura	Ishiuchi-mura		37	138.78333	A	ADM4H	JP		00				0		673	Asia/Tokyo	2012-07-21
+1861372	Ishimaki-mura	Ishimaki-mura	Ishimaki-mura	34.81667	137.46667	A	ADM4H	JP		00				0		231	Asia/Tokyo	2012-07-21
+1861381	Ishiki-mura	Ishiki-mura	Ishiki-mura,Ishiki-son	31.61667	130.51667	A	ADM4H	JP		00				0		90	Asia/Tokyo	2012-07-21
+1861386	Ishikawa-mura	Ishikawa-mura		34.5	135.63333	A	ADM4H	JP		00				0		74	Asia/Tokyo	2012-07-21
+1861451	Ise	Ise	Ise,Ise-no-kuni	34.41667	136.5	A	ADM4H	JP		00				0		129	Asia/Tokyo	2012-07-21
+1861462	Isai-mura	Isai-mura	Isai-mura,Issai-mura	34.86667	134.51667	A	ADM4H	JP		00				0		44	Asia/Tokyo	2012-07-21
+1861503	Iragozaki-mura	Iragozaki-mura	Irago-mura,Iragozaki-mura,Irakozaki-mura	34.6	137.08333	A	ADM4H	JP		00				0		10	Asia/Tokyo	2012-07-21
+1861600	Inazumi-mura	Inazumi-mura	Inatsumi,Inazumi-mura	35.6	138.55	A	ADM4H	JP		00				0		247	Asia/Tokyo	2012-07-21
+1861638	Inaba-gun	Inaba-gun	Inaba-gun	35.41667	136.86667	A	ADM4H	JP		00				0		40	Asia/Tokyo	2012-07-21
+1861660	Imazu-chō	Imazu-cho	Imazu-cho,Imazu-chō	35.41667	136.03333	A	ADM4H	JP		00				0		91	Asia/Tokyo	2013-10-07
+1861670	Imatomi-mura	Imatomi-mura	Imatomi-mura	35.46667	135.76667	A	ADM4H	JP		00				0		223	Asia/Tokyo	2012-07-21
+1861689	Imajō-chō	Imajo-cho	Imajo-cho,Imajō-chō	35.75	136.23333	A	ADM4H	JP		00				0		534	Asia/Tokyo	2012-07-21
+1861697	Imaichi-machi	Imaichi-machi	Imaichi-machi,Imaichi-shi	36.71667	139.68333	A	ADM4H	JP		00				0		391	Asia/Tokyo	2012-07-21
+1861731	Ikusato-mura	Ikusato-mura		35.16667	135.05	A	ADM4H	JP		00				0		97	Asia/Tokyo	2012-07-21
+1861870	Iho-mura	Iho-mura	Iho-mura	34.76667	134.8	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1861913	Ienaka-mura	Ienaka-mura		36.43333	139.76667	A	ADM4H	JP		00				0		68	Asia/Tokyo	2012-07-21
+1861921	Ida-mura	Ida-mura	Ida-mura	34.71667	136.13333	A	ADM4H	JP		00				0		158	Asia/Tokyo	2012-07-21
+1861941	Ichinomiya-mura	Ichinomiya-mura		34.86667	137.41667	A	ADM4H	JP		00				0		68	Asia/Tokyo	2012-07-21
+1861983	Ichie-mura	Ichie-mura	Ichie-mura	35.13333	136.73333	A	ADM4H	JP		00				0		-2	Asia/Tokyo	2012-07-21
+1862021	Ibo-mura	Ibo-mura	Ibo-mura	34.83333	134.55	A	ADM4H	JP		00				0		13	Asia/Tokyo	2012-07-21
+1862087	Hotojima-mura	Hotojima-mura	Hotojima-mura,Hotshima-mura	33.06687	132.00183	A	ADM4H	JP		00				0		16	Asia/Tokyo	2013-10-07
+1862128	Hoshida-mura	Hoshida-mura	Hoshida-mura	34.76667	135.66667	A	ADM4H	JP		00				0		48	Asia/Tokyo	2012-07-21
+1862131	Hōsen-mura	Hosen-mura		36.3	139.36667	A	ADM4H	JP		00				0		50	Asia/Tokyo	2012-07-21
+1862203	Honji-mura	Honji-mura	Honji-mura	34.63333	132.51667	A	ADM4H	JP		00				0		365	Asia/Tokyo	2012-07-21
+1862236	Honda-mura	Honda-mura	Honda-mura	34.85	134.56667	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+1862240	Honami-mura	Honami-mura		36.71667	138.45	A	ADM4H	JP		00				0		1021	Asia/Tokyo	2012-07-21
+1862263	Hokura-mura	Hokura-mura	Hokura-mura	37.15	138.31667	A	ADM4H	JP		00				0		7	Asia/Tokyo	2012-07-21
+1862264	Hokura-mura	Hokura-mura	Hokura-mura	35.15	138.51667	A	ADM4H	JP		00				0		362	Asia/Tokyo	2012-07-21
+1862275	Hokki-mura	Hokki-mura	Hokki-mura	35.48333	133.05	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1862313	Hizen	Hizen	Hizen,Hizen-no-kuni	33.16667	130	A	ADM4H	JP		00				0		42	Asia/Tokyo	2012-07-21
+1862318	Hiyoshi-son	Hiyoshi-son	Hiyoshi-mura,Hiyoshi-son	34.71667	133.68333	A	ADM4H	JP		00				0		81	Asia/Tokyo	2012-07-21
+1862320	Hiyoshi-mura	Hiyoshi-mura	Hiyoshi-mura	37.46667	138.75	A	ADM4H	JP		00				0		69	Asia/Tokyo	2012-07-21
+1862380	Hisato-mura	Hisato-mura	Hisato-mura,Hizato	36.63333	138.03333	A	ADM4H	JP		00				0		625	Asia/Tokyo	2012-07-21
+1862403	Hirotsuka-mura	Hirotsuka-mura	Hirotsuka-mura	36.56667	136.91667	A	ADM4H	JP		00				0		70	Asia/Tokyo	2012-07-21
+1862435	Hirooka-mura	Hirooka-mura	Hirooka-mura	36.15	137.95	A	ADM4H	JP		00				0		664	Asia/Tokyo	2012-07-21
+1862467	Hirata-mura	Hirata-mura	Hirata-cho,Hirata-mura,Makita	34.86667	136.53333	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1862507	Hirao-mura	Hirao-mura	Hirao-mura	36.73333	138.5	A	ADM4H	JP		00				0		1623	Asia/Tokyo	2012-07-21
+1862516	Hirano-mura	Hirano-mura	Hirano-mura	34.55	135.76667	A	ADM4H	JP		00				0		43	Asia/Tokyo	2012-07-21
+1862517	Hiranogō-chō	Hiranogo-cho	Hiranogo-cho,Hiranogō-chō	34.63333	135.55	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+1862524	Hirane-mura	Hirane-mura	Hirane-mura	36.28333	138.51667	A	ADM4H	JP		00				0		936	Asia/Tokyo	2012-07-21
+1862550	Hiraga-mura	Hiraga-mura	Hiraga-mura,Hiraka-mura	36.21667	138.51667	A	ADM4H	JP		00				0		797	Asia/Tokyo	2012-07-21
+1862578	Hino-mura	Hino-mura	Hino-mura	36.7	138.38333	A	ADM4H	JP		00				0		854	Asia/Tokyo	2012-07-21
+1862579	Hino-mura	Hino-mura	Hino-mura	35	134.96667	A	ADM4H	JP		00				0		78	Asia/Tokyo	2012-07-21
+1862602	Hineno-mura	Hineno-mura		34.38333	135.33333	A	ADM4H	JP		00				0		45	Asia/Tokyo	2012-07-21
+1862637	Hikoma-mura	Hikoma-mura	Hikoma-mura	36.5	139.45	A	ADM4H	JP		00				0		666	Asia/Tokyo	2012-07-21
+1862669	Hikachi Mura	Hikachi Mura	Hikachi Mura,Hikachi-mura,hikachimura,ri sheng cun,ひかちむら,ヒカチムラ,日勝村	36	139.7	A	ADM4H	JP		00				0		17	Asia/Tokyo	2013-07-06
+1862677	Hijiro-mura	Hijiro-mura	Hijiro-mura,Hishiro-mura	33.05	131.91667	A	ADM4H	JP		00				0		90	Asia/Tokyo	2012-07-21
+1862707	Higashiyama-mura	Higashiyama-mura	Higashiyama-mura	34.66667	135.96667	A	ADM4H	JP		00				0		384	Asia/Tokyo	2012-07-21
+1862726	Higashi-tomochi-mura	Higashi-tomochi-mura	Higashi-tomochi-mura	32.63333	130.93333	A	ADM4H	JP		00				0		238	Asia/Tokyo	2012-07-21
+1862736	Higashi-shiwa-mura	Higashi-shiwa-mura	Higashi-shiwa-mura	34.48333	132.68333	A	ADM4H	JP		00				0		255	Asia/Tokyo	2012-07-21
+1862742	Higashisato-mura	Higashisato-mura	Higashisato-mura,Higashizato	34.7	135.9	A	ADM4H	JP		00				0		334	Asia/Tokyo	2012-07-21
+1862746	Higashi-sakurajima-mura	Higashi-sakurajima-mura	Higashi-sakurajima-mura,Higashi-sakurashima-mura,Higashisakurajima-son	31.56667	130.66667	A	ADM4H	JP		00				0		319	Asia/Tokyo	2012-07-21
+1862771	Higashi-mura	Higashi-mura		36.25	138.53333	A	ADM4H	JP		00				0		766	Asia/Tokyo	2012-07-21
+1862816	Higashi-ikuchi-mura	Higashi-ikuchi-mura	Higashi-ikuchi-mura,Higashiiguchi	34.28333	133.13333	A	ADM4H	JP		00				0		18	Asia/Tokyo	2012-07-21
+1862846	Higashi-arita-mura	Higashi-arita-mura		33.33333	131	A	ADM4H	JP		00				0		191	Asia/Tokyo	2012-07-21
+1862857	Hieshō-mura	Hiesho-mura	Hiesho-mura,Hieshō-mura	34.98333	134.98333	A	ADM4H	JP		00				0		59	Asia/Tokyo	2012-07-21
+1862865	Hideya-mura	Hideya-mura	Hideya-mura	37.75	139.55	A	ADM4H	JP		00				0		603	Asia/Tokyo	2012-07-21
+1862879	Hida	Hida	Hida,Hidano-kuni	33.31667	130.93333	A	ADM4H	JP		00				0		88	Asia/Tokyo	2012-07-21
+1862973	Hayashida-mura	Hayashida-mura	Hayashida-mura	34.9	134.58333	A	ADM4H	JP		00				0		46	Asia/Tokyo	2012-07-21
+1862974	Hayashida-chō	Hayashida-cho		34.9	134.6	A	ADM4H	JP		00				0		133	Asia/Tokyo	2012-07-21
+1863031	Hataya-mura	Hataya-mura		36.11667	138.45	A	ADM4H	JP		00				0		927	Asia/Tokyo	2012-07-21
+1863148	Hara-machi	Hara-machi	Hara-machi	36.55	138.83333	A	ADM4H	JP		00				0		600	Asia/Tokyo	2012-07-21
+1863180	Hannyano-mura	Hannyano-mura	Hannyano-mura	36.68333	137.01667	A	ADM4H	JP		00				0		25	Asia/Tokyo	2012-07-21
+1863206	Handagō-mura	Handago-mura		34.43333	135.7	A	ADM4H	JP		00				0		346	Asia/Tokyo	2012-07-21
+1863208	Handa-chō	Handa-cho	Handa-cho,Handa-chō	34.9	136.93333	A	ADM4H	JP		00				0		6	Asia/Tokyo	2012-07-21
+1863247	Hanada-mura	Hanada-mura	Hanada-mura,Hanata	34.83333	134.71667	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+1863415	Hagima-mura	Hagima-mura	Hagima-mura	34.71667	138.16667	A	ADM4H	JP		00				0		29	Asia/Tokyo	2012-07-21
+1863470	Habu-machi	Habu-machi	Habu-machi	34.28333	133.18333	A	ADM4H	JP		00				0		33	Asia/Tokyo	2012-07-21
+1863500	Gunchiku-mura	Gunchiku-mura		32.53333	130.58333	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1863518	Gowa-mura	Gowa-mura		33.28333	130.88333	A	ADM4H	JP		00				0		391	Asia/Tokyo	2012-07-21
+1863545	Gorōbeishinden-mura	Gorobeishinden-mura	Gorobeishinden-mura,Gorobeshinden-mura,Gorōbeishinden-mura,Gorōbēshinden-mura	36.25	138.4	A	ADM4H	JP		00				0		748	Asia/Tokyo	2012-07-21
+1863554	Gonoshō-mura	Gonosho-mura	Gonosho-mura,Gonoshō-mura	35.55	134.8	A	ADM4H	JP		00				0		17	Asia/Tokyo	2012-07-21
+1863689	Gamō-chō	Gamo-cho	Gamo-cho,Gamō-chō	35.05	136.18333	A	ADM4H	JP		00				0		126	Asia/Tokyo	2013-10-07
+1863855	Funatsuke-mura	Funatsuke-mura	Funatsuke-mura	34.9	137.55	A	ADM4H	JP		00				0		324	Asia/Tokyo	2012-07-21
+1864002	Fukuda-machi	Fukuda-machi	Fukuda-machi	34.51667	133.75	A	ADM4H	JP		00				0		6	Asia/Tokyo	2012-07-21
+1864027	Fuke-chō	Fuke-cho		34.31667	135.15	A	ADM4H	JP		00				0		30	Asia/Tokyo	2012-07-21
+1864041	Fukasu-mura	Fukasu-mura	Fukasu-mura	34.31667	132	A	ADM4H	JP		00				0		269	Asia/Tokyo	2012-07-21
+1864115	Fujimi-mura	Fujimi-mura		35.63333	138.66667	A	ADM4H	JP		00				0		331	Asia/Tokyo	2012-07-21
+1864123	Fuji-kami-yoshida-machi	Fuji-kami-yoshida-machi	Fuji-kami-yoshida-machi,Fukuchi-mura	35.41667	138.8	A	ADM4H	JP		00				0		1230	Asia/Tokyo	2012-07-21
+1864315	Ebina-machi	Ebina-machi	Ebina-machi	35.45	135.38333	A	ADM4H	JP		00				0		102	Asia/Tokyo	2012-07-21
+1864319	Ebara Gun	Ebara Gun	Ebara Gun,Ebara-gun,ebaragun,ren yuan jun,えばらぐん,エバラグン,荏原郡	35.58333	139.63333	A	ADM4H	JP		00				0		15	Asia/Tokyo	2013-07-06
+1864350	Doki-mura	Doki-mura		34.28333	133.81667	A	ADM4H	JP		00				0		5	Asia/Tokyo	2012-07-21
+1864469	Daifuku-mura	Daifuku-mura	Daifuku-mura	34.51667	135.83333	A	ADM4H	JP		00				0		66	Asia/Tokyo	2012-07-21
+1864473	Daibu-mura	Daibu-mura	Daibu-mura	33.58333	130.61667	A	ADM4H	JP		00				0		97	Asia/Tokyo	2012-07-21
+1864515	Chōfu-mura	Chofu-mura	Chofu-mura,Chōfu-mura	35.76667	139.26667	A	ADM4H	JP		00				0		282	Asia/Tokyo	2012-07-21
+1864536	Chitose-mura	Chitose-mura	Chitose-mura	35	139.96667	A	ADM4H	JP		00				0		34	Asia/Tokyo	2012-07-21
+1864546	Chisato-mura	Chisato-mura		35.46667	137.66667	A	ADM4H	JP		00				0		849	Asia/Tokyo	2012-07-21
+1864547	Chisato-mura	Chisato-mura	Chisato-mura	34.86667	137.46667	A	ADM4H	JP		00				0		70	Asia/Tokyo	2012-07-21
+1864570	Chikuya-mura	Chikuya-mura	Chikuya-mura	35.43333	133.11667	A	ADM4H	JP		00				0		1	Asia/Tokyo	2012-07-21
+1864581	Chikura-machi	Chikura-machi	Chikura-machi	34.96667	139.93333	A	ADM4H	JP		00				0		80	Asia/Tokyo	2012-07-21
+1864586	Chikumaji-mura	Chikumaji-mura	Chikuma-mura,Chikumachi-mura,Chikumaji-mura,Tsukamachi	36.06667	137.96667	A	ADM4H	JP		00				0		956	Asia/Tokyo	2012-07-21
+1864602	Chikaraishi-mura	Chikaraishi-mura	Chikaraishi-mura	36.45	138.16667	A	ADM4H	JP		00				0		401	Asia/Tokyo	2012-07-21
+1864661	Buzen	Buzen	Buzen,Buzen-no-kuni	33.5	131	A	ADM4H	JP		00				0		765	Asia/Tokyo	2012-07-21
+1864670	Bunda-mura	Bunda-mura		37.8	139.21667	A	ADM4H	JP		00				0		9	Asia/Tokyo	2012-07-21
+1864729	Bingo	Bingo	Bingo,Bingo Region,Bingo-no-kuni	34.66667	133.16667	A	ADM4H	JP		00				0		432	Asia/Tokyo	2012-07-21
+1864895	Awano-mura	Awano-mura	Awano-mura	34.31667	130.98333	A	ADM4H	JP		45				0		56	Asia/Tokyo	2012-07-21
+1864960	Asuna-mura	Asuna-mura	Asuna-mura	34.86667	132.61667	A	ADM4H	JP		00				0		286	Asia/Tokyo	2012-07-21
+1864962	Asumi-machi	Asumi-machi	Asumi-machi,Asumi-mura	35.48333	138.83333	A	ADM4H	JP		00				0		864	Asia/Tokyo	2012-07-21
+1865007	Ashigasaki-mura	Ashigasaki-mura		36.98333	138.63333	A	ADM4H	JP		00				0		450	Asia/Tokyo	2012-07-21
+1865023	Asayama-mura	Asayama-mura	Asayama-mura	35.31667	132.76667	A	ADM4H	JP		00				0		34	Asia/Tokyo	2012-07-21
+1865048	Asakura-mura	Asakura-mura	Asakura-mura	34.51667	135.9	A	ADM4H	JP		00				0		236	Asia/Tokyo	2012-07-21
+1865063	Asahino-mura	Asahino-mura	Asahino-mura	35.03333	136.18333	A	ADM4H	JP		00				0		170	Asia/Tokyo	2012-07-21
+1865065	Asahi-mura	Asahi-mura	Asahi-mura	37.16667	138.53333	A	ADM4H	JP		00				0		268	Asia/Tokyo	2012-07-21
+1865068	Asahi-mura	Asahi-mura	Asahi-mura	35.4	133.85	A	ADM4H	JP		00				0		136	Asia/Tokyo	2012-07-21
+1865069	Asahi-mura	Asahi-mura	Asahi-mura	34.85	136.98333	A	ADM4H	JP		00				0		-3	Asia/Tokyo	2012-07-21
+1865092	Asa-chō	Asa-cho	Asa-cho,Asa-chō,an zuo ding,asachou,あさちょう,安佐町	34.53333	132.43333	A	ADM4H	JP		00				0		46	Asia/Tokyo	2019-03-21
+1865201	Arai-mura	Arai-mura	Arai-mura	34.75	134.8	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1865202	Arai-machi	Arai-machi	Arai-machi	37.01667	138.25	A	ADM4H	JP		00				0		72	Asia/Tokyo	2012-07-21
+1865245	Aono-son	Aono-son	Aono-mura,Aono-son	34.63333	133.46667	A	ADM4H	JP		00				0		302	Asia/Tokyo	2012-07-21
+1865285	Anō-mura	Ano-mura	Ano-mura,Anō-mura,Kano,Kanō	34.3	135.73333	A	ADM4H	JP		00				0		401	Asia/Tokyo	2012-07-21
+1865331	Amida-mura	Amida-mura	Amida-mura	34.8	134.78333	A	ADM4H	JP		00				0		6	Asia/Tokyo	2012-07-21
+1865389	Amabe-mura	Amabe-mura	Amabe-mura	33.13333	131.8	A	ADM4H	JP		00				0		30	Asia/Tokyo	2012-07-21
+1865408	Ako-mura	Ako-mura	Ako-mura	34.06667	139.5	A	ADM4H	JP		00				0		332	Asia/Tokyo	2012-07-21
+1865430	Akinari-mura	Akinari-mura		36.95	138.65	A	ADM4H	JP		00				0		760	Asia/Tokyo	2012-07-21
+1865432	Akinaka-son	Akinaka-son	Akinaka-mura,Akinaka-son	34.31667	132.1	A	ADM4H	JP		00				0		655	Asia/Tokyo	2012-07-21
+1865439	Akihata-mura	Akihata-mura	Akihata-mura	36.2	138.88333	A	ADM4H	JP		00				0		427	Asia/Tokyo	2012-07-21
+1865464	Akatsuka-mura	Akatsuka-mura	Akatsuka-mura	37.81667	138.91667	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1865467	Akatani-mura	Akatani-mura		37.81667	139.48333	A	ADM4H	JP		00				0		333	Asia/Tokyo	2012-07-21
+1865483	Akashi-gun	Akashi-gun	Akaishi-gun,Akashi-gun	34.66667	134.86667	A	ADM4H	JP		00				0		-9999	Asia/Tokyo	2012-07-21
+1865519	Akasaka Ku	Akasaka Ku	Akasaka Ku,Akasaka-ku,akasakaku,chi ban qu,あかさかく,アカサカク,赤坂区	35.65	139.73333	A	ADM4H	JP		00				0		17	Asia/Tokyo	2014-03-08
+1865573	Akaho-machi	Akaho-machi	Akaho-machi,Akaho-mura	35.73333	137.9	A	ADM4H	JP		00				0		843	Asia/Tokyo	2012-07-21
+1865614	Ajiro-mura	Ajiro-mura		35.58333	134.3	A	ADM4H	JP		00				0		51	Asia/Tokyo	2012-07-21
+1865623	Ajima-mura	Ajima-mura	Ajima-mura	35.06667	135.16667	A	ADM4H	JP		00				0		250	Asia/Tokyo	2012-07-21
+1865629	Ajifu-mura	Ajifu-mura	Ajifu-mura,Aju-mura,Ajū-mura	34.76667	135.56667	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+1865655	Aioi-mura	Aioi-mura	Aioi City,Aioi-mura	35.7	136.91667	A	ADM4H	JP		00				0		512	Asia/Tokyo	2012-07-21
+1865656	Aioi-mura	Aioi-mura	Aioi-mura	34.18333	134.41667	A	ADM4H	JP		00				0		184	Asia/Tokyo	2012-07-21
+1865688	Aihata-son	Aihata-son	Aibata,Aihata-mura,Aihata-son	34.1	134.45	A	ADM4H	JP		00				0		5	Asia/Tokyo	2012-07-21
+1865717	Agenoshō-machi	Agenosho-machi	Agenosho-machi,Agenoshō-machi	33.9	132.25	A	ADM4H	JP		00				0		285	Asia/Tokyo	2012-07-21
+1865724	Age-gun	Age-gun		34.76667	136.38333	A	ADM4H	JP		00				0		660	Asia/Tokyo	2012-07-21
+1865743	Ae-mura	Ae-mura	Abe,Ae-mura	34.71667	134.86667	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+1865771	Abe-mura	Abe-mura	Abe-mura	34.48333	133.83333	A	ADM4H	JP		00				0		148	Asia/Tokyo	2012-07-21
+2110452	Takasago-mura	Takasago-mura	Takasago-mura	38.26667	140.96667	A	ADM4H	JP		00				0		2	Asia/Tokyo	2012-07-21
+2110546	Yamanome-machi	Yamanome-machi	Yamanome-machi,Yamanome-mura	38.95	141.11667	A	ADM4H	JP		00				0		134	Asia/Tokyo	2012-07-21
+2110580	Yachi-machi	Yachi-machi	Yachi-machi,Yaji-machi	38.41667	140.31667	A	ADM4H	JP		00				0		89	Asia/Tokyo	2012-07-21
+2110623	Usui-machi	Usui-machi	Usui-machi	35.73333	140.18333	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+2110633	Urato-mura	Urato-mura	Urado-mura,Urato-mura,pu hu cun,uratomura,うらとむら,ウラトムラ,浦戸村	38.33232	141.11875	A	ADM4H	JP		00				0		18	Asia/Tokyo	2012-08-05
+2110651	Ueno-mura	Ueno-mura	Ueno-mura	36.21667	140.03333	A	ADM4H	JP		00				0		27	Asia/Tokyo	2012-07-21
+2110665	Tsuwa-mura	Tsuwa-mura	Tsuwa-mura	36.11667	140.2	A	ADM4H	JP		00				0		29	Asia/Tokyo	2012-07-21
+2110707	Tsuchibuchi-mura	Tsuchibuchi-mura	Tsuchibuchi-mura	39.4	141.65	A	ADM4H	JP		00				0		714	Asia/Tokyo	2012-07-21
+2110719	Toyooka-mura	Toyooka-mura	Toyooka-mura	35.46667	140.35	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+2110745	Tomise-mura	Tomise-mura	Tomise-mura	35.88333	140	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+2110770	Tōgō-mura	Togo-mura	Togo-mura,Tōgō-mura	35.45	140.33333	A	ADM4H	JP		00				0		5	Asia/Tokyo	2012-07-21
+2110782	Toba-mura	Toba-mura	Toba-mura	36.23333	140	A	ADM4H	JP		00				0		19	Asia/Tokyo	2012-07-21
+2110851	Takkon-mura	Takkon-mura	Takkon-mura,Tatsukon	39.13333	141.73333	A	ADM4H	JP		00				0		297	Asia/Tokyo	2012-07-21
+2110881	Takamatsu-mura	Takamatsu-mura	Takamatsu-mura	38.4	140.23333	A	ADM4H	JP		00				0		138	Asia/Tokyo	2012-07-21
+2110916	Taira-shi	Taira-shi	Taira-shi	37.06667	140.88333	A	ADM4H	JP		00				0		15	Asia/Tokyo	2012-07-21
+2110979	Soekawa-mura	Soekawa-mura	Soegawa,Soekawa-mura,Soigawa-mura,Soikawa-mura	38.03333	140.01667	A	ADM4H	JP		00				0		231	Asia/Tokyo	2012-07-21
+2111036	Shirahama-mura	Shirahama-mura		35.61667	140.53333	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+2111057	Shinobu-mura	Shinobu-mura	Shinobu-mura	37.2	140.25	A	ADM4H	JP		00				0		294	Asia/Tokyo	2012-07-21
+2111062	Shinjo-mura	Shinjo-mura		39.11667	141.16667	A	ADM4H	JP		00				0		36	Asia/Tokyo	2012-07-21
+2111079	Shimōsa	Shimosa	Shimosa,Shimosa-no-kuni,Shimōsa,Shimōsa-no-kuni	35.75	140.33333	A	ADM4H	JP		00				0		41	Asia/Tokyo	2012-07-21
+2111081	Shimo-ōno-mura	Shimo-ono-mura	Shimo-ono-mura,Shimo-ōno-mura	36.33333	140.56667	A	ADM4H	JP		00				0		-1	Asia/Tokyo	2012-07-21
+2111111	Shimana-mura	Shimana-mura	Shimana-mura	36.06667	140.05	A	ADM4H	JP		00				0		27	Asia/Tokyo	2012-07-21
+2111116	Shiishiba-mura	Shiishiba-mura	Shiishiba-mura	35.76667	140.75	A	ADM4H	JP		00				0		4	Asia/Tokyo	2012-07-21
+2111118	Shida-mura	Shida-mura	Shida-mura	38.56667	140.91667	A	ADM4H	JP		00				0		22	Asia/Tokyo	2012-07-21
+2111134	Shibahashi-mura	Shibahashi-mura	Shibahashi-mura	38.38333	140.25	A	ADM4H	JP		00				0		114	Asia/Tokyo	2012-07-21
+2111159	Seki-mura	Seki-mura		36.58333	140.43333	A	ADM4H	JP		00				0		100	Asia/Tokyo	2012-07-21
+2111166	Seiwa-mura	Seiwa-mura		35.2	140	A	ADM4H	JP		00				0		212	Asia/Tokyo	2012-07-21
+2111170	Sawatari-mura	Sawatari-mura	Sawatari-mura	37.13333	140.66667	A	ADM4H	JP		00				0		633	Asia/Tokyo	2012-07-21
+2111172	Sawara-machi	Sawara-machi	Sawara-machi,Sawara-shi	35.88333	140.5	A	ADM4H	JP		00				0		8	Asia/Tokyo	2012-07-21
+2111195	Sano-mura	Sano-mura		36.41667	140.55	A	ADM4H	JP		00				0		32	Asia/Tokyo	2012-07-21
+2111229	Sakari-machi	Sakari-machi	Sakari-machi	39.08333	141.71667	A	ADM4H	JP		00				0		3	Asia/Tokyo	2012-07-21
+2111241	Sahinai Mura	Sahinai Mura	Sahinai Mura,Sahinai-mura,sahinaimura,zuo bi nei cun,さひないむら,サヒナイムラ,佐比内村	39.5	141.25	A	ADM4H	JP		00				0		171	Asia/Tokyo	2012-12-06
+2111267	Ryōgō-mura	Ryogo-mura	Ryogo-mura,Ryōgō-mura	36.91667	140.18333	A	ADM4H	JP		00				0		353	Asia/Tokyo	2012-07-21
+2111274	Ringō-mura	Ringo-mura		38.08333	140.16667	A	ADM4H	JP		00				0		490	Asia/Tokyo	2012-07-21
+2111275	Rikuzen	Rikuzen	Rikuzen,lu qian,rikuzen,りくぜん,リクゼン,陸前	38.5	141	A	ADM4H	JP		00				0		78	Asia/Tokyo	2012-08-05
+2111287	Ōya-mura	Oya-mura	Oya-mura,Ōya-mura	37.21667	140.18333	A	ADM4H	JP		00				0		436	Asia/Tokyo	2012-07-21
+2111304	Ōtsuka-mura	Otsuka-mura		38.03333	140.06667	A	ADM4H	JP		00				0		208	Asia/Tokyo	2012-07-21
+2111371	Ōnuma-mura	Onuma-mura	Onuma-mura,Ōnuma-mura	37.13333	140.23333	A	ADM4H	JP		00				0		416	Asia/Tokyo	2012-07-21
+2111377	Onogawa-mura	Onogawa-mura		36.05	140.11667	A	ADM4H	JP		00				0		28	Asia/Tokyo	2012-07-21
+2111385	Oniyanagi-mura	Oniyanagi-mura	Oniyanagi-mura	39.26667	141.08333	A	ADM4H	JP		00				0		95	Asia/Tokyo	2012-07-21
+2111404	Ōmura-machi	Omura-machi	O-mura,Omura-machi,Ō-mura,Ōmura-machi	36.25	140.03333	A	ADM4H	JP		00				0		28	Asia/Tokyo	2012-07-21
+2111443	Ōkuma-mura	Okuma-mura	Okuma-mura,Ōkuma-mura	37.45	140.46667	A	ADM4H	JP		00				0		333	Asia/Tokyo	2012-07-21
+2111454	Okitama-gun	Okitama-gun	Oitama,Oitami-gun,Okitama-gun,Ukitami-gun	38	140	A	ADM4H	JP		00				0		313	Asia/Tokyo	2012-07-21
+2111489	Ōhari-mura	Ohari-mura	Ohari-mura,Ōhari-mura	37.93333	140.66667	A	ADM4H	JP		00				0		188	Asia/Tokyo	2012-07-21
+2111555	Obata-mura	Obata-mura		36.28333	140.18333	A	ADM4H	JP		00				0		27	Asia/Tokyo	2012-07-21
+2111616	Nishi-okuni-mura	Nishi-okuni-mura	Nishi-oguni-mura,Nishi-okuni-mura	38.75	140.46667	A	ADM4H	JP		00				0		223	Asia/Tokyo	2012-07-21
+2111619	Nishine-mura	Nishine-mura	Nishine-mura	38.38333	140.28333	A	ADM4H	JP		00				0		94	Asia/Tokyo	2012-07-21
+2111632	Nishigō-mura	Nishigo-mura	Nishigo-mura,Nishigō-mura,Saigo-mura,Saigō-mura	38.11667	140.23333	A	ADM4H	JP		00				0		259	Asia/Tokyo	2012-07-21
+2111646	Niinari-mura	Niinari-mura	Niinari-mura,Shinsei-mura	39.23331	140.41679	A	ADM4H	JP		00				0		51	Asia/Tokyo	2013-07-06
+2111698	Nanakita-mura	Nanakita-mura	Nanakita-mura,Nanakitada	38.31667	140.86667	A	ADM4H	JP		00				0		23	Asia/Tokyo	2012-07-21
+2111718	Nakasato-mura	Nakasato-mura	Nakasato-mura,Nakazato-mura	38.93333	141.13333	A	ADM4H	JP		00				0		26	Asia/Tokyo	2012-07-21
+2111743	Nakagō-mura	Nakago-mura	Nakago-mura,Nakagō-mura	40	140.6	A	ADM4H	JP		00				0		752	Asia/Tokyo	2012-07-21
+2111744	Nakagawa-mura	Nakagawa-mura	Nakagawa-mura	38.13333	140.4	A	ADM4H	JP		00				0		1054	Asia/Tokyo	2012-07-21
+2111760	Nagasa-mura	Nagasa-mura	Nagasa-mura	36.26667	140.06667	A	ADM4H	JP		00				0		31	Asia/Tokyo	2012-07-21
+2111798	Mutsuai-mura	Mutsuai-mura		39.21667	140.45	A	ADM4H	JP		00				0		59	Asia/Tokyo	2012-07-21
+2111876	Miyaoi-mura	Miyaoi-mura	Miyaoi-mura	38.11667	140.33333	A	ADM4H	JP		00				0		367	Asia/Tokyo	2012-07-21
+2111885	Miyajuku-machi	Miyajuku-machi		38.3	140.15	A	ADM4H	JP		00				0		163	Asia/Tokyo	2012-07-21
+2111895	Miwa-mura	Miwa-mura		39.2	140.43333	A	ADM4H	JP		00				0		56	Asia/Tokyo	2012-07-21
+2111924	Minami-okitama-gun	Minami-okitama-gun	Mina-okitama-gun,Minami-oitama-gun,Minami-oitawa-gun,Minami-okitama-gun	37.83333	140.08333	A	ADM4H	JP		00				0		526	Asia/Tokyo	2012-07-21
+2111932	Minamihara-mura	Minamihara-mura	Minamihara-mura	37.83333	140.08333	A	ADM4H	JP		00				0		526	Asia/Tokyo	2012-07-21
+2111941	Miizumi-mura	Miizumi-mura	Miizumi-mura	38.4	140.28333	A	ADM4H	JP		00				0		101	Asia/Tokyo	2012-07-21
+2111982	Matsuiwa-mura	Matsuiwa-mura	Matsuiwa-mura	38.85	141.53333	A	ADM4H	JP		00				0		185	Asia/Tokyo	2012-07-21
+2111990	Mataki-mura	Mataki-mura	Madaki-mura,Mataki-mura	38.9	141.18333	A	ADM4H	JP		00				0		85	Asia/Tokyo	2012-07-21
+2112000	Mase-mura	Mase-mura	Mase-mura	36.05	140.03333	A	ADM4H	JP		00				0		19	Asia/Tokyo	2012-07-21
+2112026	Maewatari-mura	Maewatari-mura		36.41667	140.55	A	ADM4H	JP		00				0		32	Asia/Tokyo	2012-07-21
+2112054	Kushigata-mura	Kushigata-mura	Kushigata-mura	36.68333	140.68333	A	ADM4H	JP		00				0		29	Asia/Tokyo	2012-07-21
+2112063	Kurosaki-mura	Kurosaki-mura	Kurosaki-mura	36.66667	140.61667	A	ADM4H	JP		00				0		298	Asia/Tokyo	2012-07-21
+2112091	Kurihashi-mura	Kurihashi-mura	Kurihashi-mura	39.36667	141.73333	A	ADM4H	JP		00				0		453	Asia/Tokyo	2012-07-21
+2112199	Kiyokawa-mura	Kiyokawa-mura		38.8	140.01667	A	ADM4H	JP		00				0		63	Asia/Tokyo	2012-07-21
+2112269	Kemuyama-mura	Kemuyama-mura		39.61667	141.13333	A	ADM4H	JP		00				0		126	Asia/Tokyo	2012-07-21
+2112271	Kazusa	Kazusa	Kazusa,Kazusa-no-kuni	35.33333	140.16667	A	ADM4H	JP		00				0		106	Asia/Tokyo	2012-07-21
+2112346	Kasai-mura	Kasai-mura	Kasai-mura	35.85	140.48333	A	ADM4H	JP		00				0		38	Asia/Tokyo	2012-07-21
+2112380	Kanai-mura	Kanai-mura		38.25	140.33333	A	ADM4H	JP		00				0		144	Asia/Tokyo	2012-07-21
+2112383	Kamo-mura	Kamo-mura	Kamo-mura	35.31667	140.15	A	ADM4H	JP		00				0		66	Asia/Tokyo	2012-07-21
+2112412	Kami-nakatsuma-mura	Kami-nakatsuma-mura		36.38333	140.38333	A	ADM4H	JP		00				0		39	Asia/Tokyo	2012-07-21
+2112425	Kamigō-mura	Kamigo-mura	Kamigo-mura,Kamigō-mura	39.26667	141.58333	A	ADM4H	JP		00				0		420	Asia/Tokyo	2012-07-21
+2112426	Kamigō-mura	Kamigo-mura		37.91667	140.11667	A	ADM4H	JP		00				0		243	Asia/Tokyo	2012-07-21
+2112452	Kakumagawa-machi	Kakumagawa-machi		39.4	140.48333	A	ADM4H	JP		00				0		29	Asia/Tokyo	2012-07-21
+2112623	Inafune-mura	Inafune-mura	Inafune-mura	38.73333	140.31667	A	ADM4H	JP		00				0		122	Asia/Tokyo	2012-07-21
+2112639	Ikawa-mura	Ikawa-mura	Ikawa-mura,Inokawa-mura	39.08333	141.7	A	ADM4H	JP		00				0		100	Asia/Tokyo	2012-07-21
+2112641	Iizaka-mura	Iizaka-mura	Iizaka-mura	37.66667	140.63333	A	ADM4H	JP		00				0		304	Asia/Tokyo	2012-07-21
+2112681	Honjō-mura	Honjo-mura	Honjo-mura,Honjō-mura	38.08333	140.28333	A	ADM4H	JP		00				0		506	Asia/Tokyo	2012-07-21
+2112682	Honjō-machi	Honjo-machi		39.38333	140.05	A	ADM4H	JP		00				0		7	Asia/Tokyo	2012-07-21
+2112687	Honda-mura	Honda-mura	Honda-mura	35.55	140.21667	A	ADM4H	JP		00				0		53	Asia/Tokyo	2012-07-21
+2112709	Hitachi	Hitachi	Hidachi,Hitachi,Hitachi Province,Hitachi-no-kuni	36.33333	140.33333	A	ADM4H	JP		00				0		35	Asia/Tokyo	2012-07-21
+2112725	Hirakawa-machi	Hirakawa-machi		35.4	140.03333	A	ADM4H	JP		00				0		13	Asia/Tokyo	2012-07-21
+2112742	Hikoroichi-mura	Hikoroichi-mura	Higoroshi-mura,Hikorochi,Hikoroichi-mura	39.13333	141.68333	A	ADM4H	JP		00				0		125	Asia/Tokyo	2012-07-21
+2112753	Higashiōto-mura	Higashioto-mura	Higashioto-mura,Higashiōto-mura	35.88333	140.46667	A	ADM4H	JP		00				0		21	Asia/Tokyo	2012-07-21
+2112755	Higashioguni Mura	Higashioguni Mura	Higashi-oguni-mura,Higashi-okuni-mura,Higashioguni Mura,dong xiao guo cun,higashiogunimura,ひがしおぐにむら,ヒガシオグニムラ,東小国村	38.75	140.56667	A	ADM4H	JP		00				0		417	Asia/Tokyo	2012-08-05
+2112792	Hatano-mura	Hatano-mura		39.2	140.45	A	ADM4H	JP		00				0		67	Asia/Tokyo	2012-07-21
+2112815	Handa-mura	Handa-mura	Handa-mura	37.86667	140.5	A	ADM4H	JP		00				0		322	Asia/Tokyo	2012-07-21
+2112888	Fushikuro-mura	Fushikuro-mura	Fushiguro-mura,Fushikuro-mura	37.81667	140.53333	A	ADM4H	JP		00				0		51	Asia/Tokyo	2012-07-21
+2112889	Fuse-mura	Fuse-mura	Fuse-mura	35.88333	140	A	ADM4H	JP		00				0		20	Asia/Tokyo	2012-07-21
+2112962	Ei-mura	Ei-mura	Ei-mura,Sakae-mura	39.26667	140.56667	A	ADM4H	JP		00				0		143	Asia/Tokyo	2012-07-21
+2112987	Daigo-mura	Daigo-mura	Daigo-mura	38.41667	140.26667	A	ADM4H	JP		00				0		111	Asia/Tokyo	2012-07-21
+2113027	Benten-mura	Benten-mura		39.2	140.46667	A	ADM4H	JP		00				0		66	Asia/Tokyo	2012-07-21
+2113040	Azuma-mura	Azuma-mura	Azuma-mura	38.08333	140.38333	A	ADM4H	JP		00				0		606	Asia/Tokyo	2012-07-21
+2113041	Azuma-mura	Azuma-mura	Azuma-mura	37.66667	140.25	A	ADM4H	JP		00				0		1130	Asia/Tokyo	2012-07-21
+2113073	Asahi-mura	Asahi-mura	Asahi-mura	39.31667	140.53333	A	ADM4H	JP		00				0		53	Asia/Tokyo	2012-07-21
+2113083	Arato-machi	Arato-machi		38.18333	140.1	A	ADM4H	JP		00				0		205	Asia/Tokyo	2012-07-21
+2113098	Aozasa-mura	Aozasa-mura	Aosasa,Aozasa-mura	39.31667	141.6	A	ADM4H	JP		00				0		411	Asia/Tokyo	2012-07-21
+2113132	Akasaki-mura	Akasaki-mura	Akasaki-mura	39.05	141.75	A	ADM4H	JP		00				0		103	Asia/Tokyo	2012-07-21
+2113152	Aisari-mura	Aisari-mura	Aisari-mura	39.25	141.06667	A	ADM4H	JP		00				0		107	Asia/Tokyo	2012-07-21
+2127450	Yatate-mura	Yatate-mura	Yatate-mura	40.36667	140.6	A	ADM4H	JP		00				0		188	Asia/Tokyo	2012-07-21
+2127471	Yamagata Mura	Yamagata Mura	Yamagata Mura,Yamagata-mura,shan xing cun,yamagatamura,やまがたむら,ヤマガタムラ,山形村	40.58333	140.71667	A	ADM4H	JP		00				0		295	Asia/Tokyo	2013-04-04
+2127843	Tayama-mura	Tayama-mura	Tayama-mura	40.01667	140.91667	A	ADM4H	JP		00				0		795	Asia/Tokyo	2012-07-21
+2127848	Tateoka Mura	Tateoka Mura	Tateoka Mura,Tateoka-mura,guan gang cun,tateokamura,たておかむら,タテオカムラ,舘岡村	40.88333	140.3	A	ADM4H	JP		00				0		11	Asia/Tokyo	2013-01-11
+2127885	Takiuchi Mura	Takiuchi Mura	Takiuchi Mura,Takiuchi-mura,long nei cun,takiuchimura,たきうちむら,タキウチムラ,滝内村	40.8	140.7	A	ADM4H	JP		00				0		49	Asia/Tokyo	2013-04-04
+2127925	Taishō-mura	Taisho-mura	Taisho-mura,Taishō-mura	42.78333	143.21667	A	ADM4H	JP		00				0		126	Asia/Tokyo	2014-03-08
+2127986	Shussei Mura	Shussei Mura	Shussei Mura,Shussei-mura,chu jing cun,shusseimura,しゅっせいむら,シュッセイムラ,出精村	40.85	140.36667	A	ADM4H	JP		00				0		1	Asia/Tokyo	2013-01-11
+2128030	Shiwa-mura	Shiwa-mura	Shiwa-mura	40.55	141.26667	A	ADM4H	JP		00				0		93	Asia/Tokyo	2012-07-21
+2128208	Shibata Mura	Shibata Mura	Shibata Mura,Shibata-mura,chai tian cun,shibatamura,しばたむら,シバタムラ,柴田村	40.8	140.35	A	ADM4H	JP		00				0		6	Asia/Tokyo	2013-03-05
+2128226	Shakanai Mura	Shakanai Mura	Shakanai Mura,Shakanai-mura,shakanaimura,shi jia nei cun,しゃかないむら,シャカナイムラ,釈迦内村	40.30077	140.55038	A	ADM4H	JP		00				0		114	Asia/Tokyo	2013-02-09
+2128397	Rokugō Mura	Rokugo Mura	Rokugo Mura,Rokugo-mura,Rokugō Mura,Rokugō-mura,liu xiang cun,rokugoumura,ろくごうむら,ロクゴウムラ,六郷村	40.65	140.66667	A	ADM4H	JP		00				0		245	Asia/Tokyo	2013-04-04
+2128642	Onoe Machi	Onoe Machi	Onoe Machi,Onoe-machi,Onoe-mura,onoemachi,wei shang ding,おのえまち,オノエマチ,尾上町	40.6	140.58333	A	ADM4H	JP		00				0		42	Asia/Tokyo	2013-04-04
+2128678	Ōminato-machi	Ominato-machi	Ominato-machi,Ōminato-machi	41.26667	141.08333	A	ADM4H	JP		00				0		289	Asia/Tokyo	2014-03-08
+2128776	Ōfukanai Mura	Ofukanai Mura	Ofukanai Mura,Ofukanai-machi,Ofukanai-mura,da shen nei cun,oofukanaimura,Ōfukanai Mura,Ōfukanai-machi,Ōfukanai-mura,おおふかないむら,オオフカナイムラ,大深内村	40.63333	141.16667	A	ADM4H	JP		00				0		62	Asia/Tokyo	2013-06-05
+2128923	Nishikigi Mura	Nishikigi Mura	Nishikigi Mura,Nishikigi-mura,jin mu cun,nishikigimura,にしきぎむら,ニシキギムラ,錦木村	40.23333	140.75	A	ADM4H	JP		00				0		167	Asia/Tokyo	2013-02-09
+2128988	Maito Mura	Maito Mura	Maito Mura,Narusawa-mura,maitomura,ming ze cun,まいとむら,マイトムラ,鳴沢村	40.81667	140.26667	A	ADM4H	JP		00				0		21	Asia/Tokyo	2013-03-05
+2128999	Nanataki Mura	Nanataki Mura	Nanataki Mura,Nanataki-mura,nanatakimura,qi long cun,ななたきむら,ナナタキムラ,七滝村	40.33333	140.78333	A	ADM4H	JP		00				0		350	Asia/Tokyo	2013-05-09
+2129446	Koshimizu Mura	Koshimizu Mura	Koshimizu Mura,Koshimizu-mura,koshimizumura,yue shui cun,こしみずむら,コシミズムラ,越水村	40.81667	140.3	A	ADM4H	JP		00				0		1	Asia/Tokyo	2013-03-05
+2129451	Korekawa Mura	Korekawa Mura	Koregawa,Korekawa Mura,Korekawa-mura,Korikawa-mura,korekawamura,shi chuan cun,これかわむら,コレカワムラ,是川村	40.46667	141.5	A	ADM4H	JP		00				0		48	Asia/Tokyo	2013-07-06
+2129512	Kizukuri Machi	Kizukuri Machi	Kitsukuri,Kizukuri Machi,Kizukuri-machi,kidzukurimachi,mu zao ding,きづくりまち,キヅクリマチ,木造町	40.8	140.38333	A	ADM4H	JP		00				0		10	Asia/Tokyo	2013-03-05
+2129589	Kemanai Machi	Kemanai Machi	Kemanai Machi,Kemanai-machi,Kemani-cho,kemanaimachi,mao ma nei ding,けまないまち,ケマナイマチ,毛馬内町	40.26667	140.75	A	ADM4H	JP		00				0		152	Asia/Tokyo	2013-02-09
+2129800	Kafuka Mura	Kafuka Mura	Kafuka Mura,Kafuka-mura,kafukamura,xiang shen cun,かふかむら,カフカムラ,香深村	45.31667	141.03333	A	ADM4H	JP		00				0		211	Asia/Tokyo	2012-12-06
+2130144	Hanaya-machi	Hanaya-machi		40.36667	140.58333	A	ADM4H	JP		00				0		205	Asia/Tokyo	2012-07-21
+2130152	Hanaoka Machi	Hanaoka Machi	Hanaoka Machi,Hanaoka-machi,hanaokamachi,hua gang ding,はなおかまち,ハナオカマチ,花岡町	40.35	140.55	A	ADM4H	JP		00				0		112	Asia/Tokyo	2012-12-06
+2130325	Fukuoka Machi	Fukuoka Machi	Fukuoka Machi,Fukuoka-machi,fu gang ding,fukuokamachi,ふくおかまち,フクオカマチ,福岡町	40.26667	141.31667	A	ADM4H	JP		00				0		186	Asia/Tokyo	2013-05-09
+2130338	Fujisaka Mura	Fujisaka Mura	Fujisaka Mura,Fujisaka-mura,fujisakamura,teng ban cun,ふじさかむら,フジサカムラ,藤坂村	40.58333	141.23333	A	ADM4H	JP		00				0		33	Asia/Tokyo	2013-06-05
+2130613	Aseishi Mura	Aseishi Mura	Asaseishi,Aseishi Mura,Aseishi-mura,aseishimura,qian lai shi cun,あせいしむら,アセイシムラ,浅瀬石村	40.63333	140.61667	A	ADM4H	JP		00				0		61	Asia/Tokyo	2013-04-04
+2130644	Arasawa-mura	Arasawa-mura	Arasawa-mura	40.05	141.01667	A	ADM4H	JP		00				0		444	Asia/Tokyo	2012-07-21

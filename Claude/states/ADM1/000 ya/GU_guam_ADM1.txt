@@ -1,0 +1,19 @@
+﻿4038478	Piti Municipality	Piti Municipality	Piti	13.46256	144.69282	A	ADM1	GU		PI				1666	318	10	Pacific/Guam	2013-10-15
+4038555	Santa Rita Municipality	Santa Rita Municipality	Santa Rita	13.38609	144.67208	A	ADM1	GU		SR				6470	266	70	Pacific/Guam	2023-02-12
+4038590	Sinajana Municipality	Sinajana Municipality	Sinahanna,Sinahånña,Sinajana	13.46334	144.75381	A	ADM1	GU		SJ				2611	63	51	Pacific/Guam	2023-02-12
+4038652	Talofofo Municipality	Talofofo Municipality	Talo'fo'fo,Talofofo	13.35522	144.7588	A	ADM1	GU		TF				3550	391	103	Pacific/Guam	2023-02-12
+4038661	Tamuning-Tumon-Harmon Municipality	Tamuning-Tumon-Harmon Municipality	Tamuneng,Tamuning,Tamuning-Tumon-Harmon	13.48759	144.78094	A	ADM1	GU		TM				18489	107	19	Pacific/Guam	2023-02-12
+4038739	Umatac Municipality	Umatac Municipality	Humatak,Humåtak,Umata,Umatac	13.30739	144.66909	A	ADM1	GU		UM				647	391	101	Pacific/Guam	2023-02-12
+4038796	Yigo Municipality	Yigo Municipality	Yigo,Yigu	13.53603	144.88913	A	ADM1	GU		YG				19339	253	130	Pacific/Guam	2023-02-12
+4038811	Yona Municipality	Yona Municipality	Yo' na,Yona,Yo’ ña	13.40972	144.77714	A	ADM1	GU		YN				6298	328	90	Pacific/Guam	2023-02-12
+4043396	Merizo Municipality	Merizo Municipality	Malesso,Merizo	13.27125	144.67464	A	ADM1	GU		ME				1604	337	84	Pacific/Guam	2023-02-12
+4043416	Mangilao Municipality	Mangilao Municipality	Mangilao	13.44766	144.80071	A	ADM1	GU		MA				13476	192	58	Pacific/Guam	2023-02-12
+4043524	Agana Heights Municipality	Agana Heights Municipality	Agana Heights,Agana Heights Election District,Hagatna Heights Election District	13.46559	144.74773	A	ADM1	GU		AH				3940	159	41	Pacific/Guam	2013-10-15
+4043614	Chalan Pago-Ordot Municipality	Chalan Pago-Ordot Municipality	Chalan Pago-Ordot	13.4474	144.75888	A	ADM1	GU		CP				7064	153	46	Pacific/Guam	2023-02-12
+4043691	Asan-Maina Municipality	Asan-Maina Municipality	Asan,Assan-Ma'Ina	13.47214	144.7164	A	ADM1	GU		AS				2137	318	5	Pacific/Guam	2013-10-15
+4043725	Agat Municipality	Agat Municipality	Agat,Hagat,Hågat	13.35619	144.66938	A	ADM1	GU		AT				5656	406	286	Pacific/Guam	2016-06-23
+4043877	Dededo Municipality	Dededo Municipality	Dededo,Dededu	13.51776	144.83898	A	ADM1	GU		DD				44908	184	100	Pacific/Guam	2023-02-12
+4043885	Barrigada Municipality	Barrigada Municipality	Barrigada	13.46906	144.7988	A	ADM1	GU		BA				7956	200	68	Pacific/Guam	2023-02-12
+4044019	Hagåtña Municipality	Hagatna Municipality	Agana,Agana Municipality,Hagatna,Municipality of Hagatna	13.47279	144.75788	A	ADM1	GU		AN				943	30	5	Pacific/Guam	2023-02-12
+4044041	Inarajan Municipality	Inarajan Municipality	Inalahan,Inalåhan,Inarajan	13.29414	144.73479	A	ADM1	GU		IN				2317	379	90	Pacific/Guam	2023-02-12
+4044148	Mongmong-Toto-Maite Municipality	Mongmong-Toto-Maite Municipality	Mongmong-Toto-Maite	13.46857	144.78191	A	ADM1	GU		MT				6380	67	47	Pacific/Guam	2023-02-12

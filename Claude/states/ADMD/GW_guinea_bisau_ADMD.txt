@@ -1,0 +1,3 @@
+﻿13589537	Leste	Leste	East Province,Eastern Province	12.1184	-14.4558	A	ADMD	GW		10	8335075			0		16	Africa/Bissau	2026-02-26
+13589538	Norte	Norte	North Province,Northern Province	12.1696	-15.6335	A	ADMD	GW		04	8335050			0		20	Africa/Bissau	2026-02-26
+13589539	Sul	Sul	South Province,Southern Province	11.4787	-15.3453	A	ADMD	GW		02	10376583			0		1	Africa/Bissau	2026-02-26

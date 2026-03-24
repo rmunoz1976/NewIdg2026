@@ -1,0 +1,2 @@
+﻿10344514	Aweil West County	Aweil West County		9	27	A	ADM2H	SS		05	10344514			0		450	Africa/Juba	2017-06-13
+10400584	Wau County	Wau County		7.58777	27.13503	A	ADM2H	SS		09	10400584			0		547	Africa/Juba	2019-02-26
