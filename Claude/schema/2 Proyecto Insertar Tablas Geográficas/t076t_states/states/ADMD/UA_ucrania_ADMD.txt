@@ -1,0 +1,35 @@
+﻿701785	Markovskiy Rayon	Markovskiy Rayon	Markivs'kyy Rayon,Markivs’kyy Rayon,Markovskiy Rayon	49.5	39.58333	A	ADMD	UA		00				0		121	Europe/Kyiv	2022-12-13
+702567	Lutskiy Rayon	Lutskiy Rayon		50.66667	25.25	A	ADMD	UA		00				0		213	Europe/Kyiv	2022-12-13
+702732	Lozovskiy Rayon	Lozovskiy Rayon	Lozivs'kyy Rayon,Lozivs’kyy Rayon,Lozovskiy Rayon	49	36.33333	A	ADMD	UA		00				0		173	Europe/Kyiv	2022-12-13
+703232	Leninskiy Rayon	Leninskiy Rayon		50.43333	30.51667	A	ADMD	UA		12				0		125	Europe/Kyiv	2022-09-01
+703654	Kupyanskiy Rayon	Kupyanskiy Rayon	Kupyans'kyy Rayon,Kupyanskiy Rayon,Kup”yans’kyy Rayon	49.66667	37.75	A	ADMD	UA		00				0		150	Europe/Kyiv	2022-12-13
+703998	Krolevetskiy Rayon	Krolevetskiy Rayon	Krolevec'kij rajon,Krolevets Raion,Кролевецький район	51.5	33.41667	A	ADMD	UA		00				0		188	Europe/Kyiv	2022-09-20
+704131	Kremenskiy Rayon	Kremenskiy Rayon	Kremenskiy Rayon,Kreminna Raion,Kremins'kyy Rayon,Kremins’kyy Rayon,Rubezhanskiy Rayon	49.16667	38.16667	A	ADMD	UA		00				0		66	Europe/Kyiv	2022-12-13
+704252	Krasnozavodskiy Rayon	Krasnozavodskiy Rayon		50	36.25	A	ADMD	UA		00				0		158	Europe/Kyiv	2022-12-13
+704353	Krasnopol’skiy Rayon	Krasnopol'skiy Rayon	Krasnopil's'kij rajon,Krasnopillia Raion,Краснопільський район	50.75	35.25	A	ADMD	UA		00				0		162	Europe/Kyiv	2022-12-13
+704375	Krasnokutskiy Rayon	Krasnokutskiy Rayon	Krasnokuts'kyy Rayon,Krasnokutsk Raion,Krasnokutskiy Rayon,Krasnokuts’kyy Rayon	50	35.25	A	ADMD	UA		00				0		150	Europe/Kyiv	2022-12-13
+704616	Kovel’skiy Rayon	Kovel'skiy Rayon		51.25	24.75	A	ADMD	UA		00				0		164	Europe/Kyiv	2022-12-13
+705132	Konotopskiy Rayon	Konotopskiy Rayon		51.25	33.25	A	ADMD	UA		00				0		142	Europe/Kyiv	2022-09-01
+705731	Kivertsovskiy Rayon	Kivertsovskiy Rayon	Kivercivs'kij rajon,Kivertsi Raion,Ківерцівський район	50.91667	25.5	A	ADMD	UA		00				0		190	Europe/Kyiv	2022-12-13
+706475	Khar’kovskiy Rayon	Khar'kovskiy Rayon	Khar'kovskiy Rayon,Kharkivs'kyy Rayon,Kharkivs’kyy Rayon,Khar’kovskiy Rayon	50	36.5	A	ADMD	UA		00				0		146	Europe/Kyiv	2022-12-13
+706545	Kegichevskiy Rayon	Kegichevskiy Rayon	Kegichevskiy Rayon,Kegychivs'kyy Rayon,Kegychivs’kyy Rayon	49.33333	35.83333	A	ADMD	UA		00				0		174	Europe/Kyiv	2022-12-13
+706970	Kamensko-Bugskiy Rayon	Kamensko-Bugskiy Rayon	Kamyans'ko-Buz'kyy Rayon,Kamenko-Strumilovskiy Rayon,Kamensko-Bugskiy Rayon,Kamianka-Buzka Raion,Kam”yans’ko-Buz’kyy Rayon	50.16667	24.33333	A	ADMD	UA		00				0		219	Europe/Kyiv	2022-12-13
+707290	Izyumskiy Rayon	Izyumskiy Rayon	Izyums'kyy Rayon,Izyumskiy Rayon,Izyums’kyy Rayon	49.16667	37.41667	A	ADMD	UA		00				0		73	Europe/Kyiv	2022-12-13
+708256	Goshchanskiy Rayon	Goshchanskiy Rayon		50.58333	26.66667	A	ADMD	UA		00				0		204	Europe/Kyiv	2022-09-01
+708288	Gorokhovskiy Rayon	Gorokhovskiy Rayon		50.5	24.75	A	ADMD	UA		00				0		226	Europe/Kyiv	2022-12-13
+708309	Gorodots'kyi rayon	Gorodots'kyi rayon	Gorodokskiy rayon	49.75	23.66667	A	ADMD	UA		15				0		275	Europe/Kyiv	2022-12-13
+708718	Glukhovskiy Rayon	Glukhovskiy Rayon		51.66667	33.75	A	ADMD	UA		00				0		188	Europe/Kyiv	2022-09-01
+709537	Dubnovskiy Rayon	Dubnovskiy Rayon		50.41667	25.83333	A	ADMD	UA		00				0		222	Europe/Kyiv	2022-12-13
+709609	Drogobychskiy Rayon	Drogobychskiy Rayon	Drogobychskiy Rayon,Drogobyts'kyy Rayon,Drogobyts’kyy Rayon	49.41667	23.5	A	ADMD	UA		00				0		314	Europe/Kyiv	2022-12-13
+709945	Dneprovskiy Rayon	Dneprovskiy Rayon		50.43333	30.51667	A	ADMD	UA		12				0		125	Europe/Kyiv	2022-09-01
+710100	Dergachëvskiy Rayon	Dergachevskiy Rayon	Dergachevskiy Rayon,Dergachivs'kiy Rayon,Dergachivs’kiy Rayon,Dergachëvskiy Rayon	50.08333	36	A	ADMD	UA		00				0		193	Europe/Kyiv	2022-12-13
+710274	Darnitskiy Rayon	Darnitskiy Rayon		50.43333	30.51667	A	ADMD	UA		12				0		125	Europe/Kyiv	2022-09-01
+710372	Chuguyevskiy Rayon	Chuguyevskiy Rayon	Chuguyevskiy Rayon,Chuguyivs'kyy Rayon,Chuguyivs’kyy Rayon	49.83333	36.66667	A	ADMD	UA		00				0		124	Europe/Kyiv	2022-12-13
+710562	Chervonoarmeyskiy Rayon	Chervonoarmeyskiy Rayon		50.16667	25.33333	A	ADMD	UA		00				0		221	Europe/Kyiv	2022-12-13
+711115	Burynskiy Rayon	Burynskiy Rayon		51.08333	33.83333	A	ADMD	UA		00				0		157	Europe/Kyiv	2022-09-01
+712561	Belopol’skiy Rayon	Belopol'skiy Rayon		51.08333	34.33333	A	ADMD	UA		00				0		133	Europe/Kyiv	2022-09-01
+11875602	Chernihivka United Territorial Community	Chernihivka United Territorial Community	Chernigivs'ka OTG,Chernigivs'ka ob'ednana teritorial'na gromada,Chernigovskaja obuedinjonnaja territorial'naja obshhina,Chernihivka United Territorial Community,Chernihivs'ka Ob'yednana Terytorial'na Hromada,Черниговская объединённая территориальная община,Чернігівська ОТГ,Чернігівська об'єднана територіальна громада	47.1543	36.19155	A	ADMD	UA		26	710737	11875602		0		157	Europe/Kyiv	2022-12-13
+11875693	Prymorsk Urban United Territorial Community	Prymorsk Urban United Territorial Community	Primors'ka OTG,Primors'ka mis'ka gromada,Primors'ka mis'ka ob'ednana teritorial'na gromada,Prymorsk Urban United Territorial Community,Приморська ОТГ,Приморська міська громада,Приморська міська об'єднана територіальна громада	46.69409	36.27275	A	ADMD	UA		26	696287	11875693		0		1	Europe/Kyiv	2022-12-13
+11875737	Novooleksiyivka United Territorial Community	Novooleksiyivka United Territorial Community	Novooleksiivka United Territorial Community c,Novooleksiivs'ka OTG,Novooleksiivs'ka gromada,Novooleksiivs'ka ob'ednana teritorial'na gromada,Novooleksiyivka United Territorial Community c,Novooleksiyivs'ka ob'yednana terytorial'na hromada,Новоолексіївська ОТГ,Новоолексіївська громада,Новоолексіївська об'єднана територіальна громада	46.79668	36.17607	A	ADMD	UA		26	696287	11875737		0		28	Europe/Kyiv	2022-09-01
+11875913	Pryazovske United Territorial Community	Pryazovske United Territorial Community	Priazovs'ka OTG,Priazovs'ka ob'ednana teritorial'na gromada,Pryazovs'ka ob'yednana terytorial'na hromada,Приазовська ОТГ,Приазовська об'єднана територіальна громада	46.75631	35.65449	A	ADMD	UA		26	696333	11875913		0		26	Europe/Kyiv	2022-12-13
+11875989	Yakymivka United Territorial Community	Yakymivka United Territorial Community	Jakimivs'ka OTG,Jakimivs'ka ob'ednana teritorial'na gromada,Jakymivs'ka ob'jednana terytorial'na hromada,Yakymivs`ka ob`yednana terytorial`na hromada,Якимівська ОТГ,Якимівська об'єднана територіальна громада	46.6814	35.08687	A	ADMD	UA		26	713738	11875989		0		34	Europe/Kyiv	2022-12-13

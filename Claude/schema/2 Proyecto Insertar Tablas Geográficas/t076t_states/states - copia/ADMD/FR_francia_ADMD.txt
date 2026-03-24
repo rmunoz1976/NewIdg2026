@@ -1,0 +1,9 @@
+﻿2970926	Comarca del Vallespir	Comarca del Vallespir		42.47577	2.63809	A	ADMD	FR		76	66			0		436	Europe/Paris	2016-02-18
+2976976	Canton Saint-Seine-l'Abbaye	Canton Saint-Seine-l'Abbaye		47.48333	4.83333	A	ADMD	FR		27				0		532	Europe/Paris	2016-02-18
+2985839	Canton Pouilly-en-Auxois	Canton Pouilly-en-Auxois		47.18333	4.55	A	ADMD	FR		27				0		430	Europe/Paris	2016-02-18
+3037942	Canton Ambérieu-en-Bugey	Canton Amberieu-en-Bugey		45.95	5.35	A	ADMD	FR		84				0		246	Europe/Paris	2016-02-18
+4020092	Clipperton Island	Clipperton Island	Clipperton,Clipperton Island,Clipperton-Insel,Ile Clipperton,Ile de La Passion,Isla de La Passion,La Passion,jzr klbrtwn,jzr klybrtwn,jzyrt klbrtwn,jzyrt klybrtwn,klbrtwn,Île Clipperton,Île de La Passion,جزر كلبرتون,جزر كليبرتون,جزيرة كلبرتون,جزيرة كليبرتون,كلبرتون	10.29216	-109.20722	A	ADMD	FR	FR					0		8	Pacific/Marquesas	2024-11-11
+11868142	Métropole de Lyon	Metropole de Lyon	Grand Lyon,Lyon Metropolis,Metropole de Lyon,Métropole de Lyon	45.76656	4.8321	A	ADMD	FR		84	69			1354476		186	Europe/Paris	2022-02-14
+11875708	Métropole du Grand Paris	Metropole du Grand Paris		48.79591	2.37077	A	ADMD	FR		11				7070000		107	Europe/Paris	2018-05-28
+11880048	Val de Moder	Val de Moder	Commune de Val de Moder,Val de Moder	48.84718	7.61121	A	ADMD	FR		44				0		169	Europe/Paris	2018-06-11
+13512578	European Collectivity of Alsace	European Collectivity of Alsace	CEA	48.69213	7.50627	A	ADMD	FR		44				1919745		240	Europe/Paris	2025-08-24

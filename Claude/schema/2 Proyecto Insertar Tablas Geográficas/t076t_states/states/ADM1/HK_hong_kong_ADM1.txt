@@ -1,0 +1,18 @@
+﻿1818224	Yuen Long District	Yuen Long District	Yuen Long,Yuen Long Area,Yuen Long District,wianlang gu,위안랑 구	22.41667	114.05	A	ADM1	HK		NYL				534192		146	Asia/Hong_Kong	2018-01-10
+1818458	Tsuen Wan District	Tsuen Wan District	Tseun Wan,Tsuen Wan,Tsuen Wan Area,Tsuen Wan District,chwian-wan gu,chwin-wan gu,취안완 구,췬완 구	22.37908	114.10598	A	ADM1	HK		NTW				288728		55	Asia/Hong_Kong	2018-01-10
+1818672	Tai Po District	Tai Po District	Ta-p'u,Ta-p’u,Tai Po,Tai Po Area,Tai Po District,dapu gu,다푸 구	22.43995	114.1654	A	ADM1	HK		NTP				293542		27	Asia/Hong_Kong	2018-01-10
+1819049	Sai Kung District	Sai Kung District	Sai Kung,Sai Kung Area,Sai Kung District,sigung gu,시궁 구	22.38198	114.27017	A	ADM1	HK		NSK				406442		15	Asia/Hong_Kong	2025-09-16
+1819708	Islands District	Islands District	Islands,Islands Area,Islands District,Southern District,li dao qu,lidao gu,離島區,리다오 구	22.26382	113.96038	A	ADM1	HK		NIS				140188		423	Asia/Hong_Kong	2018-01-10
+7533598	Central and Western District	Central and Western District	Central and Western,jungsi gu,zhong xi qu,中西區,중시 구	22.28219	114.14486	A	ADM1	HK		HCW				251519		157	Asia/Hong_Kong	2018-01-10
+7533607	Wan Chai	Wan Chai	Wan Chai,Wan Chai District,Wanchai,wan zi qu,wanjjeu gu,灣仔區,완쯔 구	22.27702	114.17232	A	ADM1	HK		HWC				155196		55	Asia/Hong_Kong	2025-09-16
+7533608	Eastern	Eastern	Eastern District,dong qu,dung gu,東區,둥 구	22.27722	114.22519	A	ADM1	HK		HEA				587690		51	Asia/Hong_Kong	2025-09-16
+7533609	Southern	Southern	Southern District,nam gu,nam ku-i,nan gu,난 구,남 구,남 쿠이	22.24112	114.20769	A	ADM1	HK		HSO				275162		137	Asia/Hong_Kong	2025-09-16
+7533610	Yau Tsim Mong	Yau Tsim Mong	Yau Tsim Mong,Yau Tsim Mong District,you jian wang qu,yujen-wang gu,油尖旺區,유젠왕 구	22.31327	114.16923	A	ADM1	HK		KYT				280548		23	Asia/Hong_Kong	2025-09-16
+7533611	Sham Shui Po	Sham Shui Po	Sham Shui Po District,seonsu-ibu gu,선수이부 구	22.32989	114.1625	A	ADM1	HK		KSS				365540		20	Asia/Hong_Kong	2025-09-16
+7533612	Kowloon City	Kowloon City	Cuu Long Thanh,Cửu Long Thành,Distretto di Kowloon City,Kiu-liung-sang-khi,Kiú-liông-siâⁿ-khu,Kiú-liùng-sàng-khî,Koulun-Siti,Kowloon City,Kowloon City District,Kowloon City barrutia,Kowloon-distriktet,jiu long cheng qu,julungcheong gu,kavulun nakara mavattam,Коулун-Сити,קאולון סיטי,مقاطعة مدينة كولون,கவுலூன் நகர மாவட்டம்,九龍城区,九龍城區,주룽청 구	22.32866	114.19121	A	ADM1	HK		KKC				362501		15	Asia/Hong_Kong	2024-02-22
+7533613	Wong Tai Sin	Wong Tai Sin	Wong Tai Sin District,hwangdasyen gu,황다셴 구	22.34299	114.19302	A	ADM1	HK		KWT				423521		40	Asia/Hong_Kong	2025-09-16
+7533614	Kwun Tong	Kwun Tong	Kwun Tong District,guan tang,gwantang gu,觀塘,관탕 구	22.31326	114.22581	A	ADM1	HK		KKT				587423		22	Asia/Hong_Kong	2025-09-16
+7533615	Kwai Tsing	Kwai Tsing	Kwai Tsing District,ku-iching gu,kui qing qu,葵青區,쿠이칭 구	22.35288	114.10004	A	ADM1	HK		NKT				523300		20	Asia/Hong_Kong	2025-09-16
+7533616	Tuen Mun	Tuen Mun	Distretto di Tuen Mun,GJon Mon,Thun-mun-khi,Thûn-mùn-khî,Tkhjun'mun',Tuen Mun,Tuen Mun District,Tuen Mun barrutia,Tun-mng-khu,Tūn-mn̂g-khu,cun mun mavattam,tumuna,tun men qu,tunmeon gu,twinmun gu,Đồn Môn,Тхюньмунь,טואן מאן,مقاطعة توين مون,ਤੁੰਮੂਨ,சுன் மூன் மாவட்டம்,屯門区,屯門區,툰먼 구,튄문 구	22.39161	113.96792	A	ADM1	HK		NTM				502035		20	Asia/Hong_Kong	2025-09-16
+7533617	North	North	North District,bei gu,bei qu,北區,베이 구	22.49471	114.13812	A	ADM1	HK		NNO				280730		18	Asia/Hong_Kong	2025-09-16
+7533618	Sha Tin	Sha Tin	Distretto di Sha Tin,Sa GJien,Sa Điền,Sa-thien-khi,Sa-tian-khu,Sa-tiân-khu,Satkhin',Sha Tin,Sha Tin District,Sha Tin barrutia,Sha Tin-distriktet,Szathin,Száthín,Sâ-thièn-khî,ca tin mavattam,satyen gu,sha tian qu,Сатхинь,שא טין,شا تن ضلع,مقاطعة شا تين,சா டின் மாவட்டம்,沙田区,沙田區,사톈 구	22.38715	114.19534	A	ADM1	HK		NST				630273		10	Asia/Hong_Kong	2025-09-16

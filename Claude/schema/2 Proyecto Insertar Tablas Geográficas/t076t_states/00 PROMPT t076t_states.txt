@@ -1,0 +1,140 @@
+¿En qué está trabajando?
+Insertar los datos de los departamento, estados, provincias, emiratos, regiones, etc de cada países
+
+¿Qué está tratando de lograr?
+Insertar los datos de todos los países en la tabla t076t_states
+
+Voy a pedirte los datos para poblar la tabla MySQL `t076t_states` con las
+divisiones administrativas de primer nivel del país que adjunto
+
+CONTEXTO DE TABLAS:
+1. `t076t_states`        — divisiones del país (lo que vas a generar)
+2. `t071t_division_types` — catálogo de tipos geográficos
+                           (se inserta solo si el tipo NO existe aún)
+3. `t074t_countries`     — países (ya existe; usa subquery para id_country)
+
+Se adjunta la estructura: t071t_division_types.txt t074t_countries.txt t076t_states.txt
+
+INSTRUCCIONES PASO A PASO 
+
+PASO 1 — INVESTIGA el país:
+  - Busca el nombre oficial del país en español, inglés e ISO
+  - Identifica el tipo de división administrativa de primer nivel
+    (departamento, estado, provincia, región, cantón, gobernación, etc.)
+  - Obtén el código ISO 3166-1 alpha-2 del país (ej: CO, MX, ES)
+  - Obtén los datos de geonames.org para cada división (geo_id)
+    readme.txt https://download.geonames.org/export/dump/readme.txt
+    GeoNames Data https://www.geonames.org/export/
+    Country Codes https://www.geonames.org/countries/
+    Download server https://download.geonames.org/export/dump/
+    Postal codes https://www.geonames.org/postal-codes/
+    Postal codes are available as a separate download. https://download.geonames.org/export/zip/?C=N;O=A
+    GeoNames WebServices overview https://www.geonames.org/export/ws-overview.html  
+  - Ten en cuenta esas otras fuentes de consulta (en orden de confiabilidad)
+	countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+	CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+	GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+	OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+	Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+	https://www.geonames.org/countries/AF/afghanistan.html
+	https://www.geonames.org/AF/administrative-division-afghanistan.html
+
+
+PASO 2 — VERIFICA t071t_division_types:
+  Antes de los INSERTs de estados, verifica si el tipo ya existe.
+  Genera el INSERT solo si NO existe en la tabla. Usa este patrón:
+
+  INSERT IGNORE INTO t071t_division_types
+    (code, name_spanish, name_english, name_original, name_transcribed,
+     status, created_at, updated_at, created_by, updated_by)
+  SELECT '[CODE]','[ES]','[EN]','[ORIGINAL]','[TRANSCRIBED]',1,NOW(6),NOW(6),1,1
+  WHERE NOT EXISTS (
+    SELECT 1 FROM t071t_division_types WHERE code = '[CODE]'
+  );
+
+PASO 3 — GENERA los INSERTs de t076t_states:
+  Para cada división de primer nivel del país genera un INSERT con estos valores:
+
+  - geo_id            → ID numérico de geonames.org
+  - id_country        → (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'XX')
+  - code              → código corto único, ej: CO-ANT
+  - code_dane         → SOLO para Colombia; NULL para todos los demás países
+  - code_dian         → SOLO para Colombia; NULL para todos los demás países
+  - code_iso_numeric  → código numérico ISO 3166-2 de la división
+  - code_iso_alpha2   → código alpha-2 ISO 3166-2, ej: CO-ANT
+  - code_iso_alpha3   → código alpha-3 derivado, ej: COL-ANT
+  - phone_code        → indicativo telefónico (heredar del país si no tiene propio)
+  - id_division_type  → (SELECT id FROM t071t_division_types WHERE code = '[CODE]')
+  - name_spanish      → Nombre en español',
+  - name_english      → Nombre en inglés',
+  - name_iso          → Nombre oficial ISO del país',
+  - name_original     → Nombre en idioma oficial',
+  - name_transcribed  → Nombre transcrito a alfabeto latino legible',
+  - status            → 1
+  - created_at        → NOW(6)
+  - updated_at        → NOW(6)
+  - created_by        → 1
+  - updated_by        → 1
+
+
+FORMATO DE SALIDA 
+
+Entrega el SQL en este orden:
+  1. Comentario de cabecera con: país, total de divisiones, tipo, fuente
+  2. INSERT de t071t_division_types (si aplica, con WHERE NOT EXISTS)
+  3. INSERTs de t076t_states (un INSERT ... VALUES múltiple, una fila por línea)
+
+REGLAS 
+
+  - Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+    duplicándolas (''), NO con barra invertida (\').
+    Ejemplos de nombres que requieren escape:
+      M'sila      → 'M''sila'
+      Aïn N'Sour  → 'Aïn N''Sour'
+      Oum el Bouaghi → sin apóstrofe, no requiere escape
+    Aplica a TODOS los campos varchar: name_spanish, name_english,
+    name_iso, name_original, name_transcribed, code, etc.
+    Antes de generar el SQL, revisar todos los valores en busca de
+    apóstrofes o comillas simples embebidas y duplicarlas.
+  - NULL sin comillas para valores nulos
+  - name_spanish en minúsculas con tilde si aplica
+  - name_english siempre en inglés sin caracteres especiales
+  - name_iso: nombre oficial exacto según ISO 3166-2
+  - No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+  - Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+    agrupa por tipo y genera un INSERT de division_type por cada uno
+  - si no obtienes los valores de code_iso_alpha2, code_iso_alpha3, code_iso_numeric y phone_code, déjalos con cero (0)
+
+ EJEMPLO DE SALIDA ESPERADA (extracto Colombia) ═══
+
+-- País:      Colombia
+-- ISO:       CO / COL / 170
+-- Tipo:      Departamento
+-- Total:     33 divisiones (32 departamentos + 1 distrito capital)
+-- Fuente:    ISO 3166-2:CO / geonames.org
+
+-- PASO 2: tipo geográfico
+INSERT IGNORE INTO t071t_division_types
+  (code, name_spanish, name_english, name_original, name_transcribed,
+   status, created_at, updated_at, created_by, updated_by)
+SELECT 'DEPT','Departamento','Department','Departamento','Departamento',
+  1,NOW(6),NOW(6),1,1
+WHERE NOT EXISTS (SELECT 1 FROM t071t_division_types WHERE code = 'DEPT');
+
+-- PASO 3: divisiones ( t076t_states )
+INSERT INTO t076t_states (
+   geo_id, id_country, code, code_dane, code_dian,
+  code_iso_numeric, code_iso_alpha2, code_iso_alpha3, phone_code,
+  id_division_type, name_spanish, name_english, name_iso, name_original, name_transcribed,
+  status, created_at, updated_at, created_by, updated_by
+) VALUES
+( 1147288, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='AF'), 'AF-BAL', NULL, NULL, '30', 'AF-BAL', 'AFG-BAL', '+93', (SELECT id t071t_division_types_type WHERE code='PROV'), 'balkh', 'Balkh', 'Balkh', 'بلخ', 'Balkh', 1, NOW(6), NOW(6), 1, 1),
+( 1147239, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='AF'), 'AF-BAM', NULL, NULL, '05', 'AF-BAM', 'AFG-BAM', '+93', (SELECT idt071t_division_typesn_type WHERE code='PROV'), 'bamian', 'Bamyan', 'Bāmyān', 'بامیان', 'Bāmyān', 1, NOW(6), NOW(6), 1, 1),
+( 1147745, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='AF'), 'AF-BDS', NULL, NULL, '01', 'AF-BDS', 'AFG-BDS', '+93', (SELECT it071t_division_typeson_type WHERE code='PROV'), 'badajshán', 'Badakhshan', 'Badakhshān', 'بدخشان', 'Badakhshān', 1, NOW(6), NOW(6), 1, 1),
+( 635817, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='AX'), 'AX-SD', NULL, NULL, '771', 'AX-SD', 'ALA-SD', '+358', (SELECT t071t_division_typesion_type WHERE code='MUNI'), 'sund', 'Sund', 'Sund', 'Sund', 'Sund', 1, NOW(6), NOW(6), 1, 1),
+( 632425, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='AX'), 'AX-VR', NULL, NULL, '941', 'AX-VR', 'ALA-VR', '+358', (SELECTt071t_division_typession_type WHERE code='MUNI'), 'vårdö', 'Vårdö', 'Vårdö', 'Vårdö', 'Vardoe', 1, NOW(6), NOW(6), 1, 1);
+( 3686110, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='CO'), 'CO-ANT', '05', '05', '05', 'CO-ANT', 'COL-ANT', '+57', (SELECt071t_division_typesision_type WHERE code='DEPT'), 'antioquia', 'Antioquia', 'Antioquia', 'Antioquia', 'Antioquia', 1, NOW(6), NOW(6), 1, 1),
+( 3688682, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='CO'), 'CO-ATL', '08', '08', '08', 'CO-ATL', 'COL-ATL', '+57', (SELEt071t_division_typesvision_type WHERE code='DEPT'), 'atlántico', 'Atlántico', 'Atlántico', 'Atlántico', 'Atlántico', 1, NOW(6), NOW(6), 1, 1),
+( 3688275, (SELECT id FROM t074t_countries WHERE code_iso_alpha2='CO'), 'CO-DC', '11', '11', '11', 'CO-DC', 'COL-DC', '+57', (SELt071t_division_typesivision_type WHERE code='DEPT'), 'bogotá d.c.', 'Bogotá D.C.', 'Bogotá D.C.', 'Bogotá D.C.', 'Bogotá D.C.', 1, NOW(6), NOW(6), 1, 1);
+
+FIN DEL PROMPT

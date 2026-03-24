@@ -1,0 +1,12 @@
+﻿8469611	Al Mamzar District	Al Mamzar District	Al Mamzar,Al Mamzar District	25.30763	55.35549	A	ADMD	AE		00				0		3	Asia/Dubai	2025-09-09
+8469612	Al Nahda District	Al Nahda District	Al Nahda,Al Nahda District	25.29007	55.37467	A	ADMD	AE		00				0		5	Asia/Dubai	2025-09-09
+8476505	Al Khalidia Suburb	Al Khalidia Suburb	Al Khalidia Suburb	25.3377	55.36843	A	ADMD	AE		06				0		2	Asia/Dubai	2018-07-05
+8476507	Al Majaz District	Al Majaz District		25.33313	55.38312	A	ADMD	AE		06				0		9	Asia/Dubai	2013-03-06
+8476513	Al Qasimia	Al Qasimia		25.34526	55.3924	A	ADMD	AE		06				0		31	Asia/Dubai	2013-03-06
+8476516	Al Gharb District	Al Gharb District		25.358	55.39678	A	ADMD	AE		06				0		5	Asia/Dubai	2013-03-06
+8476567	Al Riqa’a Suburb	Al Riqa'a Suburb		25.37145	55.43493	A	ADMD	AE		02				0		2	Asia/Dubai	2013-03-06
+8476568	Wasit Suburb	Wasit Suburb		25.35425	55.45983	A	ADMD	AE		06				0		10	Asia/Dubai	2013-07-08
+8476569	Mughaidir Suburb	Mughaidir Suburb		25.33414	55.4445	A	ADMD	AE		06				0		11	Asia/Dubai	2013-03-06
+8476570	Halwan Suburb	Halwan Suburb		25.35072	55.4155	A	ADMD	AE		06				0		9	Asia/Dubai	2013-03-06
+8477176	Al Bdee’a Suburb	Al Bdee'a Suburb		25.28033	55.53442	A	ADMD	AE		00				0		38	Asia/Dubai	2013-03-06
+8477211	Mowaileh Suburb	Mowaileh Suburb		25.29479	55.49031	A	ADMD	AE		00				0		15	Asia/Dubai	2013-03-06

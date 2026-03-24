@@ -1,0 +1,12 @@
+﻿11281874	Tanger-Tetouan-Al Hoceima	Tanger-Tetouan-Al Hoceima	tnjt - ttwan - alhsymt,طنجة - تطوان - الحسيمة,ⵟⴰⵏⵊⴰ ⵜⵉⵟⵡⴰⵏ ⵍⵃⵓⵙⵉⵎⴰ	35.72626	-5.774	A	ADM1	MA		01				3556729		63	Africa/Casablanca	2023-02-02
+11281875	Oriental	Oriental	A Oriental,Dogu,Doğu,L'Oriental,Oriental,Oriental Te-hng,Oriental Tē-hng,Region Wschodni,Regione Orientale,Skhidnij region,Tanegmudt,Tanegmuḍt,Tasga Tagmudant,Tasga Tagmuḍant,Vostochnaja oblast',alshrq,dong bu da qu,jht alshrq,mntqh shrq,oliangtal jibang,oriantaru de fang,Восточная область,Східний регіон,אוריינטל,الشرق,جهة الشرق,منطقه شرق,ⵜⴰⵎⵏⴰⴹⵜ ⵏ ⵓⴳⵎⵓⴹ,オリアンタル地方,东部大区,오리앙탈 지방	34.82696	-2.12585	A	ADM1	MA		02				2314346		854	Africa/Casablanca	2016-11-02
+11281876	Fès-Meknès	Fes-Meknes	Fez-Meknes,fas-mknas,فاس-مكناس	34.02831	-5.00565	A	ADM1	MA		03				4236892		417	Africa/Casablanca	2023-01-31
+11281877	Rabat-Salé-Kénitra	Rabat-Sale-Kenitra	ⴻⵕⵕⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ	34.00106	-6.78028	A	ADM1	MA		04				4580866		4	Africa/Casablanca	2023-02-02
+11281878	Béni Mellal-Khénifra	Beni Mellal-Khenifra	bny mlal - khnyfrt,بني ملال - خنيفرة	32.3264	-6.3089	A	ADM1	MA		05				2520776		861	Africa/Casablanca	2023-02-01
+11281879	Casablanca-Settat	Casablanca-Settat	aldar albydaʾ - stat,الدار البيضاء - سطات	33.47804	-7.43225	A	ADM1	MA		06				6861739		179	Africa/Casablanca	2023-08-21
+11281880	Marrakesh-Safi	Marrakesh-Safi	mraksh asfy,مراكش آسفي,ⵎⵕⵕⴰⴽⵛ ⴰⵙⴼⵉ	31.63488	-7.98569	A	ADM1	MA		07				4520569		464	Africa/Casablanca	2016-11-03
+11281881	Drâa-Tafilalet	Draa-Tafilalet		31.69156	-4.41925	A	ADM1	MA		08				1635008		948	Africa/Casablanca	2025-02-03
+11281882	Souss-Massa	Souss-Massa	Sus massa,Sūs māssa,sws mast,سوس ماسة	30.42539	-9.56566	A	ADM1	MA		09				2676847		102	Africa/Casablanca	2023-02-01
+11281884	Guelmim-Oued Noun	Guelmim-Oued Noun	jht klmym wad nwn,jht klmym wady nwn,klmym wad nwn,klmym wady nwn,جهة كلميم واد نون,جهة كلميم وادي نون,كلميم واد نون,كلميم وادي نون	29.00173	-10.0391	A	ADM1	MA		10				433757		338	Africa/Casablanca	2019-03-13
+11281885	Laâyoune-Sakia El Hamra	Laayoune-Sakia El Hamra	alʿywn - alsaqyt alhmraʾ,العيون - الساقية الحمراء,ⵍⵄⵢⵓⵏ ⵜⴰⵔⴳⴰ ⵜⴰⵣⴳⴳⵯⴰⵖⵜ	27.8583	-12.20787	A	ADM1	MA		11				367758		90	Africa/Casablanca	2023-02-02
+11281886	Dakhla-Oued Ed-Dahab	Dakhla-Oued Ed-Dahab		23.75128	-15.91782	A	ADM1	MA	EH	12				142955		11	Africa/Casablanca	2016-11-02

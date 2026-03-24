@@ -1,0 +1,30 @@
+﻿2636745	Strabane District	Strabane District	An Srath Ban,An Srath Bán,STB,Straban,Strabane	54.83333	-7.33333	A	ADM2H	GB		NIR	T4			40000		142	Europe/London	2016-12-03
+2640968	Omagh District	Omagh District	OMH,Omagh	54.58333	-7.25	A	ADM2H	GB		NIR	T3			51800		87	Europe/London	2016-12-03
+2641376	North Down District	North Down District	NDN,North Down	54.66053	-5.66826	A	ADM2H	GB		NIR	T2			79400		19	Europe/London	2016-12-03
+2641429	Northamptonshire	Northamptonshire	County of Northamptonshire,NTH,Northampton,Northamptonshire,Northants	52.25	-0.83333	A	ADM2H	GB		ENG	J1			792421		71	Europe/London	2025-04-15
+2641521	Newtownabbey District	Newtownabbey District	NTA,Newtownabbey	54.66667	-5.91667	A	ADM2H	GB		NIR	T1			85600		36	Europe/London	2016-12-03
+2641580	Newry and Mourne District	Newry and Mourne District	Comhairle an Iuir agus Mhurn,Comhairle an Iúir agus Mhúrn,NYM,Newry and Mourne	54.16667	-6.25	A	ADM2H	GB		NIR	S9			101600		117	Europe/London	2016-12-03
+2642068	Moyle District	Moyle District	MYL,Moyle	55.16667	-6.16667	A	ADM2H	GB		NIR	N09000004			17100		199	Europe/London	2018-02-17
+2643209	Magherafelt District	Magherafelt District	MFT,Magherafelt	54.75	-6.66667	A	ADM2H	GB		NIR	S7			45800		78	Europe/London	2016-12-03
+2643737	City of Derry	City of Derry	DRY,Derry,Doire,Londonderry	55	-7.25	A	ADM2H	GB		NIR	S6			108600		31	Europe/London	2016-12-03
+2644412	Lisburn District	Lisburn District	LSB,Lisburn	54.50907	-6.04437	A	ADM2H	GB		NIR	S5			122000		44	Europe/London	2016-12-03
+2644502	Limavady District	Limavady District	Comhairle Bhuirg Leim an Mhadaidh,Comhairle Bhuirg Léim an Mhadaidh,LMV,Limavady	55	-7	A	ADM2H	GB		NIR	S4			33900		197	Europe/London	2016-12-03
+2644850	Larne District	Larne District	LRN,Larne	54.83333	-5.83333	A	ADM2H	GB		NIR	S3			32200		116	Europe/London	2016-12-03
+2649533	Fermanagh District	Fermanagh District	FER,Fermanagh	54.33333	-7.5	A	ADM2H	GB		NIR	S2			62500		85	Europe/London	2016-12-03
+2650730	Dungannon District	Dungannon District	Comhairle Buirge Dhun Geanainn agus Thir Eoghain Theas,Comhairle Buirge Dhún Geanainn agus Thír Eoghain Theas,DGN,Dungannon,Dungannon and South Tyrone Borough Council	54.5	-6.83333	A	ADM2H	GB		NIR	S1			59300		97	Europe/London	2016-12-03
+2651038	Down District	Down District	DOW,Down	54.33333	-5.66667	A	ADM2H	GB		NIR	R9			70800		35	Europe/London	2016-12-03
+2652151	Craigavon District	Craigavon District	CGV,Craigavon	54.5	-6.33333	A	ADM2H	GB		NIR	R8			95500		13	Europe/London	2016-12-03
+2652418	Cookstown District	Cookstown District	CKT,Comhairle Cheantar na Coirre Criochai,Comhairle Cheantar na Coirre Críochaí,Cookstown	54.66667	-6.66667	A	ADM2H	GB		NIR	R7			37600		55	Europe/London	2016-12-03
+2652587	Coleraine District	Coleraine District	Coleraine	55.08333	-6.66667	A	ADM2H	GB		NIR	R6			59000		45	Europe/London	2016-12-03
+2653559	Castlereagh District	Castlereagh District	CSR,Castlereagh	54.57405	-5.87082	A	ADM2H	GB		NIR	R5			67900		70	Europe/London	2016-12-03
+2653681	Carrickfergus District	Carrickfergus District	CKF,Carrickfergus,Comhairle Baile Charraig Fheargais	54.75	-5.83333	A	ADM2H	GB		NIR	R4			39000		242	Europe/London	2016-12-03
+2655983	Belfast County Borough	Belfast County Borough		54.6017	-5.94755	A	ADM2H	GB		NIR	N09000003			0		16	Europe/London	2017-09-09
+2655985	Belfast	Belfast	Beal Feirste,Beeal Feirshtey,Belfast,Belfasta,Belfastas,Belfasto,Belfastum,Belffast,Belfāsta,Belpas,Beul Feirste,Bèlfast,Béal Feirste,Bélfast,Gorad Belfast,bei er fa si te,belaphasta,belfast,belpaseuteu,berufasuto,blfast,blpst,pelpast,Μπέλφαστ,Белфаст,Горад Белфаст,Բելֆաստ,בלפסט,בעלפאסט,بلفاست,بیلفاسٹ,बेलफास्ट,বেলফাস্ট,பெல்பாஸ்ட்,ಬೆಲ್‌ಫಾಸ್ಟ್‌,เบลฟัสต์,ဗဲလဖတ်မြို့,ბელფასტი,ベルファスト,貝爾法斯特,贝尔法斯特,벨파스트	54.58333	-5.95	A	ADM2H	GB		NIR				0		11	Europe/London	2015-04-29
+2656408	Banbridge District	Banbridge District	BNB,Banbridge	54.33333	-6.16667	A	ADM2H	GB		NIR	R2			48900		109	Europe/London	2016-12-03
+2656489	Ballymoney District	Ballymoney District	BLY,Ballymoney	55	-6.41667	A	ADM2H	GB		NIR	R1			31700		168	Europe/London	2016-12-03
+2656491	Ballymena District	Ballymena District	BLA,Ballymena	54.83333	-6.25	A	ADM2H	GB		NIR	Q9			64800		62	Europe/London	2016-12-03
+2657061	Armagh District	Armagh District	ARM,Armagh	54.33333	-6.5	A	ADM2H	GB		NIR	Q8			60400		72	Europe/London	2016-12-03
+2657122	Ards District	Ards District	ARD,Ards	54.59196	-5.70156	A	ADM2H	GB		NIR	Q7			78500		4	Europe/London	2016-12-03
+2657256	Antrim Borough	Antrim Borough	ANT,Antrim,Antrim Borough Council	54.66667	-6.25	A	ADM2H	GB		NIR	Q6			54000		40	Europe/London	2016-12-03
+3333129	Bournemouth	Bournemouth	BMH,Bornmut,Bornmutas,Bournemouth,Gorad Bornmut,ban ni mao fu,bo en mao si,bonmasu,bonmeoseu,bornmuti,bwrnmwt,bwrnmwth,bxr nmath,Борнмут,Борнмът,Горад Борнмут,בורנמות,بورنموتھ,بورنموث,বোর্ন্‌মাথ,บอร์นมัท,ბორნმუთი,ボーンマス,伯恩茅斯,般尼茅夫,본머스	50.71918	-1.87806	A	ADM2H	GB		ENG	B2			197657		9	Europe/London	2020-05-17
+3333182	Poole	Poole	POL,Poole	50.73333	-1.96667	A	ADM2H	GB		ENG	K5			151500		26	Europe/London	2020-05-17

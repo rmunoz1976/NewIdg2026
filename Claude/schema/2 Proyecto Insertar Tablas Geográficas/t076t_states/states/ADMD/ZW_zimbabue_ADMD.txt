@@ -1,0 +1,10 @@
+﻿1105948	Norwood Township	Norwood Township		-20.0475	28.52167	A	ADMD	ZW		06				0		1279	Africa/Harare	2000-10-04
+1105952	Richmond Township	Richmond Township		-20.08417	28.55111	A	ADMD	ZW		09				0		1305	Africa/Harare	2000-10-04
+1106007	Marvel Townships	Marvel Townships		-20.12778	28.66056	A	ADMD	ZW		09				0		1329	Africa/Harare	2000-10-04
+1106019	Bulawayo Township	Bulawayo Township		-20.13861	28.63833	A	ADMD	ZW		09				0		1332	Africa/Harare	2000-10-04
+1106027	Marvel Township	Marvel Township		-20.15583	28.64472	A	ADMD	ZW		09				0		1349	Africa/Harare	2000-10-04
+1106072	Emakhandeni Township	Emakhandeni Township		-20.11056	28.52972	A	ADMD	ZW		09				0		1347	Africa/Harare	2000-10-04
+1106079	Lobengula Township	Lobengula Township		-20.12639	28.51722	A	ADMD	ZW		09				0		1365	Africa/Harare	2000-10-04
+1106152	Douglasdale Township	Douglasdale Township		-20.24083	28.655	A	ADMD	ZW		06				0		1429	Africa/Harare	2000-10-04
+1106164	Kensington Township	Kensington Township		-20.19056	28.72556	A	ADMD	ZW		06				0		1401	Africa/Harare	2000-10-04
+1106172	Manningdale Township	Manningdale Township		-20.20861	28.68056	A	ADMD	ZW		09				0		1390	Africa/Harare	2000-10-04

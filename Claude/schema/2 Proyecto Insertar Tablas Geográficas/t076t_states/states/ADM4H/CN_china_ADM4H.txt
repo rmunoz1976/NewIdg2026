@@ -1,0 +1,24 @@
+﻿8696244	Getang	Getang	Getang,Getang Zhen,ge tang,ge tang zhen,戈塘,戈塘镇	25.2849	105.35	A	ADM4H	CN		18			8696244	0		1203	Asia/Shanghai	2025-09-14
+8696323	Saji	Saji	Saji,Saji Zhen,sa ji,sa ji zhen,洒基,洒基镇	26.0706	104.543	A	ADM4H	CN		18	5202	1799006		0		1820	Asia/Shanghai	2025-09-01
+8696425	Laofenzui	Laofenzui	Laofenzui,Laofenzui Xiang,lao fen zui,lao fen zui xiang,老坟嘴,老坟嘴乡	27.0991	107.646	A	ADM4H	CN		18			8696425	0		878	Asia/Shanghai	2025-09-13
+9525324	Bayinbuluke Qugongsuo	Bayinbuluke Qugongsuo	Bayinbuluke Qugongsuo,ba yin bu lu ke qu gong suo,巴音布鲁克区公所	43.02851	84.15012	A	ADM4H	CN		13				0		2454	Asia/Urumqi	2014-09-08
+9616464	Zhaomiao	Zhaomiao	Zhaomiao,Zhaomiao Zhen,zhao miao,zhao miao zhen,赵庙,赵庙镇	35.09385	116.60148	A	ADM4H	CN		25				0		32	Asia/Shanghai	2014-10-04
+9616485	Guanshan	Guanshan	Guanshan,Guanshan Xiang,guan shan,guan shan xiang,关山,关山乡	36.15593	116.13883	A	ADM4H	CN		25				0		38	Asia/Shanghai	2014-10-04
+10252141	Chengjiao	Chengjiao	Chengjiao,Chengjiao Xiang,cheng jiao,cheng jiao xiang,城郊,城郊乡	37.7936	107.396	A	ADM4H	CN		21				0		1351	Asia/Shanghai	2015-05-07
+10252144	Honghua	Honghua	Honghua,Honghua Xiang,hong hua,hong hua xiang,红花,红花乡	38.4515	106.285	A	ADM4H	CN		21	6401			0		1115	Asia/Shanghai	2018-12-06
+10252147	Xishuigu	Xishuigu	Xishuigu,Xishuigu Xiang,xi shui gu,xi shui gu xiang,西水固,西水固乡	39.0818	106.633	A	ADM4H	CN		21				0		1092	Asia/Shanghai	2015-05-07
+10252148	Guchengzi	Guchengzi	Guchengzi,Guchengzi Xiang,gu cheng zi,gu cheng zi xiang,古城子,古城子乡	37.46	105.646	A	ADM4H	CN		21				0		1195	Asia/Shanghai	2015-05-07
+10252153	Manchun	Manchun	Manchun,Manchun Xiang,man chun,man chun xiang,满春,满春乡	38.4954	106.297	A	ADM4H	CN		21	6401			0		1111	Asia/Shanghai	2018-12-06
+10252154	Hongquan	Hongquan	Hongquan,Hongquan Xiang,hong quan,hong quan xiang,红泉,红泉乡	37.2401	105.218	A	ADM4H	CN		21				0		1786	Asia/Shanghai	2015-05-07
+10252155	Yangxianqiao	Yangxianqiao	Yangxianqiao,Yangxianqiao Xiang,yang xian qiao,yang xian qiao xiang,杨显桥,杨显桥乡	38.3109	106.214	A	ADM4H	CN		21	6401			0		1122	Asia/Shanghai	2018-12-06
+10252156	Dashuigou	Dashuigou	Dashuigou,Dashuigou Zhen,da shui gou,da shui gou zhen,大水沟,大水沟镇	38.875	106.184	A	ADM4H	CN		21				0		1221	Asia/Shanghai	2015-05-07
+10252157	Jinsha	Jinsha	Jinsha,Jinsha Xiang,jin sha,jin sha xiang,金沙,金沙乡	38.3153	106.125	A	ADM4H	CN		21	6401			0		1129	Asia/Shanghai	2018-12-06
+10252158	Hanqu	Hanqu	Hanqu,Hanqu Xiang,han qu,han qu xiang,汉渠,汉渠乡	37.8999	106.234	A	ADM4H	CN		21	6401			0		1136	Asia/Shanghai	2018-12-06
+10252162	Langpiziliang	Langpiziliang	Langpiziliang,Langpiziliang Xiang,lang pi zi liang,lang pi zi liang xiang,狼皮子梁,狼皮子梁乡	37.8888	106.356	A	ADM4H	CN		21	6401			0		1152	Asia/Shanghai	2018-12-06
+10252163	Chengjiao	Chengjiao	Chengjiao,Chengjiao Xiang,cheng jiao,cheng jiao xiang,城郊,城郊乡	37.5127	105.181	A	ADM4H	CN		21				0		1230	Asia/Shanghai	2015-05-07
+10252166	Luhua	Luhua	Luhua,Luhua Xiang,lu hua,lu hua xiang,芦花,芦花乡	38.5588	106.173	A	ADM4H	CN		21	6401			0		1112	Asia/Shanghai	2018-12-06
+10252167	Dongtai	Dongtai	Dongtai,Dongtai Xiang,dong tai,dong tai xiang,东台,东台乡	37.4105	105.422	A	ADM4H	CN		21				0		1300	Asia/Shanghai	2015-05-07
+10252168	Majialiang	Majialiang	Majialiang,Majialiang Xiang,ma jia liang,ma jia liang xiang,马家梁,马家梁乡	37.37	105.558	A	ADM4H	CN		21				0		1313	Asia/Shanghai	2015-05-07
+10252171	Rencun	Rencun	Rencun,Rencun Xiang,ren cun,ren cun xiang,仁存,仁存乡	38.1596	106.182	A	ADM4H	CN		21				0		1122	Asia/Shanghai	2015-05-07
+10252172	Yinxin	Yinxin	Yinxin,Yinxin Xiang,yin xin,yin xin xiang,银新,银新乡	38.4843	106.218	A	ADM4H	CN		21	6401			0		1113	Asia/Shanghai	2018-12-06
+10252173	Fengdeng	Fengdeng	Fengdeng,Fengdeng Xiang,feng deng,feng deng xiang,丰登,丰登乡	38.5516	106.245	A	ADM4H	CN		21	6401			0		1109	Asia/Shanghai	2018-12-06

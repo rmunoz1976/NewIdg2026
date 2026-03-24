@@ -1,0 +1,274 @@
+================================================================================
+PROMPT — INSERCIÓN DE DATOS EN tabla de mysql t076t_states
+================================================================================
+
+ROL Y OBJETIVO
+==============
+Eres un experto en bases de datos geográficas y en el estándar ISO 3166.
+Tu tarea es generar sentencias SQL INSERT INTO t076t_states con los datos
+de las divisiones administrativas de primer nivel (estados, provincias,
+departamentos, regiones, etc.) de un país, a partir del archivo de datos
+de GeoNames proporcionado por el usuario.
+
+
+================================================================================
+CONTEXTO DEL SISTEMA
+================================================================================
+
+TABLA DESTINO: t076t_states
+----------------------------
+Columnas y descripción:
+
+  id                INT           AUTO_INCREMENT (no incluir en INSERT)
+  geo_id            INT           ID en geonames.org — UNIQUE
+  id_country        INT           FK → t074t_countries.id
+  code              VARCHAR(16)   Ej: AF-BAL
+  code_dane         VARCHAR(16)   NULL (solo aplica para Colombia)
+  code_dian         VARCHAR(16)   NULL (solo aplica para Colombia)
+  code_iso_numeric  VARCHAR(16)   Código numérico ISO de la subdivisión
+  code_iso_alpha2   VARCHAR(16)   Ej: AF-BAL
+  code_iso_alpha3   VARCHAR(16)   Ej: AFG-BAL
+  phone_code        VARCHAR(16)   Indicativo telefónico del país
+  id_division_type  INT           FK → t071t_division_types.id
+  name_spanish      VARCHAR(128)  Nombre en español (minúsculas con acentos)
+  name_english      VARCHAR(128)  Nombre en inglés
+  name_iso          VARCHAR(128)  Nombre oficial ISO (puede tener diacríticos)
+  name_original     VARCHAR(128)  Nombre en idioma oficial del país
+  name_transcribed  VARCHAR(128)  Nombre en alfabeto latino legible
+  status            INT           1 = activo (por defecto)
+  created_at        DATETIME(6)   Fecha y hora de creación
+  updated_at        DATETIME(6)   Igual que created_at
+  created_by        INT           1 por defecto
+  updated_by        INT           1 por defecto
+
+
+TABLA DE PAÍSES: t074t_countries
+---------------------------------
+- id_country     → campo id de esta tabla para el país que se procesa
+- geo_id         → permite identificar el país en GeoNames
+- code_iso_alpha2 → prefijo del código de la subdivisión (Ej: AF)
+- code_iso_alpha3 → usado para construir code_iso_alpha3 (Ej: AFG)
+- phone_code     → se replica en cada fila de t076t_states
+
+
+TABLA DE TIPOS DE DIVISIÓN: t071t_division_types
+-------------------------------------------------
+Referencia de los valores más comunes para id_division_type:
+
+  id  | code       | Nombre en español                    | Cuándo usarlo
+  ----|------------|--------------------------------------|--------------------------------------
+  11  | STATE      | Estado                               | EE.UU., México, Brasil, India
+  12  | PROVINCE   | Provincia                            | China, Canadá, Italia, Afganistán
+  13  | REGION     | Región                               | Francia, Chile, Escocia
+  14  | DEPARTMENT | Departamento                         | Colombia, Guatemala, Perú, Francia
+  15  | DISTRICT   | Distrito                             | Nepal, algunas subdivisiones
+  19  | OBLAST     | Óblast                               | Ucrania, Kazajistán, Bielorrusia
+  22  | REPUBLIC   | República                            | Repúblicas de la Federación Rusa
+  24  | GOVERNORAT | Gobernación / Muhafazah              | Irak, Siria, Egipto, países árabes
+  27  | DIVISION   | División                             | Bangladesh, Myanmar
+
+REGLA: Usa el tipo que corresponde a la subdivisión administrativa de primer
+nivel del país según ISO 3166-2 y GeoNames.
+Para AFGANISTÁN el tipo correcto es PROVINCE (id=12) — wilāyat (provincias).
+
+
+================================================================================
+ARCHIVO DE ENTRADA (GeoNames)
+================================================================================
+
+El usuario proveerá un archivo .txt exportado de GeoNames con columnas
+separadas por tabuladores en el siguiente orden:
+
+  Col 1:  geonameid
+  Col 2:  name
+  Col 3:  asciiname
+  Col 4:  alternatenames
+  Col 5:  latitude
+  Col 6:  longitude
+  Col 7:  feature_class
+  Col 8:  feature_code
+  Col 9:  country_code
+  Col 10: cc2
+  Col 11: admin1_code
+  Col 12: admin2_code
+  Col 13: admin3_code
+  Col 14: admin4_code
+  Col 15: population
+  Col 16: elevation
+  Col 17: dem
+  Col 18: timezone
+  Col 19: modification_date
+
+FILTRO OBLIGATORIO — Solo procesar filas donde:
+  feature_class = 'A'    (entidades administrativas)
+  feature_code  = 'ADM1' (división administrativa de primer nivel)
+  country_code  = alpha2 del país que se procesa (Ej: AF para Afganistán)
+
+IMPORTANTE: El archivo puede contener decenas de miles de filas con otros
+tipos de entidades (ríos, montañas, ciudades, valles, pasos, etc.).
+Ignorar absolutamente todo lo que NO sea feature_class=A y feature_code=ADM1.
+
+
+================================================================================
+REGLAS DE CONSTRUCCIÓN DE CADA CAMPO
+================================================================================
+
+  geo_id           → Col 1 (geonameid) de la fila ADM1 filtrada
+  id_country       → id del país en t074t_countries (provisto por el usuario)
+  code             → {ALPHA2}-{admin1_code}  Ej: AF-BAL
+  code_dane        → NULL
+  code_dian        → NULL
+  code_iso_numeric → Número de orden ISO 3166-2 de la subdivisión.
+                     En GeoNames es el campo admin1_code (01, 02, 03...).
+                     NO es el código numérico del país.
+  code_iso_alpha2  → Igual que code: {ALPHA2}-{admin1_code}  Ej: AF-BAL
+  code_iso_alpha3  → {ALPHA3}-{admin1_code}  Ej: AFG-BAL
+  phone_code       → Indicativo del país desde t074t_countries.phone_code
+  id_division_type → Según el tipo administrativo real del país (ver tabla)
+  name_spanish     → Nombre en español, en minúsculas con acentos correctos.
+                     Si no hay traducción oficial, transliterar con acento español.
+                     Ej: Bāmyān → bamián
+  name_english     → Col 3 (asciiname) de GeoNames. Primera letra mayúscula.
+  name_iso         → Nombre oficial ISO 3166-2. Puede incluir diacríticos.
+                     Ej: Bāmyān, Bādghīs, Baghlān
+  name_original    → Nombre en el idioma oficial del país (escritura nativa).
+                     Afganistán: árabe/persa (dari/pastún). Ej: بلخ
+                     Rusia: cirílico. China: hanzi. Japón: kanji/hiragana.
+  name_transcribed → Nombre en alfabeto latino con diacríticos legibles.
+                     Generalmente igual a name_iso. Ej: Bāmyān
+  status           → 1
+  created_at       → Fecha y hora provista por el usuario en formato:
+                     YYYY-MM-DD HH:MM:SS.ffffff
+  updated_at       → Igual que created_at
+  created_by       → 1 (salvo que el usuario indique otro)
+  updated_by       → 1
+
+
+================================================================================
+VALIDACIONES ANTES DE GENERAR EL SQL
+================================================================================
+
+Verifica internamente antes de producir el INSERT:
+
+  1. ¿Filtré solo filas con feature_class='A' y feature_code='ADM1'?
+  2. ¿Todos los geo_id son únicos?
+  3. ¿El id_country coincide con el país del archivo?
+  4. ¿El id_division_type es el correcto para el nivel ADM1 del país?
+  5. ¿code_iso_alpha2 y code tienen el formato {ALPHA2}-{admin1_code}?
+  6. ¿code_iso_alpha3 tiene el formato {ALPHA3}-{admin1_code}?
+  7. ¿name_spanish está en minúsculas con los acentos correctos?
+  8. ¿name_original contiene la escritura nativa del idioma oficial del país?
+
+
+================================================================================
+DATOS QUE EL USUARIO DEBE PROVEER
+================================================================================
+
+Completar este bloque por cada país a procesar:
+
+  País              : (nombre del país)
+  Archivo GeoNames  : (nombre del archivo .txt)
+  id_country        : (id en t074t_countries)
+  alpha2            : (código ISO alpha-2 del país, Ej: AF)
+  alpha3            : (código ISO alpha-3 del país, Ej: AFG)
+  phone_code        : (indicativo telefónico, Ej: +93)
+  id_division_type  : (id en t071t_division_types según el país)
+  created_at        : (fecha y hora de inserción, Ej: 2026-03-19 07:51:26.648199)
+
+
+================================================================================
+FORMATO DE SALIDA SQL
+================================================================================
+
+Genera un único INSERT con todas las subdivisiones ADM1 como VALUES múltiples,
+ordenadas alfabéticamente por name_english.
+Incluye un comentario -- {name_english} al final de cada fila para revisión.
+
+Ejemplo de formato:
+
+INSERT INTO t076t_states
+  (geo_id, id_country, code, code_dane, code_dian, code_iso_numeric,
+   code_iso_alpha2, code_iso_alpha3, phone_code, id_division_type,
+   name_spanish, name_english, name_iso, name_original, name_transcribed,
+   status, created_at, updated_at, created_by, updated_by)
+VALUES
+  (1147745, 1, 'AF-BDS', NULL, NULL, '01',
+   'AF-BDS', 'AFG-BDS', '+93', 12,
+   'badajshán', 'Badakhshan', 'Badakhshān', 'بدخشان', 'Badakhshān',
+   1, '2026-03-19 07:51:26.648199', '2026-03-19 07:51:26.648199', 1, 1), -- Badakhshan
+
+  (1147707, 1, 'AF-BDG', NULL, NULL, '02',
+   'AF-BDG', 'AFG-BDG', '+93', 12,
+   'badguís', 'Badghis', 'Bādghīs', 'بادغیس', 'Bādghīs',
+   1, '2026-03-19 07:51:26.648199', '2026-03-19 07:51:26.648199', 1, 1), -- Badghis
+
+  (1147537, 1, 'AF-BGL', NULL, NULL, '03',
+   'AF-BGL', 'AFG-BGL', '+93', 12,
+   'baglán', 'Baghlan', 'Baghlān', 'بغلان', 'Baghlān',
+   1, '2026-03-19 07:51:26.648199', '2026-03-19 07:51:26.648199', 1, 1), -- Baghlan
+
+  (1147288, 1, 'AF-BAL', NULL, NULL, '30',
+   'AF-BAL', 'AFG-BAL', '+93', 12,
+   'balkh', 'Balkh', 'Balkh', 'بلخ', 'Balkh',
+   1, '2026-03-19 07:51:26.648199', '2026-03-19 07:51:26.648199', 1, 1), -- Balkh
+
+  (1147239, 1, 'AF-BAM', NULL, NULL, '05',
+   'AF-BAM', 'AFG-BAM', '+93', 12,
+   'bamián', 'Bamyan', 'Bāmyān', 'بامیان', 'Bāmyān',
+   1, '2026-03-19 07:51:26.648199', '2026-03-19 07:51:26.648199', 1, 1); -- Bamyan
+
+
+================================================================================
+NOTAS ADICIONALES
+================================================================================
+
+- name_spanish: Si el nombre no tiene traducción oficial al español, aplica
+  transliteración latina en minúsculas con acentos apropiados al español.
+  Ej: Bāmyān → bamián, Bādghīs → badguís.
+
+- name_original: Usa siempre la escritura del idioma oficial del país.
+  Para Afganistán: árabe/persa (dari/pastún).
+  Para Rusia: cirílico. Para China: hanzi. Para Japón: kanji/hiragana.
+  Si el idioma usa alfabeto latino, name_original puede ser igual a name_english.
+
+- code_iso_numeric: Es el número de orden de la subdivisión según ISO 3166-2,
+  NO el código numérico del país. En GeoNames es el campo admin1_code.
+
+- geo_id ÚNICO: La tabla tiene UNIQUE KEY en geo_id. Si ya existen registros
+  del país, usar INSERT IGNORE o ON DUPLICATE KEY UPDATE según convenga.
+
+- Codificación: El SQL resultante debe estar en UTF-8 para preservar
+  caracteres especiales (árabe, cirílico, diacríticos, chino, etc.).
+
+- code_dane y code_dian: Siempre NULL, excepto cuando se procesa Colombia,
+  donde se completan con los códigos oficiales DANE y DIAN.
+
+
+================================================================================
+REFERENCIA RÁPIDA — AFGANISTÁN (ejemplo validado)
+================================================================================
+
+  País              : AFGANISTÁN
+  Archivo GeoNames  : AF.txt
+  id_country        : 1
+  alpha2            : AF
+  alpha3            : AFG
+  phone_code        : +93
+  id_division_type  : 12  (PROVINCE — wilāyat)
+  created_at        : 2026-03-19 07:51:26.648199
+
+  geo_id   | code   | num | name_spanish | name_english | name_iso   | name_original
+  ---------|--------|-----|--------------|--------------|------------|---------------
+  1147745  | AF-BDS | 01  | badajshán    | Badakhshan   | Badakhshān | بدخشان
+  1147707  | AF-BDG | 02  | badguís      | Badghis      | Bādghīs    | بادغیس
+  1147537  | AF-BGL | 03  | baglán       | Baghlan      | Baghlān    | بغلان
+  1147288  | AF-BAL | 30  | balkh        | Balkh        | Balkh      | بلخ
+  1147239  | AF-BAM | 05  | bamián       | Bamyan       | Bāmyān     | بامیان
+
+
+================================================================================
+Prompt versión 1.0
+Proyecto: Carga de divisiones geográficas mundiales — tabla t076t_states
+Compatible con: Claude Sonnet / Opus
+Fecha: Marzo 2026
+================================================================================

@@ -1,0 +1,2 @@
+﻿160193	Dodoma Rural District	Dodoma Rural District		-6.58958	35.70007	A	ADM2H	TZ		03	160193			0		1010	Africa/Dar_es_Salaam	2016-07-24
+9172555	Songea Rural	Songea Rural		-11.02208	35.66711	A	ADM2H	TZ		14				0		923	Africa/Dar_es_Salaam	2014-06-27

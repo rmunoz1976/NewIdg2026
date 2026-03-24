@@ -1,0 +1,35 @@
+﻿1165998	Sargodha Division	Sargodha Division	Sargodha Division	31.78	72.29139	A	ADMD	PK		04	1165998			0		166	Asia/Karachi	2019-11-27
+1166990	Rawalpindi Division	Rawalpindi Division	Rawalpindi,Rawalpindi Division	33.20359	72.73997	A	ADMD	PK		04	1166990			10007821		346	Asia/Karachi	2019-11-28
+1167526	Quetta Division	Quetta Division	Quetta,Quetta Division	29.38287	64.30047	A	ADMD	PK		02	1167526			4174562		1620	Asia/Karachi	2019-11-28
+1168194	Peshawar Division	Peshawar Division	Peshawar,Peshawar Division	34.00081	71.78231	A	ADMD	PK		03	1168194			7403817		300	Asia/Karachi	2019-11-28
+1169820	Multan Division	Multan Division	Multan,Multan Division	30.02388	71.91988	A	ADMD	PK		04	1169820			12265161		127	Asia/Karachi	2019-11-28
+1171387	Malakand Division	Malakand Division	Malakand,Malakand Division	35.64194	72.26194	A	ADMD	PK		03	1171387			7514694		3840	Asia/Karachi	2019-11-28
+1171403	Mekran	Mekran	Makran Division,Makrān Division,Mekran	26.11572	63.4515	A	ADMD	PK		02	1171403			1489015		675	Asia/Karachi	2019-11-28
+1172448	Lahore Division	Lahore Division	Lahore Division	31.16667	74.5	A	ADMD	PK		04	1172448			19581281		205	Asia/Karachi	2019-11-28
+1174348	Sukkur Division	Sukkur Division	Khairpur Division,Sukkur,Sukkur Division	27.19167	69.23181	A	ADMD	PK		05	1174348			5538555		51	Asia/Karachi	2019-11-28
+1175292	Kalat Division	Kalat Division	Kalat,Kalat Division,Kelat,Khelat	27.47438	65.71368	A	ADMD	PK		02	1175292			2509230		1411	Asia/Karachi	2019-11-28
+1176732	Hyderabad Division	Hyderabad Division	Hyderabad,Hyderabad Division	25.31426	68.04064	A	ADMD	PK		05	1176732			7026335		73	Asia/Karachi	2019-11-28
+1176967	Hazara Division	Hazara Division	Hazara,Hazara Division	34.83438	73.22525	A	ADMD	PK		03	1176967			5325121		2855	Asia/Karachi	2019-11-28
+1177657	Gujranwala Division	Gujranwala Division	Gujranwala,Gujranwala Division	32.33393	74.09095	A	ADMD	PK		04	1177657			16123984		223	Asia/Karachi	2019-11-28
+1179398	Faisalābād Division	Faisalabad Division	Faisalabad Division,Faisalābād Division	31.25	72.8	A	ADMD	PK		04	1179398			14177081		176	Asia/Karachi	2019-11-28
+1179842	Diāmir District	Diamir District		35.33333	74.33333	A	ADMD	PK		07				0		1729	Asia/Karachi	1994-01-27
+1183875	Bahawalpur Division	Bahawalpur Division	Bahawalpur,Bahawalpur Division	28.86904	71.6582	A	ADMD	PK		04	1183875			11464031		110	Asia/Karachi	2019-11-28
+11744818	Dera Ghazi Khan Dvision	Dera Ghazi Khan Dvision	Dera Ghazi Khan,Dera Ghazi Khan Dvision	30.03533	70.5762	A	ADMD	PK		04	11744818			0		138	Asia/Karachi	2019-11-27
+11744828	Mirpur Khas Division	Mirpur Khas Division	Mirpur Khas,Mirpur Khas Division	24.9644	69.98645	A	ADMD	PK		05	11744828			4228683		73	Asia/Karachi	2019-11-28
+11744830	Shaheed Benazirabad Division	Shaheed Benazirabad Division	Shaheed Benazirabad,Shaheed Benazirabad Division	26.22574	68.85422	A	ADMD	PK		05	11744830			0		25	Asia/Karachi	2019-11-28
+12104819	Nasirabad Division	Nasirabad Division	Naseerabad	28.66277	68.09914	A	ADMD	PK		02				1591144		74	Asia/Karachi	2019-11-28
+12104820	Sibi Division	Sibi Division		29.51035	67.90522	A	ADMD	PK		02				1038010		129	Asia/Karachi	2019-11-28
+12104821	Rakhshan Division	Rakhshan Division		28.37134	65.23287	A	ADMD	PK		02				737162		673	Asia/Karachi	2019-11-28
+12104822	Bannu	Bannu		32.98957	70.61717	A	ADMD	PK		03				2044074		377	Asia/Karachi	2019-11-28
+12104823	Kohat	Kohat		33.56236	71.46342	A	ADMD	PK		03				2218971		480	Asia/Karachi	2019-11-28
+12104824	Mardan	Mardan		34.19769	72.03895	A	ADMD	PK		03				3997677		312	Asia/Karachi	2019-11-28
+12104825	Sahiwal	Sahiwal		30.64847	73.09162	A	ADMD	PK		04				7380386		170	Asia/Karachi	2019-11-28
+12104826	Sheikhupura	Sheikhupura		31.68895	73.98638	A	ADMD	PK		04				4817499		204	Asia/Karachi	2019-11-28
+12104827	Baltistan Division	Baltistan Division		35.24977	75.59786	A	ADMD	PK		07				0		3474	Asia/Karachi	2020-08-30
+12104828	Muzaffarabad Division	Muzaffarabad Division		34.35864	73.47671	A	ADMD	PK		06				1072150		721	Asia/Karachi	2020-08-30
+12104829	Poonch Division	Poonch Division		33.84344	73.76777	A	ADMD	PK		06				1322198		1653	Asia/Karachi	2020-08-30
+12104830	Zhob	Zhob		31.3414	69.46207	A	ADMD	PK		02				1542447		1466	Asia/Karachi	2019-11-28
+12104831	Dera Ismail Khan	Dera Ismail Khan		31.87271	70.90209	A	ADMD	PK		03				2019017		176	Asia/Karachi	2019-11-28
+12104832	Karachi	Karachi		24.91911	67.04632	A	ADMD	PK		05				16051521		26	Asia/Karachi	2019-11-28
+13407548	Gilgit-Baltistan	Gilgit-Baltistan	Balawaristan,FANA,Federally Administered Northern Areas,Gilgit-Baltistan,Gilgit-Baltistān,Northern Areas	36	75	A	ADMD	PK		07	003			0		4580	Asia/Kolkata	2025-08-13
+13513174	Mirpur Division	Mirpur Division	Mirpur,Mirpur Division	33.25263	73.93896	A	ADMD	PK		06	1173037			0		826	Asia/Karachi	2025-09-10

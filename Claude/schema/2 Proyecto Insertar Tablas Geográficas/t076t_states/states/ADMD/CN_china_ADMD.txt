@@ -1,0 +1,2 @@
+﻿1788449	Xinzhou Diqu	Xinzhou Diqu	Hsin-hsien Chuan-ch'u,Hsin-hsien Chuan-ch’ü,Hsin-hsien Ti-ch'u,Hsin-hsien Ti-ch’ü,Xinxian Diqu,Xinzhou Diqu	38.4	112.73333	A	ADMD	CN		24				0		798	Asia/Shanghai	2011-10-09
+8740531	Kazuo Mongolian Autonomous County	Kazuo Mongolian Autonomous County		41.12789	119.74318	A	ADMD	CN		19				0		314	Asia/Shanghai	2014-03-29

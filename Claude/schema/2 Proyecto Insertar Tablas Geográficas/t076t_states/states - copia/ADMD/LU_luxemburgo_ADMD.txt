@@ -1,0 +1,2 @@
+﻿6692360	Hart van 't Goedland	Hart van 't Goedland		49.55194	6.08574	A	ADMD	LU		03				0		310	Europe/Luxembourg	2008-05-16
+6692361	Luxemburgse Ardennen	Luxemburgse Ardennen		49.95785	6.05621	A	ADMD	LU		01				0		401	Europe/Luxembourg	2008-05-16

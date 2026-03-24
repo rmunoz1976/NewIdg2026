@@ -1,0 +1,5 @@
+﻿1845495	Cheongwon-gun	Cheongwon-gun	Cheongwon-gun,cheong-wongun,청원군	36.64337	127.5668	A	ADM2H	KR		05	33310			123984		300	Asia/Seoul	2017-01-23
+8659230	Ojeong-gu	Ojeong-gu	Ojeong-gu,ojeong-gu,오정구	37.525	126.793	A	ADM2H	KR		13	31053			0		26	Asia/Seoul	2016-12-05
+8659231	Sosa-gu	Sosa-gu		37.472	126.796	A	ADM2H	KR		13	31052			0		38	Asia/Seoul	2017-01-23
+8659232	Wonmi-gu	Wonmi-gu		37.497	126.778	A	ADM2H	KR		13	31051			0		11	Asia/Seoul	2016-12-05
+10029309	Bukjeju	Bukjeju	Bukjeju,Bukjeju-gun,bugjeju,bugjejugun,북제주,북제주군	33.38666	126.60401	A	ADM2H	KR		01	10029309			0		842	Asia/Seoul	2015-03-04

@@ -1,0 +1,4 @@
+﻿3061863	Západočeský kraj	Zapadocesky kraj	Wesbohmisches Gebiet,Wesböhmisches Gebiet,Western Bohemian Region,Zapadocesko,Západočesko	49.66667	13	A	ADMD	CZ		00				0		502	Europe/Prague	2008-10-08
+3062326	Východočeský kraj	Vychodocesky kraj		50.16667	16	A	ADMD	CZ		00				0		290	Europe/Prague	2008-10-08
+3066161	Severomoravský kraj	Severomoravsky kraj	Northern Moravia Region,Severomoravsko	49.75	17.66667	A	ADMD	CZ		00				0		501	Europe/Prague	2008-07-10
+3066162	Severočeský kraj	Severocesky kraj	Northern Bohemian Region,Severocesko,Severočesko	50.58333	14.25	A	ADMD	CZ		00				0		439	Europe/Prague	2008-10-08

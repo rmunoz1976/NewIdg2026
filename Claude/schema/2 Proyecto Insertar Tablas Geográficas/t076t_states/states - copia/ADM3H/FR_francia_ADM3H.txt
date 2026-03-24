@@ -1,0 +1,11 @@
+﻿2967324	Arrondissement de Wissembourg	Arrondissement de Wissembourg		48.91667	7.91667	A	ADM3H	FR		44	67	677		70020		174	Europe/Paris	2019-03-27
+2972809	Arrondissement de Thionville-Ouest	Arrondissement de Thionville-Ouest	Arrondissement de Thionville-Ouest	49.33333	6.08333	A	ADM3H	FR		44	57	578		121499		204	Europe/Paris	2019-03-27
+2973782	Arrondissement de Strasbourg-Campagne	Arrondissement de Strasbourg-Campagne	Arrondissement de Strasbourg-Campagne	48.66667	7.58333	A	ADM3H	FR		44	67	676		285348		177	Europe/Paris	2019-03-27
+2980399	Arrondissement de Sainte-Menehould	Arrondissement de Sainte-Menehould	Arrondissement de Sainte-Menehould	49.08333	4.75	A	ADM3H	FR		44	51	515		14531		189	Europe/Paris	2019-03-27
+2983703	Arrondissement de Ribeauvillé	Arrondissement de Ribeauville		48.16667	7.25	A	ADM3H	FR		44	68	685		52398		645	Europe/Paris	2019-03-27
+2994159	Arrondissement de Metz-Campagne	Arrondissement de Metz-Campagne	Arrondissement de Metz-Campagne	49.08333	6.25	A	ADM3H	FR		44	57	574		224979		243	Europe/Paris	2019-03-27
+3014432	Arrondissement de Guebwiller	Arrondissement de Guebwiller	Arrondissement de Guebwiller	47.91667	7.33333	A	ADM3H	FR		44	68	683		84574		206	Europe/Paris	2019-03-27
+3026199	Arrondissement de Château-Salins	Arrondissement de Chateau-Salins	Arrondissement de Chateau-Salins,Arrondissement de Château-Salins	48.83333	6.58333	A	ADM3H	FR		44	57	572		31024		216	Europe/Paris	2019-03-27
+3026302	Arrondissement de Châteaubriant	Arrondissement de Chateaubriant	Arrondissement de Chateaubriant,Arrondissement de Châteaubriant	47.58333	-1.66667	A	ADM3H	FR		52	44	441		124748		68	Europe/Paris	2019-03-26
+3031181	Arrondissement de Boulay-Moselle	Arrondissement de Boulay-Moselle	Arrondissement de Boulay-Moselle	49.16667	6.5	A	ADM3H	FR		44	57	571		80240		286	Europe/Paris	2019-03-27
+3037796	Arrondissement d'Ancenis	Arrondissement d'Ancenis	Arrondissement d'Ancenis,Arrondissement d’Ancenis	47.41667	-1.25	A	ADM3H	FR		52	44	444		60368		32	Europe/Paris	2019-12-22

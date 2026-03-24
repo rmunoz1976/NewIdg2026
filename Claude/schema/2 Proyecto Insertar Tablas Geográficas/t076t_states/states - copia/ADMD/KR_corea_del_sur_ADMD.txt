@@ -1,0 +1,68 @@
+﻿1832348	Yongok-myon	Yongok-myon	Renkoku-men,Yongok-myon,Yongong-myon,Yŏngong-myŏn	37.83333	128.66667	A	ADMD	KR		06				0		454	Asia/Seoul	2012-01-18
+1832450	Yŏnghŭng-myŏn	Yonghung-myon	Reiko-men,Reikō-men,Reko,Rēkō,Yonghung-myon,Yonghyeon-myeon,Yŏnghŭng-myŏn	37.25	126.41667	A	ADMD	KR		00				0		-9999	Asia/Seoul	2013-09-21
+1833102	Weonseong gun	Weonseong gun	Weonseong gun,Wonju-gun,Wŏnju-gun	37.25	128	A	ADMD	KR		05				0		688	Asia/Seoul	2012-01-18
+1834118	Tongyeong gun	Tongyeong gun	T'ongyong-gun,Toei,Toei-gun,Tongyeong gun,Tōei,Tōei-gun,T’ongyŏng-gun	34.85312	128.42872	A	ADMD	KR		20				0		7	Asia/Seoul	2013-09-21
+1835632	Seungju gun	Seungju gun	Seungju gun,Sungju-gun,Sŭngju-gun	35	127.33333	A	ADMD	KR		16				0		341	Asia/Seoul	2013-09-06
+1838060	Sanzenho-men	Sanzenho-men	Samch'onp'o-myon,Samch'onp'o-si,Samch'onp'o-up,Samcheonpo,Samchunpo Up,Samch’ŏnp’o-myŏn,Samch’ŏnp’o-si,Samch’ŏnp’o-ŭp,Sanzenho-men	34.93333	128.06667	A	ADMD	KR		20				0		36	Asia/Seoul	2012-01-18
+1838068	Santyoku	Santyoku	Samch'ok-kun,Samcheog gun,Samch’ŏk-kun,Sanchoku-gun,Santyoku	37.33333	129.16667	A	ADMD	KR		06				0		373	Asia/Seoul	2012-01-18
+1838087	Sami-men	Sami-men	Salmi-myon,Salmi-myŏn,Sami-men,Saulmi-myon,Saulmi-myŏn	36.91667	128	A	ADMD	KR		05				0		213	Asia/Seoul	2013-09-19
+1838569	Puk	Puk	Hoku-men,Puk,Pung-myon,Pung-myŏn	37.25	128.41667	A	ADMD	KR		06				0		335	Asia/Seoul	2012-01-18
+1840753	Myeongju gun	Myeongju gun	Kangnung-gun,Kangnŭng-gun,Koryo-gun,Kōryō-gun,Myeongju gun,Myongju-gun,Myŏngju-gun	37.75	128.75	A	ADMD	KR		06				0		884	Asia/Seoul	2012-01-18
+1841177	Bei-men	Bei-men	Be,Bei-men,Bē,Mi-myon,Mi-myŏn	35.85	126.41667	A	ADMD	KR		00				0		-9999	Asia/Seoul	2012-01-18
+1843490	Iri-si	Iri-si		35.93333	126.95	A	ADMD	KR		03				0		10	Asia/Seoul	2013-09-27
+1843983	Kasei-men	Kasei-men	Hwajong-myon,Hwajŏng-myŏn,Kasei-men	34.58333	127.58333	A	ADMD	KR		00				0		-9999	Asia/Seoul	2012-01-18
+1844216	Kokei-men	Kokei-men	Hogye-myeon,Hogye-myon,Hogye-myŏn,Koke,Kokei-men,Kokē	36.66667	128.2	A	ADMD	KR		14	37090			0		209	Asia/Seoul	2014-01-05
+1844910	Jungweon gun	Jungweon gun	Ch'ungju-gun,Chungwon-gun,Chungwŏn-gun,Chushu-gun,Chūshū-gun,Ch’ungju-gun,Jungweon gun	37.08333	127.91667	A	ADMD	KR		05				0		81	Asia/Seoul	2012-01-18
+1845827	Sekikoku-men	Sekikoku-men	Chokkok-myon,Chokkong-myon,Chŏkkong-myŏn,Sekikoku-men	36.36667	126.88333	A	ADMD	KR		17				0		67	Asia/Seoul	2013-09-17
+1846985	Andong-gun	Andong-gun		36.58333	128.75	A	ADMD	KR		00				0		171	Asia/Seoul	1993-12-22
+10308848	Bungmullo I Ga	Bungmullo I Ga	Bungmullo 2 Ga,Bungmullo I Ga,bugmunloiga,북문로이가	36.64007	127.49346	A	ADMD	KR		05				0		53	Asia/Seoul	2015-06-10
+10309002	Nammullo I Ga	Nammullo I Ga	Nammullo 2 Ga,Nammullo I Ga,nammunlo2ga,nammunloiga,남문로2가,남문로이가	36.63301	127.50606	A	ADMD	KR		05				0		63	Asia/Seoul	2015-06-10
+11233314	Songnae-dong	Songnae-dong	Songnae-dong,songnaedong,송내동	37.48123	126.76328	A	ADMD	KR		13				0		37	Asia/Seoul	2016-08-05
+11233546	Beombak-dong	Beombak-dong	Beombak-dong,beombagdong,범박동	37.46769	126.81938	A	ADMD	KR		13				0		22	Asia/Seoul	2016-08-05
+11233549	Daeya-dong	Daeya-dong	Daeya-dong,daeyadong,대야동	37.45141	126.78453	A	ADMD	KR		13				0		77	Asia/Seoul	2016-08-05
+11233551	Eunhaeng-dong	Eunhaeng-dong	Eunhaeng-dong,eunhaengdong,은행동	37.43126	126.79866	A	ADMD	KR		13				0		14	Asia/Seoul	2016-08-05
+11233558	Maehwa-dong	Maehwa-dong	Maehwa-dong,maehwadong,매화동	37.41559	126.80775	A	ADMD	KR		13				0		7	Asia/Seoul	2016-08-05
+11233562	Goean-dong	Goean-dong	Goean-dong,goeandong,괴안동	37.47752	126.81196	A	ADMD	KR		13				0		34	Asia/Seoul	2016-08-05
+11233564	Sosabon-dong	Sosabon-dong	Sosabon-dong,sosabondong,소사본동	37.47673	126.79726	A	ADMD	KR		13				0		32	Asia/Seoul	2016-08-05
+11233606	Gwangmyeong-dong	Gwangmyeong-dong	Gwangmyeong-dong,gwangmyeongdong,광명동	37.47204	126.85612	A	ADMD	KR		13				0		34	Asia/Seoul	2016-08-05
+11233784	Wonmi-dong	Wonmi-dong	Wonmi-dong,wonmidong,원미동	37.49543	126.80024	A	ADMD	KR		13				0		138	Asia/Seoul	2016-08-05
+11233785	Chunui-dong	Chunui-dong	Ch'una-dong,Chunui-dong,Ch’una-dong,chun-adong,chun-uidong,춘아동,춘의동	37.5036	126.80612	A	ADMD	KR		13				0		69	Asia/Seoul	2016-08-05
+11233786	Yeokgok-dong	Yeokgok-dong	Yeokgok-dong,yeoggogdong,역곡동	37.48898	126.81174	A	ADMD	KR		13				0		31	Asia/Seoul	2016-08-05
+11233790	Ojeong-dong	Ojeong-dong	Ojeong-dong,Ojong-dong,Ojŏng-dong,ojeongdong,오정동	37.53384	126.77254	A	ADMD	KR		13				0		9	Asia/Seoul	2016-08-05
+11233792	Sang-dong	Sang-dong	Sang-dong,sangdong,상동	37.49052	126.75696	A	ADMD	KR		13				0		16	Asia/Seoul	2016-08-05
+11233793	Simgok-dong	Simgok-dong	Simgok-dong,simgogdong,심곡동	37.48801	126.78014	A	ADMD	KR		13				0		28	Asia/Seoul	2016-08-05
+11233794	Simgokbon-dong	Simgokbon-dong	Simgokbon-dong,simgogbondong,심곡본동	37.4795	126.78246	A	ADMD	KR		13				0		58	Asia/Seoul	2016-08-05
+11233795	Jung-dong	Jung-dong	Chung-dong,Jung-dong,jungdong,중동	37.49978	126.76947	A	ADMD	KR		13				0		25	Asia/Seoul	2016-08-05
+11233796	Yakdae-dong	Yakdae-dong	Yakdae-dong,Yaktae-dong,yagdaedong,약대동	37.51147	126.77085	A	ADMD	KR		13				0		20	Asia/Seoul	2016-08-05
+11233841	Cheolsan-dong	Cheolsan-dong	Cheolsan-dong,cheolsandong,철산동	37.48545	126.86641	A	ADMD	KR		13				0		21	Asia/Seoul	2016-08-05
+11233958	Nongam-dong	Nongam-dong	Nongam-dong,nongamdong,논감동	37.39854	126.86075	A	ADMD	KR		13				0		75	Asia/Seoul	2016-08-05
+11248062	Jigok-dong	Jigok-dong	Jigok-dong,jigogdong,지곡동	36.02325	129.32347	A	ADMD	KR		14				0		55	Asia/Seoul	2016-09-10
+11248333	Deoksu-dong	Deoksu-dong	Deoksu-dong,deogsudong,덕수동	36.045	129.36154	A	ADMD	KR		14				0		47	Asia/Seoul	2016-09-10
+11248340	I-dong	I-dong	I-dong,idong,이동	36.03507	129.32588	A	ADMD	KR		14				0		87	Asia/Seoul	2016-09-10
+11248344	Hakjam-dong	Hakjam-dong	Hakjam-dong,hagjamdong,학잠동	36.03527	129.34622	A	ADMD	KR		14				0		94	Asia/Seoul	2016-09-10
+11248354	Deungnyang-dong	Deungnyang-dong	Deungnyang-dong,deuglyangdong,득량동	36.02957	129.35169	A	ADMD	KR		14				0		35	Asia/Seoul	2016-09-10
+11248370	Yongheung-dong	Yongheung-dong	Yongheung-dong,yongheungdong,용흥동	36.03613	129.35201	A	ADMD	KR		14				0		20	Asia/Seoul	2016-09-10
+11248377	Daejam-dong	Daejam-dong	Daejam-dong,daejamdong,대잠동	36.02367	129.33611	A	ADMD	KR		14				0		63	Asia/Seoul	2016-09-10
+11248391	Jukdo-dong	Jukdo-dong	Jukdo-dong,jugdodong,죽도동	36.02564	129.35727	A	ADMD	KR		14				0		5	Asia/Seoul	2016-09-10
+11248407	Sangdo-dong	Sangdo-dong	Sangdo-dong,sangdodong,상도동	36.008	129.34596	A	ADMD	KR		14				0		0	Asia/Seoul	2016-09-10
+11248409	Daedo-dong	Daedo-dong	Daedo-dong,daedodong,대도동	36.01714	129.35816	A	ADMD	KR		14				0		5	Asia/Seoul	2016-09-10
+11248805	Yangdeok-dong	Yangdeok-dong	Yangdeok-dong,yangdeogdong,양덕동	36.08761	129.39723	A	ADMD	KR		14				0		15	Asia/Seoul	2016-09-10
+11248809	Yeonam-dong	Yeonam-dong	Yeonam-dong,yeonamdong,여남동	36.07661	129.41841	A	ADMD	KR		14				0		14	Asia/Seoul	2016-09-10
+11248816	Hwanho-dong	Hwanho-dong	Hwanho-dong,hwanhodong,환호동	36.07023	129.39246	A	ADMD	KR		14				0		22	Asia/Seoul	2016-09-10
+11248820	Jangseong-dong	Jangseong-dong	Jangseong-dong,jangseongdong,장성동	36.07849	129.37715	A	ADMD	KR		14				0		50	Asia/Seoul	2016-09-10
+11248832	Duho-dong	Duho-dong	Duho-dong,duhodong,두호동	36.05909	129.37483	A	ADMD	KR		14				0		11	Asia/Seoul	2016-09-10
+11248835	Hanggu-dong	Hanggu-dong	Hanggu-dong,hang-gudong,항구동	36.05337	129.37592	A	ADMD	KR		14				0		11	Asia/Seoul	2016-09-10
+11248838	Daesin-dong	Daesin-dong	Daesin-dong,daesindong,대신동	36.04755	129.3677	A	ADMD	KR		14				0		8	Asia/Seoul	2016-09-10
+11248839	Dongbin-dong	Dongbin-dong	Dongbin-dong,dongbindong,동빈동	36.04582	129.37042	A	ADMD	KR		14				0		6	Asia/Seoul	2016-09-10
+11248840	Yeocheon-dong	Yeocheon-dong	Yeocheon-dong,yeocheondong,여천동	36.03828	129.36906	A	ADMD	KR		14				0		8	Asia/Seoul	2016-09-10
+11248841	Nambin-dong	Nambin-dong	Nambin-dong,nambindong,남빈동	36.03664	129.36856	A	ADMD	KR		14				0		3	Asia/Seoul	2016-09-10
+11248842	Songdo-dong	Songdo-dong	Songdo-dong,songdodong,송도동	36.03678	129.37547	A	ADMD	KR		14				0		6	Asia/Seoul	2016-09-10
+11248843	Haedo-dong	Haedo-dong	Haedo-dong,haedodong,해도동	36.02624	129.37233	A	ADMD	KR		14				0		3	Asia/Seoul	2016-09-10
+11248852	Songjeong-dong	Songjeong-dong	Songjeong-dong,songjeongdong,송정동	36.02242	129.39133	A	ADMD	KR		14				0		20	Asia/Seoul	2016-09-10
+11248853	Songnae-dong	Songnae-dong	Songnae-dong,songnaedong,송내동	36.00892	129.38237	A	ADMD	KR		14				0		20	Asia/Seoul	2016-09-10
+11248854	Cheongnim-dong	Cheongnim-dong	Cheongnim-dong,cheonglimdong,청림동	36.00724	129.412	A	ADMD	KR		14				0		14	Asia/Seoul	2016-09-10
+11250417	Cheonbuk-myeon	Cheonbuk-myeon	Cheonbuk-myeon,cheonbugmyeon,천북면	35.90483	129.2906	A	ADMD	KR		14				0		107	Asia/Seoul	2016-09-10
+11251150	Ilwol-dong	Ilwol-dong	Ilwol-dong,il-woldong,일월동	35.98845	129.42153	A	ADMD	KR		14				0		25	Asia/Seoul	2016-09-10
+11251154	Indeok-dong	Indeok-dong	Indeok-dong,indeogdong,인덕동	35.98931	129.39704	A	ADMD	KR		14				0		11	Asia/Seoul	2016-09-10
+11251785	Jangheung-dong	Jangheung-dong	Jangheung-dong,jangheungdong,장흥동	35.98168	129.37794	A	ADMD	KR		14				0		73	Asia/Seoul	2016-09-10
+11252203	Ho-dong	Ho-dong	Ho-dong,hodong,호동	35.97606	129.3737	A	ADMD	KR		14				0		30	Asia/Seoul	2016-09-10

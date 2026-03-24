@@ -1,0 +1,138 @@
+﻿2545	Meybod	Meybod	Meybod,mibud,مِيبُد	32.25	54	A	ADMD	IR		40				0		1072	Asia/Tehran	2011-06-05
+2546	Shahrestān Ardakān	Shahrestan Ardakan	Shahrestan Ardakan,Shahrestān Ardakān,shahristan aardakan,شَهرِستان اَردَكان	32.33333	54	A	ADMD	IR		40				0		1026	Asia/Tehran	2024-07-18
+2555	Kharānaq	Kharanaq	Kharanaq,Kharānaq,kharanaq,خَرانَق	32.33333	54.66667	A	ADMD	IR		40				0		1766	Asia/Tehran	2024-07-14
+2556	Ashkez̄ar	Ashkezar	aashkidhar,اَشكِذَر	32.05	54.25	A	ADMD	IR		40				0		1129	Asia/Tehran	2006-08-20
+6317	Māzandarān	Mazandaran	Mazandaran,Māzandarān,mazandaran,مازَندَران	38.03333	56.31667	A	ADMD	IR		43				0		921	Asia/Tehran	2024-07-22
+6318	Khorāsān	Khorasan	Khorasan,Khorāsān	38.01667	56.33333	A	ADMD	IR		43				0		666	Asia/Tehran	2024-07-22
+6542	Mīāmey	Miamey	Miamey,Mīāmey,myamiy,ميامِی	36.41667	55.7	A	ADMD	IR		25				0		1042	Asia/Tehran	2024-07-18
+6548	Jājarm	Jajarm	Jajarm,Jājarm	36.91667	56.41667	A	ADMD	IR		43				0		899	Asia/Tehran	2024-07-22
+6553	Bīārjomand	Biarjomand	Biarjomand,Bīārjomand,byarjumand,بيارجُمَند	36.06667	55.83333	A	ADMD	IR		25				0		1072	Asia/Tehran	2024-07-18
+7742	Joghatāy	Joghatay	Joghatay,Joghatāy	36.66667	57.08333	A	ADMD	IR		42				0		1232	Asia/Tehran	2024-07-22
+8676	Nūr	Nur	Nur,Nūr,nwr,نور	36.58333	52.08333	A	ADMD	IR		35				0		-20	Asia/Tehran	2012-01-16
+8799	Harāz	Haraz	Haraz,Harāz,haraz,هَراز	36.61667	52.25	A	ADMD	IR		35				0		-22	Asia/Tehran	2024-07-18
+8841	Chālūs	Chalus	Chalus,Chālūs,chalws,چالوس	36.66667	51.41667	A	ADMD	IR		35				0		11	Asia/Tehran	2024-07-19
+8867	Baladeh	Baladeh	Baladeh,baladih,بَلَدِه	36.23333	51.83333	A	ADMD	IR		35				0		2836	Asia/Tehran	2012-01-16
+9291	Meymeh	Meymeh	Meymeh	33.41667	51.16667	A	ADMD	IR		28				0		1979	Asia/Tehran	2012-01-16
+9741	Māneh va Samalqān	Maneh va Samalqan	Maneh va Samalqan,Māneh va Samalqān	37.58333	56.91667	A	ADMD	IR		43				0		744	Asia/Tehran	2024-07-25
+14273	Sharā	Shara	Shara,Sharā	34.85	49	A	ADMD	IR		09				0		1630	Asia/Tehran	2024-07-18
+14279	Sīmīneh Rūd	Simineh Rud	symynih rwd,سيمينِه رود	34.91667	48.31667	A	ADMD	IR		09				0		1803	Asia/Tehran	2006-08-20
+14284	Qelqelrūd	Qelqelrud	Qelqelrud,Qelqelrūd	34.5	48.28333	A	ADMD	IR		09				0		1634	Asia/Tehran	2024-07-18
+14288	Oshtorīnān	Oshtorinan	Oshtorinan,Oshtorīnān	34.03333	48.66667	A	ADMD	IR		23				0		1852	Asia/Tehran	2024-07-18
+14296	Khondāb	Khondab	Khondab,Khondāb,khundab,خُنداب	34.4	49.16667	A	ADMD	IR		34				0		1685	Asia/Tehran	2024-07-22
+14297	Khezel	Khezel	Khezel	34.25	48.15	A	ADMD	IR		09				0		1490	Asia/Tehran	2016-08-02
+14299	Jowkār	Jowkar	Jowkar,Jowkār,jukar,جُوكار	34.45	48.7	A	ADMD	IR		09				0		1712	Asia/Tehran	2024-07-18
+14325	Asadābād	Asadabad	Asadabad,Asadābād,aasad abad,اَسَد آباد	34.8	48.15	A	ADMD	IR		09				0		1858	Asia/Tehran	2024-07-18
+14694	Īz̄eh	Izeh	Izeh,Īz̄eh	31.85	49.88333	A	ADMD	IR		15				0		827	Asia/Tehran	2012-01-16
+14809	Rāmhormoz	Ramhormoz	Ramhormoz,Rāmhormoz	31.3	49.63333	A	ADMD	IR		15				0		210	Asia/Tehran	2024-07-18
+14994	Haftgel	Haftgel	Haftgel	31.46667	49.55	A	ADMD	IR		15				0		437	Asia/Tehran	2012-01-16
+15060	Dehdez	Dehdez	Dehdez	31.74722	50.27111	A	ADMD	IR		15				0		1927	Asia/Tehran	2012-01-16
+15215	Ardal	Ardal	Ardal	31.03333	50.68333	A	ADMD	IR		05				0		1356	Asia/Tehran	2016-10-07
+23240	Tīkmeh Dāsh	Tikmeh Dash	Tikmah Dash,Tikmeh Dash,Tīkmah Dāsh,Tīkmeh Dāsh,tykmh dash,تیکمه داش	37.73333	46.95	A	ADMD	IR		33				0		1842	Asia/Tehran	2024-07-22
+23274	Kandovān	Kandovan	Kandovan,Kandovān	37.61667	47.85	A	ADMD	IR		33				0		1356	Asia/Tehran	2024-07-22
+23288	Chārūymāq	Charuymaq	Charuymaq,Chārūymāq	37.21667	47.16667	A	ADMD	IR		33				0		1851	Asia/Tehran	2024-07-22
+24776	Songor	Songor	Songor	34.8	47.63333	A	ADMD	IR		13				0		1798	Asia/Tehran	2012-01-16
+24818	Ravānsar	Ravansar	Ravansar,Ravānsar	34.75	46.68333	A	ADMD	IR		13				0		1368	Asia/Tehran	2024-07-18
+24870	Māhī Dasht	Mahi Dasht	Mahi Dasht,Māhī Dasht	34.28333	46.83333	A	ADMD	IR		13				0		1361	Asia/Tehran	2024-07-18
+24912	Kangāvar	Kangavar	Kangavar,Kangāvar	34.53333	47.98333	A	ADMD	IR		13				0		1596	Asia/Tehran	2024-07-18
+24914	Kāmyārān	Kamyaran	Kamyaran,Kāmyārān,kamyaran,كامياران	34.81667	46.95	A	ADMD	IR		16				0		1531	Asia/Tehran	2024-07-18
+24919	Kākāvand	Kakavand	Kakavand,Kākāvand	34.41667	47.58333	A	ADMD	IR		13				0		1332	Asia/Tehran	2024-07-18
+24933	Harsīn	Harsin	Harsin,Harsīn	34.3	47.63333	A	ADMD	IR		13				0		1640	Asia/Tehran	2024-07-18
+24959	Fīrūzābād	Firuzabad	Firuzabad,Fīrūzābād	34.37361	47.10111	A	ADMD	IR		13				0		1300	Asia/Tehran	2012-01-16
+24962	Eslāmābād-e Gharb	Eslamabad-e Gharb		34.08333	46.55	A	ADMD	IR		13				0		1328	Asia/Tehran	1998-03-18
+24991	Dīnevar	Dinevar		34.6	47.43333	A	ADMD	IR		13				0		1353	Asia/Tehran	1998-03-18
+25052	Şaḩneh	Sahneh	Sahneh,Şaḩneh	34.5	47.81667	A	ADMD	IR		13				0		1832	Asia/Tehran	2024-07-18
+25751	Sarpol-e Z̄ahāb	Sarpol-e Zahab	Sarpol-e Zahab,Sarpol-e Z̄ahāb	34.45	45.88333	A	ADMD	IR		13				0		660	Asia/Tehran	2024-07-18
+25851	Kerend-e Gharb	Kerend-e Gharb	Kerend-e Gharb,krnd ghrb,کرند غرب	34.2831	46.2433	A	ADMD	IR		13				0		1570	Asia/Tehran	2012-01-16
+25882	Javānrūd	Javanrud		34.83333	46.46667	A	ADMD	IR		13				0		1374	Asia/Tehran	1999-02-22
+25902	Gīlān-e Gharb	Gilan-e Gharb	Gilan-e Gharb,Gīlān-e Gharb	34.15	45.95	A	ADMD	IR		13				0		848	Asia/Tehran	2024-07-25
+25972	Bāyangān	Bayangan		34.98333	46.26667	A	ADMD	IR		13				0		1299	Asia/Tehran	1999-02-22
+28180	Kūhdasht	Kuhdasht	kwhdasht,كوهدَشت	33.55	47.6	A	ADMD	IR		23				0		1200	Asia/Tehran	2006-08-20
+28571	Ḩomayl	Homayl		33.91667	46.75	A	ADMD	IR		13				0		1324	Asia/Tehran	1998-03-06
+32934	Robāţ Karīm	Robat Karim	Robat Karim,Robāţ Karīm	35.5	51.08333	A	ADMD	IR		26				0		1048	Asia/Tehran	2024-07-24
+32974	Palasht	Palasht	Palasht,palasht,پَلَشت	35.48333	51.66667	A	ADMD	IR		26				0		1012	Asia/Tehran	2012-01-16
+33042	Kahrīzak	Kahrizak	Kahrizak,Kahrīzak	35.5	51.36667	A	ADMD	IR		26				0		991	Asia/Tehran	2024-07-18
+33048	Javādābād	Javadabad	Javadabad,Javādābād,jawad abad,جَواد آباد	35.23333	51.66667	A	ADMD	IR		26				0		855	Asia/Tehran	2024-07-22
+33063	Garmsār	Garmsar	Garmsar,Garmsār,garmsar,گَرمسار	35.23333	52.33333	A	ADMD	IR		25				0		863	Asia/Tehran	2024-07-22
+33070	Fashāpūyeh	Fashapuyeh	Fashapuyeh,Fashāpūyeh,fashapwyih,فَشاپويِه	35.91667	51.5	A	ADMD	IR		26				0		2325	Asia/Tehran	2024-07-22
+33073	Eyvānekey	Eyvanekey	Eyvanekey,Eyvānekey	35.33333	51.08333	A	ADMD	IR		26				0		1001	Asia/Tehran	2024-07-22
+40685	Īrān	Iran	Iran,Īrān	37.86667	57.8	A	ADMD	IR		43				0		2111	Asia/Tehran	2012-01-16
+40970	Khorāsān	Khorasan	Khorasan,Khorāsān	38.2	57.13333	A	ADMD	IR		43				0		1355	Asia/Tehran	2024-07-22
+47746	Yāsūj	Yasuj	Yasuj,Yāsūj,yaswj,ياسوج	30.51667	51.58333	A	ADMD	IR		05				0		2575	Asia/Tehran	2012-01-16
+47747	Māhūr-e Mīlātī	Mahur-e Milati	Mahur-e Milati,Māhūr-e Mīlātī	30.07167	51.20472	A	ADMD	IR		07				0		1021	Asia/Tehran	2024-07-23
+66120	Shahrestān-e Saqqez	Shahrestan-e Saqqez	Saqqez,Shahrestan-e Saqqez,Shahrestān-e Saqqez	36	46.16667	A	ADMD	IR		16				0		1918	Asia/Tehran	2024-07-25
+66186	Shahrestān-e Īlām	Shahrestan-e Ilam	Ilam,Shahrestan-e Ilam,Shahrestān-e Īlām,shahristani ylam,ylam,Īlām,شَهرِستانِ يلام,يلام	33	47	A	ADMD	IR		10				0		773	Asia/Tehran	2024-07-24
+66332	Yazd	Yazd	Shahrestan-e Yazd,Shahrestān-e Yazd,Yazd,shhrstan yzd,yzd,شهرستان يزد,يزد	31.49973	54.49345	A	ADMD	IR		40				0		1524	Asia/Tehran	2024-07-18
+66367	Shahrestān-e Tūysarkān	Shahrestan-e Tuysarkan	Shahrestan-e Tuysarkan,Shahrestān-e Tūysarkān,Tuysarkan,Tūysarkān,shahristani twysarkan,twysarkan,تويسَركان,شَهرِستانِ تويسَركان	34.58333	48.25	A	ADMD	IR		09				0		1972	Asia/Tehran	2024-07-19
+66387	Shahrestān-e Torbat-e Ḩeydarīyeh	Shahrestan-e Torbat-e Heydariyeh	Shahrestan-e Torbat-e Heydariyeh,Shahrestān-e Torbat-e Ḩeydarīyeh,Torbat-Heydarieh,Torbat-e Heydariyeh,Torbat-e Ḩeydarīyeh	35	59.5	A	ADMD	IR		42				0		1123	Asia/Tehran	2024-07-25
+66426	Shahrestān-e Ţavālesh	Shahrestan-e Tavalesh	Khamseh,Khamseh Tavaiesh,Shahrestan-e Tavalesh,Shahrestān-e Ţavālesh,Tavalesh,khamsih,shahristani tawalish,tawalish,Ţavālesh,خَمسِه,شَهرِستانِ طَوالِش,طَوالِش	37.75	48.83333	A	ADMD	IR		08				0		1003	Asia/Tehran	2024-07-18
+66516	Tabādkān	Tabadkan	Tabadkan,Tabādkān,tabadkan,تَبادكان	36.56667	59.9	A	ADMD	IR		42				0		1633	Asia/Tehran	2024-07-15
+66731	Shahrestān-e Shahsavār	Shahrestan-e Shahsavar	Shahrestan-e Shahsavar,Shahrestān-e Shahsavār,Shahsavar,Shahsavār,shahristani shahsawar,shhswar,شهسوار,شَهرِستانِ شَهسَوار	36.58333	50.83333	A	ADMD	IR		35				0		1051	Asia/Tehran	2024-07-25
+66732	Shahrestān-e Shāhrūd	Shahrestan-e Shahrud	Shahrestan-e Shahrud,Shahrestān-e Shāhrūd,Shahrud,Shahrud va Damghan,Shāhrūd,Shāhrūd va Dāmghān,shahristani shahrwd,shahrwd,shahrwd wa damghan,شاهرود,شاهرود وَ دامغان,شَهرِستانِ شاهرود	36	55.5	A	ADMD	IR		25				0		1656	Asia/Tehran	2024-07-25
+66750	Shahrestān-e Shāhī	Shahrestan-e Shahi	Shah,Shahi,Shahrestan-e Shahi,Shahrestān-e Shāhī,Shāh,Shāhī,shah,shahristani shahy,shahy,شاه,شاهی,شَهرِستانِ شاهی	36.41667	52.91667	A	ADMD	IR		35				0		159	Asia/Tehran	2024-07-25
+66759	Shahrestān-e Shāhābād	Shahrestan-e Shahabad	Shahabad,Shahrestan-e Shahabad,Shahrestān-e Shāhābād,Shāhābād,shah abad,shahristani shah abad,شاه آباد,شَهرِستانِ شاه آباد	34.25	46.25	A	ADMD	IR		13				0		1482	Asia/Tehran	2024-07-23
+66781	Shahrestān-e Semnān	Shahrestan-e Semnan	Semnan,Semnān,Shahrestan-e Semnan,Shahrestān-e Semnān,shahristani simnan,simnan,سِمنان,شَهرِستانِ سِمنان	35	53.5	A	ADMD	IR		25				0		999	Asia/Tehran	2024-07-23
+66823	Shahrestān-e Sārī	Shahrestan-e Sari	Sar,Shahrestan-e Sari,Shahrestān-e Sārī,Sār,sar,shhrstan sary,سار,شهرستان ساری	36.5	53.5	A	ADMD	IR		35				0		664	Asia/Tehran	2024-07-25
+66849	Shahrestān-e Sarāb	Shahrestan-e Sarab	Sarab,Sarāb,Shahrestan-e Sarab,Shahrestān-e Sarāb,sarab,shahristani sarab,سَراب,شَهرِستانِ سَراب	38	47.5	A	ADMD	IR		33				0		1818	Asia/Tehran	2024-07-25
+66873	Sanandaj	Sanandaj	Sanandaj,Shahrestan-e Sanandaj,Shahrestān-e Sanandaj,sanandaj,shahristani sanandaj,سَنَندَج,شَهرِستانِ سَنَندَج	32.41667	47	A	ADMD	IR		00				0		32	Asia/Tehran	2024-07-23
+66924	Shahrestān-e Sabzevār	Shahrestan-e Sabzevar	Sabzevar,Sabzevār,Shahrestan-e Sabzevar,Shahrestān-e Sabzevār,sabziwar,shahristani sabziwar,سَبزِوار,شَهرِستانِ سَبزِوار	36	57.5	A	ADMD	IR		42				0		1208	Asia/Tehran	2024-07-23
+66970	Shahrestān-e Reẕā’īyeh	Shahrestan-e Reza'iyeh	Reza'iyeh,Reẕā’iyeh,Shahrestan-e Reza'iyeh,Shahrestān-e Reẕā’īyeh,shhrstan rdayyh,شهرستان رضائيه	37.5	45	A	ADMD	IR		01				0		1428	Asia/Tehran	2024-07-23
+66994	Rasht	Rasht	Rasht,Shahrestan-e Rasht,Shahrestān-e Rasht,rasht,shahristani rasht,رَشت,شَهرِستانِ رَشت	37	49.5	A	ADMD	IR		08				0		271	Asia/Tehran	2024-07-23
+67015	Shahrestān-e Rafsanjān	Shahrestan-e Rafsanjan	Rafsanjan,Rafsanjān,Shahrestan-e Rafsanjan,Shahrestān-e Rafsanjān,rafsanjan,shahristani rafsanjan,رَفسَنجان,شَهرِستانِ رَفسَنجان	30.5	56	A	ADMD	IR		29				0		1491	Asia/Tehran	2024-07-23
+67020	Shahrestān-e Qūchān	Shahrestan-e Quchan	Quchan,Qūchān,Shahrestan-e Quchan,Shahrestān-e Qūchān,qwchan,shahristani qwchan,شَهرِستانِ قوچان,قوچان	37.41667	58.16667	A	ADMD	IR		43				0		1572	Asia/Tehran	2024-07-23
+67270	Now Shahr	Now Shahr	Now Shahr,Shahrestan-e Now Shahr,Shahrestān-e Now Shahr,nu shahr,shahristani nu shahr,شَهرِستانِ نُو شَهر,نُو شَهر	36.5	51.5	A	ADMD	IR		35				0		1535	Asia/Tehran	2024-07-25
+67354	Shahrestān-e Nā’īn	Shahrestan-e Na'in	Na'in,Nā’īn,Shahrestan-e Na'in,Shahrestān-e Nā’īn,nayyn,shahristani nayyn,شَهرِستانِ نائين,نائين	33.5	54.5	A	ADMD	IR		28				0		1179	Asia/Tehran	2024-07-18
+67357	Shahrestān-e Nahāvand	Shahrestan-e Nahavand	Nahavand,Nahāvand,Shahrestan-e Nahavand,Shahrestān-e Nahāvand,nahawand,shahristani nahawand,شَهرِستانِ نَهاوَند,نَهاوَند	34.25	48.25	A	ADMD	IR		09				0		1546	Asia/Tehran	2024-07-21
+67472	Shahrestān-e Mīāneh	Shahrestan-e Mianeh	Mianeh,Mīāneh,Shahrestan-e Mianeh,Shahrestān-e Mīāneh	37.5	47.58333	A	ADMD	IR		33				0		1271	Asia/Tehran	2024-07-24
+67476	Shahrestān-e Meshgīn Shahr	Shahrestan-e Meshgin Shahr	Khiav,Khīāv,Meshgin Shahr,Meshgīn Shahr,Meshkin Shahr,Meshkīn Shahr,Shahrestan-e Meshgin Shahr,Shahrestān-e Meshgīn Shahr,khyaw,mishgyn shahr,mishkyn shahr,shahristani mishgyn shahr,خياو,شَهرِستانِ مِشگين شَهر,مِشكين شَهر,مِشگين شَهر	38.5	47.83333	A	ADMD	IR		32				0		1326	Asia/Tehran	2018-11-04
+67571	Marand	Marand	Marand,Shahrestan-e Marand,Shahrestān-e Marand,marand,shahristani marand,شَهرِستانِ مَرَند,مَرَند	38.66667	45.58333	A	ADMD	IR		33				0		1495	Asia/Tehran	2024-07-23
+67611	Shahrestān-e Malāyer	Shahrestan-e Malayer	Malayer,Malāyer,Shahrestan-e Malayer,Shahrestān-e Malāyer,malayir,shahristani malayir,شَهرِستانِ مَلايِر,مَلايِر	34.33333	48.66667	A	ADMD	IR		09				0		1683	Asia/Tehran	2024-07-23
+67612	Shahrestān-e Mākū	Shahrestan-e Maku	Maku,Mākū,Shahrestan-e Maku,Shahrestān-e Mākū,makw,shahristani makw,شَهرِستانِ ماكو,ماكو	39.33333	44.75	A	ADMD	IR		01				0		1138	Asia/Tehran	2024-07-23
+67627	Shahrestān-e Maḩallāt	Shahrestan-e Mahallat	Mahallat,Maḩallāt,Shahrestan-e Mahallat,Shahrestān-e Maḩallāt,mahalat,shahristani mahalat,شَهرِستانِ مَحَلّات,مَحَلّات	33.75	50.5	A	ADMD	IR		34				0		1766	Asia/Tehran	2024-07-20
+67629	Shahrestān-e Mahābād	Shahrestan-e Mahabad	Mahabad,Mahābād,Shahrestan-e Mahabad,Shahrestān-e Mahābād	36.58333	45.5	A	ADMD	IR		01				0		1979	Asia/Tehran	2024-07-19
+67672	Shahrestān-e Lār	Shahrestan-e Lar	Lar,Lār,Shahrestan-e Lar,Shahrestān-e Lār,lar,shahristani lar,شَهرِستانِ لار,لار	27.75	54	A	ADMD	IR		07				0		1002	Asia/Tehran	2024-07-23
+67684	Shahrestān-e Lāhījān	Shahrestan-e Lahijan	Lahijan,Lāhījān,Shahrestan-e Lahijan,Shahrestān-e Lāhījān,lahyjan,shahristani lahyjan,شَهرِستانِ لاهيجان,لاهيجان	37	50.25	A	ADMD	IR		08				0		857	Asia/Tehran	2024-07-15
+67762	Khowy	Khowy	Khowy,Khvoy,Shahrestan-e Khowy,Shahrestān-e Khowy	38.5	44.83333	A	ADMD	IR		01				0		1579	Asia/Tehran	2017-10-03
+67791	Shahrestān-e Khorramābād	Shahrestan-e Khorramabad	Khorramabad,Khorramābād,Shahrestan-e Khorramabad,Shahrestān-e Khorramābād,khuram abad,shahristani khuram abad,خُرَّم آباد,شَهرِستانِ خُرَّم آباد	33.5	48	A	ADMD	IR		23				0		979	Asia/Tehran	2024-07-25
+67846	Shahrestān-e Khalkhāl	Shahrestan-e Khalkhal	Khalkhal,Khalkhāl,Shahrestan-e Herowabad,Shahrestan-e Khalkhal,Shahrestān-e Herowābād,Shahrestān-e Khalkhāl,khalkhal,shahristani hiru abad,shahristani khalkhal,خَلخال,شَهرِستانِ خَلخال,شَهرِستانِ هِرُو آباد	37.61611	48.52528	A	ADMD	IR		32				0		1782	Asia/Tehran	2024-07-15
+67868	Shahrestān-e Bākhtarān	Shahrestan-e Bakhtaran	Kermanshah,Kermanshahan,Kermānshāh,Kermānshāhān,Shahrestan-e Bakhtaran,Shahrestān-e Bākhtarān,kirmanshah,kirmanshahan,shahristani bakhtaran,شَهرِستانِ باختَران,كِرمانشاه,كِرمانشاهان	34.25	47.33333	A	ADMD	IR		13				0		1438	Asia/Tehran	2024-07-23
+67869	Shahrestān-e Kermān	Shahrestan-e Kerman	Kerman,Kermān,Shahrestan-e Kerman,Shahrestān-e Kermān,kirman,shahristani kirman,شَهرِستانِ كِرمان,كِرمان	30.83333	57.83333	A	ADMD	IR		29				0		273	Asia/Tehran	2024-07-23
+67888	Shahrestān-e Kāshmar	Shahrestan-e Kashmar	Kashmar,Kāshmar,Shahrestan-e Kashmar,Shahrestān-e Kāshmar	35	57.5	A	ADMD	IR		00				0		868	Asia/Tehran	2024-07-23
+67892	Kāshān	Kashan	Kashan,Kāshān,Shahrestan-e Kashan,Shahrestān-e Kāshān,kashan,shahristani kashan,شَهرِستانِ كاشان,كاشان	34	51.5	A	ADMD	IR		28				0		926	Asia/Tehran	2024-07-23
+68133	Jahrom	Jahrom	Jahrom,Shahrestan-e Jahrom,Shahrestān-e Jahrom,jahrum,shahristani jahrum,جَهرُم,شَهرِستانِ جَهرُم	28.75	53.41667	A	ADMD	IR		07				0		1245	Asia/Tehran	2024-07-23
+68238	Shahrestān-e Hamadān	Shahrestan-e Hamadan	Hamadan,Hamadān,Shahrestan-e Hamadan,Shahrestān-e Hamadān,hamadan,shahristani hamadan,شَهرِستانِ هَمَدان,هَمَدان	35	48.66667	A	ADMD	IR		09				0		1836	Asia/Tehran	2024-07-24
+68315	Shahrestān-e Gorgān	Shahrestan-e Gorgan	Gargan,Gorgan,Gorgon,Gorgān,Gurgan,Gurgān,Shahrestan-e Gorgan,Shahrestān-e Gorgān,gurgan,shahristani gurgan,شَهرِستانِ گُرگان,گُرگان	37	54.5	A	ADMD	IR		37				0		-17	Asia/Tehran	2024-07-24
+68322	Shahrestān-e Gonābād	Shahrestan-e Gonabad	Gonabad,Gonābād,Shahrestan-e Gonabad,Shahrestān-e Gonābād,gun abad,shahristani gun abad,شَهرِستانِ گُن آباد,گُن آباد	34.5	58.5	A	ADMD	IR		42				0		1149	Asia/Tehran	2024-07-25
+68328	Shahrestān-e Golpāyegān	Shahrestan-e Golpayegan	Golpayegan,Golpāyegān,Shahrestan-e Golpayegan,Shahrestān-e Golpāyegān,gulpayigan,shahristani gulpayigan,شَهرِستانِ گُلپايِگان,گُلپايِگان	33.41667	50.41667	A	ADMD	IR		28				0		1878	Asia/Tehran	2024-07-23
+68454	Shahrestān-e Fīrūzābād	Shahrestan-e Firuzabad	Firuzabad,Fīrūzābād,Shahrestan-e Firuzabad,Shahrestān-e Fīrūzābād,fyrwz abad,shahristani fyrwz abad,شَهرِستانِ فيروز آباد,فيروز آباد	28.66667	52.5	A	ADMD	IR		07				0		870	Asia/Tehran	2024-07-25
+68464	Ferdows	Ferdows	Ferdows,Shahrestan-e Ferdows,Shahrestān-e Ferdows,firdus,shahristani firdus,شَهرِستانِ فِردُوس,فِردُوس	33.5	57	A	ADMD	IR		41				0		749	Asia/Tehran	2024-07-24
+68476	Shahrestān-e Farīdan	Shahrestan-e Faridan	Faridan,Farīdan,Shahrestan-e Faridan,Shahrestān-e Farīdan,shahristani farydan,شَهرِستانِ فَريدَن	32.83333	50	A	ADMD	IR		28				0		3102	Asia/Tehran	2024-07-25
+68573	Shahrestān-e Dezfūl	Shahrestan-e Dezful	Dezful,Dezfūl,Shahrestan-e Dezful,Shahrestān-e Dezfūl,dizfwl,shahristani dizfwl,دِزفول,شَهرِستانِ دِزفول	32.33333	48.33333	A	ADMD	IR		15				0		102	Asia/Tehran	2024-07-24
+68638	Shahrestān-e Dasht-e Mīshān	Shahrestan-e Dasht-e Mishan	Dasht-Mishan,Dasht-e Mishan,Dasht-e Mīshān,Shahrestan-e Dasht-e Mishan,Shahrestān-e Dasht-e Mīshān,dashti myshan,shahristani dashti myshan,دَشتِ ميشان,شَهرِستانِ دَشتِ ميشان	32	47.83333	A	ADMD	IR		00				0		86	Asia/Tehran	2024-07-24
+68640	Shahrestān-e Dasht-e Gorgān	Shahrestan-e Dasht-e Gorgan	Dasht-e Gorgan,Dasht-e Gorgān,Shahrestan-e Dasht-e Gorgan,Shahrestān-e Dasht-e Gorgān,dashti gurgan,shahristani dashti gurgan,دَشتِ گُرگان,شَهرِستانِ دَشتِ گُرگان	37.5	55.75	A	ADMD	IR		35				0		633	Asia/Tehran	2024-07-24
+68658	Darreh Gaz	Darreh Gaz	Dargaz,Darreh Gaz,Shahrestan-e Darjaz,Shahrestan-e Darreh Gaz,Shahrestān-e Darjaz,Shahrestān-e Darreh Gaz,dargaz,drh gz,shahristani darih gaz,shahristani darjaz,دره گز,دَرگَز,شَهرِستانِ دَرجَز,شَهرِستانِ دَرِّه گَز	37	59.75	A	ADMD	IR		00				0		985	Asia/Tehran	2024-07-24
+68681	Shahrestān-e Damāvand	Shahrestan-e Damavand	Damavand,Damāvand,Shahrestan-e Damavand,Shahrestān-e Damāvand,damawand,shahristani damawand,دَماوَند,شَهرِستانِ دَماوَند	35.75	52.5	A	ADMD	IR		26				0		2382	Asia/Tehran	2024-07-24
+68916	Shahrestān-e Borūjerd	Shahrestan-e Borujerd	Borujerd,Borūjerd,Shahrestan-e Borujerd,Shahrestān-e Borūjerd	33.5	49.16667	A	ADMD	IR		23				0		1567	Asia/Tehran	2024-07-18
+68951	Shahrestān-e Bojnūrd	Shahrestan-e Bojnurd	Bojnurd,Bojnūrd,Shahrestan-e Bojnurd,Shahrestān-e Bojnūrd,bujnwrd,shahristani bujnwrd,بُجنورد,شَهرِستانِ بُجنورد	37.5	57	A	ADMD	IR		43				0		1143	Asia/Tehran	2024-07-20
+68971	Shahrestān-e Bījār	Shahrestan-e Bijar	Bijar,Bījār,Shahrestan-e Bijar,Shahrestān-e Bījār	36	47.66667	A	ADMD	IR		16				0		1703	Asia/Tehran	2024-07-23
+69008	Shahrestān-e Behbehān	Shahrestan-e Behbehan	Behbahan,Behbehan,Behbehān,Shahrestan-e Behbehan,Shahrestān-e Behbehān,bihbihan,بِهبِهان	31	50.75	A	ADMD	IR		05				0		1994	Asia/Tehran	2024-07-18
+69068	Shahrestān-e Bandar-e Pahlavī	Shahrestan-e Bandar-e Pahlavi	Bandar-e Pahlav,Bandar-e Pahlavi,Bandar-e Pahlavī,Shahrestan-e Bandar-e Pahlavi,Shahrestān-e Bandar-e Pahlavī	37.46639	49.45667	A	ADMD	IR		08				0		-24	Asia/Tehran	2024-07-20
+69069	Shahrestān-e Bandar-e Lengeh	Shahrestan-e Bandar-e Lengeh	Bandar-e Langeh,Langeh,Shahrestan-e Bandar-e Lengeh,Shahrestān-e Bandar-e Lengeh,bandari langih,langih,shahristani bandari lingih,بَندَرِ لَنگِه,شَهرِستانِ بَندَرِ لِنگِه,لَنگِه	26.83333	54	A	ADMD	IR		11				0		293	Asia/Tehran	2024-07-20
+69071	Shahrestān-e Bandar ‘Abbās	Shahrestan-e Bandar `Abbas	Bandar `Abbas,Bandar ‘Abbās,Shahrestan-e Bandar `Abbas,Shahrestān-e Bandar ‘Abbās,بَندَر عَبّاس,شهرِستان بندر عبّاس	28	56	A	ADMD	IR		11				0		1008	Asia/Tehran	2024-07-20
+69078	Shahrestān-e Bam	Shahrestan-e Bam	Bam,Shahrestan-e Bam,Shahrestān-e Bam	29	58.5	A	ADMD	IR		29				0		884	Asia/Tehran	2024-07-25
+69094	Shahrestān-e Bakhtīārī va Chahār Maḩāll	Shahrestan-e Bakhtiari va Chahar Mahall	Bakhtiar and Tchahar Mahal,Bakhtiari va Chahar Mahall,Bakhtīārī va Chahār Maḩāll,Chahar Mahal,Chahār Mahāl,Shahr Kord,Shahr-e Kord,Shahrestan-e Bakhtiari va Chahar Mahall,Shahrestān-e Bakhtīārī va Chahār Maḩāll,bakhtyary wa chahar mahal,chahar mahal,shahr kurd,shahri kurd,shahristani bakhtyary wa chahar mahal,بَختياری وَ چَهار مَحالّ,شَهر كُرد,شَهرِ كُرد,شَهرِستانِ بَختياری وَ چَهار مَحالّ,چَهار مَهال	32	50	A	ADMD	IR		15				0		1465	Asia/Tehran	2024-07-25
+69199	Shahrestān-e Ardestān	Shahrestan-e Ardestan	Ardestan,Ardestān,Shahrestan-e Ardestan,Shahrestān-e Ardestān,ardstan,shahristani aardistan,اردستان,شَهرِستانِ اَردِستان	33.75	52.5	A	ADMD	IR		28				0		1064	Asia/Tehran	2024-07-20
+69200	Shahrestān-e Ardabīl	Shahrestan-e Ardabil	Ardabil,Ardabīl,Ardebil,Ardebīl,Shahrestan-e Ardabil,Shahrestān-e Ardabīl,ardbyl,shhrstan ardbyl,اردبيل,شهرستان اردبيل	39	48	A	ADMD	IR		32				0		1166	Asia/Tehran	2024-07-18
+69202	Shahrestān-e Arasbārān	Shahrestan-e Arasbaran	Ahar,Arasbaran,Arasbārān,Shahrestan-e Ahar,Shahrestan-e Arasbaran,Shahrestān-e Ahar,Shahrestān-e Arasbārān,aahar,shahristani aahar,shahristani aarasbaran,اَهَر,شَهرِستانِ اَرَسباران,شَهرِستانِ اَهَر	38.66667	47	A	ADMD	IR		33				0		2273	Asia/Tehran	2024-07-23
+69203	Shahrestān-e Arāk	Shahrestan-e Arak	Arak,Arāk,Shahrestan-e Arak,Shahrestān-e Arāk,aarak,shahristani aarak,اَراك,شَهرِستانِ اَراك	34.41667	49.58333	A	ADMD	IR		34				0		1731	Asia/Tehran	2024-07-18
+69225	Shahrestān-e Āmol	Shahrestan-e Amol	Amol,Shahrestan-e Amol,Shahrestān-e Āmol,amul,shahristani amul,Āmol,آمُل,شَهرِستانِ آمُل	36.25	52.25	A	ADMD	IR		35				0		1778	Asia/Tehran	2024-07-18
+69365	Shahrestān-e Ābādeh	Shahrestan-e Abadeh	Abadeh,Shahrestan-e Abadeh,Shahrestān-e Ābādeh,abadih,shhrstan abadh,Ābādeh,آبادِه,شهرستان آباده	30.58333	53	A	ADMD	IR		07				0		2255	Asia/Tehran	2024-07-18
+115257	Shemīrānāt	Shemiranat	Shamiran,Shemiran,Shemiranat,Shemran,Shemīrān,Shemīrānāt,Shimran,shimran,shimyran,shimyranat,شِمرَن,شِميران,شِميرانات	35.66667	51.43333	A	ADMD	IR		26				0		1132	Asia/Tehran	2024-07-22
+400855	Lavāsānāt	Lavasanat	Lavasanat,Lavāsānāt,lawasanat,لَواسانات	35.96667	51.81667	A	ADMD	IR		35				0		3474	Asia/Tehran	2024-07-14
+417923	Nā’īn	Na'in	Na'in,Nā’īn	32.83333	52.08333	A	ADMD	IR		28				0		1623	Asia/Tehran	2012-01-19
+418371	Shahrestān-e Shahreẕā	Shahrestan-e Shahreza	Shahrestan-e Shahreza,Shahrestān-e Shahreẕā,Shahreza,Shahreẕā,shahrida,shahristani shahrida,شَهرِستانِ شَهرِضا,شَهرِضا	32	52	A	ADMD	IR		28				0		2048	Asia/Tehran	2024-07-15
+418402	Shahrestān-e Eşfahān	Shahrestan-e Esfahan	Esfahan,Eşfahān,Shahrestan-e Esfahan,Shahrestān-e Eşfahān,aisfahan,shahristani aisfahan,اِصفَهان,شَهرِستانِ اِصفَهان	32.83333	51.83333	A	ADMD	IR		28				0		1551	Asia/Tehran	2024-07-20
+1158669	Shahrestān-e Sarāvān	Shahrestan-e Saravan	Saravan,Sarāvān,Shahrestan-e Saravan,Shahrestān-e Sarāvān,sarawan,shahristani sarawan,سَراوان,شَهرِستانِ سَراوان	27.25	62.16667	A	ADMD	IR		04				0		1153	Asia/Tehran	2024-07-23
+1158838	Shahrestān-e Mashhad	Shahrestan-e Mashhad	Mashhad,mashhad,shahristani mashhad,شَهرِستانِ مَشهَد,مَشهَد	36	60	A	ADMD	IR		00				0		957	Asia/Tehran	2007-03-22
+6662984	Āghājārī	Aghajari	Shahrestan-e Aghajari,Shahrestan-e Āghājārī,aghajary,آغاجاری	30.739	49.7727	A	ADMD	IR		15				0		108	Asia/Tehran	2024-07-25
+6729486	Edāreh-ye Rāh va Tarābarī-ye Līkak	Edareh-ye Rah va Tarabari-ye Likak	Edareh-ye Rah va Tarabari-ye Likak,Edāreh-ye Rāh va Tarābarī-ye Līkak,adarih rah w trabry lykk,ادارِه راه و ترابری لیکک	30.875	50.0862	A	ADMD	IR		05				0		683	Asia/Tehran	2018-08-08
+9921368	Amīn Dāleq	Amin Daleq	Amin Daleq,Amīn Dāleq,amyn dalq,امين دالق	37.924	55.932	A	ADMD	IR		37				0		279	Asia/Tehran	2015-02-08

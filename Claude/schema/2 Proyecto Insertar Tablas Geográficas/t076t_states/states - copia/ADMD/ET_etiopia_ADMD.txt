@@ -1,0 +1,97 @@
+﻿325542	Raya na K’obo Āwraja	Raya na K'obo Awraja	Raia,Raya and Kobo,Raya na K'obo Awraja,Raya na K’obo,Raya na K’obo Āwraja,RayanaK'obo	12.25	40.33333	A	ADMD	ET		45				0		672	Africa/Addis_Ababa	2022-02-18
+325809	Yifat na T’imuga Āwraja	Yifat na T'imuga Awraja	Yifat and Timuga,Yifat na T'imuga Awraja,Yifat na T’imuga,Yifat na T’imuga Āwraja,YifatnaT'imuga	10.16667	40.25	A	ADMD	ET		45				0		909	Africa/Addis_Ababa	2022-02-18
+325869	Yerer na Kereyu	YerernaKereyu	Carraiu,Yerer and Karayu,Yerer and Kereyu,Yerer na Kereyu,Yerer na Kereyu Awraja,Yerer na Kereyu Āwraja,Yerer-kereyu,YerernaKereyu	8.83333	39.33333	A	ADMD	ET		46				0		1947	Africa/Addis_Ababa	2022-02-18
+325917	Yeju	Yeju	Ieggiu Galla,Yeju,Yeju Awraja,Yeju Āwraja	11.75	40	A	ADMD	ET		45				0		939	Africa/Addis_Ababa	2022-02-18
+326258	Were Īlu Āwraja	Were Ilu Awraja	Ware Ilu,Were Ilu Awraja,Were Īlu,Were Īlu Āwraja,WereIlu	10.66667	39.5	A	ADMD	ET		46				0		2394	Africa/Addis_Ababa	2022-02-18
+326260	Were Hīmeno Āwraja	Were Himeno Awraja	Uorra,Warehimeno,Were Himeno Awraja,Were Hīmeno,Were Hīmeno Āwraja,WereHimeno	11	39.16667	A	ADMD	ET		46				0		3771	Africa/Addis_Ababa	2022-02-18
+326281	Werdēr Āwraja	Werder Awraja	Welwel and Warder,Werder,Werder Awraja,Werdēr,Werdēr Āwraja	7.5	46	A	ADMD	ET		52				0		576	Africa/Addis_Ababa	2022-02-18
+326350	Welo	Welo	Uollo,Wallo,Welo,Welo Kifle Hager,Welo Kifle Hāger,Wollo,Wolloo	11.5	40	A	ADMD	ET		46				0		1092	Africa/Addis_Ababa	2022-02-18
+326493	Wegera	Wegera	Uoghera,Wegera,Wegera Awraja,Wegera Āwraja	13.75	37	A	ADMD	ET		53				0		825	Africa/Addis_Ababa	2022-02-18
+326561	Webera	Webera	Webera,Webera Awraja,Webera Āwraja,Wobera	9.33333	41.5	A	ADMD	ET		51				0		1997	Africa/Addis_Ababa	2022-02-18
+326704	Wadla Delanta	WadlaDelanta	Uadla,Wadla Delanta,Wadla Delanta Awraja,Wadla Delanta Āwraja,WadlaDelanta	11.58333	39	A	ADMD	ET		46	7869862			0		2911	Africa/Addis_Ababa	2022-02-18
+326743	Wabē Āwraja	Wabe Awraja	Wabe,Wabe Awraja,Wabi,Wabē,Wabē Āwraja	7.5	41.25	A	ADMD	ET		51				0		1152	Africa/Addis_Ababa	2022-02-18
+327580	Tigray	Tigray	Tegre,Tegrē,Tigrai,Tigray,Tigray Kifle Hager,Tigray Kifle Hāger,Tigre,Tigrē	13.5	39.5	A	ADMD	ET		53				0		2288	Africa/Addis_Ababa	2022-02-18
+327601	T’īcho Āwraja	T'icho Awraja	T'icho,T'icho Awraja,T’īcho,T’īcho Āwraja	7.75	40	A	ADMD	ET		51				0		2475	Africa/Addis_Ababa	2022-02-18
+327739	Tembēn Āwraja	Temben Awraja	Temben,Temben Awraja,Tembien,Tembēn,Tembēn Āwraja	13.5	39	A	ADMD	ET		53				0		1540	Africa/Addis_Ababa	2022-02-18
+327816	Tegulet na Bulga	TeguletnaBulga	Bulga,Tegulet and Bulga,Tegulet na Bulga,Tegulet na Bulga Awraja,Tegulet na Bulga Āwraja,TeguletnaBulga	9.5	39.66667	A	ADMD	ET		46	8051207			0		2048	Africa/Addis_Ababa	2022-02-18
+328156	Sor na Geba	SornaGeba	Sor and Gabba,Sor and Geba,Sor and Gebba,Sor na Geba,Sor na Geba Awraja,Sor na Geba Āwraja,SornaGeba	8.41667	35.75	A	ADMD	ET		51				0		1736	Africa/Addis_Ababa	2022-02-18
+328354	Simēn Āwraja	Simen Awraja	Semen,Semien,Semēn,Simen,Simen Awraja,Simian,Simyen,Simēn,Simēn Āwraja	13.25	38.25	A	ADMD	ET		46				0		3437	Africa/Addis_Ababa	2022-02-18
+328433	Sīdamo Kifle Hāger	Sidamo Kifle Hager	Galla Sidamo,Sedama,Sedamo,Sidamo,Sidamo Kifle Hager,Sidamo Province,Sidamo-Borana,Siddama,Sidāmo,Sīdamo,Sīdamo Kifle Hāger	5	39	A	ADMD	ET		51				0		1011	Africa/Addis_Ababa	2022-02-18
+328435	Sīdama Āwraja	Sidama Awraja	Sidama,Sidama Awraja,Sidamo,Sīdama,Sīdama Āwraja	6.75	38.5	A	ADMD	ET		SI				0		1972	Africa/Addis_Ababa	2024-06-06
+328577	Shewa	Shewa	Scioa,Shawa,Shawā,Shewa,Shewa Kifle Hager,Shewa Kifle Hāger,Shoa	9	39	A	ADMD	ET		51				0		2436	Africa/Addis_Ababa	2022-02-18
+328591	Sherē Āwraja	Shere Awraja	Scire,Shere,Shere Awraja,Sherē,Sherē Āwraja,Shire	14.33333	38	A	ADMD	ET		53				0		1297	Africa/Addis_Ababa	2022-02-18
+328946	Selalē Āwraja	Selale Awraja	Salale,Selale,Selale Awraja,Selalē,Selalē Āwraja	9.83333	38.5	A	ADMD	ET		51				0		2577	Africa/Addis_Ababa	2022-02-18
+328961	Sek’ot’a Āwraja	Sek'ot'a Awraja	Sek'ot'a,Sek'ot'a Awraja,Sek’ot’a,Sek’ot’a Āwraja,Wag	12.5	39	A	ADMD	ET		46				0		2454	Africa/Addis_Ababa	2022-02-18
+329682	Raya na Āzebo Āwraja	Raya na Azebo Awraja	Raya and Azebo,Raya na Azebo Awraja,Raya na Āzebo,Raya na Āzebo Āwraja,RayanaAzebo	12.66667	40.33333	A	ADMD	ET		45				0		338	Africa/Addis_Ababa	2022-02-18
+330424	Mot’a Āwraja	Mot'a Awraja	Mot'a,Mot'a Awraja,Mot’a,Mot’a Āwraja	10.83333	38.16667	A	ADMD	ET		46				0		2490	Africa/Addis_Ababa	2022-02-18
+330526	Mocha	Mocha	Mocha,Mocha Awraja,Mocha Āwraja,Mocia	7.5	35.5	A	ADMD	ET		SW				0		2417	Africa/Addis_Ababa	2024-06-06
+330915	Merhābēte Āwraja	Merhabete Awraja	Marabetie,Merha Bete,Merhabete,Merhabete Awraja,Merhābēte,Merhābēte Āwraja	10.16667	38.83333	A	ADMD	ET		51				0		1597	Africa/Addis_Ababa	2022-02-18
+330960	Menz na Gishē Āwraja	Menz na Gishe Awraja	Mens,Menz and Gishe,Menz and Yifat,Menz na Gishe Awraja,Menz na Gishē Āwraja	10.33333	39.66667	A	ADMD	ET		46				0		3118	Africa/Addis_Ababa	2012-01-19
+331039	Mendeyo	Mendeyo	Fasil,Mendeyo,Mendeyo Awraja,Mendeyo Āwraja	6.5	40.5	A	ADMD	ET		51				0		1168	Africa/Addis_Ababa	2022-02-18
+331058	Menagesha Āwraja	Menagesha Awraja	Menagesha Awraja,Menagesha Āwraja,Mennagesha	9.16667	39.5	A	ADMD	ET		46				0		2342	Africa/Addis_Ababa	2012-01-19
+331982	Līmu Āwraja	Limu Awraja	Limmu,Limu,Limu Awraja,Līmu,Līmu Āwraja	8.16667	37	A	ADMD	ET		51				0		1630	Africa/Addis_Ababa	2022-02-18
+332029	Lībo Āwraja	Libo Awraja	Libo,Libo Awraja,Lībo,Lībo Āwraja	12.33333	38	A	ADMD	ET		46				0		2084	Africa/Addis_Ababa	2022-02-18
+332136	Lēk’a Āwraja	Lek'a Awraja	Lek'a,Lek'a Awraja,Leka,Lēk’a,Lēk’a Āwraja	9.33333	36.66667	A	ADMD	ET		51				0		1402	Africa/Addis_Ababa	2022-02-18
+332234	Lasta	Lasta	Lasta,Lasta Awraja,Lasta Āwraja	12	39	A	ADMD	ET		46				0		2125	Africa/Addis_Ababa	2022-02-18
+332540	Kulo Konta	Kulo Konta	Gullo and Conta,Kulo Konta,Kulo Konta Awraja,Kulo Konta Āwraja,KuloKonta,Kulu Konta	7	37	A	ADMD	ET		SW				0		2019	Africa/Addis_Ababa	2024-06-06
+332898	Kola Dega Damot	KolaDegaDamot	Damot,Kola Dega Damot,Kola Dega Damot Awraja,Kola Dega Damot Āwraja,Kola Diga Damot,KolaDegaDamot	10.75	37.16667	A	ADMD	ET		46				0		2161	Africa/Addis_Ababa	2022-02-18
+333414	K’ēlem Āwraja	K'elem Awraja	K'elem,K'elem Awraja,Kelem,K’ēlem,K’ēlem Āwraja	9	34.83333	A	ADMD	ET		51				0		1663	Africa/Addis_Ababa	2022-02-18
+333433	K’elafo Āwraja	K'elafo Awraja	K'elafo,K'elafo Awraja,K’elafo,K’elafo Āwraja	5.5	45	A	ADMD	ET		52				0		342	Africa/Addis_Ababa	2022-02-18
+333466	Kefa	Kefa	Caffa,Kefa,Kefa Awraja,Kefa Āwraja	7	36.25	A	ADMD	ET		SW				0		1413	Africa/Addis_Ababa	2024-06-06
+333515	K’ebrī Dehar Āwraja	K'ebri Dehar Awraja	K'ebri Dehar Awraja,K'ebriDehar,Kebre Dehar,K’ebrī Dehar,K’ebrī Dehar Āwraja	7	44	A	ADMD	ET		52				0		885	Africa/Addis_Ababa	2022-02-18
+333624	K’alu Āwraja	K'alu Awraja	K'alu,K'alu Awraja,Kalu,K’alu,K’alu Āwraja	10.83333	40	A	ADMD	ET		46				0		1428	Africa/Addis_Ababa	2022-02-18
+333793	Jijiga	Jijiga	Jijiga,Jijiga Awraja,Jijiga Āwraja	9.25	43	A	ADMD	ET		52				0		1681	Africa/Addis_Ababa	2022-02-18
+333827	Jibat na Mēch’a Āwraja	Jibat na Mech'a Awraja	Jibat and Mecha,Jibat na Mech'a Awraja,Jibat na Mēch’a,Jibat na Mēch’a Āwraja,JibatnaMech'a	9.16667	37.75	A	ADMD	ET		51				0		1663	Africa/Addis_Ababa	2022-02-18
+333884	Jemjem	Jemjem	Giam Giam,Jemjem,Jemjem Awraja,Jemjem Āwraja	5.83333	39	A	ADMD	ET		51				0		1715	Africa/Addis_Ababa	2022-02-18
+334216	Inderta	Inderta	Enderta,Inderta,Inderta Awraja,Inderta Āwraja	13	40.5	A	ADMD	ET		45				0		533	Africa/Addis_Ababa	2022-02-18
+334335	Gambela	Gambela		7.5	35	A	ADMD	ET		49				0		785	Africa/Addis_Ababa	2022-06-25
+334573	Hulet Awlalo	Hulet Awlalo	Hulet,Hulet Awlailo,Hulet Awlalo,Hulet Awlalo Awraja,Hulet Āwlalo Āwraja	13.76573	40.36485	A	ADMD	ET		45				0		-89	Africa/Addis_Ababa	2012-06-06
+334614	Horo na Gudru	HoronaGudru	Horo and Gudru,Horo and Guduru Awraja,Horo and Guduru Āwraja,Horo na Gudru,Horo na Gudru Awraja,Horo na Gudru Āwraja,HoronaGudru	9.83333	36.66667	A	ADMD	ET		51				0		2123	Africa/Addis_Ababa	2022-02-18
+334827	Hāyik’och na Butajīra Āwraja	Hayik'och na Butajira Awraja	Haikoch and Butajira,Haikoch and Butajirra,Hayik'och na Butajira Awraja,Hayik'ochnaButajira,Hayikoch and Butajira,Hayk'och na Butajira,Haykoch and Buta Jira,Hayqoch and Butajira,Hāyik’och na Butajīra,Hāyik’och na Butajīra Āwraja,Hāyk’och na Butajīra	7.83333	38.5	A	ADMD	ET		51				0		1849	Africa/Addis_Ababa	2022-02-18
+335029	Harer Zuriya	Harer Zuriya	Harar Zuria,Harer,Harer Zuriya,Harer Zuriya Awraja,Harer-Zurya,Harrar and Hararge,Harrar and Hārargē,Hārer Zurīya Āwraja	9.11459	42.08524	A	ADMD	ET		51				0		1679	Africa/Addis_Ababa	2012-07-04
+335033	Hārergē Kifle Hāger	Harerge Kifle Hager	Harar,Hararaghe,Hararge,Harer,Harerge,Harerge Kifle Hager,Harrar,Hārarge,Hārergē,Hārergē Kifle Hāger	9.5	41.5	A	ADMD	ET		52				0		1533	Africa/Addis_Ababa	2020-06-11
+335344	Habro	Habro	Habro,Habro Awraja,Habro Āwraja	8.5	41	A	ADMD	ET		51				0		1439	Africa/Addis_Ababa	2022-02-18
+335427	Gursum	Gursum	Gursim,Gursum,Gursum Awraja,Gursum Āwraja	8.5	42.5	A	ADMD	ET		51				0		1348	Africa/Addis_Ababa	2012-07-04
+335941	Gore	Gore	Gore,Gore Awraja,Gore Āwraja	8	35.66667	A	ADMD	ET		51				0		2121	Africa/Addis_Ababa	2022-02-18
+336011	Gonder	Gonder	Bagemder,Bagemdir,Baggyemdr,Bagēmder,Bege Meder,Begemder,Begemdir,Begemdir na Simen,Begemedir,Beghemeder,Begēmdir,Begēmdir na Simēn,Gondar,Gondar Province,Gonder,Gonder Kifle Hager,Gonder Kifle Hāger	12.5	37	A	ADMD	ET		46				0		1786	Africa/Addis_Ababa	2022-02-18
+336013	Gonder	Gonder	Gonder,Gonder Awraja,Gonder Āwraja	13.16667	37	A	ADMD	ET		46				0		830	Africa/Addis_Ababa	2022-02-18
+336164	Gojam	Gojam	Goggiam,Gojam,Gojam Kifle Hager,Gojam Kifle Hāger,Gojjam,Gojjiam,Gwejam,Gwojjam	11	37	A	ADMD	ET		46				0		2647	Africa/Addis_Ababa	2022-02-18
+336219	Gofa	Gofa	Gofa,Gofa Awraja,Gofa Āwraja	6.16667	36.5	A	ADMD	ET		56				0		842	Africa/Addis_Ababa	2024-06-06
+336257	Godē Āwraja	Gode Awraja	Gode,Gode Awraja,Godē,Godē Āwraja	6.5	43	A	ADMD	ET		52				0		474	Africa/Addis_Ababa	2022-02-18
+336483	Gīmīra Āwraja	Gimira Awraja	Ghimira,Ghimirra,Gimira,Gimira Awraja,Gīmīra,Gīmīra Āwraja	6.83333	35	A	ADMD	ET		SW				0		1857	Africa/Addis_Ababa	2024-06-06
+336492	Gīmbī Āwraja	Gimbi Awraja	Gimb,Gimbi Awraja,Gīmb,Gīmbī Āwraja	9.5	35.41667	A	ADMD	ET		51				0		1874	Africa/Addis_Ababa	2022-02-18
+336950	Genalē Āwraja	Genale Awraja	Genale,Genale Awraja,Genalē,Genalē Āwraja	6.75	39.25	A	ADMD	ET		51				0		2758	Africa/Addis_Ababa	2022-02-18
+337014	Geleb na Hāmer Bako Āwraja	Geleb na Hamer Bako Awraja	Galeb,Geleb,Geleb and Hamer Baco,Geleb and Hamerbako,Geleb na Hamer Bako Awraja,Geleb na Hāmer Bako,Geleb na Hāmer Bako Āwraja,GelebnaHamerBako,Gheleba	5	36.25	A	ADMD	ET		56				0		549	Africa/Addis_Ababa	2024-06-06
+337104	Gede’o Āwraja	Gede'o Awraja	Derasa,Derassa,Gede'o,Gede'o Awraja,Gede’o,Gede’o Āwraja	6	38.16667	A	ADMD	ET		56				0		1792	Africa/Addis_Ababa	2024-06-06
+337203	Gayint	Gayint	Gaint,Gayint,Gayint Awraja,Gayint Āwraja,Gaynt	11.5	38.5	A	ADMD	ET		46				0		1648	Africa/Addis_Ababa	2022-02-18
+337285	Gardula	Gardula	Gardula,Gardula Awraja,Gardula Āwraja	5.66667	37.33333	A	ADMD	ET		56				0		2198	Africa/Addis_Ababa	2024-06-06
+337318	Gara Muleta	GaraMuleta	Gara Muleta,Gara Muleta Awraja,Gara Muleta Āwraja,GaraMuleta,Garamuleta	8.5	41.75	A	ADMD	ET		51				0		1009	Africa/Addis_Ababa	2022-02-18
+337389	Gamo Gofa	Gamo Gofa	Baco Gamo,Bacò Gamò,Bako Gamu,Bako Goumma,Bako-Gamo,Gamo Gofa,Gamo Gofa Kifle Hager,Gamo Gofa Kifle Hāger,Gamu-Gofa,Gemu Gofa,Gemu Goffa,Gemu Gwefa	5.75	37	A	ADMD	ET		56				0		841	Africa/Addis_Ababa	2024-06-06
+337391	Gamo	Gamo	Gamo,Gamo Awraja,Gamo Āwraja,Gemu	6.33333	37.5	A	ADMD	ET		56				0		2543	Africa/Addis_Ababa	2024-06-06
+337403	Gambēla Āwraja	Gambela Awraja	Gambela,Gambela Awraja,Gambēla,Gambēla Āwraja	8	34.16667	A	ADMD	ET		49				0		427	Africa/Addis_Ababa	2022-02-18
+338145	Ēl Kerē Āwraja	El Kere Awraja	El Kere Awraja,ElKere,Ēl Kerē,Ēl Kerē Āwraja	5.5	42.83333	A	ADMD	ET		52				0		588	Africa/Addis_Ababa	2022-02-18
+339215	Desē Zurīya Āwraja	Dese Zuriya Awraja	Dese,Dese Zuria,Dese Zuriya Awraja,DeseZuriya,Desē Zurīya,Desē Zurīya Āwraja	11.25	39.58333	A	ADMD	ET		46				0		2649	Africa/Addis_Ababa	2022-02-18
+339487	Dēlo Āwraja	Delo Awraja	Delo,Delo Awraja,Dēlo,Dēlo Āwraja	6.5	40	A	ADMD	ET		51				0		1261	Africa/Addis_Ababa	2022-02-18
+339593	Degeh Bur	DegehBur	Daghabur,Degahabur,Degeh Bur,Degeh Bur Awraja,Degeh Bur Āwraja,DegehBur,Degh Bur	8	44	A	ADMD	ET		52				0		1057	Africa/Addis_Ababa	2022-02-18
+339685	Debre Tabor	DebreTabor	Debre Tabor,Debre Tabor Awraja,Debre Tabor Āwraja,DebreTabor	11.75	37.83333	A	ADMD	ET		46	7869861			0		2005	Africa/Addis_Ababa	2022-02-18
+339707	Debre Mark’os Āwraja	Debre Mark'os Awraja	Debre Mark'os Awraja,Debre Mark’os,Debre Mark’os Āwraja,DebreMark'os	10.25	37.66667	A	ADMD	ET		46				0		2192	Africa/Addis_Ababa	2022-02-18
+340770	Ch’ilga Āwraja	Ch'ilga Awraja	Ch'ilga,Ch'ilga Awraja,Childa,Ch’ilga,Ch’ilga Āwraja	12.5	36.5	A	ADMD	ET		46	7670726			0		850	Africa/Addis_Ababa	2022-02-18
+340782	Ch’ilalo Āwraja	Ch'ilalo Awraja	Ch'ilalo,Ch'ilalo Awraja,Ch’ilalo,Ch’ilalo Āwraja	7.75	39	A	ADMD	ET		51				0		2476	Africa/Addis_Ababa	2022-02-18
+340860	Chercher and Adal and Gara Guracha	Chercher and Adal and Gara Guracha	Adal and Isa,Adal  Essa  and Andolisse,Adal  Isa and Gara Guracha Awraja,Ch'erch'er na Adal na Gara Guracha Awraja,Ch'erch'ernaAdalnaGaraGuracha,Chercher and Adal and Gara Guracha,Chercher  Adal and Garaguracha,Ch’erch’er na Ādal na Gara Guracha,Ch’erch’er na Ādal na Gara Guracha Āwraja	9.75	41	A	ADMD	ET		52				0		878	Africa/Addis_Ababa	2022-02-18
+341434	Buno Bedelē Āwraja	Buno Bedele Awraja	Bunno,Buno,Buno Bedele Awraja,Buno Bedelē,Buno Bedelē Āwraja,BunoBedele	8.16667	36.33333	A	ADMD	ET		51				0		2258	Africa/Addis_Ababa	2022-02-18
+341663	Borena	Borena	Borena,Borena Awraja,Borena and Saynt,Borena Āwraja	10.83333	38.75	A	ADMD	ET		46				0		2599	Africa/Addis_Ababa	2022-02-18
+341664	Borena	Borena	Borena,Borena Awraja,Borena Āwraja,Borenea	4.66667	40	A	ADMD	ET		51				0		1011	Africa/Addis_Ababa	2022-02-18
+342189	Bichena	Bichena	Bichena,Bichena Awraja,Bichena Āwraja	10.5	38.25	A	ADMD	ET		46				0		2404	Africa/Addis_Ababa	2022-02-18
+342817	Balē Kifle Hāger	Bale Kifle Hager	Bale,Bale Kifle Hager,Balē,Balē Kifle Hāger,Mendebo Province	6.77134	40.51349	A	ADMD	ET		52				0		1656	Africa/Addis_Ababa	2011-05-11
+342883	Bahir Dar	BahirDar	Bahar Dar Province,Bahir Dar,Bahir Dar Awraja,Bahir Dar Āwraja,BahirDar,Bahirdar	11.41667	37.25	A	ADMD	ET		46				0		2073	Africa/Addis_Ababa	2022-02-18
+343092	Āwsa Āwraja	Awsa Awraja	Awsa,Awsa Awraja,Āwsa,Āwsa Āwraja	11.5	41.5	A	ADMD	ET		45				0		347	Africa/Addis_Ababa	2022-02-18
+343507	Ārjo Āwraja	Arjo Awraja	Argio,Arjo,Arjo Awraja,Ārjo,Ārjo Āwraja	8.83333	36.33333	A	ADMD	ET		51				0		1310	Africa/Addis_Ababa	2022-02-18
+343567	Ārēro Āwraja	Arero Awraja	Arero,Arero Awraja,Ārēro,Ārēro Āwraja	5	38.16667	A	ADMD	ET		51				0		1594	Africa/Addis_Ababa	2022-02-18
+343670	Ārba Gugu Āwraja	Arba Gugu Awraja	Arba Gugu Awraja,ArbaGugu,Gugu,Ārba Gugu,Ārba Gugu Āwraja	8.25	40	A	ADMD	ET		51				0		2103	Africa/Addis_Ababa	2022-02-18
+344083	Āmbasel Āwraja	Ambasel Awraja	Abassel,Ambasel,Ambasel Awraja,Ambassel,Āmbasel,Āmbasel Āwraja	11.58333	40	A	ADMD	ET		46				0		976	Africa/Addis_Ababa	2022-02-18
+344418	Āksum Āwraja	Aksum Awraja	Aksum,Aksum Awraja,Axum,Āksum,Āksum Āwraja	14.16667	38.66667	A	ADMD	ET		53				0		2125	Africa/Addis_Ababa	2022-02-18
+344609	Āgew Midir Āwraja	Agew Midir Awraja	Agaume,Agew Midir Awraja,AgewMidir,Āgew Midir,Āgew Midir Āwraja	11.25	36.75	A	ADMD	ET		46				0		2287	Africa/Addis_Ababa	2022-02-18
+344676	Āgamē Āwraja	Agame Awraja	Agame,Agame Awraja,Āgamē,Āgamē Āwraja	14.25	39.83333	A	ADMD	ET		45				0		1873	Africa/Addis_Ababa	2022-02-18
+344796	Ādwa Āwraja	Adwa Awraja	Adwa,Adwa Awraja,Ādwa,Ādwa Āwraja	14.16667	39.16667	A	ADMD	ET		53	7869875			0		2336	Africa/Addis_Ababa	2022-02-18
+8374168	Wabe	Wabe		7.24652	42.05757	A	ADMD	ET		51				0		690	Africa/Addis_Ababa	2012-08-06
+13413848	Gursum	Gursum		7.77353	42.39129	A	ADMD	ET		52				0		921	Africa/Addis_Ababa	2025-07-17

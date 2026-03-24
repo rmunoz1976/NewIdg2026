@@ -1,0 +1,12 @@
+﻿201519	Ruhengeri Province	Ruhengeri Province	Prefecture de Ruhengeri,Prefegitura ya Ruhengeri,Préfecture de Ruhengeri,Ruhengeri	-1.58333	29.66667	A	ADM1H	RW		13				953193		1811	Africa/Kigali	2012-08-07
+202059	Kigali City Province	Kigali City Province	Kigali,Prefegitura ya Kigali	-1.98658	30.06907	A	ADM1H	RW		09				0		1551	Africa/Kigali	2012-08-06
+202064	Prefegitura ya Kibuye	Prefegitura ya Kibuye	Kibuye,Prefecture de Kibuye,Prefegitura ya Kibuye,Préfecture de Kibuye	-2.16667	29.41667	A	ADM1H	RW		14				484389		2148	Africa/Kigali	2012-08-04
+202067	Kibungo Province	Kibungo Province	Kibungo,Kibungo Province,Kibungu,Prefecture de Kibungo,Prefegitura ya Kibunga,Prefegitura ya Kibungo,Préfecture de Kibungo	-2	30.58333	A	ADM1H	RW		11				745070		1501	Africa/Kigali	2012-08-06
+202216	Gitarama Province	Gitarama Province	Gitarama,Gitarama Province,Prefecture de Gitarama,Prefegitura ya Gitarama,Préfecture de Gitarama	-2.08282	29.76196	A	ADM1H	RW		15	27	2712	271204	886273		1819	Africa/Kigali	2017-04-26
+202231	Gisenyi Province	Gisenyi Province	Gisenyi,Kisenyi,Prefecture de Gisenyi,Prefegitura ya Gisenyi,Préfecture de Gisenyi	-1.75	29.5	A	ADM1H	RW		14				928979		2500	Africa/Kigali	2012-08-06
+202238	Gikongoro Province	Gikongoro Province	Gikongoro,Nyanza,Prefecture de Gikongoro,Préfecture de Gikongoro	-2.5	29.5	A	ADM1H	RW		15				510176		2094	Africa/Kigali	2012-08-06
+202325	Cyangugu Province	Cyangugu Province	Cyangugu,Prefecture de Cyangugu,Prefegitura ya Cyangugu,Préfecture de Cyangugu,Shangugu	-2.5	29.16667	A	ADM1H	RW		14				653028		2070	Africa/Kigali	2012-08-07
+203103	Butare Province	Butare Province	Astrida,Butare,Prefecture de Butare,Prefegitura ya Butare,Préfecture de Butare	-2.60698	29.7551	A	ADM1H	RW		15	24	2409	240901	738689		1676	Africa/Kigali	2017-04-26
+203116	Byumba Province	Byumba Province	Biumba,Byumba,Prefecture de Byumba,Prefegitura ya Byumba,Préfecture de Byumba	-1.5	30.16667	A	ADM1H	RW		13				0		1719	Africa/Kigali	2012-08-07
+8354638	Umutara Province	Umutara Province	Umutara	-1.41846	30.4129	A	ADM1H	RW		02				0		1400	Africa/Kigali	2012-08-06
+8354639	Kigali-Rural Province	Kigali-Rural Province	Kigali-Ngali,Kigali-Rural	-1.94078	30.29823	A	ADM1H	RW		09				0		1564	Africa/Kigali	2012-08-06

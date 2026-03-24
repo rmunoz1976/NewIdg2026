@@ -1,0 +1,18 @@
+﻿5886664	Archie	Archie		50.1667	-101.25094	A	ADM2H	CA		03				0		474	America/Winnipeg	2019-09-17
+5903703	Blanshard	Blanshard		50.17561	-100.34808	A	ADM2H	CA		03				0		541	America/Winnipeg	2019-09-17
+5947840	Ellice	Ellice		50.4669	-101.34201	A	ADM2H	CA		03				0		441	America/Winnipeg	2019-09-17
+5966076	Greenfield No. 529	Greenfield No. 529		53.66689	-109.00145	A	ADM2H	CA		11				0		642	America/Regina	2024-05-17
+5994497	Kutawa No. 278	Kutawa No. 278		51.41677	-104.33439	A	ADM2H	CA		11				0		641	America/Regina	2024-05-17
+6048458	Lakeland County	Lakeland County		55.14191	-110.74348	A	ADM2H	CA		01				0		671	America/Edmonton	2018-01-08
+6050820	Lawrence	Lawrence		51.33331	-99.5014	A	ADM2H	CA		03				0		258	America/Winnipeg	2019-09-17
+6092465	Ochre River	Ochre River		51.00031	-99.6675	A	ADM2H	CA		03				0		290	America/Winnipeg	2019-09-17
+6119129	Regional District of Comox-Strathcona	Regional District of Comox-Strathcona		50.33294	-125.33622	A	ADM2H	CA		02				0		163	America/Vancouver	2013-07-26
+6122721	Riverside	Riverside		49.34002	-99.75694	A	ADM2H	CA		03				0		477	America/Winnipeg	2019-09-17
+6141241	Saskatchewan	Saskatchewan		50.16722	-100.00446	A	ADM2H	CA		03				0		561	America/Winnipeg	2019-09-17
+6145990	Shellmouth-Boulton	Shellmouth-Boulton		50.99305	-101.25896	A	ADM2H	CA		03				0		567	America/Winnipeg	2019-09-17
+6146808	Shoal Lake	Shoal Lake		50.47001	-100.57526	A	ADM2H	CA		03				0		556	America/Winnipeg	2017-08-08
+6147710	Silver Creek	Silver Creek		50.6836	-101.00119	A	ADM2H	CA		03				0		565	America/Winnipeg	2019-09-17
+6157987	Strathclair	Strathclair		50.46671	-100.33415	A	ADM2H	CA		03				0		571	America/Winnipeg	2017-08-08
+6157993	Strathcona	Strathcona		49.33332	-99.50053	A	ADM2H	CA		03				0		485	America/Winnipeg	2019-09-17
+6175386	Wallace	Wallace		49.9167	-101.17314	A	ADM2H	CA		03				0		494	America/Winnipeg	2019-09-17
+6184400	Woodworth	Woodworth		49.92531	-100.6595	A	ADM2H	CA		03				0		457	America/Winnipeg	2019-09-17

@@ -1,0 +1,4 @@
+﻿3056769	Vígľašská Huta-Kalinka	Vigl'asska Huta-Kalinka		48.48333	19.28333	A	ADMD	SK		00				0		676	Europe/Bratislava	2007-05-30
+3057235	Tekovská Župa	Tekovska Zupa	Comitatus Barsiensis,Gespanschaft Tekov,Tekov,Tekovska Stolica,Tekovská Stolica	48.41667	18.41667	A	ADMD	SK		00				0		214	Europe/Bratislava	2007-05-30
+3058511	Nižná nad Oravou	Nizna nad Oravou	Nizna,Nižná	49.31667	19.51667	A	ADMD	SK		00				0		621	Europe/Bratislava	2007-05-30
+6692432	Vysoké Tatry	Vysoke Tatry	Vysoke Tatry,Vysoké Tatry	49.1186	20.0643	A	ADMD	SK						0		1321	Europe/Bratislava	2015-01-14

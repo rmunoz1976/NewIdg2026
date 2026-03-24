@@ -1,0 +1,4 @@
+﻿2030177	Jargalant	Jargalant	Ara Jirgalanta Suma,Ara Jirgalantu,Ara Jirgalantu sumu,Ara jirugarantu,Ara-Dzhirgalantu,Arachzhargalanta Somon,Aradzhargalanta-Somon,Dzun-bulak,Dzuun Bulag,Dzuun Bulak,Dzüün Bulag,Dzüün Bulak	46.95	115.28333	A	ADMD	MN		06				0		902	Asia/Ulaanbaatar	2025-05-01
+6618717	Gurvanbayan	Gurvanbayan		48.03878	110.08395	A	ADMD	MN		11				0		1205	Asia/Ulaanbaatar	2007-10-07
+6618724	Öldziyt	OEldziyt		47.49238	110.15751	A	ADMD	MN		11				0		1125	Asia/Ulaanbaatar	2007-10-08
+6619237	Bulnay	Bulnay		48.80675	98.27734	A	ADMD	MN		09				0		1782	Asia/Hovd	2007-10-28

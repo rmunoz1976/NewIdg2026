@@ -1,0 +1,72 @@
+﻿5880872	West Vaifanua County (historical)	West Vaifanua County (historical)		-14.25889	-170.67556	A	ADMD	AS		010	5880872			0	265	281	Pacific/Pago_Pago	2016-12-07
+5880894	East Vaifanua County (historical)	East Vaifanua County (historical)		-14.27556	-170.58333	A	ADMD	AS		010	5880894			0	35	1	Pacific/Pago_Pago	2016-12-07
+7267974	Village of Aasu	Village of Aasu		-14.29556	-170.7586	A	ADMD	AS		050				0	13	52	Pacific/Pago_Pago	2013-03-08
+7267975	Village of Afao	Village of Afao		-14.35053	-170.80226	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267976	Village of Afono	Village of Afono		-14.2569	-170.64854	A	ADMD	AS		010				0	122	86	Pacific/Pago_Pago	2013-03-08
+7267977	Village of Agugulu	Village of Agugulu		-14.34743	-170.82249	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267978	Village of Alao	Village of Alao		-14.28932	-170.5234	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267979	Village of Alega	Village of Alega		-14.30341	-170.62958	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267980	Village of Alofau	Village of Alofau		-14.3003	-170.6029	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267981	Village of Amaluia	Village of Amaluia		-14.34743	-170.79185	A	ADMD	AS		050				0	0	36	Pacific/Pago_Pago	2013-03-08
+7267982	Village of Amanave	Village of Amanave		-14.34202	-170.85417	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267983	Village of Amaua	Village of Amaua		-14.26981	-170.62479	A	ADMD	AS		010				0	41	55	Pacific/Pago_Pago	2013-03-08
+7267984	Village of Amouli	Village of Amouli		-14.3094	-170.5715	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267985	Village of Anua	Village of Anua		-14.27063	-170.68768	A	ADMD	AS		010				0	8	9	Pacific/Pago_Pago	2016-12-07
+7267986	Village of Aoa	Village of Aoa		-14.26225	-170.58726	A	ADMD	AS		010				0	1	6	Pacific/Pago_Pago	2013-03-08
+7267987	Village of Aoloau	Village of Aoloau		-14.28674	-170.78106	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267988	Village of Asili	Village of Asili		-14.35215	-170.79728	A	ADMD	AS		050				0	0	3	Pacific/Pago_Pago	2013-03-08
+7267989	Village of Atu‘u	Village of Atu'u		-14.26894	-170.68555	A	ADMD	AS		010				0	39	43	Pacific/Pago_Pago	2016-12-07
+7267990	Village of Aua	Village of Aua		-14.275	-170.66407	A	ADMD	AS		010				0	40	25	Pacific/Pago_Pago	2013-03-08
+7267991	Village of Auasi	Village of Auasi		-14.27038	-170.5764	A	ADMD	AS		010				0	67	95	Pacific/Pago_Pago	2013-03-08
+7267992	Village of Aumi	Village of Aumi		-14.30899	-170.6399	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267993	Village of Aunu‘u	Village of Aunu'u		-14.28368	-170.55992	A	ADMD	AS		010				0	33	1	Pacific/Pago_Pago	2022-02-11
+7267994	Village of Auto	Village of Auto		-14.27506	-170.62828	A	ADMD	AS		010				0	47	64	Pacific/Pago_Pago	2013-03-08
+7267995	Village of Avaio	Village of Avaio		-14.30453	-170.61936	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267996	Village of Faga‘alu	Village of Faga'alu		-14.29025	-170.68046	A	ADMD	AS		010				0	0	3	Pacific/Pago_Pago	2014-10-08
+7267997	Village of Faga‘itua	Village of Faga'itua		-14.27759	-170.61435	A	ADMD	AS		010				0	0	1	Pacific/Pago_Pago	2014-10-08
+7267998	Village of Fagali‘i	Village of Fagali'i	Village of Fagali'i	-14.30671	-170.82739	A	ADMD	AS		050				0	0	2	Pacific/Pago_Pago	2014-10-08
+7267999	Village of Fagamalo	Village of Fagamalo		-14.27581	-170.81835	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268000	Village of Faganeanea	Village of Faganeanea		-14.30112	-170.69355	A	ADMD	AS		010				0	212	202	Pacific/Pago_Pago	2013-03-08
+7268001	Village of Fagasa	Village of Fagasa		-14.26673	-170.74856	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268002	Village of Fagatogo	Village of Fagatogo		-14.28187	-170.69224	A	ADMD	AS		010				0	117	130	Pacific/Pago_Pago	2013-03-08
+7268003	Village of Failolo	Village of Failolo		-14.34862	-170.83026	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268005	Village of Faleniu	Village of Faleniu		-14.32762	-170.74388	A	ADMD	AS		050				0	51	59	Pacific/Pago_Pago	2013-03-08
+7268006	Village of Fatumafuti	Village of Fatumafuti		-14.29665	-170.67426	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268007	Village of Futiga	Village of Futiga		-14.38702	-170.76039	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268008	Village of Ili‘ili	Village of Ili'ili	Village of Ili'ili	-14.36765	-170.71908	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268009	Village of Lauliʻi	Village of Lauli'i	Village of Lauli'i	-14.31313	-170.65591	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2016-12-07
+7268010	Village of Leloaloa	Village of Leloaloa		-14.26682	-170.67843	A	ADMD	AS		010				0	0	24	Pacific/Pago_Pago	2024-06-17
+7268011	Village of Leone	Village of Leone		-14.3322	-170.78044	A	ADMD	AS		050				0	19	11	Pacific/Pago_Pago	2013-03-08
+7268015	Village of Malaeimi	Village of Malaeimi		-14.31077	-170.73708	A	ADMD	AS		050				0	44	57	Pacific/Pago_Pago	2013-03-08
+7268016	Village of Malaeloa/Aitulagi	Village of Malaeloa/Aitulagi		-14.33171	-170.76751	A	ADMD	AS		050				0	50	65	Pacific/Pago_Pago	2013-03-08
+7268017	Village of Malaeloa/Ituau	Village of Malaeloa/Ituau		-14.34239	-170.76598	A	ADMD	AS		050				0	47	56	Pacific/Pago_Pago	2013-03-08
+7268018	Village of Maloata	Village of Maloata		-14.30724	-170.8129	A	ADMD	AS		050				0	44	42	Pacific/Pago_Pago	2013-03-08
+7268019	Village of Mapusagafou	Village of Mapusagafou		-14.32262	-170.75556	A	ADMD	AS		050				0	197	204	Pacific/Pago_Pago	2013-03-08
+7268020	Village of Masausi	Village of Masausi		-14.2454	-170.60756	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268021	Village of Masefau	Village of Masefau		-14.24243	-170.62403	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268022	Village of Matu‘u	Village of Matu'u		-14.32658	-170.66921	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268023	Village of Mesepa	Village of Mesepa		-14.32275	-170.747	A	ADMD	AS		050				0	97	134	Pacific/Pago_Pago	2013-03-08
+7268024	Village of Nua	Village of Nua		-14.35192	-170.80745	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268025	Village of Nu‘uuli	Village of Nu'uuli		-14.33221	-170.69131	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268026	Village of Nu‘uuli	Village of Nu'uuli		-14.32854	-170.69235	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268029	Village of Onenoa	Village of Onenoa		-14.23484	-170.58451	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268030	Village of Pagai	Village of Pagai		-14.27012	-170.60651	A	ADMD	AS		010				0	19	27	Pacific/Pago_Pago	2013-03-08
+7268031	Village of Pago Pago	Village of Pago Pago		-14.24895	-170.71409	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268032	Village of Pava‘ia‘i	Village of Pava'ia'i		-14.33407	-170.75117	A	ADMD	AS		050				0	86	88	Pacific/Pago_Pago	2014-10-08
+7268033	Village of Poloa	Village of Poloa		-14.3065	-170.86082	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268034	Village of Sa‘ilele	Village of Sa'ilele		-14.23232	-170.5973	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268035	Village of Se‘etaga	Village of Se'etaga		-14.35583	-170.815	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268037	Village of Si‘ufaga	Village of Si'ufaga		-14.27347	-169.4908	A	ADMD	AS		020	8181801			0	4	153	Pacific/Pago_Pago	2017-01-25
+7268039	Village of Tafuna	Village of Tafuna		-14.35396	-170.70271	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268040	Village of Taputimu	Village of Taputimu		-14.37747	-170.77706	A	ADMD	AS		050				0	31	-9999	Pacific/Pago_Pago	2013-03-08
+7268041	Village of Tula	Village of Tula		-14.23003	-170.54915	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268042	Village of Utulei	Village of Utulei		-14.28306	-170.68084	A	ADMD	AS		010				0	3	6	Pacific/Pago_Pago	2013-03-08
+7268043	Village of Utumea East	Village of Utumea East		-14.27861	-170.56837	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268044	Village of Utumea West	Village of Utumea West		-14.32457	-170.81704	A	ADMD	AS		050				0	121	157	Pacific/Pago_Pago	2016-12-07
+7268045	Village of Vailoatai	Village of Vailoatai		-14.37116	-170.78725	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268046	Village of Vaitogi	Village of Vaitogi		-14.38241	-170.73348	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268047	Village of Vatia	Village of Vatia		-14.21483	-170.66057	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7269446	Village of Auma	Village of Auma		-14.33305	-170.78594	A	ADMD	AS		050				0	56	37	Pacific/Pago_Pago	2013-03-08
+7269447	Village of Puapua	Village of Puapua		-14.34507	-170.77225	A	ADMD	AS		050				0	42	50	Pacific/Pago_Pago	2013-03-08
+7269448	Village of Satala	Village of Satala		-14.26952	-170.69187	A	ADMD	AS		010				0	41	70	Pacific/Pago_Pago	2016-12-07
+7269449	Village of Utusia	Village of Utusia		-14.27003	-170.62048	A	ADMD	AS		010				0	12	38	Pacific/Pago_Pago	2013-03-08

@@ -1,0 +1,522 @@
+﻿2803535	Zwieselberg	Zwieselberg		47.63333	10.68333	A	ADMD	DE		02				0		949	Europe/Berlin	1994-01-08
+2805862	Wülknitz	Wulknitz		51.71667	11.93333	A	ADMD	DE		14				0		87	Europe/Berlin	1994-01-08
+2805871	Wulften	Wulften		52.21667	8.03333	A	ADMD	DE		06				0		84	Europe/Berlin	1994-01-08
+2805937	Wülfer-Bexten	Wulfer-Bexten		52.05	8.71667	A	ADMD	DE		07				0		89	Europe/Berlin	1994-01-08
+2805977	Wudicke	Wudicke		52.6	12.23333	A	ADMD	DE		11				0		27	Europe/Berlin	1998-05-22
+2806260	Woltrup-Wehbergen	Woltrup-Wehbergen		52.53333	7.95	A	ADMD	DE		06				0		39	Europe/Berlin	1994-01-08
+2806494	Wölkau	Wolkau		51.5	12.5	A	ADMD	DE		13				0		99	Europe/Berlin	1994-01-08
+2807027	Wohlstreck	Wohlstreck		52.7	8.58333	A	ADMD	DE		06				0		41	Europe/Berlin	1994-01-08
+2807371	Wittel	Wittel		52.16667	8.75	A	ADMD	DE		07				0		159	Europe/Berlin	1994-01-08
+2807441	Wisselward	Wisselward		51.76667	6.31667	A	ADMD	DE		07				0		14	Europe/Berlin	1994-01-08
+2808165	Windhorst	Windhorst		52.73447	9.06424	A	ADMD	DE		06				0		46	Europe/Berlin	2015-02-04
+2808865	Wildgutach	Wildgutach		48.03333	8.11667	A	ADMD	DE		01				0		588	Europe/Berlin	1994-01-08
+2808985	Wilden	Wilden		50.8	8.08333	A	ADMD	DE		07				0		395	Europe/Berlin	1994-01-08
+2809389	Wies	Wies		47.8	11.81667	A	ADMD	DE		02				0		730	Europe/Berlin	1994-01-08
+2809394	Wiershorst	Wiershorst		52.81667	10.95	A	ADMD	DE		14				0		40	Europe/Berlin	1994-01-08
+2810275	Westerloh	Westerloh		51.81667	8.56667	A	ADMD	DE		07				0		96	Europe/Berlin	1994-01-08
+2810383	Westerenger	Westerenger		52.13333	8.5	A	ADMD	DE		07				0		123	Europe/Berlin	1994-01-08
+2810872	Werl-Aspe	Werl-Aspe		52.06667	8.71667	A	ADMD	DE		07	057			0		100	Europe/Berlin	2011-11-29
+2811175	Wendthagen-Ehlen	Wendthagen-Ehlen		52.28333	9.2	A	ADMD	DE		06				0		195	Europe/Berlin	1994-01-08
+2811853	Weißenspring-Schlaubehammer	Weissenspring-Schlaubehammer		52.24346	14.47638	A	ADMD	DE		11				0		41	Europe/Berlin	2009-10-03
+2811859	Weißensee Bezirk	Weissensee Bezirk	Berlin-Weissensee,Berlin-Weißensee,Weissensee,Weißensee	52.55	13.45	A	ADMD	DE		16	00	11000	11000000	0		45	Europe/Berlin	2020-08-05
+2813068	Weide	Weide		50.93333	8.28333	A	ADMD	DE		07				0		451	Europe/Berlin	1994-01-08
+2813199	Wehrshausen	Wehrshausen	Wehrshausen	50.81667	8.73333	A	ADMD	DE		05				0		293	Europe/Berlin	2012-02-28
+2813219	Wehrhalden	Wehrhalden		47.7	8.01667	A	ADMD	DE		01				0		1013	Europe/Berlin	1994-01-08
+2813223	Wehren-Oken	Wehren-Oken		54.2	8.95	A	ADMD	DE		10				0		1	Europe/Berlin	1994-01-08
+2813306	Wehingen-Bethingen	Wehingen-Bethingen		49.46667	6.51667	A	ADMD	DE		09				0		275	Europe/Berlin	1994-01-08
+2813610	Watzenborn-Steinberg	Watzenborn-Steinberg		50.53329	8.70933	A	ADMD	DE		05				0		198	Europe/Berlin	2011-10-26
+2815151	Waldbauer	Waldbauer		51.3	7.46667	A	ADMD	DE		07				0		429	Europe/Berlin	1994-01-08
+2815520	Wagenfeld-Neustadt	Wagenfeld-Neustadt		52.56667	8.61667	A	ADMD	DE		06				0		36	Europe/Berlin	1994-01-08
+2815521	Wagenfeld-Förlingen	Wagenfeld-Forlingen		52.53333	8.55	A	ADMD	DE		06				0		36	Europe/Berlin	1994-01-08
+2815522	Wagenfeld-Bockel	Wagenfeld-Bockel		52.56667	8.56667	A	ADMD	DE		06				0		39	Europe/Berlin	1994-01-08
+2815815	Vussem-Bergheim	Vussem-Bergheim		50.56667	6.65	A	ADMD	DE		07				0		386	Europe/Berlin	1994-01-08
+2816748	Voigtholz-Ahlemissen	Voigtholz-Ahlemissen		52.38333	10.33333	A	ADMD	DE		06				0		64	Europe/Berlin	1994-01-08
+2816763	Vohren	Vohren		51.93333	8.03333	A	ADMD	DE		07				0		60	Europe/Berlin	1994-01-08
+2817066	Voerde	Voerde		51.3	7.4	A	ADMD	DE		07				0		268	Europe/Berlin	1994-01-08
+2817198	Vilslern	Vilslern		48.38333	12.26667	A	ADMD	DE		02				0		450	Europe/Berlin	1994-01-08
+2817280	Vierundzwanzig Höfe	Vierundzwanzig Hofe		48.36667	8.45	A	ADMD	DE		01				0		672	Europe/Berlin	1994-01-08
+2817528	Vessendorf	Vessendorf		52.15	8.21667	A	ADMD	DE		06				0		187	Europe/Berlin	1994-01-08
+2817558	Vernich	Vernich		50.73333	6.83333	A	ADMD	DE		07				0		129	Europe/Berlin	1994-01-08
+2817677	Velsen	Velsen		51.98333	7.96667	A	ADMD	DE		07				0		60	Europe/Berlin	1994-01-08
+2817877	Vardingholt	Vardingholt		51.86667	6.68333	A	ADMD	DE		07				0		43	Europe/Berlin	1994-01-08
+2817928	Landkreis Vaihingen	Landkreis Vaihingen	Landkreis Vaihingen,Vaihingen	48.75	8.83333	A	ADMD	DE		01				0		462	Europe/Berlin	2016-08-03
+2818292	Uphöfen	Uphofen		52.18333	8.21667	A	ADMD	DE		06				0		102	Europe/Berlin	1994-01-08
+2818294	Uphausen-Eistrup	Uphausen-Eistrup		52.23333	8.15	A	ADMD	DE		06				0		121	Europe/Berlin	1994-01-08
+2818928	Unterpleiskirchen	Unterpleiskirchen		48.3	12.63333	A	ADMD	DE		02				0		467	Europe/Berlin	1994-01-08
+2819263	Unterkastl	Unterkastl		48.16667	12.66667	A	ADMD	DE		02				0		476	Europe/Berlin	1994-01-08
+2819850	Unterburgkirchen	Unterburgkirchen		48.2	12.61667	A	ADMD	DE		02				0		421	Europe/Berlin	1994-01-08
+2820488	Üdinghausen-Warringhof	Udinghausen-Warringhof		52.21667	8.25	A	ADMD	DE		06				0		83	Europe/Berlin	1994-01-08
+2820619	Ubbedissen-Lippe	Ubbedissen-Lippe		51.98826	8.62736	A	ADMD	DE		07				0		142	Europe/Berlin	2012-11-23
+2820708	Tütingen	Tutingen		52.51667	7.86667	A	ADMD	DE		06				0		99	Europe/Berlin	1994-01-08
+2821163	Regierungsbezirk Trier	Regierungsbezirk Trier		50	6.58333	A	ADMD	DE		08				0		375	Europe/Berlin	2007-07-15
+2821744	Tösdorf	Tosdorf		54.66667	9.85	A	ADMD	DE		10				0		34	Europe/Berlin	1994-01-08
+2821973	Todtshorn	Todtshorn		53.21667	9.78333	A	ADMD	DE		06				0		59	Europe/Berlin	1994-01-08
+2822178	Till-Moyland	Till-Moyland		51.75	6.25	A	ADMD	DE		07				0		17	Europe/Berlin	1994-01-08
+2823032	Thambach	Thambach		48.41667	12.53333	A	ADMD	DE		02				0		468	Europe/Berlin	1994-01-08
+2823369	Tettingen-Butzdorf	Tettingen-Butzdorf		49.51667	6.41667	A	ADMD	DE		09				0		257	Europe/Berlin	1994-01-08
+2824487	Suttrup	Suttrup		52.6	7.9	A	ADMD	DE		06				0		33	Europe/Berlin	1994-01-08
+2824952	Suggental	Suggental		48.06667	7.93333	A	ADMD	DE		01				0		339	Europe/Berlin	1994-01-08
+2824992	Sudmerbergsiedlung	Sudmerbergsiedlung		51.91667	10.45	A	ADMD	DE		06				0		233	Europe/Berlin	1994-01-08
+2826275	Strang	Strang		52.1	8.18333	A	ADMD	DE		06				0		95	Europe/Berlin	1994-01-08
+2826369	Störtewerkerkoog	Stortewerkerkoog		54.73333	8.88333	A	ADMD	DE		10				0		-3	Europe/Berlin	1994-01-08
+2826965	Stirpe-Ölingen	Stirpe-Olingen		52.33333	8.26667	A	ADMD	DE		06				0		77	Europe/Berlin	1994-01-08
+2827458	Stenern	Stenern		51.86667	6.63333	A	ADMD	DE		07				0		27	Europe/Berlin	1994-01-08
+2828380	Steinborn-Bohra	Steinborn-Bohra		51.3	13.86667	A	ADMD	DE		13				0		162	Europe/Berlin	1994-01-08
+2830583	Spexard	Spexard		51.88333	8.41667	A	ADMD	DE		07				0		82	Europe/Berlin	1994-01-08
+2834592	Schweicheln-Bermbeck	Schweicheln-Bermbeck		52.15	8.66667	A	ADMD	DE		07				0		75	Europe/Berlin	1994-01-08
+2834924	Schwarzenmoor	Schwarzenmoor		52.13333	8.71667	A	ADMD	DE		07				0		136	Europe/Berlin	1994-01-08
+2835054	Schwärzenbach	Schwarzenbach		47.95	8.23333	A	ADMD	DE		01				0		1051	Europe/Berlin	1994-01-08
+2835188	Schwarzach	Schwarzach		48.78333	13.05	A	ADMD	DE		02				0		318	Europe/Berlin	1994-01-08
+2835299	Schwandorf	Schwandorf		47.95	9	A	ADMD	DE		01				0		683	Europe/Berlin	1994-01-08
+2835300	Schwandorf	Schwandorf		47.96323	8.96399	A	ADMD	DE		01				0		730	Europe/Berlin	2016-08-03
+2836609	Schönhagen	Schonhagen		52.08351	9.16002	A	ADMD	DE		07	057			0		265	Europe/Berlin	2010-11-15
+2837166	Schollach	Schollach		47.98333	8.25	A	ADMD	DE		01				0		924	Europe/Berlin	1994-01-08
+2837315	Schneppenbaum	Schneppenbaum		51.76667	6.2	A	ADMD	DE		07				0		18	Europe/Berlin	1994-01-08
+2838097	Schmalenbruch-Windhorn	Schmalenbruch-Windhorn		52.41667	9.26667	A	ADMD	DE		06				0		54	Europe/Berlin	1994-01-08
+2838121	Schmalbroich	Schmalbroich		51.36667	6.38333	A	ADMD	DE		07				0		32	Europe/Berlin	1994-01-08
+2838448	Schlochtern	Schlochtern		52.16667	8.31667	A	ADMD	DE		06				0		88	Europe/Berlin	1994-01-08
+2838449	Schlochtern	Schlochtern		52.15	8.31667	A	ADMD	DE		06				0		109	Europe/Berlin	1994-01-08
+2838577	Schlicht	Schlicht		48.11667	12.23333	A	ADMD	DE		02				0		507	Europe/Berlin	1994-01-08
+2838734	Schleidweiler-Rodt	Schleidweiler-Rodt		49.86667	6.66667	A	ADMD	DE		08				0		379	Europe/Berlin	1994-01-08
+2839100	Schiplage	Schiplage		52.15	8.41667	A	ADMD	DE		06				0		97	Europe/Berlin	1994-01-08
+2839180	Schimmelbach	Schimmelbach		48.76667	13.78333	A	ADMD	DE		02	092			0		922	Europe/Berlin	2011-07-15
+2839193	Schiltern	Schiltern		48.25	12.18333	A	ADMD	DE		02				0		466	Europe/Berlin	1994-01-08
+2839707	Schepsdorf-Lohne	Schepsdorf-Lohne		52.51667	7.23333	A	ADMD	DE		06				0		30	Europe/Berlin	1994-01-08
+2839873	Schellenbach	Schellenbach		48.28333	10.56667	A	ADMD	DE		02				0		521	Europe/Berlin	1994-01-08
+2840069	Scheffau	Scheffau		47.69477	13.04639	A	ADMD	DE		02				0		480	Europe/Berlin	2012-11-09
+2840890	Schadeberg	Schadeberg		52.76667	10.85	A	ADMD	DE		14				0		75	Europe/Berlin	1994-01-08
+2841252	Satzvey-Firmenich	Satzvey-Firmenich		50.61667	6.7	A	ADMD	DE		07				0		236	Europe/Berlin	1994-01-08
+2841461	Sankt Wilhelm	Sankt Wilhelm		47.89609	7.94895	A	ADMD	DE		01	083			0		720	Europe/Berlin	2010-11-15
+2841515	Sankt Mauritz	Sankt Mauritz		52	7.66667	A	ADMD	DE		07				0		50	Europe/Berlin	1994-01-08
+2841528	Sankt Mang	Sankt Mang		47.73333	10.35	A	ADMD	DE		02				0		740	Europe/Berlin	1994-01-08
+2841534	Sankt Lorenz	Sankt Lorenz		47.73333	10.26667	A	ADMD	DE		02				0		844	Europe/Berlin	1994-01-08
+2841877	Sandershausen	Sandershausen	Sandershausen	51.31667	9.55	A	ADMD	DE		05	066	06633	06633020	0		148	Europe/Berlin	2021-04-21
+2842326	Salbach	Salbach		49.33333	6.9	A	ADMD	DE		09				0		252	Europe/Berlin	1994-01-08
+2842889	Rüsselbach	Russelbach	Russelbach,Rüsselbach	49.6	11.26667	A	ADMD	DE		02				0		386	Europe/Berlin	2012-02-02
+2842890	Rüssel	Russel		52.53333	7.9	A	ADMD	DE		06				0		55	Europe/Berlin	1994-01-08
+2842906	Rüsfort	Rusfort		52.58333	8.01667	A	ADMD	DE		06				0		30	Europe/Berlin	1994-01-08
+2843131	Rumeln-Kaldenhausen	Rumeln-Kaldenhausen		51.4	6.66667	A	ADMD	DE		07				0		31	Europe/Berlin	1994-01-08
+2843439	Rudenberg	Rudenberg		47.91951	8.24071	A	ADMD	DE		01				0		903	Europe/Berlin	2009-01-07
+2844425	Rotenhagen	Rotenhagen		52.1	8.41667	A	ADMD	DE		07				0		102	Europe/Berlin	1994-01-08
+2845603	Rohrhardsberg	Rohrhardsberg		48.13333	8.15	A	ADMD	DE		01				0		913	Europe/Berlin	1994-01-08
+2845938	Rodheim-Bieber	Rodheim-Bieber		50.61667	8.6	A	ADMD	DE		05				0		190	Europe/Berlin	1994-01-08
+2847416	Ridern am Sand	Ridern am Sand		47.62359	8.44891	A	ADMD	DE		01				0		417	Europe/Berlin	2012-05-05
+2847625	Regierungsbezirk Rheinhessen-Pfalz	Regierungsbezirk Rheinhessen-Pfalz		49.83333	8.16667	A	ADMD	DE		08				0		178	Europe/Berlin	2007-07-15
+2848160	Renslage	Renslage		52.65	7.81667	A	ADMD	DE		06				0		33	Europe/Berlin	1994-01-08
+2848711	Reinsen-Remeringhausen	Reinsen-Remeringhausen		52.31667	9.26667	A	ADMD	DE		06				0		110	Europe/Berlin	1994-01-08
+2848713	Reinsen	Reinsen		52.3	9.26667	A	ADMD	DE		06				0		203	Europe/Berlin	1994-01-08
+2848969	Reichswalde	Reichswalde		51.76667	6.08333	A	ADMD	DE		07				0		79	Europe/Berlin	1994-01-08
+2849378	Rehburg	Rehburg		52.46667	9.23333	A	ADMD	DE		06				0		38	Europe/Berlin	1994-01-08
+2849603	Redecke	Redecke		52.15	8.36667	A	ADMD	DE		06				0		94	Europe/Berlin	1994-01-08
+2850764	Raitenhart	Raitenhart		48.25	12.63333	A	ADMD	DE		02				0		374	Europe/Berlin	1994-01-08
+2850834	Raidelbach	Raidelbach		49.71667	8.73333	A	ADMD	DE		05				0		365	Europe/Berlin	1994-01-08
+2852296	Prechtal	Prechtal		48.21667	8.15	A	ADMD	DE		01				0		675	Europe/Berlin	1994-01-08
+2855512	Papenhausen	Papenhausen		52.05339	8.83824	A	ADMD	DE		07	057			0		119	Europe/Berlin	2010-11-15
+2855673	Palenberg	Palenberg		50.91667	6.08333	A	ADMD	DE		07				0		102	Europe/Berlin	1994-01-08
+2855856	Overberge	Overberge		51.61667	7.68333	A	ADMD	DE		07				0		84	Europe/Berlin	1994-01-08
+2855858	Overbeck	Overbeck		51.71667	6.85	A	ADMD	DE		07				0		51	Europe/Berlin	1994-01-08
+2856403	Osteroden und Westeroden	Osteroden und Westeroden		52.51667	7.8	A	ADMD	DE		06				0		108	Europe/Berlin	1994-01-08
+2856831	Ossum-Bösinghoven	Ossum-Bosinghoven		51.3	6.65	A	ADMD	DE		07				0		50	Europe/Berlin	1994-01-08
+2857851	Oettern-Bremke	Oettern-Bremke	Oettern-Bremke	51.96667	8.88333	A	ADMD	DE		07				0		173	Europe/Berlin	2012-02-02
+2857865	Oesterholz-Haustenbeck	Oesterholz-Haustenbeck		51.83333	8.83333	A	ADMD	DE		07				0		193	Europe/Berlin	1994-01-08
+2857889	Oesbern	Oesbern		51.45	7.85	A	ADMD	DE		07				0		264	Europe/Berlin	1994-01-08
+2858414	Obrighoven-Lackhausen	Obrighoven-Lackhausen		51.66667	6.66667	A	ADMD	DE		07				0		25	Europe/Berlin	1994-01-08
+2858867	Oberstüter	Oberstuter		51.35	7.21667	A	ADMD	DE		07				0		234	Europe/Berlin	1994-01-08
+2859013	Obersimonswald	Obersimonswald		48.06667	8.1	A	ADMD	DE		01				0		441	Europe/Berlin	1994-01-08
+2859421	Oberpleiskirchen	Oberpleiskirchen		48.33333	12.58333	A	ADMD	DE		02				0		464	Europe/Berlin	1994-01-08
+2859809	Obermaubach-Schlagstein	Obermaubach-Schlagstein		50.71667	6.45	A	ADMD	DE		07				0		163	Europe/Berlin	1994-01-08
+2859841	Oberlustadt	Oberlustadt		49.24491	8.2701	A	ADMD	DE		08				0		123	Europe/Berlin	2016-08-03
+2860100	Oberkastl	Oberkastl		48.2	12.66667	A	ADMD	DE		02				0		440	Europe/Berlin	1994-01-08
+2861155	Oberburgkirchen	Oberburgkirchen		48.18333	12.61667	A	ADMD	DE		02				0		449	Europe/Berlin	1994-01-08
+2861456	Oberaign	Oberaign		48.81667	13.18333	A	ADMD	DE		02				0		812	Europe/Berlin	1994-01-08
+2861530	Nüven	Nuven		52.16667	8.28333	A	ADMD	DE		06				0		102	Europe/Berlin	1994-01-08
+2861877	Nordrheda-Ems	Nordrheda-Ems		51.86667	8.3	A	ADMD	DE		07				0		68	Europe/Berlin	1994-01-08
+2861944	Nordholz	Nordholz		52.75	9.06667	A	ADMD	DE		06				0		35	Europe/Berlin	1994-01-08
+2861987	Nordhausen	Nordhausen		52.33333	8.23333	A	ADMD	DE		06				0		92	Europe/Berlin	1994-01-08
+2863028	Niederoberrod	Niederoberrod		50.23333	8.36667	A	ADMD	DE		05				0		373	Europe/Berlin	1994-01-08
+2863121	Niedermendig	Niedermendig		50.36667	7.28333	A	ADMD	DE		08				0		195	Europe/Berlin	1994-01-08
+2863134	Niedermarsberg	Niedermarsberg		51.46898	8.86116	A	ADMD	DE		07				0		246	Europe/Berlin	2011-11-06
+2863261	Niederhonnefeld-Ellingen	Niederhonnefeld-Ellingen		50.55	7.51667	A	ADMD	DE		08				0		362	Europe/Berlin	1994-01-08
+2863330	Niederherheuslingen	Niederherheuslingen		50.88333	7.91667	A	ADMD	DE		07				0		335	Europe/Berlin	1994-01-08
+2863595	Niederbieber-Segendorf	Niederbieber-Segendorf		50.46667	7.46667	A	ADMD	DE		08				0		70	Europe/Berlin	1994-01-08
+2864591	Neulouisendorf	Neulouisendorf		51.71667	6.28333	A	ADMD	DE		07				0		51	Europe/Berlin	1994-01-08
+2866298	Neuahlen	Neuahlen		51.78333	7.93333	A	ADMD	DE		07				0		92	Europe/Berlin	1994-01-08
+2867525	Amt Münstereifel-Land	Amt Munstereifel-Land	Amt Munstereifel-Land,Amt Münstereifel-Land,Munstereifel-Land,Münstereifel-Land	50.53333	6.83333	A	ADMD	DE		07				0		482	Europe/Berlin	2016-08-03
+2868476	Mühlen	Muhlen		49.3	11.5	A	ADMD	DE		02				0		430	Europe/Berlin	1994-01-08
+2869022	Mossenberg-Wöhren	Mossenberg-Wohren		51.95559	9.01866	A	ADMD	DE		07	057			0		155	Europe/Berlin	2010-11-15
+2869111	Mosberg-Richweiler	Mosberg-Richweiler		49.55	7.15	A	ADMD	DE		09				0		436	Europe/Berlin	1994-01-08
+2871786	Merklinghausen-Wiggeringhausen	Merklinghausen-Wiggeringhausen		51.61667	8.21667	A	ADMD	DE		07				0		91	Europe/Berlin	1994-01-08
+2871887	Menstede-Coldinne	Menstede-Coldinne	Menstede-Coldinne,Menstede-Koldinne	53.6	7.38333	A	ADMD	DE		06				0		3	Europe/Berlin	2012-01-18
+2871919	Mennighüffen	Mennighuffen		52.21667	8.7	A	ADMD	DE		07				0		57	Europe/Berlin	1994-01-08
+2873681	Maria Gern	Maria Gern	Gern,Maria Gern	47.65	13	A	ADMD	DE		02				0		740	Europe/Berlin	2012-01-18
+2873757	Marcardsmoor	Marcardsmoor		53.46667	7.71667	A	ADMD	DE		06				0		9	Europe/Berlin	1994-01-08
+2873977	Mandelsloh über dem See	Mandelsloh uber dem See		52.6	9.56667	A	ADMD	DE		06				0		34	Europe/Berlin	1994-01-08
+2873978	Mandelsloh in der Wiek	Mandelsloh in der Wiek		52.6	9.56667	A	ADMD	DE		06				0		34	Europe/Berlin	1994-01-08
+2874539	Stadtbezirk Magdeburg-Südost	Stadtbezirk Magdeburg-Sudost	Magdeburg-Sudost,Magdeburg-Südost,Stadtbezirk Magdeburg-Sudost,Stadtbezirk Magdeburg-Südost,Sudost,Südost	52.1	11.65	A	ADMD	DE		14				0		52	Europe/Berlin	2016-08-03
+2875113	Regierungsbezirk Lüneburg	Regierungsbezirk Lueneburg		53	10.5	A	ADMD	DE		06				0		69	Europe/Berlin	2007-07-15
+2876287	Lohe-Venslage	Lohe-Venslage		52.48333	7.51667	A	ADMD	DE		06				0		40	Europe/Berlin	1994-01-08
+2876339	Lohe	Lohe		52.18333	8.8	A	ADMD	DE		07				0		146	Europe/Berlin	1994-01-08
+2876947	Linzenich-Lövenich	Linzenich-Lovenich		50.66667	6.66667	A	ADMD	DE		07				0		164	Europe/Berlin	1994-01-08
+2876981	Lintel	Lintel		51.85	8.35	A	ADMD	DE		07				0		71	Europe/Berlin	1994-01-08
+2877494	Lindelburg	Lindelburg		49.33333	11.28333	A	ADMD	DE		02				0		426	Europe/Berlin	1994-01-08
+2877626	Linach	Linach		48.02607	8.23481	A	ADMD	DE		01				0		989	Europe/Berlin	2012-06-05
+2877656	Limbergen	Limbergen		51.9	7.33333	A	ADMD	DE		07				0		79	Europe/Berlin	1994-01-08
+2878486	Lessenich-Rissdorf	Lessenich-Rissdorf		50.6	6.71667	A	ADMD	DE		07				0		275	Europe/Berlin	1994-01-08
+2878703	Lenzinghausen	Lenzinghausen		52.11667	8.48333	A	ADMD	DE		07				0		130	Europe/Berlin	1994-01-08
+2878899	Lendersdorf-Krauthausen	Lendersdorf-Krauthausen		50.76667	6.48333	A	ADMD	DE		07				0		138	Europe/Berlin	1994-01-08
+2879087	Leistrup-Meiersfeld	Leistrup-Meiersfeld	Leistrup,Leistrup-Meiersfeld	51.93104	8.92056	A	ADMD	DE		07	057			0		186	Europe/Berlin	2010-11-15
+2879566	Lehengericht	Lehengericht	Gemeinde Lehengericht,Lehengericht	48.274	8.332	A	ADMD	DE		01	083	08325	08325051	0		519	Europe/Berlin	2025-03-11
+2879764	Lechterke	Lechterke		52.65	7.98333	A	ADMD	DE		06				0		29	Europe/Berlin	1994-01-08
+2880601	Langnau	Langnau		47.63333	9.65	A	ADMD	DE		01				0		445	Europe/Berlin	1994-01-08
+2880961	Langenordnach	Langenordnach		47.95	8.18333	A	ADMD	DE		01				0		1020	Europe/Berlin	1994-01-08
+2881225	Langenbach-Fährbrücke	Langenbach-Fahrbrucke	Langenbach,Langenbach-Fahrbrucke,Langenbach-Fährbrücke	50.63333	12.63333	A	ADMD	DE		13				0		421	Europe/Berlin	2020-06-10
+2881409	Langau	Langau		49.53333	12.5	A	ADMD	DE		02				0		636	Europe/Berlin	1994-01-08
+2881907	Gemeinde Lahnau	Gemeinde Lahnau		50.58333	8.56667	A	ADMD	DE		05				0		199	Europe/Berlin	1994-01-08
+2882118	Laar	Laar		52.08333	8.58333	A	ADMD	DE		07				0		129	Europe/Berlin	1994-01-08
+2882786	Kuhlenkamp	Kuhlenkamp		52.75	8.98333	A	ADMD	DE		06				0		46	Europe/Berlin	1994-01-08
+2883769	Kronberg	Kronberg		48.18333	12.23333	A	ADMD	DE		02				0		555	Europe/Berlin	1994-01-08
+2883832	Krofdorf-Gleiberg	Krofdorf-Gleiberg		50.61667	8.63333	A	ADMD	DE		05				0		256	Europe/Berlin	1994-01-08
+2884015	Krewinkel-Wiltrop	Krewinkel-Wiltrop		51.637	8.075	A	ADMD	DE		07	059	05974	05974024	0		75	Europe/Berlin	2025-01-21
+2884027	Kreuzweingarten-Rheder	Kreuzweingarten-Rheder		50.61667	6.8	A	ADMD	DE		07				0		203	Europe/Berlin	1994-01-08
+2884047	Kreuzthal	Kreuzthal		47.71667	10.13333	A	ADMD	DE		02				0		980	Europe/Berlin	1994-01-08
+2885122	Köttingerhöhe	Kottingerhohe		50.75	7.73333	A	ADMD	DE		08				0		163	Europe/Berlin	1994-01-08
+2885570	Koppenbrück	Koppenbruck		52.83333	12.35	A	ADMD	DE		11				0		25	Europe/Berlin	1994-01-08
+2885997	Königbach	Konigbach		48.55	13.25	A	ADMD	DE		02				0		414	Europe/Berlin	1994-01-08
+2886620	Kohlhagen	Kohlhagen		51.03333	8.06667	A	ADMD	DE		07				0		520	Europe/Berlin	1994-01-08
+2886844	Köditz	Koditz		50.66667	11.13333	A	ADMD	DE		15				0		335	Europe/Berlin	1994-01-08
+2886943	Regierungsbezirk Koblenz	Regierungsbezirk Koblenz		50.33333	7.33333	A	ADMD	DE		08				0		212	Europe/Berlin	2007-07-15
+2890525	Kirchen und Hausen	Kirchen und Hausen		47.9	8.66667	A	ADMD	DE		01				0		668	Europe/Berlin	1994-01-08
+2890818	Kinzigtal	Kinzigtal		48.3	8.3	A	ADMD	DE		01				0		612	Europe/Berlin	1994-01-08
+2891488	Kervendonk	Kervendonk		51.61667	6.25	A	ADMD	DE		07				0		18	Europe/Berlin	1994-01-08
+2892294	Kattrepel-Kattrepelerdeich	Kattrepel-Kattrepelerdeich		53.91667	9.05	A	ADMD	DE		10				0		-1	Europe/Berlin	1994-01-08
+2892308	Katterbach	Katterbach		49.46667	10.7	A	ADMD	DE		02				0		372	Europe/Berlin	1994-01-08
+2892968	Karche-Zaacko	Karche-Zaacko		51.86805	13.73165	A	ADMD	DE		11				0		69	Europe/Berlin	2012-06-05
+2893165	Kapell	Kapell		47.86667	12.73333	A	ADMD	DE		02				0		585	Europe/Berlin	1994-01-08
+2894990	Jerxen-Orbke	Jerxen-Orbke		51.95389	8.86253	A	ADMD	DE		07	057			0		136	Europe/Berlin	2010-11-15
+2896552	Illereichen-Altenstadt	Illereichen-Altenstadt	Illereichen-Altenstadt	48.16667	10.11667	A	ADMD	DE		02				0		588	Europe/Berlin	2019-10-09
+2898035	Hüffen	Huffen		52.18333	8.56667	A	ADMD	DE		07				0		63	Europe/Berlin	1994-01-08
+2898099	Hücker und Aschen	Hucker und Aschen		52.173	8.516	A	ADMD	DE		07	057	05758	05758032	0		92	Europe/Berlin	2025-03-17
+2898110	Hückelhoven-Ratheim	Huckelhoven-Ratheim		51.05	6.21667	A	ADMD	DE		07				0		52	Europe/Berlin	1994-01-08
+2898791	Horn-Mielinghausen	Horn-Mielinghausen	Horn-Mielinghausen,Horn-Millinghausen	51.61667	8.25	A	ADMD	DE		07				0		84	Europe/Berlin	2012-01-18
+2899473	Homberg-Bracht-Bellscheidt	Homberg-Bracht-Bellscheidt		51.3	6.93333	A	ADMD	DE		07				0		153	Europe/Berlin	1994-01-08
+2899525	Homberg	Homberg		47.81667	9.41667	A	ADMD	DE		01				0		772	Europe/Berlin	1994-01-08
+2899764	Holzhausen-Externsteine	Holzhausen-Externsteine		51.87694	8.90489	A	ADMD	DE		07	057			0		253	Europe/Berlin	2010-11-15
+2899866	Holzham	Holzham		47.92126	11.93287	A	ADMD	DE		02	091			0		510	Europe/Berlin	2010-11-15
+2900072	Holt und Haar	Holt und Haar		52.35	7.08333	A	ADMD	DE		06				0		28	Europe/Berlin	1994-01-08
+2900073	Holtum in der Marsch	Holtum in der Marsch	Holtum,Holtum in der Marsch	52.914	9.098	A	ADMD	DE		06	00	03361	03361002	0		12	Europe/Berlin	2025-02-24
+2900183	Holte-Sünsbeck	Holte-Sunsbeck		52.23333	8.18333	A	ADMD	DE		06				0		82	Europe/Berlin	1994-01-08
+2900184	Holte-Spangen	Holte-Spangen		53.85	8.63333	A	ADMD	DE		06				0		4	Europe/Berlin	1994-01-08
+2900254	Holsten-Mündrup	Holsten-Mundrup		52.21667	8.13333	A	ADMD	DE		06				0		148	Europe/Berlin	1994-01-08
+2900842	Hohnsteinsche Forst	Hohnsteinsche Forst	Hohensteinsche Forst,Hohnsteinsche Forst	51.73333	10.71667	A	ADMD	DE		14				0		511	Europe/Berlin	2012-01-18
+2902294	Högl	Hogl		47.8	12.9	A	ADMD	DE		02				0		651	Europe/Berlin	1994-01-08
+2902701	Höfen	Hofen		48.15	9.81667	A	ADMD	DE		01				0		518	Europe/Berlin	1994-01-08
+2902704	Hofeld-Mauschbach	Hofeld-Mauschbach		49.509	7.159	A	ADMD	DE		09	00	10046	10046113	0		340	Europe/Berlin	2025-03-31
+2903374	Hochberg	Hochberg		47.83333	12.65	A	ADMD	DE		02				0		670	Europe/Berlin	1994-01-08
+2903781	Hirschberg	Hirschberg		48.91667	12.96667	A	ADMD	DE		02				0		441	Europe/Berlin	1994-01-08
+2904428	Hinnenkamp	Hinnenkamp		52.5	8.13333	A	ADMD	DE		06				0		80	Europe/Berlin	1994-01-08
+2905267	Hesterberg	Hesterberg		52.61667	8.98333	A	ADMD	DE		06				0		32	Europe/Berlin	1994-01-08
+2905649	Herrnhausen	Herrnhausen		47.83333	11.41667	A	ADMD	DE		02				0		592	Europe/Berlin	1994-01-08
+2906529	Hemmingen-Westerfeld	Hemmingen-Westerfeld		52.31667	9.75	A	ADMD	DE		06				0		54	Europe/Berlin	1994-01-08
+2906966	Helfendorf	Helfendorf		47.95	11.8	A	ADMD	DE		02				0		647	Europe/Berlin	1994-01-08
+2907204	Heins	Heins		52.93333	9.43333	A	ADMD	DE		06				0		62	Europe/Berlin	1994-01-08
+2908142	Heidberg	Heidberg		52.75	11.05	A	ADMD	DE		14				0		51	Europe/Berlin	1994-01-08
+2908508	Hecheln	Hecheln		47.9	8.98333	A	ADMD	DE		01				0		681	Europe/Berlin	1994-01-08
+2909419	Hasselbeck-Schwarzbach	Hasselbeck-Schwarzbach	Hasselbeck,Hasselbeck-Schwarzbach	51.26667	6.88333	A	ADMD	DE		07				0		122	Europe/Berlin	2012-01-18
+2909520	Haslachsimonswald	Haslachsimonswald		48.11667	8.08333	A	ADMD	DE		01				0		563	Europe/Berlin	1994-01-08
+2909962	Harzberg	Harzberg		51.92797	9.20174	A	ADMD	DE		07	057			0		119	Europe/Berlin	2010-11-15
+2910020	Hartpenning	Hartpenning		47.85	11.66667	A	ADMD	DE		02				0		726	Europe/Berlin	1994-01-08
+2910643	Harderberg	Harderberg		52.21667	8.06667	A	ADMD	DE		06				0		95	Europe/Berlin	1994-01-08
+2910645	Hardensetten	Hardensetten		52.08333	8.06667	A	ADMD	DE		06				0		71	Europe/Berlin	1994-01-08
+2910829	Regierungsbezirk Hannover	Regierungsbezirk Hannover		52.5	9	A	ADMD	DE		06				0		34	Europe/Berlin	2007-07-15
+2911140	Hammereisenbach-Bregenbach	Hammereisenbach-Bregenbach		47.993	8.317	A	ADMD	DE		01	083	08326	08326068	0		785	Europe/Berlin	2025-03-11
+2911247	Hamlingdorf	Hamlingdorf		52.1	8.3	A	ADMD	DE		07				0		131	Europe/Berlin	1994-01-08
+2911368	Hambach	Hambach		49.66667	8.68333	A	ADMD	DE		05				0		311	Europe/Berlin	1994-01-08
+2912517	Hagen-Grinden	Hagen-Grinden		52.98333	9.1	A	ADMD	DE		06				0		7	Europe/Berlin	1994-01-08
+2912984	Habichhorst-Blyinghausen	Habichhorst-Blyinghausen		52.31667	9.25	A	ADMD	DE		06				0		92	Europe/Berlin	1994-01-08
+2914561	Grubweg	Grubweg		48.5845	13.47975	A	ADMD	DE		02	092			0		346	Europe/Berlin	2010-11-15
+2914622	Grube-Nattwerder-Schlänitzee	Grube-Nattwerder-Schlanitzee		52.43333	12.93333	A	ADMD	DE		11				0		44	Europe/Berlin	1994-01-08
+2914774	Grothe	Grothe		52.63333	7.96667	A	ADMD	DE		06				0		24	Europe/Berlin	1994-01-08
+2917212	Gröblingen	Groblingen	Groblingen,Grupiling,Gröblingen	51.98333	8	A	ADMD	DE		07				0		56	Europe/Berlin	2012-01-18
+2917960	Grastrup-Hölsen	Grastrup-Holsen		52.05162	8.78747	A	ADMD	DE		07	057			0		85	Europe/Berlin	2010-11-15
+2918294	Gräfen-Nitzendorf	Grafen-Nitzendorf		50.85	10.25	A	ADMD	DE		15				0		278	Europe/Berlin	1994-01-08
+2918432	Grabenstedt	Grabenstedt		52.85	10.95	A	ADMD	DE		14				0		52	Europe/Berlin	1994-01-08
+2918504	Graach-Kautenbach	Graach-Kautenbach		49.93333	7.08333	A	ADMD	DE		08				0		414	Europe/Berlin	1994-01-08
+2918748	Götheby-Holm	Gotheby-Holm		54.47841	9.68683	A	ADMD	DE		10				0		31	Europe/Berlin	2016-08-03
+2918876	Gosda-Haidemühl	Gosda-Haidemuhl		51.55	14.25	A	ADMD	DE		11				0		125	Europe/Berlin	1998-06-18
+2918921	Gorspen-Vahlsen	Gorspen-Vahlsen		52.38333	9.03333	A	ADMD	DE		07	057	05770		0		39	Europe/Berlin	2010-11-15
+2919578	Gödens	Godens		53.48333	7.96667	A	ADMD	DE		06				0		-1	Europe/Berlin	1994-01-08
+2919705	Gnaden See	Gnaden See		47.71667	9.05	A	ADMD	DE		01				0		392	Europe/Berlin	1994-01-08
+2920777	Gettengrün	Gettengrun		50.31667	12.2	A	ADMD	DE		13				0		562	Europe/Berlin	1998-05-12
+2920915	Gerstedt	Gerstedt		52.85	11.08333	A	ADMD	DE		14				0		34	Europe/Berlin	1994-01-08
+2920919	Gersprenz	Gersprenz		49.73333	8.86667	A	ADMD	DE		05				0		190	Europe/Berlin	1994-01-08
+2920990	Gern Zwei	Gern Zwei		48.4	12.8	A	ADMD	DE		02				0		457	Europe/Berlin	1994-01-08
+2922084	Gegenbach	Gegenbach		48.7	13.75	A	ADMD	DE		02				0		747	Europe/Berlin	1994-01-08
+2922158	Gebra-Hainleite	Gebra-Hainleite	Gebra,Gebra-Hainleite	51.41667	10.6	A	ADMD	DE		15				0		267	Europe/Berlin	2012-01-18
+2922327	Gatterberg	Gatterberg		48.21667	12.18333	A	ADMD	DE		02				0		552	Europe/Berlin	1994-01-08
+2922440	Gartnisch	Gartnisch		52.05	8.36667	A	ADMD	DE		07				0		113	Europe/Berlin	1994-01-08
+2922454	Gartenstadt Vahr	Gartenstadt Vahr		53.08333	8.88333	A	ADMD	DE		03				0		7	Europe/Berlin	1994-01-08
+2922528	Garmissen-Garbolzum	Garmissen-Garbolzum		52.2	10.11667	A	ADMD	DE		06				0		86	Europe/Berlin	1994-01-08
+2923758	Fünfleiten	Funfleiten		48.51667	12.7	A	ADMD	DE		02				0		418	Europe/Berlin	1994-01-08
+2925435	Frauenberg	Frauenberg		48.8	13.78333	A	ADMD	DE		02				0		1027	Europe/Berlin	1994-01-08
+2925685	Fortuna	Fortuna		50.95	6.66667	A	ADMD	DE		07				0		71	Europe/Berlin	1994-01-08
+2925765	Forsthart	Forsthart		48.63333	13.03333	A	ADMD	DE		02				0		414	Europe/Berlin	1994-01-08
+2925864	Forst	Forst	Forst	47.85	11	A	ADMD	DE		02				0		761	Europe/Berlin	2017-05-07
+2926096	Flossing	Flossing		48.21667	12.51667	A	ADMD	DE		02				0		395	Europe/Berlin	1994-01-08
+2928056	Falkau	Falkau		47.86967	8.12439	A	ADMD	DE		01				0		983	Europe/Berlin	2009-01-07
+2928057	Falka	Falka		50.8	12.13333	A	ADMD	DE		15				0		345	Europe/Berlin	1994-01-08
+2930507	Emmericher Eyland	Emmericher Eyland	Emmericher Eiland,Emmericher Eyland	51.8	6.25	A	ADMD	DE		07				0		13	Europe/Berlin	2012-01-18
+2930798	Elsaffthal	Elsaffthal		50.61667	7.38333	A	ADMD	DE		08				0		246	Europe/Berlin	1994-01-08
+2930799	Elsaff	Elsaff		50.68333	7.38333	A	ADMD	DE		08				0		266	Europe/Berlin	1994-01-08
+2931272	Elbergrund	Elbergrund		50.75	7.8	A	ADMD	DE		08				0		323	Europe/Berlin	1994-01-08
+2931399	Eissel	Eissel		52.95	9.2	A	ADMD	DE		06				0		10	Europe/Berlin	1994-01-08
+2931991	Eickholt	Eickholt		52.15	8.33333	A	ADMD	DE		06				0		108	Europe/Berlin	1994-01-08
+2932314	Eichenhausen	Eichenhausen		47.95	11.6	A	ADMD	DE		02				0		657	Europe/Berlin	1994-01-08
+2932772	Ehrsen-Breden	Ehrsen-Breden		52.06667	8.78333	A	ADMD	DE		07				0		96	Europe/Berlin	1994-01-08
+2932907	Ehlenbogen	Ehlenbogen		48.36667	8.41667	A	ADMD	DE		01				0		683	Europe/Berlin	1994-01-08
+2932978	Eglsee	Eglsee		48.48333	13.4	A	ADMD	DE		02				0		356	Europe/Berlin	1994-01-08
+2933107	Eggenried	Eggenried		48.94934	13.11836	A	ADMD	DE		02				0		598	Europe/Berlin	2011-04-01
+2934108	Ebbesloh	Ebbesloh		51.96667	8.36667	A	ADMD	DE		07				0		78	Europe/Berlin	1994-01-08
+2934741	Dudenbostel-Rodenbostel	Dudenbostel-Rodenbostel		52.56667	9.63333	A	ADMD	DE		06				0		69	Europe/Berlin	1994-01-08
+2935217	Dreieichenhain	Dreieichenhain		49.98333	8.7	A	ADMD	DE		05				0		190	Europe/Berlin	1994-01-08
+2935313	Dratum-Ausbergen	Dratum-Ausbergen		52.2	8.23333	A	ADMD	DE		06				0		97	Europe/Berlin	1994-01-08
+2936126	Dorfbauerschaft	Dorfbauerschaft		51.76667	8.58333	A	ADMD	DE		07				0		95	Europe/Berlin	1994-01-08
+2936321	Dolsleben	Dolsleben		52.81667	10.91667	A	ADMD	DE		14				0		45	Europe/Berlin	1994-01-08
+2936448	Dohrenburg	Dohrenburg	Dohrenburg,Dorenburg	51.35	6.33333	A	ADMD	DE		07				0		34	Europe/Berlin	2012-01-18
+2936459	Döhren	Dohren		52.16667	8.41667	A	ADMD	DE		06				0		114	Europe/Berlin	1994-01-08
+2936922	Dingharting	Dingharting		47.96667	11.51667	A	ADMD	DE		02				0		687	Europe/Berlin	1994-01-08
+2936948	Dimpfl	Dimpfl		49.68333	12.4	A	ADMD	DE		02	093	09374		0		575	Europe/Berlin	2015-06-16
+2937649	Dickschied-Geroldstein	Dickschied-Geroldstein		50.11667	7.93333	A	ADMD	DE		05				0		412	Europe/Berlin	1994-01-08
+2937738	Dibbersen Donnerstedt	Dibbersen Donnerstedt		52.96667	8.98333	A	ADMD	DE		06				0		5	Europe/Berlin	1994-01-08
+2938168	Deppoldshausen	Deppoldshausen		51.58333	9.96667	A	ADMD	DE		06				0		343	Europe/Berlin	1994-01-08
+2939507	Dackmar	Dackmar		51.96667	8.08333	A	ADMD	DE		07				0		56	Europe/Berlin	1994-01-08
+2939603	Dachsberg	Dachsberg		48.98333	12.7	A	ADMD	DE		02				0		416	Europe/Berlin	1994-01-08
+2939619	Dachberg	Dachberg		48.16667	12.23333	A	ADMD	DE		02				0		502	Europe/Berlin	1994-01-08
+2939960	Clusorth-Bramhar	Clusorth-Bramhar		52.58333	7.36667	A	ADMD	DE		06				0		21	Europe/Berlin	1994-01-08
+2939976	Cleverns-Sandel	Cleverns-Sandel		53.55	7.85	A	ADMD	DE		06				0		-1	Europe/Berlin	1994-01-08
+2940091	Christian-Albrechts-Koog	Christian-Albrechts-Koog		54.78333	8.73333	A	ADMD	DE		10				0		-1	Europe/Berlin	1994-01-08
+2940439	Bylerward	Bylerward		51.78333	6.28333	A	ADMD	DE		07				0		13	Europe/Berlin	1994-01-08
+2940469	Butzweiler	Butzweiler		50.97637	6.88551	A	ADMD	DE		07	053			0		47	Europe/Berlin	2010-11-15
+2940845	Büschergrund	Buschergrund		50.9	7.88333	A	ADMD	DE		07				0		327	Europe/Berlin	1994-01-08
+2940921	Bürvenich-Eppenich	Burvenich-Eppenich		50.66667	6.6	A	ADMD	DE		07				0		209	Europe/Berlin	1994-01-08
+2940975	Burlage	Burlage		53.06667	7.55	A	ADMD	DE		06				0		4	Europe/Berlin	1994-01-08
+2942268	Bucholtwelmen	Bucholtwelmen	Buchholtwelmen,Bucholtwelmen	51.65	6.71667	A	ADMD	DE		07				0		34	Europe/Berlin	2012-01-18
+2942452	Gemeinde Büchheim	Gemeinde Buchheim	Buchheim,Büchheim,Gemeinde Buchheim,Gemeinde Büchheim	49.28333	12.01667	A	ADMD	DE		02				0		433	Europe/Berlin	2021-03-13
+2943024	Brünst	Brunst		49.69492	12.43056	A	ADMD	DE		02				0		629	Europe/Berlin	2009-03-19
+2943881	Broich	Broich		50.53333	6.5	A	ADMD	DE		07				0		425	Europe/Berlin	1994-01-08
+2945470	Bramstedt	Bramstedt		52.86667	8.78333	A	ADMD	DE		06				0		39	Europe/Berlin	1994-01-08
+2945499	Bramey-Lenningsen	Bramey-Lenningsen		51.56667	7.76667	A	ADMD	DE		07				0		75	Europe/Berlin	1994-01-08
+2946218	Borkenwirthe	Borkenwirthe		51.88333	6.75	A	ADMD	DE		07				0		45	Europe/Berlin	1994-01-08
+2946309	Borg	Borg		52.68333	7.88333	A	ADMD	DE		06				0		22	Europe/Berlin	1994-01-08
+2946711	Bölhorst	Bolhorst		52.26667	8.88333	A	ADMD	DE		07				0		68	Europe/Berlin	1994-01-08
+2946854	Boich-Leversbach	Boich-Leversbach		50.71667	6.48333	A	ADMD	DE		07				0		242	Europe/Berlin	1994-01-08
+2946865	Bohrer	Bohrer		47.93333	7.86667	A	ADMD	DE		01				0		495	Europe/Berlin	1994-01-08
+2947986	Blasiwald	Blasiwald		47.78333	8.16667	A	ADMD	DE		01				0		1030	Europe/Berlin	1994-01-08
+2949112	Bierbronnen	Bierbronnen		47.68333	8.2	A	ADMD	DE		01				0		728	Europe/Berlin	1994-01-08
+2949162	Biemsen-Ahmsen	Biemsen-Ahmsen		52.08468	8.69757	A	ADMD	DE		07	057			0		82	Europe/Berlin	2010-11-15
+2949466	Bexten-Listrup	Bexten-Listrup		52.36667	7.36667	A	ADMD	DE		06				0		37	Europe/Berlin	1994-01-08
+2949839	Berzbuir-Kufferath	Berzbuir-Kufferath		50.75	6.45	A	ADMD	DE		07				0		184	Europe/Berlin	1994-01-08
+2950247	Berg-Thuir	Berg-Thuir		50.68333	6.51667	A	ADMD	DE		07				0		298	Europe/Berlin	1994-01-08
+2950448	Bergheim	Bergheim	Berchem,Bergheim,Bergheim i Nordrhein-Westfalen,Bergkhajm,bei ge hai mu,brghaym  nwrdrayn-wstfaln,Бергхайм,Бергхајм,برگهایم، نوردراین-وستفالن,贝格海姆	50.96455	6.66997	A	ADMD	DE		07				0		-15	Europe/Berlin	2019-06-22
+2950576	Bergern	Bergern		48.93333	12.96667	A	ADMD	DE		02				0		742	Europe/Berlin	1994-01-08
+2950653	Bergedorf	Bergedorf	Bardoerp,Bardörp,Bergedorf	53.48333	10.23333	A	ADMD	DE		04				0		23	Europe/Berlin	2012-01-18
+2950842	Berensch-Arensch	Berensch-Arensch	Berensch und Arensch,Berensch-Arensch	53.83333	8.58333	A	ADMD	DE		06				0		1	Europe/Berlin	2012-01-18
+2951242	Belke und Steinbeck	Belke und Steinbeck		52.15	8.56667	A	ADMD	DE		07				0		97	Europe/Berlin	1994-01-08
+2951550	Beerlage	Beerlage		52.01667	7.36667	A	ADMD	DE		07				0		89	Europe/Berlin	1994-01-08
+2952232	Batenhorst	Batenhorst		51.81667	8.3	A	ADMD	DE		07				0		74	Europe/Berlin	1994-01-08
+2952810	Bardüttingdorf	Barduttingdorf		52.11667	8.43333	A	ADMD	DE		07				0		128	Europe/Berlin	1994-01-08
+2954626	Auenheim-Rienau	Auenheim-Rienau		50.93333	10.08333	A	ADMD	DE		15				0		243	Europe/Berlin	1994-01-08
+2954997	Ast	Ast		48.48572	12.09399	A	ADMD	DE		02				0		465	Europe/Berlin	2013-02-13
+2956444	Ammerhöfe	Ammerhofe	Amerhofe,Amerhöfe,Ammerhofe,Ammerhöfe	47.76667	11.06667	A	ADMD	DE		02				0		690	Europe/Berlin	2012-01-18
+2956751	Altwriezen-Beauregard	Altwriezen-Beauregard		52.73333	14.2	A	ADMD	DE		11				0		4	Europe/Berlin	1994-01-08
+2956844	Altsimonswald	Altsimonswald		48.10109	8.06605	A	ADMD	DE		01				0		435	Europe/Berlin	2012-06-05
+2957086	Altkalkar	Altkalkar		51.73333	6.28333	A	ADMD	DE		07				0		18	Europe/Berlin	1994-01-08
+2957403	Alte Piccardie	Alte Piccardie		52.55	7.06667	A	ADMD	DE		06	00	03456		0		20	Europe/Berlin	2023-09-09
+2957739	Altendorf	Altendorf		53.71667	9.21667	A	ADMD	DE		06				0		-3	Europe/Berlin	1994-01-08
+2958094	Altahlen	Altahlen		51.78333	7.85	A	ADMD	DE		07				0		69	Europe/Berlin	1994-01-08
+2958845	Ailingen	Ailingen	Ailingen	47.68333	9.48333	A	ADMD	DE		01				0		413	Europe/Berlin	2012-04-05
+2959178	Ahlsen-Reineberg	Ahlsen-Reineberg		52.28333	8.65	A	ADMD	DE		07				0		140	Europe/Berlin	1994-01-08
+2959239	Ahlde	Ahlde		52.35	7.3	A	ADMD	DE		06				0		33	Europe/Berlin	1994-01-08
+2959271	Ahausen-Sitter	Ahausen-Sitter		52.55	7.91667	A	ADMD	DE		06				0		48	Europe/Berlin	1994-01-08
+2959615	Achtum-Uppen	Achtum-Uppen		52.15	10.01667	A	ADMD	DE		06				0		110	Europe/Berlin	1994-01-08
+3206287	Winden imElztal	Winden imElztal	Winden	48.15269	8.0377	A	ADMD	DE		01	083			0		325	Europe/Berlin	2010-11-15
+3208029	Biebergemünd	Biebergemund		50.2	8.26667	A	ADMD	DE		05				0		302	Europe/Berlin	1998-04-03
+3210414	Cotta	Cotta		50.9	13.96667	A	ADMD	DE		13				0		348	Europe/Berlin	1998-04-03
+3221000	Regierungsbezirk Weser-Ems	Regierungsbezirk Weser-Ems		53.08333	7.83333	A	ADMD	DE		06				2475481		7	Europe/Berlin	2007-07-17
+3221030	Kreisfreie Stadt Hannover	Kreisfreie Stadt Hannover		52.37518	9.73886	A	ADMD	DE		06	00	03241	03241001	0		64	Europe/Berlin	2014-01-14
+3232857	Hohenschönhausen Bezirk	Hohenschonhausen Bezirk	Berlin-Hohenschoenhausen,Berlin-Hohenschönhausen,Hohenschoenhausen,Hohenschönhausen	52.55	13.5	A	ADMD	DE		16	00	11000	11000000	0		60	Europe/Berlin	2014-05-15
+3302149	Regierungsbezirk Dessau	Regierungsbezirk Dessau		51.83028	12.37972	A	ADMD	DE		14				0		59	Europe/Berlin	2007-07-15
+3302150	Regierungsbezirk Halle	Regierungsbezirk Halle		51.42167	11.71944	A	ADMD	DE		14				0		175	Europe/Berlin	2007-07-15
+3302151	Regierungsbezirk Magdeburg	Regierungsbezirk Magdeburg		52.25083	11.50222	A	ADMD	DE		14				0		54	Europe/Berlin	2007-07-15
+6620352	Nordfriesland	Nordfriesland	Arrondissement de Frise-du-Nord,Districte de Nordfriesland,Distrikto Norda Frislando,Distrito de Nordfriesland,Frisia Settentrionale,Kreis Noord-Friesland,Kreis Nordfriesland,Kreis Nordfrisland,Kreis Nuurdfresklun,Noard-Fryslan,Noard-Fryslân,Pohja-Friisimaa kreis,Powiat Nordfriesland,Põhja-Friisimaa kreis,Severna Frizija,Severnaja Frislandija,Sjeverna Frizija,bei fu li si lan xian,Северна Фризија,Северная Фрисландия,北弗里斯兰县	54.49517	9.06372	A	ADMD	DE		10	00			0		10	Europe/Berlin	2010-11-20
+6692501	Beierse Woud	Beierse Woud	Bayerische Wald	47.76887	11.48071	A	ADMD	DE		02	091			0		648	Europe/Berlin	2010-11-15
+6692502	Ertsgebergte (DE)	Ertsgebergte (DE)		50.46625	12.77985	A	ADMD	DE		13	00			0		758	Europe/Berlin	2014-01-02
+6692504	Moezel	Moezel	Mosel	49.99538	7.09373	A	ADMD	DE		08	00			0		324	Europe/Berlin	2010-11-22
+7874742	Amt Viöl	Amt Vioel		54.55756	9.19297	A	ADMD	DE		10	00	01054		0		3	Europe/Berlin	2011-07-10
+7874743	Amt Itzstedt	Amt Itzstedt		53.80071	10.15051	A	ADMD	DE		10				0		27	Europe/Berlin	2011-07-10
+7874744	Amt Mittleres Nordfriesland	Amt Mittleres Nordfriesland		54.63607	9.02012	A	ADMD	DE		10	00	01054		0		10	Europe/Berlin	2011-07-10
+7874745	Amt Pellworm	Amt Pellworm		54.5875	8.63333	A	ADMD	DE		10	00	01054		0		-9999	Europe/Berlin	2011-07-10
+7874746	Amt Nordsee-Treene	Amt Nordsee-Treene		54.44814	9.09753	A	ADMD	DE		10	00	01054		0		-2	Europe/Berlin	2011-07-10
+7874747	Amt Landschaft Sylt	Amt Landschaft Sylt		54.91418	8.34674	A	ADMD	DE		10	00	01054		0		9	Europe/Berlin	2011-07-10
+7874748	Amt Eiderstedt	Amt Eiderstedt		54.34041	8.78368	A	ADMD	DE		10	00	01054		0		-1	Europe/Berlin	2011-07-10
+7874749	Amt Südtondern	Amt Suedtondern		54.81853	8.88149	A	ADMD	DE		10	00	01054		0		0	Europe/Berlin	2011-07-10
+7874750	Amt Föhr-Amrum	Amt Foehr-Amrum		54.69878	8.45602	A	ADMD	DE		10	00	01054		0		4	Europe/Berlin	2011-07-10
+7874751	Amt Ostholstein-Mitte	Amt Ostholstein-Mitte		54.13666	10.79	A	ADMD	DE		10	00	01055		0		25	Europe/Berlin	2011-07-10
+7874752	Amt Schenefeld	Amt Schenefeld		54.03916	9.43943	A	ADMD	DE		10	00	01061		0		23	Europe/Berlin	2011-07-10
+7874753	Amt Horst-Herzhorn	Amt Horst-Herzhorn		53.79444	9.52639	A	ADMD	DE		10	00	01061		0		-3	Europe/Berlin	2011-07-10
+7874754	Amt Südangeln	Amt Suedangeln		54.5875	9.60937	A	ADMD	DE		10	00	01059		0		19	Europe/Berlin	2011-07-10
+7874755	Amt Schafflund	Amt Schafflund		54.77949	9.18846	A	ADMD	DE		10	00	01059		0		16	Europe/Berlin	2011-07-10
+7874756	Amt Geltinger Bucht	Amt Geltinger Bucht		54.73267	9.86203	A	ADMD	DE		10	00	01059		0		25	Europe/Berlin	2011-07-10
+7874757	Amt Kropp-Stapelholm	Amt Kropp-Stapelholm		54.37962	9.37947	A	ADMD	DE		10	00	01059		0		-2	Europe/Berlin	2011-07-10
+7874758	Amt Schrevenborn	Amt Schrevenborn		54.3516	10.2036	A	ADMD	DE		10	00	01057		0		33	Europe/Berlin	2011-07-10
+7874759	Amt Probstei	Amt Probstei		54.38371	10.33621	A	ADMD	DE		10	00	01057		0		24	Europe/Berlin	2011-07-10
+7874760	Amt Sandesneben-Nusse	Amt Sandesneben-Nusse		53.69719	10.52903	A	ADMD	DE		10	00	01053		0		47	Europe/Berlin	2011-07-10
+7874761	Amt Büchen	Amt Buechen		53.51138	10.64979	A	ADMD	DE		10	00	01053		0		22	Europe/Berlin	2011-07-10
+7874762	Amt Berkenthin	Amt Berkenthin		53.73939	10.62575	A	ADMD	DE		10	00	01053		0		24	Europe/Berlin	2011-07-10
+7874763	Amt Lütau	Amt Luetau		53.41245	10.54823	A	ADMD	DE		10	00	01053		0		31	Europe/Berlin	2011-07-10
+7874764	Amt Breitenfelde	Amt Breitenfelde		53.59123	10.62509	A	ADMD	DE		10	00	01053		0		39	Europe/Berlin	2011-07-10
+7874765	Amt Lauenburgische Seen	Amt Lauenburgische Seen		53.68534	10.774	A	ADMD	DE		10	00	01053		0		29	Europe/Berlin	2011-07-10
+7874766	Amt Hohe Elbgeest	Amt Hohe Elbgeest		53.48166	10.35667	A	ADMD	DE		10	00	01053		0		61	Europe/Berlin	2011-07-10
+7874767	Amt Schwarzenbek-Land	Amt Schwarzenbek-Land		53.54814	10.4832	A	ADMD	DE		10	00	01053		0		48	Europe/Berlin	2011-07-10
+7874768	Amt Burg-St. Michaelisdonn	Amt Burg-St. Michaelisdonn		54.00309	9.20426	A	ADMD	DE		10	00	01051		0		3	Europe/Berlin	2011-07-10
+7874769	Amt Kirchspielslandgemeinden Eider	Amt Kirchspielslandgemeinden Eider		54.27068	9.18446	A	ADMD	DE		10	00	01051		0		6	Europe/Berlin	2011-07-10
+7874770	Amt Büsum-Wesselburen	Amt Buesum-Wesselburen		54.19186	8.90481	A	ADMD	DE		10	00	01051		0		-1	Europe/Berlin	2011-07-10
+7874771	Amt Mitteldithmarschen	Amt Mitteldithmarschen		54.10881	9.18456	A	ADMD	DE		10	00	01051		0		3	Europe/Berlin	2011-07-10
+7874772	Amt Marne-Nordsee	Amt Marne-Nordsee		53.9536	9.00366	A	ADMD	DE		10	00	01051		0		1	Europe/Berlin	2011-07-10
+7874773	Amt Kirchspielslandgemeinde	Amt Kirchspielslandgemeinde		54.19849	9.06818	A	ADMD	DE		10	00	01051		0		8	Europe/Berlin	2011-07-10
+7874774	Amt Dänischenhagen	Amt Daenischenhagen		54.44999	10.09583	A	ADMD	DE		10	00	01058		0		39	Europe/Berlin	2011-07-10
+7874775	Amt Flintbek	Amt Flintbek		54.25418	10.10835	A	ADMD	DE		10	00	01058		0		46	Europe/Berlin	2011-07-10
+7874776	Amt Schlei-Ostsee	Amt Schlei-Ostsee		54.5292	9.85695	A	ADMD	DE		10	00	01058		0		32	Europe/Berlin	2011-07-10
+7874777	Amt Bordesholm	Amt Bordesholm		54.17873	10.03161	A	ADMD	DE		10	00	01058		0		22	Europe/Berlin	2011-07-10
+7874778	Amt Bargteheide-Land	Amt Bargteheide-Land		53.74225	10.25726	A	ADMD	DE		10	00	01062		0		45	Europe/Berlin	2011-07-10
+7874779	Amt Bad Oldesloe-Land	Amt Bad Oldesloe-Land		53.78518	10.36295	A	ADMD	DE		10	00	01062		0		16	Europe/Berlin	2011-07-10
+7874780	Amt Großer Plöner See	Amt Grosser Ploener See		54.16018	10.40668	A	ADMD	DE		10				0		17	Europe/Berlin	2011-07-10
+7874781	Amt Oldenburg-Land	Amt Oldenburg-Land		54.31388	10.96112	A	ADMD	DE		10	00	01055		0		17	Europe/Berlin	2011-07-10
+7874782	Amt Lensahn	Amt Lensahn		54.2238	10.89763	A	ADMD	DE		10	00	01055		0		16	Europe/Berlin	2011-07-10
+7874783	Amt Itzehoe-Land	Amt Itzehoe-Land		53.96271	9.49152	A	ADMD	DE		10	00	01061		0		11	Europe/Berlin	2011-07-10
+7874784	Amt Breitenburg	Amt Breitenburg		53.91359	9.60956	A	ADMD	DE		10	00	01061		0		-2	Europe/Berlin	2011-07-10
+7874785	Amt Krempermarsch	Amt Krempermarsch		53.8569	9.50985	A	ADMD	DE		10	00	01061		0		-3	Europe/Berlin	2011-07-10
+7874786	Amt Kellinghusen	Amt Kellinghusen		53.98173	9.73589	A	ADMD	DE		10	00	01061		0		4	Europe/Berlin	2011-07-10
+7874787	Amt Wilstermarsch	Amt Wilstermarsch		53.9149	9.31545	A	ADMD	DE		10	00	01061		0		-4	Europe/Berlin	2011-07-10
+7874788	Amt Oeversee	Amt Oeversee		54.67223	9.43889	A	ADMD	DE		10	00	01059		0		34	Europe/Berlin	2011-07-10
+7874789	Amt Eggebek	Amt Eggebek		54.62251	9.33438	A	ADMD	DE		10	00	01059		0		14	Europe/Berlin	2011-07-10
+7874790	Amt Langballig	Amt Langballig		54.80201	9.61715	A	ADMD	DE		10	00	01059		0		36	Europe/Berlin	2011-07-10
+7874791	Amt Hürup	Amt Huerup		54.74761	9.52857	A	ADMD	DE		10	00	01059		0		58	Europe/Berlin	2011-07-10
+7874792	Amt Mittelangeln	Amt Mittelangeln		54.71002	9.61333	A	ADMD	DE		10	00	01059		0		29	Europe/Berlin	2014-01-04
+7874793	Amt Kappeln-Land	Amt Kappeln-Land		54.64166	9.88333	A	ADMD	DE		10	00	01059		0		31	Europe/Berlin	2011-07-10
+7874794	Amt Haddeby	Amt Haddeby		54.47736	9.57547	A	ADMD	DE		10	00	01059		0		19	Europe/Berlin	2011-07-10
+7874795	Amt Arensharde	Amt Arensharde		54.51863	9.41498	A	ADMD	DE		10	00	01059		0		10	Europe/Berlin	2011-07-10
+7874796	Amt Süderbrarup	Amt Suederbrarup		54.63641	9.77401	A	ADMD	DE		10	00	01059		0		25	Europe/Berlin	2011-07-10
+7874797	Amt Selent/Schlesen	Amt Selent/Schlesen		54.29624	10.39203	A	ADMD	DE		10	00	01057		0		54	Europe/Berlin	2011-07-10
+7874798	Amt Lütjenburg	Amt Luetjenburg		54.29783	10.57981	A	ADMD	DE		10	00	01057		0		52	Europe/Berlin	2011-07-10
+7874799	Amt Bokhorst-Wankendorf	Amt Bokhorst-Wankendorf		54.10834	10.16459	A	ADMD	DE		10	00	01057		0		51	Europe/Berlin	2011-07-10
+7874800	Amt Preetz-Land	Amt Preetz-Land		54.21512	10.21244	A	ADMD	DE		10	00	01057		0		23	Europe/Berlin	2011-07-10
+7874801	Amt Elmshorn-Land	Amt Elmshorn-Land		53.74287	9.64524	A	ADMD	DE		10	00	01056		0		1	Europe/Berlin	2011-07-10
+7874802	Amt Haseldorf	Amt Haseldorf		53.6278	9.61667	A	ADMD	DE		10	00	01056		0		0	Europe/Berlin	2011-07-10
+7874803	Amt Hörnerkirchen	Amt Hoernerkirchen		53.86253	9.70833	A	ADMD	DE		10	00	01056		0		8	Europe/Berlin	2011-07-10
+7874804	Amt Pinnau	Amt Pinnau		53.67456	9.83851	A	ADMD	DE		10	00	01056		0		8	Europe/Berlin	2011-07-10
+7874805	Amt Rantzau	Amt Rantzau		53.78	9.78667	A	ADMD	DE		10	00	01056		0		8	Europe/Berlin	2011-07-10
+7874806	Amt Moorrege	Amt Moorrege		53.66939	9.6688	A	ADMD	DE		10	00	01056		0		5	Europe/Berlin	2011-07-10
+7874807	Amt Dänischer Wohld	Amt Daenischer Wohld		54.40056	9.98286	A	ADMD	DE		10	00	01058		0		20	Europe/Berlin	2011-07-10
+7874808	Amt Jevenstedt	Amt Jevenstedt		54.20456	9.62794	A	ADMD	DE		10	00	01058		0		0	Europe/Berlin	2011-07-10
+7874809	Amt Eiderkanal	Amt Eiderkanal		54.31147	9.76231	A	ADMD	DE		10	00	01058		0		19	Europe/Berlin	2011-07-10
+7874810	Amt Molfsee	Amt Molfsee		54.25982	10.02557	A	ADMD	DE		10	00	01058		0		25	Europe/Berlin	2011-07-10
+7874811	Amt Hohenwestedt-Land	Amt Hohenwestedt-Land		54.10476	9.65	A	ADMD	DE		10	00	01058		0		32	Europe/Berlin	2011-07-10
+7874812	Amt Hanerau-Hademarschen	Amt Hanerau-Hademarschen		54.13007	9.42672	A	ADMD	DE		10	00	01058		0		27	Europe/Berlin	2011-07-10
+7874813	Amt Nortorfer Land	Amt Nortorfer Land		54.18549	9.85386	A	ADMD	DE		10	00	01058		0		21	Europe/Berlin	2011-07-10
+7874814	Amt Hohner Harde	Amt Hohner Harde		54.27639	9.47778	A	ADMD	DE		10	00	01058		0		12	Europe/Berlin	2011-07-10
+7874815	Amt Aukrug	Amt Aukrug		54.05415	9.86667	A	ADMD	DE		10	00	01058		0		12	Europe/Berlin	2011-07-10
+7874816	Amt Hüttener Berge	Amt Huettener Berge		54.39507	9.72637	A	ADMD	DE		10	00	01058		0		30	Europe/Berlin	2011-07-10
+7874817	Amt Fockbek	Amt Fockbek		54.31495	9.62741	A	ADMD	DE		10	00	01058		0		8	Europe/Berlin	2011-07-10
+7874818	Amt Achterwehr	Amt Achterwehr		54.31875	9.95416	A	ADMD	DE		10	00	01058		0		13	Europe/Berlin	2011-07-10
+7874819	Amt Kisdorf	Amt Kisdorf		53.83518	10.05186	A	ADMD	DE		10	00	01060		0		64	Europe/Berlin	2011-07-10
+7874820	Amt Bornhöved	Amt Bornhoeved		54.06459	10.26669	A	ADMD	DE		10	00	01060		0		55	Europe/Berlin	2011-07-10
+7874821	Amt Boostedt-Rickling	Amt Boostedt-Rickling		54.01078	10.11158	A	ADMD	DE		10	00	01060		0		32	Europe/Berlin	2011-07-10
+7874822	Amt Leezen	Amt Leezen		53.89445	10.24443	A	ADMD	DE		10	00	01060		0		19	Europe/Berlin	2011-07-10
+7874823	Amt Trave-Land	Amt Trave-Land		53.95042	10.3747	A	ADMD	DE		10	00	01060		0		47	Europe/Berlin	2011-07-10
+7874824	Amt Bad Bramstedt-Land	Amt Bad Bramstedt-Land		53.93928	9.85476	A	ADMD	DE		10	00	01060		0		34	Europe/Berlin	2011-07-10
+7874825	Amt Kaltenkirchen-Land	Amt Kaltenkirchen-Land		53.86667	9.95833	A	ADMD	DE		10	00	01060		0		16	Europe/Berlin	2011-07-10
+7874826	Amt Nordstormarn	Amt Nordstormarn		53.84722	10.52084	A	ADMD	DE		10	00	01062		0		26	Europe/Berlin	2011-07-10
+7874827	Amt Siek	Amt Siek		53.62102	10.26925	A	ADMD	DE		10	00	01062		0		52	Europe/Berlin	2011-07-10
+7874828	Amt Trittau	Amt Trittau		53.61121	10.39765	A	ADMD	DE		10	00	01062		0		37	Europe/Berlin	2011-07-10
+7909917	Amt Carbäk	Amt Carbaek		54.11444	12.28579	A	ADMD	DE		12	00	13072		0		44	Europe/Berlin	2014-01-04
+7909918	Amt Rostocker Heide	Amt Rostocker Heide		54.17019	12.27304	A	ADMD	DE		12	00	13072		0		21	Europe/Berlin	2014-01-04
+7909919	Amt Schwaan	Amt Schwaan		53.93571	12.10001	A	ADMD	DE		12	00	13072		0		3	Europe/Berlin	2014-01-04
+7909920	Amt Neubukow-Salzhaff	Amt Neubukow-Salzhaff		54.02922	11.66023	A	ADMD	DE		12	00	13072		0		32	Europe/Berlin	2014-01-04
+7909921	Amt Bad Doberan-Land	Amt Bad Doberan-Land		54.10913	11.89464	A	ADMD	DE		12	00	13072		0		10	Europe/Berlin	2014-01-04
+7909922	Amt Peenetal/Loitz	Amt Peenetal/Loitz		54	13.1625	A	ADMD	DE		12	00	13071		0		18	Europe/Berlin	2014-01-04
+7909923	Amt Stavenhagen	Amt Stavenhagen		53.65898	12.94872	A	ADMD	DE		12	00	13071		0		71	Europe/Berlin	2014-01-04
+7909924	Amt Demmin-Land	Amt Demmin-Land		53.84226	13.02962	A	ADMD	DE		12	00	13071		0		33	Europe/Berlin	2014-01-04
+7909925	Amt Malchin am Kummerower See	Amt Malchin am Kummerower See		53.72143	12.77379	A	ADMD	DE		12	00	13071		0		2	Europe/Berlin	2014-01-04
+7909926	Amt Treptower Tollensewinkel	Amt Treptower Tollensewinkel		53.7263	13.22198	A	ADMD	DE		12	00	13071		0		37	Europe/Berlin	2014-01-04
+7909927	Amt Jarmen-Tutow	Amt Jarmen-Tutow		53.89286	13.28809	A	ADMD	DE		12	00	13071		0		12	Europe/Berlin	2014-01-04
+7909928	Amt Bützow Land	Amt Buetzow Land		53.84949	11.95206	A	ADMD	DE		12	00	13072		0		10	Europe/Berlin	2014-01-04
+7909929	Amt Laage	Amt Laage		53.92	12.32668	A	ADMD	DE		12	00	13072		0		11	Europe/Berlin	2014-01-04
+7909930	Amt Mecklenburgische Schweiz	Amt Mecklenburgische Schweiz		53.81203	12.55267	A	ADMD	DE		12	00	13072		0		29	Europe/Berlin	2014-01-04
+7909931	Amt Gnoien	Amt Gnoien		53.965	12.68252	A	ADMD	DE		12	00	13072		0		12	Europe/Berlin	2014-01-04
+7909932	Amt Güstrow-Land	Amt Guestrow-Land		53.78003	12.1742	A	ADMD	DE		12	00	13072		0		18	Europe/Berlin	2014-01-04
+7909933	Amt Krakow am See	Amt Krakow am See		53.6861	12.34362	A	ADMD	DE		12	00	13072		0		48	Europe/Berlin	2014-01-04
+7909934	Amt Dömitz-Malliß	Amt Doemitz-Malliss		53.20714	11.28937	A	ADMD	DE		12	00	13076		0		31	Europe/Berlin	2014-01-04
+7909935	Amt Zarrentin	Amt Zarrentin		53.49642	10.91308	A	ADMD	DE		12	00	13076		0		29	Europe/Berlin	2014-01-04
+7909936	Amt Stralendorf	Amt Stralendorf		53.57591	11.29816	A	ADMD	DE		12	00	13076		0		55	Europe/Berlin	2014-01-04
+7909937	Amt Neustadt-Glewe	Amt Neustadt-Glewe		53.37777	11.6389	A	ADMD	DE		12	00	13076		0		37	Europe/Berlin	2014-01-04
+7909938	Amt Boizenburg-Land	Amt Boizenburg-Land		53.39756	10.80733	A	ADMD	DE		12	00	13076		0		14	Europe/Berlin	2014-01-04
+7909939	Amt Grabow	Amt Grabow		53.25148	11.61423	A	ADMD	DE		12	00	13076		0		36	Europe/Berlin	2014-01-04
+7909940	Amt Hagenow-Land	Amt Hagenow-Land		53.41478	11.22595	A	ADMD	DE		12	00	13076		0		19	Europe/Berlin	2014-01-04
+7909941	Amt Ludwigslust-Land	Amt Ludwigslust-Land		53.38309	11.41133	A	ADMD	DE		12	00	13076		0		38	Europe/Berlin	2014-01-04
+7909942	Amt Malchow	Amt Malchow		53.47619	12.42909	A	ADMD	DE		12	00	13071		0		62	Europe/Berlin	2014-01-04
+7909943	Amt Seenlandschaft Waren	Amt Seenlandschaft Waren		53.57762	12.67073	A	ADMD	DE		12	00	13071		0		94	Europe/Berlin	2014-01-04
+7909944	Amt Röbel-Müritz	Amt Roebel-Mueritz	Rebel-Miric,Roebel-Mueritz,Röbel-Müritz,Urzad Roebel-Mueritz,Urząd Röbel-Müritz,Ребел-Мириц	53.33481	12.56718	A	ADMD	DE		12	00	13071		0		96	Europe/Berlin	2014-01-04
+7909945	Amt Crivitz	Amt Crivitz		53.57141	11.70716	A	ADMD	DE		12	00	13076		0		72	Europe/Berlin	2014-01-04
+7909946	Amt Goldberg-Mildenitz	Amt Goldberg-Mildenitz		53.57856	12.06427	A	ADMD	DE		12	00	13076		0		55	Europe/Berlin	2014-01-04
+7909947	Amt Lützow-Lübstorf	Amt Luetzow-Luebstorf		53.67902	11.29087	A	ADMD	DE		12	00	13074		0		86	Europe/Berlin	2014-01-04
+7909948	Amt Schönberger Land	Amt Schoenberger Land		53.84312	10.94932	A	ADMD	DE		12	00	13074		0		12	Europe/Berlin	2014-01-04
+7909949	Amt Rehna	Amt Rehna		53.75857	10.95696	A	ADMD	DE		12	00	13074		0		35	Europe/Berlin	2014-01-04
+7909950	Amt Mecklenburgische Kleinseenplatte	Amt Mecklenburgische Kleinseenplatte		53.26666	12.93334	A	ADMD	DE		12	00	13071		0		89	Europe/Berlin	2014-01-04
+7909951	Amt Franzburg-Richtenberg	Amt Franzburg-Richtenberg		54.15988	12.88562	A	ADMD	DE		12	00	13073		0		16	Europe/Berlin	2014-01-04
+7909952	Amt Darß/Fischland	Amt Darss/Fischland		54.385	12.48558	A	ADMD	DE		12	00	13073		0		-2	Europe/Berlin	2014-01-04
+7909953	Amt Lubmin	Amt Lubmin		54.09002	13.61667	A	ADMD	DE		12	00	13075		0		25	Europe/Berlin	2014-01-04
+7909954	Amt Usedom-Nord	Amt Usedom-Nord		54.1	13.84332	A	ADMD	DE		12	00	13075		0		-1	Europe/Berlin	2014-01-04
+7909955	Amt Landhagen	Amt Landhagen		54.06513	13.36083	A	ADMD	DE		12	00	13075		0		12	Europe/Berlin	2014-01-04
+7909956	Amt Anklam-Land	Amt Anklam-Land		53.80555	13.59666	A	ADMD	DE		12	00	13075		0		7	Europe/Berlin	2014-01-04
+7909957	Amt Tessin	Amt Tessin		54.03857	12.51633	A	ADMD	DE		12	00	13072		0		17	Europe/Berlin	2014-01-04
+7909958	Amt Warnow-West	Amt Warnow-West		54.05594	12.05239	A	ADMD	DE		12	00	13072		0		49	Europe/Berlin	2014-01-04
+7909959	Amt Wittenburg	Amt Wittenburg		53.50401	11.05018	A	ADMD	DE		12	00	13076		0		37	Europe/Berlin	2014-01-04
+7909960	Amt Penzliner Land	Amt Penzliner Land		53.52141	13.05713	A	ADMD	DE		12	00	13071		0		52	Europe/Berlin	2014-01-04
+7909961	Amt Eldenburg Lübz	Amt Eldenburg Luebz		53.42961	12.01588	A	ADMD	DE		12	00	13076		0		60	Europe/Berlin	2014-01-04
+7909962	Amt Plau am See	Amt Plau am See		53.41614	12.25584	A	ADMD	DE		12	00	13076		0		82	Europe/Berlin	2014-01-04
+7909963	Amt Parchimer Umland	Amt Parchimer Umland		53.43332	11.80146	A	ADMD	DE		12	00	13076		0		47	Europe/Berlin	2014-01-04
+7909964	Amt Ostufer Schweriner See	Amt Ostufer Schweriner See		53.64482	11.53281	A	ADMD	DE		12	00	13076		0		65	Europe/Berlin	2014-01-04
+7909965	Amt Sternberger Seenlandschaft	Amt Sternberger Seenlandschaft		53.70911	11.79728	A	ADMD	DE		12	00	13076		0		17	Europe/Berlin	2014-01-04
+7909966	Amt Banzkow	Amt Banzkow		53.54443	11.5278	A	ADMD	DE		12	00	13076		0		38	Europe/Berlin	2014-01-04
+7909967	Amt West-Rügen	Amt West-Ruegen		54.45111	13.23032	A	ADMD	DE		12	00	13073		0		11	Europe/Berlin	2014-01-04
+7909968	Amt Bergen auf Rügen	Amt Bergen auf Ruegen		54.41357	13.39561	A	ADMD	DE		12	00	13073		0		21	Europe/Berlin	2014-01-04
+7909969	Amt Mönchgut-Granitz	Amt Moenchgut-Granitz		54.33905	13.67385	A	ADMD	DE		12	00	13073		0		-9999	Europe/Berlin	2014-01-04
+7909970	Amt Nord-Rügen	Amt Nord-Ruegen		54.60625	13.40832	A	ADMD	DE		12	00	13073		0		-9999	Europe/Berlin	2014-01-04
+7909971	Amt Gadebusch	Amt Gadebusch		53.69167	11.10626	A	ADMD	DE		12	00	13074		0		41	Europe/Berlin	2014-01-04
+7909972	Amt Klützer Winkel	Amt Kluetzer Winkel		53.95067	11.21068	A	ADMD	DE		12	00	13074		0		8	Europe/Berlin	2014-01-04
+7909973	Amt Neukloster-Warin	Amt Neukloster-Warin		53.86493	11.68296	A	ADMD	DE		12	00	13074		0		30	Europe/Berlin	2014-01-04
+7909974	Amt Grevesmühlen-Land (8291) **	Amt Grevesmuehlen-Land (8291) **		53.84853	11.19169	A	ADMD	DE		12	00	13074		0		27	Europe/Berlin	2014-01-04
+7909975	Amt Neuburg	Amt Neuburg		53.95557	11.55832	A	ADMD	DE		12	00	13074		0		21	Europe/Berlin	2014-01-04
+7909976	Amt Dorf Mecklenburg-Bad Kleinen	Amt Dorf Mecklenburg-Bad Kleinen		53.81916	11.46018	A	ADMD	DE		12	00	13074		0		31	Europe/Berlin	2014-01-04
+7909977	Amt Friedland	Amt Friedland		53.63093	13.40662	A	ADMD	DE		12	00	13071		0		55	Europe/Berlin	2014-01-04
+7909978	Amt Neverin	Amt Neverin		53.60972	13.3	A	ADMD	DE		12	00	13071		0		68	Europe/Berlin	2014-01-04
+7909979	Amt Woldegk	Amt Woldegk		53.52414	13.59066	A	ADMD	DE		12	00	13071		0		99	Europe/Berlin	2014-01-04
+7909980	Amt Neustrelitz-Land	Amt Neustrelitz-Land		53.37425	13.15606	A	ADMD	DE		12	00	13071		0		102	Europe/Berlin	2014-01-04
+7909981	Amt Stargarder Land	Amt Stargarder Land		53.48504	13.34014	A	ADMD	DE		12	00	13071		0		75	Europe/Berlin	2014-01-04
+7909982	Amt Ribnitz-Damgarten	Amt Ribnitz-Damgarten		54.22068	12.59272	A	ADMD	DE		12	00	13073		0		20	Europe/Berlin	2014-01-04
+7909983	Amt Niepars	Amt Niepars		54.28121	12.95988	A	ADMD	DE		12	00	13073		0		15	Europe/Berlin	2014-01-04
+7909984	Amt Barth	Amt Barth		54.32589	12.66609	A	ADMD	DE		12	00	13073		0		-1	Europe/Berlin	2014-01-04
+7909985	Amt Miltzow	Amt Miltzow		54.19629	13.07314	A	ADMD	DE		12	00	13073		0		32	Europe/Berlin	2014-01-04
+7909986	Amt Recknitz-Trebeltal	Amt Recknitz-Trebeltal		54.10606	12.75023	A	ADMD	DE		12	00	13073		0		8	Europe/Berlin	2014-01-04
+7909987	Amt Altenpleen	Amt Altenpleen		54.36807	12.99359	A	ADMD	DE		12	00	13073		0		2	Europe/Berlin	2014-01-04
+7909988	Amt Am Peenestrom	Amt Am Peenestrom		54.00154	13.79659	A	ADMD	DE		12	00	13075		0		-9999	Europe/Berlin	2014-01-04
+7909989	Amt Usedom-Süd	Amt Usedom-Sued		53.94101	14.05447	A	ADMD	DE		12	00	13075		0		2	Europe/Berlin	2014-01-04
+7909990	Amt Züssow	Amt Zuessow		53.95112	13.56888	A	ADMD	DE		12	00	13075		0		36	Europe/Berlin	2014-01-04
+7909991	Amt Uecker-Randow-Tal	Amt Uecker-Randow-Tal		53.50294	13.97892	A	ADMD	DE		12	00	13075		0		8	Europe/Berlin	2014-01-04
+7909992	Amt Löcknitz-Penkun	Amt Loecknitz-Penkun		53.43005	14.25523	A	ADMD	DE		12	00	13075		0		13	Europe/Berlin	2014-01-04
+7909993	Amt Torgelow-Ferdinandshof	Amt Torgelow-Ferdinandshof		53.63959	13.8875	A	ADMD	DE		12	00	13075		0		10	Europe/Berlin	2014-01-04
+7909994	Amt Am Stettiner Haff	Amt Am Stettiner Haff		53.71538	14.07244	A	ADMD	DE		12	00	13075		0		22	Europe/Berlin	2014-01-04
+7931992	Vorderer Westen	Vorderer Westen		51.31616	9.46507	A	ADMD	DE		05	066	06611	06611000	0		185	Europe/Berlin	2011-08-15
+13211880	Osterhever	Osterhever	Osterhever	54.38675	8.78945	A	ADMD	DE		10	00	01054	01054100	0		1		2025-02-19
+13211923	Westerhever	Westerhever	Westerhever	54.38559	8.69114	A	ADMD	DE		10	00	01054	01054150	0		1		2025-02-19
+13457466	Mittelangeln	Mittelangeln	Mittelangeln	54.66885	9.61487	A	ADMD	DE		10	00	01059	01059185	0		40		2025-07-19

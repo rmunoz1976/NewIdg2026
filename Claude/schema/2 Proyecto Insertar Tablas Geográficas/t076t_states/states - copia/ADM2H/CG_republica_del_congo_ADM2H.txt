@@ -1,0 +1,2 @@
+﻿7731906	Loukela	Loukela		-0.41545	17.10152	A	ADM2H	CG		13	7731906			0		321	Africa/Brazzaville	2019-01-09
+7870655	Mossendjo	Mossendjo		-2.96552	12.72788	A	ADM2H	CG		07	7870655			0		506	Africa/Brazzaville	2019-01-09

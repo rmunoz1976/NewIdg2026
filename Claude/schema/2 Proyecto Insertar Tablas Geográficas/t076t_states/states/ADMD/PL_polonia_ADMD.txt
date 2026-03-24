@@ -1,0 +1,35 @@
+﻿753867	Zamojskie Województwo	Zamojskie Wojewodztwo		50.75	23.25	A	ADMD	PL		00				0		205	Europe/Warsaw	2007-09-10
+756136	Województwo Mazowieckie	Wojewodztwo Mazowieckie	Masovien	52.23011	21.01118	A	ADMD	PL		78				5164000		111	Europe/Warsaw	2010-09-22
+757027	Tarnowskie Województwo	Tarnowskie Wojewodztwo		50	21	A	ADMD	PL		00				0		204	Europe/Warsaw	2007-09-10
+757034	Tarnobrzeskie Województwo	Tarnobrzeskie Wojewodztwo		50.75	22	A	ADMD	PL		00				0		165	Europe/Warsaw	2007-09-10
+759784	Rzeszowskie Województwo	Rzeszowskie Wojewodztwo		50	22	A	ADMD	PL		00				0		201	Europe/Warsaw	2007-09-10
+760779	Radomskie Województwo	Radomskie Wojewodztwo		51.5	21	A	ADMD	PL		00				0		151	Europe/Warsaw	2007-09-10
+761169	Przemyskie Województwo	Przemyskie Wojewodztwo		50	22.75	A	ADMD	PL		00				0		178	Europe/Warsaw	2007-09-10
+763168	Województwo Warmińsko-Mazurskie	Wojewodztwo Warminsko-Mazurskie	Ermland-Masurien	53.75	20.5	A	ADMD	PL		00				1428601		130	Europe/Warsaw	2008-03-09
+763535	Nowosadeckie Województwo	Nowosadeckie Wojewodztwo		49.58333	20.5	A	ADMD	PL		00				0		426	Europe/Warsaw	2007-09-10
+765877	Lubelskie Województwo	Lubelskie Wojewodztwo	Wojewodztwo Lubelskie,Województwo Lubelskie	51.25	22.5	A	ADMD	PL		00				0		212	Europe/Warsaw	2007-09-10
+767472	Krosnienskie Województwo	Krosnienskie Wojewodztwo		49.5	22	A	ADMD	PL		00				0		428	Europe/Warsaw	2007-09-10
+767691	Krakowskie Województwo Miejskie	Krakowskie Wojewodztwo Miejskie		50	20	A	ADMD	PL		00				0		234	Europe/Warsaw	2007-09-10
+769251	Województwo Świętokrzyskie	Wojewodztwo Swietokrzyskie	Heliga Korset	50.75	20.5	A	ADMD	PL		00				1281796		234	Europe/Warsaw	2008-03-09
+774562	Chelmskie Województwo	Chelmskie Wojewodztwo		51.25	23.5	A	ADMD	PL		00				0		174	Europe/Warsaw	2007-09-10
+776070	Województwo Podlaskie	Wojewodztwo Podlaskie	Podlasien	53	23.25	A	ADMD	PL		00				1196101		147	Europe/Warsaw	2008-03-09
+776177	Bialskopodlaskie Województwo	Bialskopodlaskie Wojewodztwo		52	23	A	ADMD	PL		00				0		143	Europe/Warsaw	2007-09-10
+3080177	Zielonogórskie Województwo	Zielonogorskie Wojewodztwo		52	15.5	A	ADMD	PL		00				0		83	Europe/Warsaw	2007-09-10
+3081369	Wroclawskie Województwo	Wroclawskie Wojewodztwo		51.25	17	A	ADMD	PL		00				0		145	Europe/Warsaw	2007-09-10
+3082708	Walbrzyskie Województwo	Walbrzyskie Wojewodztwo		50.5	16.75	A	ADMD	PL		00				0		433	Europe/Warsaw	2007-09-10
+3083832	Szczecinskie Województwo	Szczecinskie Wojewodztwo		53.5	15	A	ADMD	PL		87	3083832			0		57	Europe/Warsaw	2010-09-04
+3085452	Slupskie Województwo	Slupskie Wojewodztwo		54.25	17.25	A	ADMD	PL		00				0		136	Europe/Warsaw	2007-09-10
+3085979	Sieradzkie Województwo	Sieradzkie Wojewodztwo		51.5	18.75	A	ADMD	PL		00				0		179	Europe/Warsaw	2007-09-10
+3088172	Poznanskie Województwo	Poznanskie Wojewodztwo		52.5	17	A	ADMD	PL		00				0		89	Europe/Warsaw	2007-09-10
+3090049	Opolskie Województwo	Opolskie Wojewodztwo		50.5	18	A	ADMD	PL		00				0		185	Europe/Warsaw	2007-09-10
+3093134	Województwo Łódzkie	Wojewodztwo Lodzkie	Lodz,Łódź	51.75	19.5	A	ADMD	PL		00				2597000		213	Europe/Warsaw	2008-03-09
+3093526	Leszczynskie Województwo	Leszczynskie Wojewodztwo		51.75	16.75	A	ADMD	PL		00				0		103	Europe/Warsaw	2007-09-10
+3093694	Legnickie Województwo	Legnickie Wojewodztwo		51.25	16	A	ADMD	PL		00				0		141	Europe/Warsaw	2007-09-10
+3095050	Koszalinskie Województwo	Koszalinskie Wojewodztwo		54	16	A	ADMD	PL		87	3095050			0		20	Europe/Warsaw	2010-09-04
+3096474	Katowickie Województwo	Katowickie Wojewodztwo		50.25	19	A	ADMD	PL		00				0		289	Europe/Warsaw	2007-09-10
+3097259	Jeleniogórskie Województwo	Jeleniogorskie Wojewodztwo		51	15.5	A	ADMD	PL		00				0		392	Europe/Warsaw	2007-09-10
+3098726	Gorzowskie Województwo	Gorzowskie Wojewodztwo		52.75	15.25	A	ADMD	PL		00				0		68	Europe/Warsaw	2007-09-10
+3099435	Województwo Pomorskie	Wojewodztwo Pomorskie	Pommern	54.25	18.25	A	ADMD	PL		00				2199043		218	Europe/Warsaw	2008-03-09
+3100947	Czestochowskie Województwo	Czestochowskie Wojewodztwo		50.75	19	A	ADMD	PL		00				0		268	Europe/Warsaw	2007-09-10
+3102015	Województwo Kujawsko-Pomorskie	Wojewodztwo Kujawsko-Pomorskie	Kujavien-Pommern	53	18	A	ADMD	PL		73				2068000		78	Europe/Warsaw	2008-03-09
+3103408	Bielskie Województwo	Bielskie Wojewodztwo		49.66667	19.25	A	ADMD	PL		00				0		374	Europe/Warsaw	2007-09-10

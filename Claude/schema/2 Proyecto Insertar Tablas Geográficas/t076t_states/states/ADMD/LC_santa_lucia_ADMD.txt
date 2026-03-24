@@ -1,0 +1,2 @@
+﻿3576507	Quarter of Praslin	Quarter of Praslin	Praslin,Quarter of Praslin	13.85875	-60.92983	A	ADMD	LC		11				0		71	America/St_Lucia	2016-11-25
+3576771	Quarter of Dauphin	Quarter of Dauphin	Dauphin,Quarter of Dauphin	14.00803	-60.91215	A	ADMD	LC		02				0		115	America/St_Lucia	2016-11-25

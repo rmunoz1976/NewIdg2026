@@ -1,0 +1,161 @@
+
+Sistema Operativo	
+  Nombre del SO:	Windows 11 
+  Versión del SO:	Windows 11 Pro 10.0.26100
+  Arquitectura:	x64
+
+MySQL	
+  Versión instalada:	8.0.43 for Win64 on x86_64
+  Puerto:	3306
+  Herramienta de gestión:	MySQL Workbench
+  Conector JDBC disponible:	Si
+
+
+
+----
+
+
+REGLA: Antes de responder cualquier solicitud, revisar el archivo correspondiente a la fase en desarrollo.
+Trabajar cada fase completa (Flutter + Java + MySQL + POSTMAN) antes de pasar a la siguiente
+
+Fase 1 - Acceso a la app
+Fase 1.1 - Screen Splash
+Fase 1.2 - Screen Login
+Fase 1.3 - Screen Forgot Password
+Fase 1.4 - Screen Sign Up
+Fase 1.5 - Screen Sign In
+
+Fase 2 - Menú principal
+Fase 3 - Menú de registro de datos
+Fase 4 - Navegación de opciones
+Fase 5 - Consulta de productos
+
+El flujo principal de la aplicación de intermediary 	
+para busqueda de productos ofrecido 
+debe estar diseñado para ser un proceso intuitivo y guiado, 
+que lleva al usuario desde el descubrimiento (busqueda) de un 
+producto hasta la confirmación de su compra, y posteriormente 
+en un futuro la indicación de la trayectoria del producto (geolocalización)
+Estas serian las fases
+
+1. Búsqueda: El usuario define la busqueda de su producto.
+
+Lugar: Se ingresa el destino deseado (ciudad, región o alojamiento específico).
+Fechas: Se seleccionan las fechas de llegada y salida utilizando un calendario interactivo .
+Huéspedes: Se especifica el número de adultos, niños, bebés y mascotas que formarán parte del viaje .
+
+2. Exploración de resultados: Navegación y filtrado de los productos.
+3. Elección del producto: Detalle de las características del producto seleccionado.
+4. Validación de documentación: validar de documentos del comprador
+5. Detalles y pago: Confirmación de fechas, llegada del producto y realización del pago.
+6. Confirmación: Recepción de la compra y recibo del producto
+
+
+
+
+
+
+
+
+FASE 1 - Acceso a la app
+  Descripción general de la fase
+
+  PROCESO 1.1 - Registro de usuario nuevo
+    - Actores
+    - Flujo paso a paso
+    - Pantallas esperadas
+    - Reglas de negocio
+
+  PROCESO 1.2 - Login
+    - Actores
+    - Flujo paso a paso
+    - Pantallas esperadas
+    - Reglas de negocio
+
+FASE 2 - Menu principal
+  PROCESO 2.1 - ...
+  
+  
+---- 
+
+  
+
+INTERMEDIARY - FASES Y PROCESOS DEL PROYECTO
+=============================================
+
+FASE 1 - Acceso a la app
+  Descripcion general: (describe brevemente que cubre esta fase)
+
+  PROCESO 1.1 - (nombre del proceso)
+    - Actores: (vendedor / comprador / importador / exportador / invitado / admin)
+    - Flujo: (paso 1, paso 2, paso 3...)
+    - Pantallas: (cuales vistas o pantallas se esperan)
+    - Reglas de negocio: (condiciones, validaciones, restricciones)
+    - Observaciones: (cualquier detalle adicional)
+
+  PROCESO 1.2 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+  PROCESO 1.3 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+---------------------------------------------
+
+FASE 2 - Menu principal
+  Descripcion general:
+
+  PROCESO 2.1 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+---------------------------------------------
+
+FASE 3 - Menu de registro de datos
+  Descripcion general:
+
+  PROCESO 3.1 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+---------------------------------------------
+
+FASE 4 - Navegacion de opciones
+  Descripcion general:
+
+  PROCESO 4.1 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+---------------------------------------------
+
+FASE 5 - Consulta de productos
+  Descripcion general:
+
+  PROCESO 5.1 - (nombre del proceso)
+    - Actores:
+    - Flujo:
+    - Pantallas:
+    - Reglas de negocio:
+    - Observaciones:
+
+=============================================
+NOTAS GENERALES DEL PROYECTO:
+(cualquier regla o aclaracion que aplique a todas las fases)
+=============================================

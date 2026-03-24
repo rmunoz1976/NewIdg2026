@@ -1,0 +1,2 @@
+﻿10346887	Dromolaxiá	Dromolaxia	Dromolaxia,Dromolaxiá,Δρομολαξιά	34.88471	33.58739	A	ADM2H	CY		03	10346887			0		28	Asia/Nicosia	2021-01-09
+10346888	Meneoú	Meneou	Meneou,Meneoú,Μενεού	34.85693	33.60439	A	ADM2H	CY		03	10346888			0		8	Asia/Nicosia	2021-01-09

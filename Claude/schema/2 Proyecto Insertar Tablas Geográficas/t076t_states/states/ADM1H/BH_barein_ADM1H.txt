@@ -1,0 +1,10 @@
+﻿290064	Madīnat Ḩamad	Madinat Hamad	Madinat Hamad,Madīnat Ḩamad,madinat hamad,مَدِينَة حَمَد	26.13333	50.5	A	ADM1H	BH		14				0		18	Asia/Bahrain	2018-10-05
+290070	Al Minţaqah al Wusţá	Al Mintaqah al Wusta	Al Mintaqah al Wusta,Al Minţaqah al Wusţá,Central Region,aalmintaqat aalwustay,اَلْمِنْطَقَة اَلْوُسْطَى	26.18333	50.51667	A	ADM1H	BH		11				57878		4	Asia/Bahrain	2018-01-10
+290105	Sitrah	Sitrah	Sitra,Sitrah,sitrat,سِتْرَة	26.15	50.61667	A	ADM1H	BH		06				47076		-2	Asia/Bahrain	2018-10-05
+290112	Al Minţaqah ash Shamālīyah	Al Mintaqah ash Shamaliyah	Al Mintaqah ash Shamaliyah,Al Minţaqah ash Shamālīyah,Northern Region,aalmintaqat aalshamaliat,اَلْمِنْطَقَة اَلشَّمَالِيَّة	26.21667	50.48333	A	ADM1H	BH		10				47957		8	Asia/Bahrain	2018-10-05
+290188	Madīnat ‘Īsá	Madinat `Isa	Isa Town,Madinat `Isa,Madīnat ‘Īsá,مَدِينَة عِيسَى	26.16667	50.55	A	ADM1H	BH		12				38090		10	Asia/Bahrain	2018-10-05
+290216	Jidd Ḩafş	Jidd Hafs	Jidd Hafs,Jidd Ḩafş,Jidhafs,jid hafs,جِدّ حَفْص	26.21667	50.53333	A	ADM1H	BH		05				55301		10	Asia/Bahrain	2018-10-05
+290258	Al Minţaqah al Gharbīyah	Al Mintaqah al Gharbiyah	Al Mintaqah al Gharbiyah,Al Minţaqah al Gharbīyah,Western Region,aalmintaqat aalgharbiat,اَلْمِنْطَقَة اَلْغَرْبِيَّة	26.11667	50.48333	A	ADM1H	BH		08				27900		10	Asia/Bahrain	2018-01-10
+290314	Ar Rifā‘ wa al Minţaqah al Janūbīyah	Ar Rifa' wa al Mintaqah al Janubiyah		26.1	50.55	A	ADM1H	BH		13				0		33	Asia/Bahrain	2017-12-18
+290339	Al Manāmah	Al Manamah	Al Manamah,Al Manāmah,Manama,aalmanamat,اَلْمَنَامَة	26.21667	50.58333	A	ADM1H	BH		02				157370		8	Asia/Bahrain	2018-01-10
+7090973	Central Governorate	Central Governorate	Central Governorate,al Muhafazah Al Wusta,al Muḩāfaz̧ah Al Wusţá,almhafzt alwsty,المحافظة الوسطى	26.16667	50.56667	A	ADM1H	BH		18				0		6	Asia/Bahrain	2017-03-21

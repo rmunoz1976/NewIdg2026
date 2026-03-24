@@ -1,0 +1,3 @@
+﻿2306734	Santa Isabel	Santa Isabel	Administracion Territorial de Santa Isabel,Administración Territorial de Santa Isabel,Demarcacion de Sanda Isabel,Demarcación de Sanda Isabel,Santa Isabel	3.63333	8.75	A	ADMD	GQ		00				0		1017	Africa/Malabo	2012-01-18
+2306754	San Fernando	San Fernando		3.75678	8.79876	A	ADMD	GQ		00				0		32	Africa/Malabo	2016-08-12
+2306771	San Carlos	San Carlos	Administracion Territorial de San Carlos,Administración Territorial de San Carlos,Demarcacion de San Carlos,Demarcación de San Carlos,Distrito de San Carlos,San Carlos	3.36667	8.58333	A	ADMD	GQ		00				0		1364	Africa/Malabo	2012-01-18

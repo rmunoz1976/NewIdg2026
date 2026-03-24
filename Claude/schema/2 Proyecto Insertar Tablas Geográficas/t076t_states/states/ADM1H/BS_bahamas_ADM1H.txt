@@ -1,0 +1,9 @@
+﻿3571495	Sandy Point District	Sandy Point District	Sandy Point,Sandy Point District	26.11667	-77.36667	A	ADM1H	BS		34				0		-9999	America/Nassau	2014-09-05
+3571591	Rock Sound District	Rock Sound District	Rock Sound,Rock Sound District	24.83333	-76.33333	A	ADM1H	BS		33				0		6	America/Nassau	2014-02-08
+3571592	Rock Sound	Rock Sound	New Portsmouth,New Portsmouth Settlement,RSD,Rock Sound,Rock Sound District	24.9	-76.2	A	ADM1H	BS		52				1396		15	America/Nassau	2020-10-31
+3571912	Marsh Harbour District	Marsh Harbour District	Marsh Harbour,Marsh Harbour District	26.4	-77.16667	A	ADM1H	BS		31				0		-1	America/Nassau	2014-09-05
+3572109	Kemps Bay District	Kemps Bay District	Kemps Bay,Kemps Bay District	24	-77.66667	A	ADM1H	BS		30				1660		5	America/Nassau	2014-09-05
+3572188	High Rock District	High Rock District	High Rock,High Rock District	27	-78.2	A	ADM1H	BS		29				0		-9999	America/Nassau	2014-09-05
+3572271	Green Turtle Cay District	Green Turtle Cay District	Green Turtle Cay,Green Turtle Cay District	26.83333	-77.5	A	ADM1H	BS		28				0		-9999	America/Nassau	2014-08-20
+3572312	Governor's Harbour District (historical)	Governor's Harbour District (historical)	GHB,Governor's Harbour,Governor's Harbour District	25.25952	-76.31164	A	ADM1H	BS		27				0		34	America/Nassau	2013-12-07
+3572363	Fresh Creek District	Fresh Creek District	Fresh Creek,Fresh Creek District	24.58333	-78	A	ADM1H	BS		26				2576		1	America/Nassau	2014-08-20

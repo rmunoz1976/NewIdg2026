@@ -1,0 +1,26 @@
+﻿1665204	Yongtai Li	Yongtai Li	Yongtai Li,Yung-t'ai,Yung-t'ai Li,Yung-t’ai,Yung-t’ai Li,yong tai li,勇泰里	25.0715	121.5835	A	ADMD	TW		04	TPE			0		61	Asia/Taipei	2024-07-12
+1665299	Yugui Cun	Yugui Cun	Yu-kuei,Yu-kuei Ts'un,Yuguei Cun,Yugui Cun,Yü-kuei,Yü-kuei Ts’un,yu gui cun,玉桂村	24.9936	121.7122	A	ADMD	TW		03	TPQ			0		322	Asia/Taipei	2024-07-12
+1665332	Yueming Li	Yueming Li	Yueh-ming,Yueh-ming Li,Yueming Li,Yüeh-ming,Yüeh-ming Li,yue ming li,岳明里	24.6126	121.8591	A	ADMD	TW		04				0		6	Asia/Taipei	2024-07-12
+1665889	Wufeng Xiang	Wufeng Xiang	Wu-feng Hsiang,Wufeng Xiang	23.45	120.76667	A	ADMD	TW		04				0		1032	Asia/Taipei	2012-01-17
+1665980	Gangdi Cun	Gangdi Cun	Chiang-ti,Chiang-ti-she,Gangdi Cun,Kang-ti,Kang-ti Ts'un,Kang-ti Ts’un,Shan-t'ou-ting,Shan-t’ou-ting,Wen-te,gang di cun,港底村	23.58197	119.62097	A	ADMD	TW		04				0		20	Asia/Taipei	2024-07-12
+1666790	Cuku Cun	Cuku Cun	Cuku Cun,Ts'u-k'n Ts'un,Ts'u-k'u,Ts'u-k'u Ts'un,Ts’u-k’n Ts’un,Ts’u-k’u,Ts’u-k’u Ts’un,cu ku cun,粗窟村	24.9422	121.6907	A	ADMD	TW		03	TPQ			0		451	Asia/Taipei	2024-07-12
+1667302	Anding Cun	Anding Cun	An-ting,An-ting Ts'un,An-ting Ts’un,Anding Cun,Ting-an,Ting-an Ts'un,Ting-an Ts’un,an ding cun,安定村	23.79226	120.41433	A	ADMD	TW		04				0		24	Asia/Taipei	2024-07-12
+1669549	Shenghu Li	Shenghu Li	Sheng-hu,Sheng-hu Li,Shenghu Li,sheng hu li,聖湖里	24.6135	121.8058	A	ADMD	TW		04				0		82	Asia/Taipei	2024-07-12
+1669826	Shangfeng Cun	Shangfeng Cun	Shang-feng,Shang-feng Ts'un,Shang-feng Ts’un,Shangfeng Cun,Shangfong Cun,shang feng cun,上豐村	23.82125	120.62744	A	ADMD	TW		04				0		224	Asia/Taipei	2024-07-12
+1669999	Sanmin Xiang	Sanmin Xiang	San-min,San-min Hsiang,Sanmin Siang,Sanmin Xiang,san min xiang,三民鄉	23.26684	120.71664	A	ADMD	TW		02	KHH			0		670	Asia/Taipei	2014-10-04
+1670144	Sanzhen Cun	Sanzhen Cun	San-ch'ou,San-ch'uan Ts'un,San-chen Ts'un,San-chen Ts’un,San-chun,San-chün,San-ch’ou,San-ch’üan Ts’un,Sanjhen Cun,Sanzhen Cun,Sha-chun Ts'un,Sha-chün Ts’un,san zhen cun,三圳村	23.82926	120.49941	A	ADMD	TW		04				0		34	Asia/Taipei	2024-07-12
+1670149	Sanjiu Cun	Sanjiu Cun	San-chiu,San-chiu Ts'un,San-chiu Ts’un,San-lu Ts'un,San-lü Ts’un,Sanjiou Cun,Sanjiu Cun,san jiu cun,三鬮村	24.74256	121.71922	A	ADMD	TW		04				0		11	Asia/Taipei	2024-07-12
+1670181	Yongping Li	Yongping Li	San-chiao-pu,Yongping Li,Yung-p'ing,Yung-p'ing Li,Yung-p’ing,Yung-p’ing Li,yong ping li,永平里	25.0882	121.5101	A	ADMD	TW		04	TPE			0		11	Asia/Taipei	2024-07-12
+1671523	Nancun Li	Nancun Li	Nan-ts'un,Nan-ts'un Li,Nan-ts’un,Nan-ts’un Li,Nan-yang Li,Nancun Li,nan cun li,南村里	24.25417	120.7275	A	ADMD	TW		04				0		229	Asia/Taipei	2024-07-12
+1671560	Nancun Li	Nancun Li	Nan-ts'un,Nan-ts'un Li,Nan-ts’un,Nan-ts’un Li,Nancun Li,nan cun li,南村里	24.25722	120.73667	A	ADMD	TW		04				0		242	Asia/Taipei	2024-07-12
+1671882	Muzha Qu	Muzha Qu	Mu-cha Ch'u,Mu-cha Ch’ü,Muzha Qu	24.98333	121.56667	A	ADMD	TW		04	TPE			0		25	Asia/Taipei	2024-07-12
+1674780	Wenan Cun	Wenan Cun	Hsin-wen-an,Wen-an,Wen-an Ts'un,Wen-an Ts’un,Wenan Cun,Wunan Cun,wen an cun,文安村	22.78444	120.23361	A	ADMD	TW		02	KHH			0		2	Asia/Taipei	2024-07-12
+1674850	Xinsheng Cun	Xinsheng Cun	Hsin-sheng,Hsin-sheng Ts'un,Hsin-sheng Ts’un,Sinsheng Cun,Xinsheng Cun,xin sheng cun,新生村	23.98306	120.38222	A	ADMD	TW		04				0		9	Asia/Taipei	2024-07-12
+1674853	Xinsheng Li	Xinsheng Li	Hsin-sheng,Hsin-sheng Li,Hsin-sheng Ts'un,Hsin-sheng Ts’un,Sinsheng Li,Xinsheng Li,xin sheng li,新生里	23.244	120.19409	A	ADMD	TW		04				0		6	Asia/Taipei	2024-07-12
+1675384	Xiji Cun	Xiji Cun	Hsi-chi,Hsi-chi Ts'un,Hsi-chi Ts’un,Hsi-chi-yu,Hsi-chi-yü,Siji Cun,Xiji Cun,xi ji cun,西吉村	23.25111	119.62056	A	ADMD	TW		04				0		1	Asia/Taipei	2024-07-12
+1676635	Fenglun Cun	Fenglun Cun	Feng-lun,Feng-lun Ts'un,Feng-lun Ts’un,Fenglun Cun,Fonglun Cun,Shih-i-hao,feng lun cun,豐崙村	23.92	120.4589	A	ADMD	TW		04				0		18	Asia/Taipei	2024-07-12
+1676930	Erhang Cun	Erhang Cun	Erh-hang,Erh-hang Ts'un,Erh-hang Ts’un,Erhang Cun,er xing cun,二行村	22.91917	120.215	A	ADMD	TW		04				0		4	Asia/Taipei	2024-07-12
+1678220	Jilong Shi	Jilong Shi	Chi-lung,Chi-lung Shih,Jilong Shi,Jilong Shih,Kee Lung Municipality,Kee Lung Shih,Keelun,ji long shi,基隆市	25.13333	121.75	A	ADMD	TW		04				0		74	Asia/Taipei	2020-09-17
+1678553	Qiedong Li	Qiedong Li	Ch'ieh-tung,Ch'ieh-tung Li,Ch'ieh-tung Ts'un,Ch’ieh-tung,Ch’ieh-tung Li,Ch’ieh-tung Ts’un,Ciedong Li,Qiedong Li,jia dong li,茄苳里	24.96927	121.2723	A	ADMD	TW		04				0		109	Asia/Taipei	2024-07-13
+1678602	Qijia Cun	Qijia Cun	Ch'i-chia Ts'un,Ch’i-chia Ts’un,Cijia Cun,Qijia Cun,qi jia cun,七佳村	22.43306	120.6575	A	ADMD	TW		04				0		338	Asia/Taipei	2024-07-12
+6658269	Nanfeng Cun	Nanfeng Cun	Nan-feng,Nan-feng Ts'un,Nan-feng Ts’un,Nanfeng Cun,Nanfong Cun,nan feng cun,南峰村	22.8673	121.10034	A	ADMD	TW		04				0		246	Asia/Taipei	2024-07-12

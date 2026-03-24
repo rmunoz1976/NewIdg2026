@@ -1,0 +1,921 @@
+﻿1282900	Piuthān	Piuthan		28.25	82.83333	A	ADMD	NP		00				0		1568	Asia/Kathmandu	1993-12-28
+1282942	Pānsae	Pansae		29.33333	82.16667	A	ADMD	NP		00				0		3176	Asia/Kathmandu	1993-12-28
+1282953	Pālpa	Palpa		27.75	83.83333	A	ADMD	NP		00				0		977	Asia/Kathmandu	1993-12-28
+1282972	Nuwākot	Nuwakot		28	83.83333	A	ADMD	NP		00				0		1474	Asia/Kathmandu	1993-12-28
+10276869	Lalitpur	Lalitpur		27.67433	85.31834	A	ADMD	NP		CR				0		1328	Asia/Kathmandu	2016-10-06
+10276904	Godāwari̇̄	Godawari	Godawari,Godawari̇̄,Godawarī,Godāwari̇̄	27.59368	85.37168	A	ADMD	NP		3				0		1574	Asia/Kathmandu	2025-04-15
+10276905	Baḍi̇̄khel	Badikhel	Badikhel,Baḍi̇̄khel,Baḍīkhel	27.59219	85.34774	A	ADMD	NP		3				0		1451	Asia/Kathmandu	2025-04-15
+10276906	Chāpāgāũ	Chapagau	Chapagau,Chapagaun,Chāpāgāun,Chāpāgāũ	27.59539	85.33208	A	ADMD	NP		3				0		1478	Asia/Kathmandu	2025-04-15
+10316471	Bhadruṭār	Bhadrutar	Bhadrutar,Bhadruṭār	27.87516	85.31129	A	ADMD	NP		3				0		1068	Asia/Kathmandu	2025-04-15
+10316522	Kabilās	Kabilas	Kabilas,Kabilās	27.89754	85.29511	A	ADMD	NP		3				0		1269	Asia/Kathmandu	2025-04-15
+10316653	Okharpauwa	Okharpauwa	Okharpauwa	27.79556	85.25833	A	ADMD	NP		3				0		1370	Asia/Kathmandu	2025-04-15
+10316676	Ghyāṅphedi̇̄	Ghyanphedi	Ghyanphedi,Ghyāṅphedi̇̄,Ghyāṅphedī	28.00539	85.447	A	ADMD	NP		3				0		2243	Asia/Kathmandu	2025-04-15
+10316683	Jitpur Phedi̇̄	Jitpur Phedi	Jitpur Phedi,Jitpur Phedi̇̄,Jitpur Phedī	27.77694	85.28194	A	ADMD	NP		3				0		1409	Asia/Kathmandu	2025-04-15
+10316700	Thānsiṅ	Thansin	Thansin,Thānsiṅ	27.86694	85.26583	A	ADMD	NP		3				0		704	Asia/Kathmandu	2025-04-15
+10316713	Thānāpati̇̄	Thanapati	Thanapati,Thānāpati̇̄,Thānāpatī	27.84083	85.29389	A	ADMD	NP		3				0		1179	Asia/Kathmandu	2025-04-15
+10316722	Thaprek	Thaprek	Thaprek	27.90606	85.34383	A	ADMD	NP		3				0		1399	Asia/Kathmandu	2025-04-15
+10316742	Dharmasthali̇̄	Dharmasthali	Dharmasthali,Dharmasthali̇̄,Dharmasthalī	27.76194	85.30056	A	ADMD	NP		3				0		1329	Asia/Kathmandu	2025-04-15
+10316743	Goldhuṅgā	Goldhunga	Goldhunga,Goldhuṅgā	27.76361	85.28278	A	ADMD	NP		3				0		1358	Asia/Kathmandu	2025-04-15
+10316744	Mana Maiju	Mana Maiju	Mana Maiju	27.75722	85.30889	A	ADMD	NP		3				0		1365	Asia/Kathmandu	2025-04-15
+10316747	Phuṭuṅ	Phutun	Phutun,Phuṭuṅ	27.76667	85.31306	A	ADMD	NP		3				0		1362	Asia/Kathmandu	2025-04-15
+10316748	Kābhresthali̇̄	Kabhresthali	Kabhresthali,Kābhresthali̇̄,Kābhresthalī	27.78722	85.30056	A	ADMD	NP		3				0		1439	Asia/Kathmandu	2025-04-15
+10316759	Dāman	Daman	Daman,Dāman	27.60623	85.12454	A	ADMD	NP		CR	11			0		2043	Asia/Kathmandu	2026-02-10
+10316761	Bhadruṭār	Bhadrutar		27.8675	85.31194	A	ADMD	NP		00				0		831	Asia/Kathmandu	2015-06-10
+10316762	Sunkhāni̇̄	Sunkhani	Sunkhani,Sunkhāni̇̄,Sunkhānī	27.84111	85.32083	A	ADMD	NP		3				0		1066	Asia/Kathmandu	2025-04-15
+10316766	Kharāni̇̄ṭār	Kharanitar	Kharanitar,Kharāni̇̄ṭār,Kharānīṭār	27.92605	85.31014	A	ADMD	NP		3				0		848	Asia/Kathmandu	2025-04-15
+10316768	Sundarādevi̇̄	Sundaradevi	Sundaradevi,Sundarādevi̇̄,Sundarādevī	27.93692	85.36267	A	ADMD	NP		3				0		1534	Asia/Kathmandu	2025-04-15
+10316771	Narjāmaṇḍap	Narjamandap	Narjamandap,Narjāmaṇḍap	27.93476	85.28939	A	ADMD	NP		3				0		1199	Asia/Kathmandu	2025-04-15
+10316774	Gongabu	Gongabu	Gongabu	27.75674	85.31952	A	ADMD	NP		3				0		1330	Asia/Kathmandu	2025-04-15
+10316775	Tokha Saraswati̇̄	Tokha Saraswati	Tokha Saraswati,Tokha Saraswati̇̄,Tokha Saraswatī	27.76218	85.32761	A	ADMD	NP		3				0		1362	Asia/Kathmandu	2025-04-15
+10316776	Ṭokhā Chaṇḍeshwari̇̄	Tokha Chandeshwari	Tokha Chandeshwari,Ṭokhā Chaṇḍeshwari̇̄,Ṭokhā Chaṇḍeshwarī	27.77892	85.32975	A	ADMD	NP		3				0		1372	Asia/Kathmandu	2025-04-15
+10316777	Gaṇeshsthān	Ganeshsthan	Ganeshsthan,Gaṇeshsthān	27.91626	85.25267	A	ADMD	NP		3				0		602	Asia/Kathmandu	2025-04-15
+10316781	Ṭimbulghyāṅ	Timbulghyan	Timbulghyan,Ṭimbulghyāṅ	27.99	85.49472	A	ADMD	NP		3				0		2993	Asia/Kathmandu	2025-04-15
+10316787	Chitlān	Chitlan	Chitlan,Chitlān	27.62165	85.16582	A	ADMD	NP		CR	11			0		1715	Asia/Kathmandu	2026-02-10
+10316789	Jhor	Jhor	Jhor	27.80253	85.32852	A	ADMD	NP		3				0		1547	Asia/Kathmandu	2025-04-15
+10316790	Dhāpāsi̇̄	Dhapasi	Dhapasi,Dhāpāsi̇̄,Dhāpāsī	27.75167	85.32886	A	ADMD	NP		3				0		1352	Asia/Kathmandu	2025-04-15
+10316791	Khaḍkā Bhadrakāli̇̄	Khadka Bhadrakali	Khadka Bhadrakali,Khaḍkā Bhadrakāli̇̄,Khaḍkā Bhadrakālī	27.75971	85.34244	A	ADMD	NP		3				0		1375	Asia/Kathmandu	2025-04-15
+10316794	Mahāṅkāl	Mahankal	Mahankal,Mahāṅkāl	27.75917	85.35685	A	ADMD	NP		3				0		1375	Asia/Kathmandu	2025-04-15
+10316795	Chunikhel	Chunikhel	Chunikhel	27.75779	85.36788	A	ADMD	NP		3				0		1382	Asia/Kathmandu	2025-04-15
+10316803	Ṭalku Ḍūḍechaur	Talku Dudechaur	Talku Dudechaur,Ṭalku Ḍūḍechaur	27.62318	85.24274	A	ADMD	NP		3	01			0		1949	Asia/Kathmandu	2025-04-15
+10316806	Phākhelchaur	Phakhelchaur	Phakhelchaur,Phākhelchaur	27.60367	85.22151	A	ADMD	NP		00				0		2003	Asia/Kathmandu	2026-02-10
+10316812	Bishnu Buḍhānilkaṇtha	Bishnu Budhanilkantha	Bishnu Budhanilkantha,Bishnu Buḍhānilkaṇtha	27.79366	85.35955	A	ADMD	NP		3				0		1856	Asia/Kathmandu	2025-04-15
+10316815	Sikre	Sikre	Sikre	27.83542	85.37512	A	ADMD	NP		3				0		1485	Asia/Kathmandu	2025-04-15
+10316817	Shikharbesi̇̄	Shikharbesi	Shikharbesi,Shikharbesi̇̄,Shikharbesī	27.98227	85.38803	A	ADMD	NP		3				0		2364	Asia/Kathmandu	2025-04-15
+10316823	Mahā̃ṅkāl	Mahankal	Mahakali,Mahankal,Mahākāli̇̄,Mahākālī,Mahā̃ṅkāl	27.87036	85.36893	A	ADMD	NP		3				0		1178	Asia/Kathmandu	2025-04-15
+10316831	Samundrā Devi̇̄	Samundra Devi	Samundra Devi,Samundrā Devi̇̄,Samundrā Devī	27.83411	85.34298	A	ADMD	NP		3				0		1070	Asia/Kathmandu	2025-04-15
+10316832	Lāmāṭār	Lamatar	Lamatar,Lāmāṭār	27.62906	85.39324	A	ADMD	NP		3				0		1431	Asia/Kathmandu	2025-04-15
+10316833	Lāmātār	Lamatar		27.62901	85.39361	A	ADMD	NP		00				0		1431	Asia/Kathmandu	2015-06-10
+10316840	Guṇdu	Gundu	Gundu,Guṇdu	27.64289	85.41984	A	ADMD	NP		3				0		1560	Asia/Kathmandu	2025-04-15
+10316841	Ryāle Bebar	Ryale Bebar	Ryale Bebar,Ryāle Bebar	27.62852	85.44907	A	ADMD	NP		3				0		1981	Asia/Kathmandu	2025-04-15
+10316842	Nāsikāsthān Sā̃gā	Nasikasthan Saga	Nasikasthan Saga,Nasikasthan Sanga,Nāsikāsthān Sāngā,Nāsikāsthān Sā̃gā	27.63139	85.47728	A	ADMD	NP		3				0		1672	Asia/Kathmandu	2025-04-15
+10316843	Mahendra Jyoti̇̄ Bāñdoi	Mahendra Jyoti Bandoi	Mahendra Jyoti Bandoi,Mahendra Jyoti̇̄ Bāñdoi,Mahendra Jyotī Bāñdoi	27.62601	85.4931	A	ADMD	NP		3				0		1541	Asia/Kathmandu	2025-04-15
+10316844	Tukucha Nālā	Tukucha Nala	Tukucha Nala,Tukucha Nālā	27.65666	85.49468	A	ADMD	NP		3				0		1554	Asia/Kathmandu	2025-04-15
+10316845	Suḍāl	Sudal	Sudal,Suḍāl	27.68084	85.47446	A	ADMD	NP		3				0		1395	Asia/Kathmandu	2025-04-15
+10316846	Bāgeshwari̇̄	Bageshwari	Bageshwari,Bāgeshwari̇̄,Bāgeshwarī	27.69521	85.48415	A	ADMD	NP		3				0		1556	Asia/Kathmandu	2025-04-15
+10316847	Nagarkoṭ	Nagarkot	Nagarkot,Nagarkoṭ	27.71515	85.48513	A	ADMD	NP		3				0		1542	Asia/Kathmandu	2025-04-15
+10316848	Sānkhusunṭol	Sankhusuntol	Sankhusuntol,Sānkhusunṭol	27.72484	85.47761	A	ADMD	NP		3				0		1467	Asia/Kathmandu	2025-04-15
+10316849	Lapsephedi̇̄	Lapsephedi	Lapsephedi,Lapsephedi̇̄,Lapsephedī	27.76208	85.49138	A	ADMD	NP		3				0		1780	Asia/Kathmandu	2025-04-15
+10316850	Sā̃khubajrayogini̇̄	Sakhubajrayogini	Sakhubajrayogini,Sankhubajrayogini,Sānkhubajrayoginī,Sā̃khubajrayogini̇̄	27.73864	85.46029	A	ADMD	NP		3				0		1514	Asia/Kathmandu	2025-04-15
+10316851	Sā̃khu Pukhulāchhi̇̄	Sakhu Pukhulachhi	Sakhu Pukhulachhi,Sankhu Pukhulachhi,Sānkhu Pukhulāchhī,Sā̃khu Pukhulāchhi̇̄	27.73048	85.45746	A	ADMD	NP		3				0		1374	Asia/Kathmandu	2025-04-15
+10316852	Nankhel	Nankhel	Nankhel	27.63981	85.45748	A	ADMD	NP		3				0		1597	Asia/Kathmandu	2025-04-15
+10316853	Chitāpol	Chitapol	Chitapol,Chitāpol	27.65078	85.47361	A	ADMD	NP		3				0		1397	Asia/Kathmandu	2025-04-15
+10316854	Tāthali̇̄	Tathali	Tathali,Tāthali̇̄,Tāthalī	27.66611	85.46516	A	ADMD	NP		3				0		1372	Asia/Kathmandu	2025-04-15
+10316855	Sipāḍol	Sipadol	Sipadol,Sipāḍol	27.64688	85.43645	A	ADMD	NP		3				0		1453	Asia/Kathmandu	2025-04-15
+10316856	Jhaukhel	Jhaukhel	Jhaukhel	27.69342	85.42844	A	ADMD	NP		3				0		1375	Asia/Kathmandu	2025-04-15
+10316857	Chā̃gunārāyaṇ	Chagunarayan	Chagunarayan,Changunarayan,Chāngunārāyaṇ,Chā̃gunārāyaṇ	27.71484	85.43121	A	ADMD	NP		3				0		1451	Asia/Kathmandu	2025-04-15
+10316858	Indrāyaṇi	Indrayani	Indrayani,Indrāyaṇi	27.73563	85.44001	A	ADMD	NP		3				0		1369	Asia/Kathmandu	2025-04-15
+10316859	Gāgalphedi̇̄	Gagalphedi	Gagalphedi,Gāgalphedi̇̄,Gāgalphedī	27.7406	85.43374	A	ADMD	NP		3				0		1366	Asia/Kathmandu	2025-04-15
+10316860	Ālāpoṭ	Alapot	Alapot,Ālāpoṭ	27.74381	85.42722	A	ADMD	NP		3				0		1375	Asia/Kathmandu	2025-04-15
+10316861	Bhadrabās	Bhadrabas	Bhadrabas,Bhadrabās	27.73769	85.42248	A	ADMD	NP		3				0		1373	Asia/Kathmandu	2025-04-15
+10316862	Nayā̃pāṭi̇̄	Nayapati	Nayanpati,Nayapati,Nayānpāṭī,Nayā̃pāṭi̇̄	27.74436	85.41191	A	ADMD	NP		3				0		1344	Asia/Kathmandu	2025-04-15
+10316863	Gokarṇeshwar	Gokarneshwar	Gokarneshwar,Gokarṇeshwar	27.74609	85.38775	A	ADMD	NP		3				0		1352	Asia/Kathmandu	2025-04-15
+10316864	Lorpāti̇̄	Lorpati	Lorpati,Lorpāti̇̄,Lorpātī	27.72789	85.38714	A	ADMD	NP		3				0		1368	Asia/Kathmandu	2025-04-15
+10316865	Kapan	Kapan	Kapan	27.74322	85.37516	A	ADMD	NP		3				0		1417	Asia/Kathmandu	2025-04-15
+10316866	Mūlpāni̇̄	Mulpani	Mulpani,Mūlpāni̇̄,Mūlpānī	27.70987	85.39765	A	ADMD	NP		3				0		1325	Asia/Kathmandu	2025-04-15
+10316867	Goṭhāṭār	Gothatar	Gothatar,Goṭhāṭār	27.70429	85.37739	A	ADMD	NP		3				0		1344	Asia/Kathmandu	2025-04-15
+10316868	Madhyapur Ṭhimi̇̄	Madhyapur Thimi	Madhyapur Thimi,Madhyapur Ṭhimi̇̄,Madhyapur Ṭhimī	27.68418	85.39057	A	ADMD	NP		3				0		1336	Asia/Kathmandu	2025-04-15
+10316869	Bālkoṭ	Balkot	Balkot,Bālkoṭ	27.66417	85.37998	A	ADMD	NP		3				0		1326	Asia/Kathmandu	2025-04-15
+10316870	Siruṭār	Sirutar	Sirutar,Siruṭār	27.65213	85.38274	A	ADMD	NP		3				0		1329	Asia/Kathmandu	2025-04-15
+10316871	Dadhi̇̄koṭ	Dadhikot	Dadhikot,Dadhi̇̄koṭ,Dadhīkoṭ	27.64979	85.39589	A	ADMD	NP		3				0		1365	Asia/Kathmandu	2025-04-15
+10316872	Kaṭunje	Katunje	Katunje,Kaṭunje	27.66576	85.40882	A	ADMD	NP		3				0		1336	Asia/Kathmandu	2025-04-15
+10316873	Chhāliṅ	Chhalin	Chhalin,Chhāliṅ	27.70569	85.45365	A	ADMD	NP		3				0		1485	Asia/Kathmandu	2025-04-15
+10316952	Gāunkharka	Gaunkharka	Gaunkharka,Gāunkharka	27.94169	85.4539	A	ADMD	NP		3				0		2043	Asia/Kathmandu	2025-04-15
+10316958	Ṭupek Chunikhel	Tupek Chunikhel	Tupek Chunikhel,Ṭupek Chunikhel	27.75609	85.37768	A	ADMD	NP		3				0		1413	Asia/Kathmandu	2025-04-15
+10316966	Chapali̇̄ Bhadrakāli̇̄	Chapali Bhadrakali	Chapali Bhadrakali,Chapali̇̄ Bhadrakāli̇̄,Chapalī Bhadrakālī	27.79092	85.38059	A	ADMD	NP		00				0		2028	Asia/Kathmandu	2015-06-10
+10316986	Īchok	Ichok	Ichok,Īchok	27.92848	85.50968	A	ADMD	NP		3				0		1615	Asia/Kathmandu	2025-04-15
+10316987	Sikre	Sikre		27.83646	85.38172	A	ADMD	NP		00				0		1672	Asia/Kathmandu	2015-06-10
+10316989	Mahākāli̇̄	Mahakali	Mahakali,Mahākāli̇̄,Mahākālī	27.86864	85.38031	A	ADMD	NP		00				0		1216	Asia/Kathmandu	2015-06-10
+10316990	Mārkhu	Markhu	Markhu,Mārkhu	27.59637	85.13965	A	ADMD	NP		00				0		1816	Asia/Kathmandu	2026-02-10
+10316991	Chhaimale	Chhaimale	Chhaimale	27.58682	85.2459	A	ADMD	NP		3				0		1776	Asia/Kathmandu	2025-04-15
+10316999	Bāluwā	Baluwa	Baluwa,Bāluwā	27.76011	85.38858	A	ADMD	NP		3				0		1397	Asia/Kathmandu	2025-04-15
+10317009	Chhāp	Chhap	Chhap,Chhāp	27.83892	85.40778	A	ADMD	NP		3				0		1412	Asia/Kathmandu	2025-04-15
+10317028	Likhu	Likhu	Likhu	27.86368	85.40604	A	ADMD	NP		3				0		1238	Asia/Kathmandu	2025-04-15
+10317047	Sisneri̇̄	Sisneri	Sisneri,Sisneri̇̄,Sisnerī	27.56639	85.2187	A	ADMD	NP		00				0		1287	Asia/Kathmandu	2015-06-10
+10317087	Sundari̇̄jal	Sundarijal	Sundarijal,Sundari̇̄jal,Sundarījal	27.78744	85.43081	A	ADMD	NP		3				0		1984	Asia/Kathmandu	2025-04-15
+10317171	Rāutbesi̇̄	Rautbesi	Rautbesi,Rāutbesi̇̄,Rāutbesī	27.92685	85.42691	A	ADMD	NP		3				0		1554	Asia/Kathmandu	2025-04-15
+10317193	Ghusel	Ghusel	Ghusel	27.54027	85.24352	A	ADMD	NP		3				0		1547	Asia/Kathmandu	2025-04-15
+10317217	Nayāpāṭi̇̄	Nayapati	Nayapati,Nayāpāṭi̇̄,Nayāpāṭī	27.75497	85.4065	A	ADMD	NP		3				0		1385	Asia/Kathmandu	2025-04-15
+10317219	Gāgalphedi̇̄	Gagalphedi	Gagalphedi,Gāgalphedi̇̄,Gāgalphedī	27.76286	85.4501	A	ADMD	NP		3				0		1750	Asia/Kathmandu	2025-04-15
+10317222	Lapsephedi̇̄	Lapsephedi	Lapsephedi,Lapsephedi̇̄,Lapsephedī	27.76629	85.48204	A	ADMD	NP		00				0		1817	Asia/Kathmandu	2015-06-10
+10317229	Bhoṭechaur	Bhotechaur	Bhote Chaur,Bhotechaur,Bhoṭe Chaur,Bhoṭechaur	27.7976	85.49887	A	ADMD	NP		3				0		1370	Asia/Kathmandu	2025-04-15
+10317232	Kogaṭe	Kogate	Kogate,Kogaṭe	27.54053	85.18892	A	ADMD	NP		00				0		2108	Asia/Kathmandu	2026-02-10
+10317235	Mahāṅkāl	Mahankal	Mahankal,Mahannkal,Mahānnkal,Mahāṅkāl,Manhankal,Mānhāṅkāl	27.87807	85.50329	A	ADMD	NP		3				0		1769	Asia/Kathmandu	2025-04-15
+10317239	Samundraṭār	Samundratar	Samundratar,Samundraṭār	27.93906	85.38211	A	ADMD	NP		3				0		1218	Asia/Kathmandu	2025-04-15
+10317241	Thakani̇̄	Thakani	Thakani,Thakani̇̄,Thakanī	27.84821	85.47676	A	ADMD	NP		3				0		1714	Asia/Kathmandu	2025-04-15
+10317244	Bālkumāri̇̄	Balkumari	Balkumari,Bālkumāri̇̄,Bālkumārī	27.90548	85.39501	A	ADMD	NP		3				0		1426	Asia/Kathmandu	2025-04-15
+10317246	Nibuwāṭār	Nibuwatar	Nibuwatar,Nibuwāṭār	27.51934	85.12641	A	ADMD	NP		00				0		1626	Asia/Kathmandu	2026-02-10
+10317248	Haibuṅ	Haibun	Haibun,Haibuṅ	27.81816	85.47222	A	ADMD	NP		3				0		1514	Asia/Kathmandu	2025-04-15
+10317271	Talākhu	Talakhu	Talakhu,Talākhu	27.85124	85.44058	A	ADMD	NP		3				0		1412	Asia/Kathmandu	2025-04-15
+10317272	Buḍhi̇̄chaur	Budhichaur	Budhichaur,Buḍhichaur,Buḍhi̇̄chaur,Buḍhīchaur	27.50522	85.14458	A	ADMD	NP		00				0		1851	Asia/Kathmandu	2026-02-10
+10317279	Mahāṅkāl	Mahankal	Mahankal,Mahāṅkāl	27.89188	85.4875	A	ADMD	NP		00				0		1838	Asia/Kathmandu	2015-06-10
+10317299	Thakani̇̄	Thakani	Thakani,Thakani̇̄,Thakanī	27.87719	85.47696	A	ADMD	NP		00				0		2050	Asia/Kathmandu	2015-06-10
+10317303	Ipā Pañchakanyā	Ipa Panchakanya	Ipa Panchakanya,Ipā Pañchakanyā,Īpā Panchakanyā	27.51367	85.21065	A	ADMD	NP		00				0		1185	Asia/Kathmandu	2026-02-10
+10317305	Betini̇̄	Betini	Betini,Betini̇̄,Betinī	27.90066	85.44022	A	ADMD	NP		3				0		1817	Asia/Kathmandu	2025-04-15
+10317327	Talākhu	Talakhu	Talakhu,Talākhu	27.87879	85.44545	A	ADMD	NP		00				0		2274	Asia/Kathmandu	2015-06-10
+10317329	Mahākāli̇̄	Mahakali	Mahakali,Mahākāli̇̄,Mahākālī	27.88181	85.38715	A	ADMD	NP		00				0		1507	Asia/Kathmandu	2015-06-10
+10317337	Likhu	Likhu	Likhu	27.87787	85.41452	A	ADMD	NP		00				0		1747	Asia/Kathmandu	2015-06-10
+10317356	Mālṭā	Malta	Malta,Mālṭā	27.50743	85.24667	A	ADMD	NP		3				0		1037	Asia/Kathmandu	2025-04-15
+10317531	Lāmābagar	Lamabagar	Lamabagar,Lāmābagar	28.05393	86.14765	A	ADMD	NP		3				0		4408	Asia/Kathmandu	2025-04-15
+10317699	Bhorle	Bhorle	Bhorle	28.00012	85.25012	A	ADMD	NP		3				0		1450	Asia/Kathmandu	2025-04-15
+10317702	Sharamthali̇̄	Sharamthali	Sharamthali,Sharamthali̇̄,Sharamthalī	28.00901	85.28281	A	ADMD	NP		3				0		1465	Asia/Kathmandu	2025-04-15
+10317834	Hāku	Haku	Haku,Hāku	28.11093	85.23324	A	ADMD	NP		3				0		2354	Asia/Kathmandu	2025-04-15
+10317898	Gatlāṅ	Gatlan	Gatlan,Gatlāṅ	28.19234	85.22352	A	ADMD	NP		3				0		3636	Asia/Kathmandu	2025-04-15
+10317923	Chilime	Chilime	Chilime	28.22406	85.27131	A	ADMD	NP		3				0		2555	Asia/Kathmandu	2025-04-15
+10317988	Goljuṅ	Goljun	Goljun,Goljuṅ	28.17438	85.31184	A	ADMD	NP		3				0		1922	Asia/Kathmandu	2025-04-15
+10317991	Dhunche	Dhunche	Dhunche	28.08961	85.30541	A	ADMD	NP		3				0		2771	Asia/Kathmandu	2025-04-15
+10317998	Yārsā	Yarsa	Yarsa,Yarsā,Yārsā	28.04068	85.32719	A	ADMD	NP		3				0		2281	Asia/Kathmandu	2025-04-15
+10318006	Urleni̇̄	Urleni	Urleni,Urleni̇̄,Urlenī	27.98931	85.34783	A	ADMD	NP		3				0		2150	Asia/Kathmandu	2025-04-15
+10318012	Chhekampār	Chhekampar	Chhekampar,Chhekampār	28.47291	85.0839	A	ADMD	NP		00				0		4415	Asia/Kathmandu	2015-06-10
+10318021	Keraunja	Keraunja	Keraunja	28.39083	85.06363	A	ADMD	NP		00				0		5886	Asia/Kathmandu	2015-06-10
+10318026	Thuman	Thuman	Thuman	28.22863	85.34102	A	ADMD	NP		3				0		2767	Asia/Kathmandu	2025-04-15
+10318031	Briddhim	Briddhim	Briddhim	28.18873	85.38189	A	ADMD	NP		3				0		3360	Asia/Kathmandu	2025-04-15
+10318035	Syāphru	Syaphru	Syaphru,Syāphru	28.12316	85.39182	A	ADMD	NP		3				0		3440	Asia/Kathmandu	2025-04-15
+10318054	Golche	Golche	Golche	28.00012	85.75489	A	ADMD	NP		3				0		3158	Asia/Kathmandu	2025-04-15
+10318067	Gatlāṅ	Gatlan	Gatlan,Gatlāṅ	28.29933	85.18985	A	ADMD	NP		00				0		4769	Asia/Kathmandu	2015-06-10
+10318074	Ghyāṅphedi̇̄	Ghyanphedi	Ghyanphedi,Ghyāṅphedi̇̄,Ghyāṅphedī	28.04541	85.43175	A	ADMD	NP		00				0		3722	Asia/Kathmandu	2015-06-10
+10318076	Shikharbesi̇̄	Shikharbesi	Shikharbesi,Shikharbesi̇̄,Shikharbesī	28.01878	85.39082	A	ADMD	NP		00				0		3352	Asia/Kathmandu	2015-06-10
+10318077	Timure	Timure	Timure	28.24188	85.42508	A	ADMD	NP		3				0		4065	Asia/Kathmandu	2025-04-15
+10318089	Sertuṅ	Sertun	Sertun,Sertuṅ	28.22139	85.09052	A	ADMD	NP		00				0		2993	Asia/Kathmandu	2015-07-05
+10318093	Lāpā	Lapa	Lapa,Lāpā	28.23859	85.0374	A	ADMD	NP		00				0		3380	Asia/Kathmandu	2015-07-05
+10318098	Tipliṅ	Tiplin	Tiplin,Tipliṅ	28.22827	85.15705	A	ADMD	NP		00				0		3637	Asia/Kathmandu	2015-07-05
+10318099	Chilime	Chilime	Chilime	28.25787	85.22835	A	ADMD	NP		00				0		4427	Asia/Kathmandu	2015-06-10
+10318141	Helambu	Helambu	Helambu	28.0476	85.5255	A	ADMD	NP		3				0		3096	Asia/Kathmandu	2025-04-15
+10318150	Lāṅṭāṅ	Lantan	Lantan,Lāṅṭāṅ	28.17582	85.46998	A	ADMD	NP		3				0		4652	Asia/Kathmandu	2025-04-15
+10318275	Lāpā	Lapa		28.1982	85.02261	A	ADMD	NP		00				0		2236	Asia/Kathmandu	2015-06-10
+10318276	Jhārlāṅ	Jharlan	Jharlan,Jhārlāṅ	28.09999	85.06058	A	ADMD	NP		00				0		2206	Asia/Kathmandu	2026-01-19
+10318277	Dārkhā	Darkha	Darkha,Dārkhā	28.06235	85.00407	A	ADMD	NP		00				0		1674	Asia/Kathmandu	2026-01-19
+10318279	Barsunchet	Barsunchet	Barsunchet	28.02188	85.00218	A	ADMD	NP		3				0		1032	Asia/Kathmandu	2025-04-15
+10318280	Kimtāṅ	Kimtan	Kimtan,Kimtāṅ	28.03003	85.05026	A	ADMD	NP		3				0		1886	Asia/Kathmandu	2025-04-15
+10318281	Satyadevi̇̄	Satyadevi	Satyadevi,Satyadevi̇̄,Satyadevī	28.0409	85.0168	A	ADMD	NP		00				0		1497	Asia/Kathmandu	2015-07-05
+10318282	Buṅtāṅ	Buntan	Buntan,Buṅtāṅ	28.00012	85.09386	A	ADMD	NP		3				0		2019	Asia/Kathmandu	2025-04-15
+10318283	Salme	Salme	Salme	28.0441	85.09051	A	ADMD	NP		3				0		2109	Asia/Kathmandu	2025-04-15
+10318284	Bhālche	Bhalche	Bhalche,Bhālche	28.05431	85.12636	A	ADMD	NP		3				0		2722	Asia/Kathmandu	2025-04-15
+10318285	Manakamanā	Manakamana	Manakamana,Manakamanā	28.00304	85.17762	A	ADMD	NP		3				0		1022	Asia/Kathmandu	2025-04-15
+10318286	Thulogāũ	Thulogau	Thulogau,Thulogaun,Thulogāun,Thulogāũ	28.03383	85.15401	A	ADMD	NP		3				0		2057	Asia/Kathmandu	2025-04-15
+10318300	Phikuri̇̄	Phikuri	Phikuri,Phikuri̇̄,Phikurī	28.01656	85.15238	A	ADMD	NP		3				0		1782	Asia/Kathmandu	2025-04-15
+10318301	Laharpauwā	Laharpauwa	Laharpauwa,Laharpauwā	28.01927	85.20029	A	ADMD	NP		3				0		1436	Asia/Kathmandu	2025-04-15
+10318308	Dhalbuṅ	Dhalbun	Dhalbun,Dhalbuṅ	28.01226	85.22674	A	ADMD	NP		3				0		2324	Asia/Kathmandu	2025-04-15
+10318309	Bhorle	Bhorle		28.01596	85.2394	A	ADMD	NP		00				0		2302	Asia/Kathmandu	2015-06-10
+10318310	Yarsā	Yarsa		28.0366	85.24293	A	ADMD	NP		00				0		2804	Asia/Kathmandu	2015-06-10
+10318312	Rāmche	Ramche	Ramche,Rāmche	28.05007	85.22375	A	ADMD	NP		3				0		1890	Asia/Kathmandu	2025-04-15
+10318313	Dhunche	Dhunche		28.08478	85.23967	A	ADMD	NP		00				0		1637	Asia/Kathmandu	2015-06-10
+10318314	Hāku	Haku		28.11629	85.22636	A	ADMD	NP		00				0		2868	Asia/Kathmandu	2015-06-10
+10318316	Ḍā̃ḍāgāũ	Dadagau	Dadagau,Dandagaun,Ḍānḍāgāun,Ḍā̃ḍāgāũ	28.10233	85.17802	A	ADMD	NP		3				0		2387	Asia/Kathmandu	2025-04-15
+10318485	Tipliṅ	Tiplin		28.19755	85.1432	A	ADMD	NP		00				0		3297	Asia/Kathmandu	2015-06-10
+10318488	Sertuṅ	Sertun		28.17147	85.086	A	ADMD	NP		00				0		2147	Asia/Kathmandu	2015-06-10
+10318489	Chilime	Chilime		28.23041	85.23038	A	ADMD	NP		00				0		4217	Asia/Kathmandu	2015-06-10
+10318491	Gatlāṅ	Gatlan		28.1951	85.22516	A	ADMD	NP		00				0		3588	Asia/Kathmandu	2015-06-10
+10318838	Jaubāri̇̄	Jaubari	Jaubari,Jaubāri̇̄,Jaubārī	28.1186	84.62512	A	ADMD	NP		00				0		1105	Asia/Kathmandu	2015-07-05
+10318842	Kerābāri̇̄	Kerabari	Kerabari,Kerābāri̇̄,Kerābārī	28.13977	84.60515	A	ADMD	NP		00				0		1244	Asia/Kathmandu	2015-07-05
+10318854	Hamsapur	Hamsapur		28.17034	84.641	A	ADMD	NP		00				0		1437	Asia/Kathmandu	2015-06-10
+10319279	Īchok	Ichok		27.92499	85.52144	A	ADMD	NP		00				0		1426	Asia/Kathmandu	2015-06-10
+10319280	Mahānnkal	Mahannkal	Mahannkal,Mahānnkal	27.87905	85.51854	A	ADMD	NP		00				0		1572	Asia/Kathmandu	2015-06-10
+10319490	Helambu	Helambu		27.98354	85.54728	A	ADMD	NP		00				0		2133	Asia/Kathmandu	2015-06-10
+10321038	Pālchok	Palchok	Palchok,Pālchok	27.8923	85.55524	A	ADMD	NP		3				0		1396	Asia/Kathmandu	2025-04-15
+10321104	Baruwā	Baruwa	Baruwa,Baruwā	28.03722	85.59274	A	ADMD	NP		3				0		2422	Asia/Kathmandu	2025-04-15
+10321120	Helambu	Helambu		28.07908	85.52103	A	ADMD	NP		00				0		4074	Asia/Kathmandu	2015-06-10
+10321121	Baruwā	Baruwa		28.07868	85.60244	A	ADMD	NP		00				0		3568	Asia/Kathmandu	2015-06-10
+10321129	Kiul	Kiul	Kiul	27.92596	85.57941	A	ADMD	NP		3				0		1951	Asia/Kathmandu	2025-04-15
+10321138	Bhotāṅ	Bhotan	Bhotan,Bhotāṅ	28.03922	85.66881	A	ADMD	NP		3				0		3380	Asia/Kathmandu	2025-04-15
+10321149	Dubā Chaur	Duba Chaur	Duba Chaur,Dubachaur,Dubā Chaur,Dubāchaur	27.87008	85.57505	A	ADMD	NP		3				0		1409	Asia/Kathmandu	2025-04-15
+10321163	Bāskharka	Baskharka	Baskharka,Bāskharka	27.91022	85.59917	A	ADMD	NP		3				0		1722	Asia/Kathmandu	2025-04-15
+10321174	Baruwā	Baruwa		27.9619	85.63022	A	ADMD	NP		00				0		1694	Asia/Kathmandu	2015-06-10
+10321176	Thāṅpālkoṭ	Thanpalkot	Thanpalkot,Thāṅpālkoṭ	27.94621	85.68103	A	ADMD	NP		3				0		2405	Asia/Kathmandu	2025-04-15
+10321221	Parsel	Parsel	Parsel	27.51195	85.77499	A	ADMD	NP		3				0		1085	Asia/Kathmandu	2025-04-15
+10321255	Tātopāni̇̄	Tatopani	Tatopani,Tātopāni̇̄,Tātopānī	27.96221	85.92386	A	ADMD	NP		3				0		3196	Asia/Kathmandu	2025-04-15
+10321278	Bolḍe Phechhe	Bolde Phechhe	Bolde Phechhe,Bolḍe Phechhe	27.53713	85.75853	A	ADMD	NP		3				0		1003	Asia/Kathmandu	2025-04-15
+10321317	Gumbā	Gumba	Gumba,Gumbā	28.00012	85.82934	A	ADMD	NP		3				0		2502	Asia/Kathmandu	2025-04-15
+10321328	Lapse Phedi̇̄	Lapse Phedi	Lapse Phedi,Lapse Phedi̇̄,Lapse Phedī	27.77127	85.50488	A	ADMD	NP		00				0		1659	Asia/Kathmandu	2015-06-10
+10321334	Bhoṭe Chaur	Bhote Chaur	Bhote Chaur,Bhoṭe Chaur	27.80157	85.51318	A	ADMD	NP		00				0		1249	Asia/Kathmandu	2015-06-10
+10321349	Gunsākoṭ	Gunsakot	Gunsakot,Gunsākoṭ	27.91998	85.68748	A	ADMD	NP		3				0		2572	Asia/Kathmandu	2025-04-15
+10321359	Thakani̇̄	Thakani	Thakani,Thakani̇̄,Thakanī	27.83516	85.50105	A	ADMD	NP		00				0		1878	Asia/Kathmandu	2015-06-10
+10321365	Thāṅpāl Dhāp	Thanpal Dhap	Thanpal Dhap,Thāṅpāl Dhāp	27.90525	85.64608	A	ADMD	NP		3				0		1572	Asia/Kathmandu	2025-04-15
+10321370	Golche	Golche		27.928	85.7351	A	ADMD	NP		00				0		2912	Asia/Kathmandu	2015-06-10
+10321378	Bhoṭe Nāmlāṅ	Bhote Namlan	Bhote Namlan,Bhoṭe Nāmlāṅ	27.88739	85.6673	A	ADMD	NP		3				0		1914	Asia/Kathmandu	2025-04-15
+10321380	Lā̃garche	Lagarche	Lagarche,Langarche,Lāngarche,Lā̃garche	27.86636	85.63787	A	ADMD	NP		3				0		1820	Asia/Kathmandu	2025-04-15
+10321382	Lho	Lho		28.57123	84.75946	A	ADMD	NP		00				0		3955	Asia/Kathmandu	2015-06-10
+10321388	Mānhāṅkāl	Manhankal	Manhankal,Mānhāṅkāl	27.86996	85.50989	A	ADMD	NP		00				0		1573	Asia/Kathmandu	2015-06-10
+10321389	Tālāmārāṅ	Talamaran	Talamaran,Tālāmārāṅ	27.85315	85.52232	A	ADMD	NP		3				0		1520	Asia/Kathmandu	2025-04-15
+10321415	Pāṅtāṅ	Pantan	Pantan,Pāṅtāṅ	27.90109	85.79494	A	ADMD	NP		3				0		1864	Asia/Kathmandu	2025-04-15
+10321433	Bihī	Bihi		28.54102	84.89067	A	ADMD	NP		00				0		3168	Asia/Kathmandu	2015-06-10
+10321437	Prok	Prok		28.56252	84.80665	A	ADMD	NP		00				0		3538	Asia/Kathmandu	2015-06-10
+10321594	Listi̇̄koṭ	Listikot	Listikot,Listi̇̄koṭ,Listīkoṭ	27.91219	85.87985	A	ADMD	NP		3				0		2755	Asia/Kathmandu	2025-04-15
+10321595	Nāṅgle Bhāre	Nangle Bhare	Nangle Bhare,Nāṅgle Bhāre	27.77301	85.53144	A	ADMD	NP		3				0		1425	Asia/Kathmandu	2025-04-15
+10321628	Simpāl Kābhre	Simpal Kabhre	Simpal Kabhre,Simpāl Kābhre	27.83494	85.65972	A	ADMD	NP		3				0		1874	Asia/Kathmandu	2025-04-15
+10321629	Syāule	Syaule	Syaule,Syāule	27.8266	85.69984	A	ADMD	NP		3				0		1755	Asia/Kathmandu	2025-04-15
+10321630	Chautārā	Chautara	Chautara,Chautārā	27.77145	85.71435	A	ADMD	NP		3				0		1339	Asia/Kathmandu	2025-04-15
+10321631	Pipalḍā̃ḍā	Pipaldada	Pipaldada,Pipaldanda,Pipalḍānḍā,Pipalḍā̃ḍā	27.78807	85.6986	A	ADMD	NP		3				0		1604	Asia/Kathmandu	2025-04-15
+10321632	Sipāpokhare	Sipapokhare		27.76141	85.63596	A	ADMD	NP		00				0		1095	Asia/Kathmandu	2015-06-10
+10321637	Bā̃sbāri̇̄	Basbari	Bansbari,Basbari,Bānsbārī,Bā̃sbāri̇̄	27.80099	85.55142	A	ADMD	NP		3				0		1132	Asia/Kathmandu	2025-04-15
+10321647	Kunchok	Kunchok	Kunchok	27.78915	85.66627	A	ADMD	NP		3				0		1264	Asia/Kathmandu	2025-04-15
+10321663	Lāmābagar	Lamabagar	Lamabagar,Lāmābagar	27.91372	86.1756	A	ADMD	NP		3				0		3753	Asia/Kathmandu	2025-04-15
+10321684	Bāluwāpāti̇̄	Baluwapati	Baluwapati,Bāluwāpāti̇̄,Bāluwāpātī	28.20872	85.47666	A	ADMD	NP		3				0		3190	Asia/Kathmandu	2025-04-15
+10321685	Bāluwāpāti̇̄	Baluwapati	Baluwapati,Bāluwāpāti̇̄,Bāluwāpātī	27.75082	85.54494	A	ADMD	NP		3				0		1097	Asia/Kathmandu	2025-04-15
+10321687	Phaṭaksilā	Phataksila	Phataksila,Phaṭaksilā	27.7696	85.56851	A	ADMD	NP		3				0		1096	Asia/Kathmandu	2025-04-15
+10321690	Sipā Pokhare	Sipa Pokhare	Sipa Pokhare,Sipapokhare,Sipā Pokhare,Sipāpokhare	27.76236	85.62512	A	ADMD	NP		3				0		1036	Asia/Kathmandu	2025-04-15
+10321691	Bhimtār	Bhimtar	Bhimtar,Bhimtār	27.75023	85.61672	A	ADMD	NP		3				0		888	Asia/Kathmandu	2025-04-15
+10321696	Phulpiṅkaṭṭi̇̄	Phulpinkatti	Phulpinkatti,Phulpiṅkaṭṭi̇̄,Phulpiṅkaṭṭī	27.88451	85.98778	A	ADMD	NP		3				0		3557	Asia/Kathmandu	2025-04-15
+10321697	Pā̃chkhāl	Pachkhal	Pachkhal,Panchkal,Panchkhal,Pānchkhāl,Pānchkāl,Pā̃chkhāl	27.64254	85.61344	A	ADMD	NP		3				0		876	Asia/Kathmandu	2025-04-15
+10321701	Bā̃ḍegāũ	Badegau	Badegau,Bandegaun,Bānḍegāun,Bā̃ḍegāũ	27.78191	85.60215	A	ADMD	NP		3				0		1206	Asia/Kathmandu	2025-04-15
+10321722	Sāṭhighar Bhagavati̇̄	Sathighar Bhagavati	Sathighar Bhagavati,Sāṭhighar Bhagavati̇̄,Sāṭhighar Bhagavatī	27.61857	85.69383	A	ADMD	NP		00				0		1074	Asia/Kathmandu	2015-06-10
+10321726	Phulpiṅkaṭṭi̇̄	Phulpinkatti	Phulpinkatti,Phulpiṅkaṭṭi̇̄,Phulpiṅkaṭṭī	27.87707	86.02156	A	ADMD	NP		00				0		3245	Asia/Kathmandu	2015-06-10
+10321728	Devbhumi̇̄ Bāluwā	Devbhumi Baluwa	Devbhumi Baluwa,Devbhumi̇̄ Bāluwā,Devbhumī Bāluwā	27.60924	85.63821	A	ADMD	NP		00				0		928	Asia/Kathmandu	2015-06-10
+10321734	Ālampu	Alampu	Alampu,Ālampu	27.88161	86.09608	A	ADMD	NP		3				0		3206	Asia/Kathmandu	2025-04-15
+10321737	Kharelthok	Kharelthok	Kharelthok	27.60487	85.68007	A	ADMD	NP		3				0		1194	Asia/Kathmandu	2025-04-15
+10321742	Gauri̇̄shaṅkar	Gaurishankar	Gaurishankar,Gauri̇̄shaṅkar,Gaurīshaṅkar	27.85009	86.23841	A	ADMD	NP		3				0		2716	Asia/Kathmandu	2025-04-15
+10321744	Shikharpur	Shikharpur	Shikharpur	27.81575	85.59107	A	ADMD	NP		3				0		1014	Asia/Kathmandu	2025-04-15
+10321770	Nawalpur	Nawalpur	Nawalpur	27.8158	85.61433	A	ADMD	NP		3				0		1369	Asia/Kathmandu	2025-04-15
+10321775	Lāmi̇̄ḍā̃ḍā	Lamidada	Lamidada,Lamidanda,Lāmi̇̄ḍā̃ḍā,Lāmīḍānḍā	27.73626	86.13746	A	ADMD	NP		3				0		1905	Asia/Kathmandu	2025-04-15
+10321788	Mārmiṅ	Marmin	Marmin,Mārmiṅ	27.84612	85.94474	A	ADMD	NP		3				0		2956	Asia/Kathmandu	2025-04-15
+10321791	Jyāmire	Jyamire	Jyamire,Jyāmire	27.84277	85.6048	A	ADMD	NP		3				0		1527	Asia/Kathmandu	2025-04-15
+10321796	Lāngarche	Langarche	Langarche,Lāngarche	27.87107	85.61352	A	ADMD	NP		00				0		1246	Asia/Kathmandu	2015-06-10
+10321797	Dolālghāt	Dolalghat	Dolalghat,Dolālghāt	27.62766	85.70557	A	ADMD	NP		3				0		960	Asia/Kathmandu	2025-04-15
+10321800	Bhumluṭār	Bhumlutar	Bhumlutar,Bhumluṭār	27.63231	85.73558	A	ADMD	NP		3				0		1291	Asia/Kathmandu	2025-04-15
+10321801	Phalā̃ṭe	Phalate	Phalante,Phalate,Phalānṭe,Phalā̃ṭe	27.62035	85.73251	A	ADMD	NP		3				0		998	Asia/Kathmandu	2025-04-15
+10321812	Kābre	Kabre	Kabre,Kābre	27.64584	86.15147	A	ADMD	NP		3				0		2036	Asia/Kathmandu	2025-04-15
+10321814	Koshi Dekhā	Koshi Dekha	Koshi Dekha,Koshi Dekhā	27.5883	85.71055	A	ADMD	NP		3				0		908	Asia/Kathmandu	2025-04-15
+10321815	Kolā̃ti̇̄	Kolati	Kolanti,Kolati,Kolāntī,Kolā̃ti̇̄	27.5883	85.73591	A	ADMD	NP		3				0		1092	Asia/Kathmandu	2025-04-15
+10321817	Gunsi̇̄ Bhadaure	Gunsi Bhadaure	Gunsi Bhadaure,Gunsi̇̄ Bhadaure,Gunsī Bhadaure	27.52744	85.83859	A	ADMD	NP		00				0		1214	Asia/Kathmandu	2015-06-10
+10321820	Chiliṅkhā	Chilinkha	Chilinkha,Chiliṅkhā	27.82172	86.13223	A	ADMD	NP		3				0		2375	Asia/Kathmandu	2025-04-15
+10321827	Orāṅ	Oran	Oran,Orāṅ	27.80493	86.20346	A	ADMD	NP		3				0		1813	Asia/Kathmandu	2025-04-15
+10321835	Birtā Deurāli̇̄	Birta Deurali	Birta Deurali,Birtā Deurāli̇̄,Birtā Deurālī	27.56991	85.74066	A	ADMD	NP		3				0		946	Asia/Kathmandu	2025-04-15
+10321836	Sarsyūkharka	Sarsyukharka	Sarsyukharka,Sarsyūkharka	27.56014	85.72151	A	ADMD	NP		3				0		975	Asia/Kathmandu	2025-04-15
+10321843	Barāmchi̇̄	Baramchi	Baramchi,Barāmchi̇̄,Barāmchī	27.86759	85.7819	A	ADMD	NP		3				0		1951	Asia/Kathmandu	2025-04-15
+10321851	Hiledevi̇̄	Hiledevi	Hiledevi,Hiledevi̇̄,Hiledevī	27.49016	85.87668	A	ADMD	NP		00				0		1624	Asia/Kathmandu	2015-06-10
+10321852	Suri̇̄	Suri	Suri,Suri̇̄,Surī	27.73375	86.22193	A	ADMD	NP		3				0		1958	Asia/Kathmandu	2025-04-15
+10321853	Khāre	Khare	Khare,Khāre	27.78687	86.23117	A	ADMD	NP		3				0		2212	Asia/Kathmandu	2025-04-15
+10321854	Melamchi̇̄	Melamchi	Melamchi,Melamchi̇̄,Melamchī	27.83231	85.56077	A	ADMD	NP		3				0		1161	Asia/Kathmandu	2025-04-15
+10321869	Saramthali̇̄	Saramthali	Saramthali,Saramthali̇̄,Saramthalī	27.54157	85.74372	A	ADMD	NP		3				0		1337	Asia/Kathmandu	2025-04-15
+10321871	Buluṅ	Bulun	Bulun,Buluṅ	27.79365	86.17619	A	ADMD	NP		3				0		2049	Asia/Kathmandu	2025-04-15
+10321872	Jhyāku	Jhyaku	Jhyaku,Jhyāku	27.71278	86.19706	A	ADMD	NP		3				0		2423	Asia/Kathmandu	2025-04-15
+10321874	Dimipokhari̇̄	Dimipokhari	Dimi Pokhari,Dimipokhari,Dimipokhari̇̄,Dimipokharī,Dimī Pokharī	27.49826	85.89276	A	ADMD	NP		00				0		1714	Asia/Kathmandu	2015-06-10
+10321878	Pālchok	Palchok	Palchok,Pālchok	27.87401	85.54946	A	ADMD	NP		00				0		1174	Asia/Kathmandu	2015-06-10
+10321879	Kānpur Kālāpāni̇̄	Kanpur Kalapani	Kanpur Kalapani,Kānpur Kālāpāni̇̄,Kānpur Kālāpānī	27.53619	85.70133	A	ADMD	NP		3				0		1412	Asia/Kathmandu	2025-04-15
+10321881	Dubā Chaur	Duba Chaur	Duba Chaur,Dubā Chaur	27.86426	85.56192	A	ADMD	NP		00				0		1406	Asia/Kathmandu	2015-06-10
+10321883	Lāduk	Laduk	Laduk,Lāduk	27.78732	86.15477	A	ADMD	NP		3				0		2116	Asia/Kathmandu	2025-04-15
+10321884	Methinkoṭ	Methinkot	Methinkot,Methinkoṭ	27.57444	85.66653	A	ADMD	NP		3				0		1172	Asia/Kathmandu	2025-04-15
+10321888	Kṣetrapā	Ksetrapa	Ksetrapa,Kṣetrapā	27.66446	86.14	A	ADMD	NP		3				0		2095	Asia/Kathmandu	2025-04-15
+10321899	Mathurāpāṭi̇̄ Phulbāri̇̄	Mathurapati Phulbari	Mathurapati Phulbari,Mathurāpāṭi̇̄ Phulbāri̇̄,Mathurāpāṭī Phulbārī	27.57169	85.63081	A	ADMD	NP		3				0		1278	Asia/Kathmandu	2025-04-15
+10321904	Khopāchā̃gu	Khopachagu	Khopachagu,Khopachangu,Khopāchāngu,Khopāchā̃gu	27.80356	86.10081	A	ADMD	NP		3				0		1863	Asia/Kathmandu	2025-04-15
+10321907	Dorambā	Doramba	Doramba,Dorambā	27.54855	85.92648	A	ADMD	NP		3				0		1952	Asia/Kathmandu	2026-01-19
+10321917	Kālincho	Kalincho	Kalincho,Kālincho	27.78735	86.06478	A	ADMD	NP		3				0		2239	Asia/Kathmandu	2025-04-15
+10321920	Puranogāũ Dāpchā	Puranogau Dapcha	Puranogau Dapcha,Puranogaun Dapcha,Puranogāun Dāpchā,Puranogāũ Dāpchā	27.5596	85.62477	A	ADMD	NP		3				0		1221	Asia/Kathmandu	2025-04-15
+10321926	Ghothali̇̄	Ghothali	Ghothali,Ghothali̇̄,Ghothalī	27.77562	86.01344	A	ADMD	NP		3				0		3018	Asia/Kathmandu	2025-04-15
+10321930	Lāpi̇̄lāṅ	Lapilan	Lapilan,Lāpi̇̄lāṅ,Lāpīlāṅ	27.75299	86.08124	A	ADMD	NP		3				0		2226	Asia/Kathmandu	2025-04-15
+10321936	Bābare	Babare	Babare,Bābare	27.76884	86.11964	A	ADMD	NP		3				0		1828	Asia/Kathmandu	2025-04-15
+10321938	Ḍarāune Pokhari̇̄	Daraune Pokhari	Daraune Pokhari,Ḍarāune Pokhari̇̄,Ḍarāune Pokharī	27.52632	85.62812	A	ADMD	NP		3				0		1354	Asia/Kathmandu	2025-04-15
+10321944	Khanālthok	Khanalthok	Khanalthok,Khanālthok	27.52739	85.64576	A	ADMD	NP		3				0		1463	Asia/Kathmandu	2025-04-15
+10321950	Suri̇̄	Suri	Suri,Suri̇̄,Surī	27.75586	86.20669	A	ADMD	NP		3				0		1302	Asia/Kathmandu	2025-04-15
+10321953	Chaṅkhu	Chankhu	Chankhu,Chaṅkhu	27.75388	86.2392	A	ADMD	NP		3				0		1860	Asia/Kathmandu	2025-04-15
+10321955	Goganpāni̇̄	Goganpani	Goganpani,Goganpāni̇̄,Goganpānī	27.52286	85.67559	A	ADMD	NP		3				0		1191	Asia/Kathmandu	2025-04-15
+10321958	Shikhar Āmboṭe	Shikhar Ambote	Shikhar Ambote,Shikhar Āmboṭe	27.48918	85.60076	A	ADMD	NP		3				0		1360	Asia/Kathmandu	2025-04-15
+10321966	Kharpāchok	Kharpachok	Kharpachok,Kharpāchok	27.51186	85.69566	A	ADMD	NP		3				0		1032	Asia/Kathmandu	2025-04-15
+10321968	Sipāli̇̄	Sipali	Sipali,Sipāli̇̄,Sipālī	27.50635	85.6648	A	ADMD	NP		3				0		1070	Asia/Kathmandu	2025-04-15
+10321970	Mahādevtārpāngu	Mahadevtarpangu	Mahadevtarpangu,Mahādevtārpāngu	27.50495	85.64943	A	ADMD	NP		3				0		1446	Asia/Kathmandu	2025-04-15
+10321973	Bolde	Bolde	Bolde	27.53009	85.74222	A	ADMD	NP		3				0		1656	Asia/Kathmandu	2025-04-15
+10321979	Pokhari̇̄ Nārāyaṇsthān	Pokhari Narayansthan	Pokhari Narayansthan,Pokhari̇̄ Nārāyaṇsthān,Pokharī Nārāyaṇsthān	27.51072	85.73106	A	ADMD	NP		3				0		1592	Asia/Kathmandu	2025-04-15
+10321987	Ḍaḍhuwā	Dadhuwa	Dadhuwa,Daduwa,Ḍaḍhuwā,Ḍaḍuwā	27.53901	85.97995	A	ADMD	NP		00				0		2474	Asia/Kathmandu	2015-07-05
+10321990	Salme Chākal	Salme Chakal	Salme Chakal,Salme Chākal	27.39204	85.4955	A	ADMD	NP		3				0		655	Asia/Kathmandu	2025-04-15
+10321994	Mārmiṅ	Marmin	Marmin,Mārmiṅ	27.84893	85.93882	A	ADMD	NP		00				0		2677	Asia/Kathmandu	2015-06-10
+10321997	Gāti̇̄	Gati	Gati,Gāti̇̄,Gātī	27.82586	85.90189	A	ADMD	NP		3				0		1979	Asia/Kathmandu	2025-04-15
+10322000	Chyāsingkharka	Chyasingkharka	Chyasingkharka,Chyāsingkharka	27.48244	85.50917	A	ADMD	NP		00				0		2510	Asia/Kathmandu	2015-06-10
+10322002	Ḍhuṅkharka	Dhunkharka	Dhunkharka,Ḍhuṅkharka	27.51002	85.48418	A	ADMD	NP		3				0		2214	Asia/Kathmandu	2025-04-15
+10322003	Bhugadeu Mahāṅkāl	Bhugadeu Mahankal	Bhugadeu Mahankal,Bhugadeu Mahāṅkāl	27.50012	85.54093	A	ADMD	NP		3				0		2234	Asia/Kathmandu	2025-04-15
+10322005	Phalāmṭār	Phalamtar	Phalamtar,Phalāmṭār	27.45141	85.51149	A	ADMD	NP		3				0		1682	Asia/Kathmandu	2025-04-15
+10322009	Jalbire	Jalbire	Jalbire	27.82261	85.78544	A	ADMD	NP		3				0		1448	Asia/Kathmandu	2025-04-15
+10322013	Ḍā̃ḍāgāũ Chākal	Dadagau Chakal	Dadagau Chakal,Dandagaun Chakal,Ḍānḍāgāun Chākal,Ḍā̃ḍāgāũ Chākal	27.42063	85.54594	A	ADMD	NP		3				0		1395	Asia/Kathmandu	2025-04-15
+10322014	Khaharepāngu	Khaharepangu	Khaharepangu,Khaharepāngu	27.48284	85.55464	A	ADMD	NP		00				0		2292	Asia/Kathmandu	2015-06-10
+10322015	Ghumthān	Ghumthan	Ghumthan,Ghumthān	27.83829	85.85585	A	ADMD	NP		3				0		1682	Asia/Kathmandu	2025-04-15
+10322019	Hagām	Hagam	Hagam,Hagām	27.84636	85.82229	A	ADMD	NP		3				0		2185	Asia/Kathmandu	2025-04-15
+10322022	Selāṅ	Selan	Selan,Selāṅ	27.84516	85.75566	A	ADMD	NP		3				0		1324	Asia/Kathmandu	2025-04-15
+10322025	Batāse	Batase	Batase,Batāse	27.81342	85.75621	A	ADMD	NP		3				0		1187	Asia/Kathmandu	2025-04-15
+10322029	Phulpiṅkoṭ	Phulpinkot	Phulpinkot,Phulpiṅkoṭ	27.79447	85.79654	A	ADMD	NP		3				0		1660	Asia/Kathmandu	2025-04-15
+10322033	Phulpiṅkoṭ	Phulpinkot	Phulpinkot,Phulpiṅkoṭ	27.79831	85.78464	A	ADMD	NP		00				0		1413	Asia/Kathmandu	2015-06-10
+10322037	Māneswā̃rā	Maneswara	Maneswanra,Maneswara,Māneswānrā,Māneswā̃rā	27.80147	85.86287	A	ADMD	NP		3				0		1939	Asia/Kathmandu	2025-04-15
+10322050	Bārhabise	Barhabise	Barhabise,Bārhabise	27.79359	85.90696	A	ADMD	NP		3				0		1170	Asia/Kathmandu	2025-04-15
+10322051	Deūbhumi Bāluwā	Deubhumi Baluwa	Deubhumi Baluwa,Deūbhumi Bāluwā	27.61439	85.64252	A	ADMD	NP		3	01			0		859	Asia/Kathmandu	2025-04-15
+10322055	Sāṭhi̇̄ghar	Sathighar	Sathighar,Sathighar Bhagavati,Sāṭhighar Bhagavati̇̄,Sāṭhighar Bhagavatī,Sāṭhi̇̄ghar,Sāṭhīghar	27.62789	85.68161	A	ADMD	NP		3	01			0		1274	Asia/Kathmandu	2025-04-15
+10322056	Chāpākhuri̇̄	Chapakhuri	Chapakhuri,Chāpākhuri̇̄,Chāpākhurī	27.49158	85.75902	A	ADMD	NP		3				0		1208	Asia/Kathmandu	2025-04-15
+10322060	Mechchhe	Mechchhe	Mechchhe	27.47351	85.78725	A	ADMD	NP		3				0		1539	Asia/Kathmandu	2025-04-15
+10322061	Thūloparsel	Thuloparsel	Thuloparsel,Thūloparsel	27.49657	85.79766	A	ADMD	NP		3				0		824	Asia/Kathmandu	2025-04-15
+10322065	Bethān	Bethan		27.48811	85.83249	A	ADMD	NP		00				0		1589	Asia/Kathmandu	2015-06-10
+10322067	Shikhar Āmboṭe	Shikhar Ambote	Shikhar Ambote,Shikhar Āmboṭe	27.47466	85.58603	A	ADMD	NP		00				0		2054	Asia/Kathmandu	2015-06-10
+10322069	Khaniyāpāni̇̄	Khaniyapani	Khaniyapani,Khaniyāpāni̇̄,Khaniyāpānī	27.46499	85.84183	A	ADMD	NP		00				0		1243	Asia/Kathmandu	2015-06-10
+10322074	Ṭokarpur	Tokarpur		27.55029	85.91397	A	ADMD	NP		00				0		2286	Asia/Kathmandu	2015-06-10
+10322082	Dolālghāt	Dolalghat	Dolalghat,Dolālghāt	27.64194	85.6969	A	ADMD	NP		CR	01			0		992	Asia/Kathmandu	2015-06-10
+10322084	Karthali̇̄	Karthali	Karthali,Karthali̇̄,Karthalī	27.81377	85.97285	A	ADMD	NP		3				0		2498	Asia/Kathmandu	2025-04-15
+10322093	Bhinkori̇̄	Bhinkori	Bhinkori,Bhinkori̇̄,Bhinkorī	27.42638	85.78129	A	ADMD	NP		00				0		1436	Asia/Kathmandu	2015-06-10
+10322096	Bāsḍol Mahendrajyoti̇̄	Basdol Mahendrajyoti	Basdol Mahendrajyoti,Bāsḍol Mahendrajyoti̇̄,Bāsḍol Mahendrajyotī	27.6206	85.50481	A	ADMD	NP		3				0		1813	Asia/Kathmandu	2025-04-15
+10322097	Pānchkhāl	Panchkhal		27.62289	85.60783	A	ADMD	NP		00				0		996	Asia/Kathmandu	2015-06-10
+10322098	Deubhumi̇̄ Bālluwā	Deubhumi Balluwa	Deubhumi Balluwa,Deubhumi̇̄ Bālluwā,Deubhumī Bālluwā	27.61128	85.61897	A	ADMD	NP		00				0		951	Asia/Kathmandu	2015-06-10
+10322099	Kābhrenitya Chaṇḍeshwari̇̄	Kabhrenitya Chandeshwari	Kabhrenitya Chandeshwari,Kābhrenitya Chaṇḍeshwari̇̄,Kābhrenitya Chaṇḍeshwarī	27.6136	85.58813	A	ADMD	NP		3				0		1198	Asia/Kathmandu	2025-04-15
+10322101	Sūnthānshāradā	Sunthansharada	Sunthansharada,Sūnthānshāradā	27.5925	85.54055	A	ADMD	NP		3				0		1718	Asia/Kathmandu	2025-04-15
+10322102	Batāse	Batase	Batase,Batāse	27.58766	85.57254	A	ADMD	NP		3				0		1743	Asia/Kathmandu	2025-04-15
+10322103	Mathurāpāṭi̇̄ Phūlbāri̇̄	Mathurapati Phulbari	Mathurapati Phulbari,Mathurāpāṭi̇̄ Phūlbāri̇̄,Mathurāpāṭī Phūlbārī	27.58082	85.61072	A	ADMD	NP		3				0		1583	Asia/Kathmandu	2025-04-15
+10322104	Malpi̇̄	Malpi	Malpi,Malpi̇̄,Malpī	27.57725	85.50675	A	ADMD	NP		3				0		1476	Asia/Kathmandu	2025-04-15
+10322105	Kalāti̇̄ Bhumeḍā̃ḍā	Kalati Bhumedada	Kalati Bhumedada,Kalāti̇̄ Bhumeḍā̃ḍā,Kalātī Bhumeḍāḍā	27.56899	85.5015	A	ADMD	NP		3				0		1658	Asia/Kathmandu	2025-04-15
+10322106	Sisākhāni̇̄	Sisakhani	Sisakhani,Sisākhāni̇̄,Sisākhānī	27.48244	85.64354	A	ADMD	NP		3				0		1510	Asia/Kathmandu	2025-04-15
+10322107	Khopāsi̇̄	Khopasi	Khopasi,Khopāsi̇̄,Khopāsī	27.56835	85.52459	A	ADMD	NP		3				0		1565	Asia/Kathmandu	2025-04-15
+10322108	Phoksiṅṭār	Phoksintar	Phoksintar,Phoksiṅṭār	27.41517	85.62214	A	ADMD	NP		3				0		1659	Asia/Kathmandu	2025-04-15
+10322109	Saṅkhu Pāṭi̇̄chaur	Sankhu Patichaur	Sankhu Patichaur,Saṅkhu Pāṭi̇̄chaur,Saṅkhu Pāṭīchaur	27.5697	85.56212	A	ADMD	NP		3				0		1469	Asia/Kathmandu	2025-04-15
+10322110	Syāmpāi̇̄ Malchaur	Syampai Malchaur	Syampai Malchaur,Syāmpāi̇̄ Malchaur,Syāmpāī Malchaur	27.56096	85.58004	A	ADMD	NP		3				0		1606	Asia/Kathmandu	2025-04-15
+10322113	Ghorthali̇̄	Ghorthali	Ghorthali,Ghorthali̇̄,Ghorthalī	27.77394	85.98847	A	ADMD	NP		3				0		2109	Asia/Kathmandu	2025-04-15
+10322115	Sāpiṅ	Sapin	Sapin,Sāpiṅ	27.65347	85.73928	A	ADMD	NP		3	01			0		1357	Asia/Kathmandu	2025-04-15
+10322118	Purānogāun Dāpchā	Puranogaun Dapcha		27.56311	85.62053	A	ADMD	NP		00				0		1205	Asia/Kathmandu	2015-06-10
+10322121	Chhatrebājh	Chhatrebajh	Chhatrebajh,Chhatrebājh	27.54285	85.60704	A	ADMD	NP		3				0		1706	Asia/Kathmandu	2025-04-15
+10322123	Purānogāũ	Puranogau	Puranogau,Puranogaun,Purānogāun,Purānogāũ	27.5472	85.59356	A	ADMD	NP		3				0		1567	Asia/Kathmandu	2025-04-15
+10322124	Hoksebajār	Hoksebajar	Hoksebajar,Hoksebajār	27.64772	85.64995	A	ADMD	NP		3	01			0		874	Asia/Kathmandu	2025-04-15
+10322125	Pānchkhāl	Panchkhal	Panchkhal,Pānchkhāl	27.66254	85.63702	A	ADMD	NP		CR	01			0		856	Asia/Kathmandu	2015-06-10
+10322126	Jyāmdi̇̄	Jyamdi	Jyamdi,Jyāmdi̇̄,Jyāmdī	27.67063	85.6664	A	ADMD	NP		3	01			0		1136	Asia/Kathmandu	2025-04-15
+10322127	Gharti̇̄chhāp	Ghartichhap	Ghartichhap,Gharti̇̄chhāp,Ghartīchhāp	27.36895	85.59809	A	ADMD	NP		3				0		763	Asia/Kathmandu	2025-04-15
+10322128	Balthali̇̄	Balthali	Balthali,Balthali̇̄,Balthalī	27.54726	85.53829	A	ADMD	NP		3				0		1578	Asia/Kathmandu	2025-04-15
+10322129	Gaṇeshsthānchalāl	Ganeshsthanchalal	Ganeshsthanchalal,Gaṇeshsthānchalāl	27.54835	85.51582	A	ADMD	NP		3				0		1650	Asia/Kathmandu	2025-04-15
+10322131	Rākāthum	Rakathum		27.43811	85.85289	A	ADMD	NP		00				0		1010	Asia/Kathmandu	2015-07-05
+10322132	Chyāsiṅkharka	Chyasinkharka	Chyasinkharka,Chyāsiṅkharka	27.51272	85.5192	A	ADMD	NP		3				0		1991	Asia/Kathmandu	2025-04-15
+10322133	Darāunepokhari̇̄	Daraunepokhari	Daraunepokhari,Darāunepokhari̇̄,Darāunepokharī	27.53396	85.61765	A	ADMD	NP		00				0		1386	Asia/Kathmandu	2015-06-10
+10322134	Shikharāmboṭe	Shikharambote		27.51018	85.61239	A	ADMD	NP		00				0		1041	Asia/Kathmandu	2015-06-10
+10322135	Khaharepā̃gu	Khaharepagu	Khaharepagu,Khaharepāgu,Khaharepā̃gu	27.50295	85.57632	A	ADMD	NP		3				0		1343	Asia/Kathmandu	2025-04-15
+10322137	Bhugadeumahāṅkāl	Bhugadeumahankal		27.5202	85.55613	A	ADMD	NP		00				0		1676	Asia/Kathmandu	2015-06-10
+10322138	Gokule Chākal	Gokule Chakal	Gokule Chakal,Gokule Chākal,Gokulechakal,Gokulechākal	27.39127	85.56065	A	ADMD	NP		3				0		1071	Asia/Kathmandu	2025-04-15
+10322140	Lakhanpur	Lakhanpur		27.55959	85.86408	A	ADMD	NP		00				0		1197	Asia/Kathmandu	2015-06-10
+10322146	Jhā̃gājholi̇̄	Jhagajholi	Jhagajholi,Jhangajholi,Jhāngājholī,Jhā̃gājholi̇̄	27.39146	85.85346	A	ADMD	NP		00				0		847	Asia/Kathmandu	2015-07-05
+10322150	Kuseshwar Dumjā	Kuseshwar Dumja		27.4131	85.81555	A	ADMD	NP		00				0		1219	Asia/Kathmandu	2015-06-10
+10322158	Jaishi̇̄thok	Jaishithok	Jaishithok,Jaishi̇̄thok,Jaishīthok	27.68234	85.64643	A	ADMD	NP		3	01			0		1116	Asia/Kathmandu	2025-04-15
+10322160	Chokati̇̄	Chokati	Chokati,Chokati̇̄,Chokatī	27.76366	85.96234	A	ADMD	NP		3				0		2096	Asia/Kathmandu	2025-04-15
+10322167	Pokhari̇̄ Chaunri̇̄	Pokhari Chaunri	Pokhari Chaunri,Pokhari̇̄ Chaunri̇̄,Pokharī Chaunrī	27.57044	85.80887	A	ADMD	NP		3				0		1242	Asia/Kathmandu	2025-04-15
+10322170	Netrakāli̇̄	Netrakali	Metrakali,Metrakāli̇̄,Metrakālī,Netrakali,Netrakāli̇̄,Netrakālī	27.36331	85.74783	A	ADMD	NP		00				0		1243	Asia/Kathmandu	2015-07-05
+10322171	Basti̇̄pur	Bastipur	Bastipur,Basti̇̄pur,Bastīpur	27.34058	85.8095	A	ADMD	NP		CR	05			0		1310	Asia/Kathmandu	2015-06-10
+10322179	Goṭhpāni̇̄	Gothpani	Gothpani,Goṭhpāni̇̄,Goṭhpānī	27.5862	85.77827	A	ADMD	NP		3				0		1732	Asia/Kathmandu	2025-04-15
+10322181	Dhuskun	Dhuskun	Dhuskun	27.76261	85.91648	A	ADMD	NP		3				0		1853	Asia/Kathmandu	2025-04-15
+10322184	Rāmche	Ramche	Ramche,Rāmche	27.77812	85.87311	A	ADMD	NP		3				0		1565	Asia/Kathmandu	2025-04-15
+10322185	Ṭekanpur	Tekanpur	Tekanpur,Ṭekanpur	27.75704	85.88031	A	ADMD	NP		3				0		1197	Asia/Kathmandu	2025-04-15
+10322187	Pāṅrgreṭār	Panrgretar	Panrgretar,Pāṅrgreṭār	27.74984	85.85581	A	ADMD	NP		3				0		1047	Asia/Kathmandu	2025-04-15
+10322190	Chokatt	Chokatt	Chokatt	27.74524	86.01878	A	ADMD	NP		3				0		3104	Asia/Kathmandu	2025-04-15
+10322191	Boch	Boch	Boch	27.73403	86.00334	A	ADMD	NP		3				0		2794	Asia/Kathmandu	2025-04-15
+10322199	Sundrāwati̇̄	Sundrawati	Sundrawati,Sundrāwati̇̄,Sundrāwatī	27.71679	86.07062	A	ADMD	NP		3				0		1773	Asia/Kathmandu	2025-04-15
+10322216	Dolakhā	Dolakha	Dolakha,Dolakhā	27.68027	86.0701	A	ADMD	NP		3				0		1806	Asia/Kathmandu	2025-04-15
+10322223	Makaibāri̇̄	Makaibari	Makaibari,Makaibāri̇̄,Makaibārī	27.70199	86.00938	A	ADMD	NP		3				0		2276	Asia/Kathmandu	2025-04-15
+10322230	Māgāpauwā	Magapauwa	Magapauwa,Māgāpauwā	27.65297	86.00797	A	ADMD	NP		3				0		1681	Asia/Kathmandu	2025-04-15
+10322231	Kāṭākuṭi̇̄	Katakuti	Katakuti,Kāṭākuṭi̇̄,Kāṭākuṭī	27.63113	86.01613	A	ADMD	NP		3				0		1514	Asia/Kathmandu	2025-04-15
+10322234	Chari̇̄koṭ	Charikot	Charikot,Chari̇̄koṭ,Charīkoṭ	27.66298	86.0584	A	ADMD	NP		3				0		1757	Asia/Kathmandu	2025-04-15
+10322237	Nāmdu	Namdu	Namdu,Nāmdu	27.64834	86.09998	A	ADMD	NP		3				0		1353	Asia/Kathmandu	2025-04-15
+10322238	Kābre	Kabre	Kabre,Kābre	27.64826	86.12185	A	ADMD	NP		3				0		1969	Asia/Kathmandu	2025-04-15
+10322239	Mā̃khā	Makha	Makha,Mankha,Mānkhā,Mā̃khā	27.76604	85.83328	A	ADMD	NP		3				0		1136	Asia/Kathmandu	2025-04-15
+10322240	Chandeni̇̄	Chandeni	Chandeni,Chandeni̇̄,Chandenī	27.70421	85.65597	A	ADMD	NP		3	01			0		868	Asia/Kathmandu	2025-04-15
+10322244	Phulpiṅḍā̃ḍā	Phulpindada	Phulpindada,Phulpindanda,Phulpiṅḍānḍā,Phulpiṅḍā̃ḍā	27.7665	85.79664	A	ADMD	NP		3				0		1150	Asia/Kathmandu	2025-04-15
+10322248	Irkhu	Irkhu	Irkhu	27.74794	85.74745	A	ADMD	NP		3				0		1585	Asia/Kathmandu	2025-04-15
+10322250	Kubhiṅḍe	Kubhinde	Kubhinde,Kubhiṅḍe	27.76598	85.76233	A	ADMD	NP		3				0		966	Asia/Kathmandu	2025-04-15
+10322255	Chaubās	Chaubas	Chaubas,Chaubās	27.62579	85.78255	A	ADMD	NP		3				0		1961	Asia/Kathmandu	2025-04-15
+10322257	Ṭhūlosirubāri̇̄	Thulosirubari	Thulosirubari,Ṭhūlosirubāri̇̄,Ṭhūlosirubārī	27.72126	85.68977	A	ADMD	NP		3	01			0		1285	Asia/Kathmandu	2025-04-15
+10322258	Bhoṭsipā	Bhotsipa	Bhotsipa,Bhoṭsipā	27.72632	85.66612	A	ADMD	NP		3	01			0		877	Asia/Kathmandu	2025-04-15
+10322259	Mahādevsthān	Mahadevsthan	Mahadevsthan,Mahādevsthān	27.71711	85.63174	A	ADMD	NP		3	01			0		787	Asia/Kathmandu	2025-04-15
+10322260	Bhimṭār	Bhimtar	Bhimtar,Bhimṭār	27.73622	85.63675	A	ADMD	NP		3	01			0		875	Asia/Kathmandu	2025-04-15
+10322264	Sāno Sirubāri̇̄	Sano Sirubari	Sano Sirubari,Sanusirubari,Sāno Sirubāri̇̄,Sānusirubārī	27.75399	85.7065	A	ADMD	NP		3	01			0		1252	Asia/Kathmandu	2025-04-15
+10322267	Irkhu	Irkhu	Irkhu	27.73421	85.73975	A	ADMD	NP		CR	01			0		1693	Asia/Kathmandu	2015-06-10
+10322268	Sā̃gāchok	Sagachok	Sagachok,Sangachok,Sāngāchok,Sā̃gāchok	27.69263	85.72657	A	ADMD	NP		3	01			0		974	Asia/Kathmandu	2025-04-15
+10322292	Phoksiṅṭār	Phoksintar		27.39219	85.62608	A	ADMD	NP		00				0		962	Asia/Kathmandu	2015-06-10
+10322375	Lāmābagar	Lamabagar	Lamabagar,Lāmābagar	27.95203	86.26753	A	ADMD	NP		3				0		4418	Asia/Kathmandu	2025-04-15
+10322390	Gokulechākal	Gokulechakal		27.36302	85.54393	A	ADMD	NP		00				0		615	Asia/Kathmandu	2015-06-10
+10322417	Gauri̇̄shaṅkar	Gaurishankar	Gaurishankar,Gauri̇̄shaṅkar,Gaurīshaṅkar	27.91219	86.38132	A	ADMD	NP		3				0		4665	Asia/Kathmandu	2025-04-15
+10322421	Gharti̇̄chhāp	Ghartichhap	Ghartichhap,Gharti̇̄chhāp,Ghartīchhāp	27.35855	85.59983	A	ADMD	NP		00				0		677	Asia/Kathmandu	2015-06-10
+10322424	Gumdel	Gumdel		27.77457	86.45991	A	ADMD	NP		00				0		4669	Asia/Kathmandu	2015-06-10
+10322426	Shyāmā	Shyama	Shyama,Shyāmā	27.76144	86.39066	A	ADMD	NP		3				0		4511	Asia/Kathmandu	2025-04-15
+10322427	Mārbu	Marbu	Marbu,Mārbu	27.78794	86.32982	A	ADMD	NP		3				0		3350	Asia/Kathmandu	2025-04-15
+10322467	Hari̇̄hapurgaḍhi̇̄	Harihapurgadhi	Harihapurgadhi,Hari̇̄hapurgaḍhi̇̄,Harīhapurgaḍhī	27.3359	85.52778	A	ADMD	NP		00				0		917	Asia/Kathmandu	2015-06-10
+10322469	Salle	Salle	Salle	27.60977	85.76335	A	ADMD	NP		3				0		1310	Asia/Kathmandu	2025-04-15
+10322472	Mājhi̇̄phedā	Majhipheda	Majhipheda,Mājhi̇̄phedā,Mājhīphedā	27.59253	85.8327	A	ADMD	NP		3				0		1486	Asia/Kathmandu	2025-04-15
+10322473	Kapilākoṭ	Kapilakot	Kapilakot,Kapilākot,Kapilākoţ,Kapilākoṭ	27.30163	85.67111	A	ADMD	NP		00				0		541	Asia/Kathmandu	2015-07-05
+10322474	Rātmāṭe	Ratmate		27.29981	85.60989	A	ADMD	NP		00				0		486	Asia/Kathmandu	2015-06-10
+10322500	Mahendrajhyāḍi̇̄	Mahendrajhyadi	Mahendrajhyadi,Mahendrajhyāḍi̇̄,Mahendrajhyāḍī	27.2965	85.56803	A	ADMD	NP		00				0		324	Asia/Kathmandu	2015-06-10
+10322505	Pipalmāḍi̇̄	Pipalmadi	Pipalmadi,Pipalmāḍi̇̄,Pipalmāḍī	27.28852	85.51377	A	ADMD	NP		00				0		327	Asia/Kathmandu	2015-06-10
+10322507	Bankhu	Bankhu	Bankhu	27.37193	85.66934	A	ADMD	NP		3				0		1153	Asia/Kathmandu	2025-04-15
+10322514	Kalpabri̇̄kṣa	Kalpabriksa	Kalpabriksa,Kalpabrikṣa,Kalpabri̇̄kṣa,Kalpabrīkṣa	27.2227	85.68284	A	ADMD	NP		00				0		398	Asia/Kathmandu	2015-07-05
+10322537	Purāno Jā̃gājholi̇̄	Purano Jagajholi	Purano Jagajholi,Purano Jhangajholi,Purāno Jhāngājholī,Purāno Jā̃gājholi̇̄	27.37512	85.89394	A	ADMD	NP		00				0		859	Asia/Kathmandu	2015-07-05
+10322541	Hānteshwari̇̄	Hanteshwari	Hanteshwari,Hānteshwari̇̄,Hānteshwarī	27.35195	85.7189	A	ADMD	NP		00				0		1012	Asia/Kathmandu	2015-06-10
+10322542	Metrakāli̇̄	Metrakali	Metrakali,Metrakāli̇̄,Metrakālī	27.34173	85.73896	A	ADMD	NP		00				0		912	Asia/Kathmandu	2015-06-10
+10322572	Kyāneshwar	Kyaneshwar		27.1942	85.5584	A	ADMD	NP		00				0		284	Asia/Kathmandu	2015-06-10
+10322584	Kālikā	Kalika	Kalika,Kālikā	27.69543	85.766	A	ADMD	NP		3				0		996	Asia/Kathmandu	2025-04-15
+10322585	Shitalpāṭi̇̄	Shitalpati	Shitalpati,Shitalpāṭi̇̄,Shitalpāṭī	27.35703	85.94266	A	ADMD	NP		00				0		970	Asia/Kathmandu	2015-06-10
+10322589	Priti̇̄	Priti	Priti,Priti̇̄,Pritī	27.52301	86.29257	A	ADMD	NP		00				0		2534	Asia/Kathmandu	2015-06-10
+10322597	Atrauli̇̄	Atrauli	Atrauli,Atrauli̇̄,Atraulī	27.12512	85.59465	A	ADMD	NP		00				0		237	Asia/Kathmandu	2015-07-05
+10322599	Pakarwās	Pakarwas	Pakarbas,Pakarbās,Pakarwas,Pakarwās	27.36881	85.98967	A	ADMD	NP		00				0		522	Asia/Kathmandu	2026-01-19
+10322601	Bhaluwājor	Bhaluwajor	Bhaluwajor,Bhaluwājor	27.3527	86.01786	A	ADMD	NP		00				0		1370	Asia/Kathmandu	2015-07-05
+10322605	Mahādevṭār	Mahadevtar	Mahadevtar,Mahādevṭār	27.47619	85.62413	A	ADMD	NP		3				0		1561	Asia/Kathmandu	2025-04-15
+10322615	Rāwādolu	Rawadolu		27.50323	86.35425	A	ADMD	NP		00				0		2442	Asia/Kathmandu	2015-06-10
+10322628	Bhusiṅgā	Bhusinga		27.49897	86.39263	A	ADMD	NP		00				0		2865	Asia/Kathmandu	2015-06-10
+10322629	Goli̇̄	Goli	Goli,Goli̇̄,Golī	27.54329	86.40435	A	ADMD	NP		00				0		2964	Asia/Kathmandu	2015-06-10
+10322630	Ṭāpṭiṅ	Taptin	Taptin,Ṭāpṭiṅ	27.48588	86.46675	A	ADMD	NP		00				0		2757	Asia/Kathmandu	2025-08-13
+10322631	Gorākhāni̇̄	Gorakhani	Gorakhani,Gorākhāni̇̄,Gorākhānī	27.50022	86.48973	A	ADMD	NP		00				0		3120	Asia/Kathmandu	2015-06-10
+10322634	Khārpāchok	Kharpachok	Kharpachok,Khārpāchok	27.48883	85.69968	A	ADMD	NP		3				0		1278	Asia/Kathmandu	2025-04-15
+10322645	Sipāli̇̄ Chilāune	Sipali Chilaune	Sipali Chilaune,Sipāli̇̄ Chilāune,Sipālī Chilāune	27.46414	85.6641	A	ADMD	NP		3				0		2032	Asia/Kathmandu	2025-04-15
+10322650	Sisākhāni̇̄	Sisakhani	Sisakhani,Sisākhāni̇̄,Sisākhānī	27.46131	85.63206	A	ADMD	NP		00				0		1965	Asia/Kathmandu	2015-06-10
+10322652	Pokhari̇̄ Nārāyaṇsthān	Pokhari Narayansthan	Pokhari Narayansthan,Pokhari̇̄ Nārāyaṇsthān,Pokharī Nārāyaṇsthān	27.4996	85.72513	A	ADMD	NP		3				0		890	Asia/Kathmandu	2025-04-15
+10322664	Kurubās	Kurubas	Kurubas,Kurubās	27.4897	85.742	A	ADMD	NP		3				0		1088	Asia/Kathmandu	2025-04-15
+10322667	Maṅgalṭār	Mangaltar	Mangaltar,Maṅgalṭār	27.46457	85.72154	A	ADMD	NP		3				0		1588	Asia/Kathmandu	2025-04-15
+10322671	Wālṭiṅ	Waltin	Waltin,Wālṭiṅ	27.44129	85.71969	A	ADMD	NP		3				0		1675	Asia/Kathmandu	2025-04-15
+10322681	Kalpabrikṣa	Kalpabriksa		27.20761	85.68563	A	ADMD	NP		00				0		388	Asia/Kathmandu	2015-06-10
+10322699	Kapilākot	Kapilakot		27.29889	85.69756	A	ADMD	NP		00				0		718	Asia/Kathmandu	2015-06-10
+10322702	Nārāyaṇkholā	Narayankhola		27.15806	85.70102	A	ADMD	NP		00				0		357	Asia/Kathmandu	2015-06-10
+10323406	Ḍā̃ḍi̇̄ Gurā̃se	Dadi Gurase	Dadhi Guranse,Dadhi Gurase,Dadi Gurase,Dandiguranse,Ḍānḍīgurānse,Ḍā̃ḍi̇̄ Gurā̃se,Ḍāḍhi̇̄ Gurā̃se,Ḍāḍhī Gurānse	27.23713	85.82779	A	ADMD	NP		00				0		507	Asia/Kathmandu	2015-07-05
+10323416	Mahādevsthān	Mahadevsthan		27.24428	85.77452	A	ADMD	NP		00				0		358	Asia/Kathmandu	2015-07-05
+10323428	Shiddheshwar	Shiddheshwar	Shiddheshwar,Siddheshwar	27.19677	85.87512	A	ADMD	NP		00				0		596	Asia/Kathmandu	2015-07-05
+10323449	Kāliñjor	Kalinjor		27.09248	85.77397	A	ADMD	NP		00				0		465	Asia/Kathmandu	2015-07-05
+10323452	Parwāni̇̄pur	Parwanipur	Parwanipur,Parwāni̇̄pur,Parwānīpur	27.12512	85.74784	A	ADMD	NP		00				0		363	Asia/Kathmandu	2015-07-05
+10323456	Bhimān	Bhiman		27.1338	85.94267	A	ADMD	NP		00				0		449	Asia/Kathmandu	2015-07-05
+10323459	Ṭhose	Those		27.57317	86.27937	A	ADMD	NP		00				0		2559	Asia/Kathmandu	2015-06-10
+10323468	Chuchure	Chuchure		27.64976	86.35765	A	ADMD	NP		00				0		3168	Asia/Kathmandu	2015-06-10
+10323469	Shyāmā	Shyama	Shyama,Shyāmā	27.69626	86.32443	A	ADMD	NP		3				0		2907	Asia/Kathmandu	2025-04-15
+10323472	Mārbu	Marbu	Marbu,Mārbu	27.74151	86.32887	A	ADMD	NP		3				0		3394	Asia/Kathmandu	2025-04-15
+10323596	Bāmti̇̄ Bhaṇḍār	Bamti Bhandar	Bamti Bhandar,Bāmti̇̄ Bhaṇḍār,Bāmtī Bhaṇḍār	27.56478	86.34945	A	ADMD	NP		00				0		2209	Asia/Kathmandu	2015-06-10
+10323597	Goli̇̄	Goli	Goli,Goli̇̄,Golī	27.53096	86.42393	A	ADMD	NP		00				0		2509	Asia/Kathmandu	2015-06-10
+10323624	Bhakāñje	Bhakanje	Bhakanje,Bhakāñje	27.59452	86.46905	A	ADMD	NP		00				0		2323	Asia/Kathmandu	2025-08-13
+10323628	Gumdel	Gumdel		27.68553	86.45457	A	ADMD	NP		00				0		3062	Asia/Kathmandu	2015-06-10
+10323632	Phasku	Phasku	Phasku	27.61424	86.02946	A	ADMD	NP		3				0		1727	Asia/Kathmandu	2025-04-15
+10323703	Khā̃ḍādevi̇̄	Khadadevi	Khadadevi,Khandadevi,Khānḍādevī,Khā̃ḍādevi̇̄	27.43993	85.94839	A	ADMD	NP		3				0		1452	Asia/Kathmandu	2026-01-19
+10323706	Ḍaḍuwā	Daduwa	Daduwa,Ḍaḍuwā	27.49349	85.98889	A	ADMD	NP		00				0		1911	Asia/Kathmandu	2015-06-10
+10323707	Bhadaure	Bhadaure	Bhadaure	27.47114	85.97893	A	ADMD	NP		00				0		1543	Asia/Kathmandu	2015-06-10
+10323712	Piṅkhuri̇̄	Pinkhuri	Pinkhuri,Piṅkhuri̇̄,Piṅkhurī	27.45311	85.99112	A	ADMD	NP		00				0		1088	Asia/Kathmandu	2015-06-10
+10323718	Mākādum	Makadum	Makadum,Mākādum	27.44968	85.95166	A	ADMD	NP		00				0		1356	Asia/Kathmandu	2015-06-10
+10323720	Majuwā	Majuwa	Majuwa,Majuwā	27.44961	85.91185	A	ADMD	NP		00				0		1368	Asia/Kathmandu	2015-06-10
+10323723	Khaniyāpāni̇̄	Khaniyapani	Khaniyapani,Khaniyāpāni̇̄,Khaniyāpānī	27.46328	85.88726	A	ADMD	NP		00				0		1746	Asia/Kathmandu	2015-06-10
+10323724	Rākāthum	Rakathum	Rakathum,Rākāthum	27.43785	85.88542	A	ADMD	NP		00				0		1168	Asia/Kathmandu	2015-06-10
+10323729	Jhāngājholi̇̄	Jhangajholi	Jhangajholi,Jhāngājholi̇̄,Jhāngājholī	27.4014	85.88585	A	ADMD	NP		00				0		684	Asia/Kathmandu	2015-06-10
+10323734	Bhirpāni̇̄	Bhirpani	Bhirpani,Bhirpāni̇̄,Bhirpānī	27.41539	85.94238	A	ADMD	NP		00				0		1075	Asia/Kathmandu	2015-06-10
+10323737	Pakarwās	Pakarwas	Pakarwas,Pakarwās	27.40204	85.97993	A	ADMD	NP		00				0		1232	Asia/Kathmandu	2015-06-10
+10323741	Bhaṭauli̇̄	Bhatauli	Bhatauli,Bhaṭauli̇̄,Bhaṭaulī	27.42616	85.99041	A	ADMD	NP		00				0		1156	Asia/Kathmandu	2015-06-10
+10323744	Shitalpāṭi̇̄	Shitalpati	Shitalpati,Shitalpāṭi̇̄,Shitalpāṭī	27.37689	85.94259	A	ADMD	NP		00				0		685	Asia/Kathmandu	2015-06-10
+10323745	Purāno Jhāngājholi̇̄	Purano Jhangajholi	Purano Jhangajholi,Purāno Jhāngājholi̇̄,Purāno Jhāngājholī	27.38496	85.90926	A	ADMD	NP		00				0		794	Asia/Kathmandu	2015-06-10
+10323798	Siddheshwar	Siddheshwar		27.22709	85.93028	A	ADMD	NP		00				0		782	Asia/Kathmandu	2015-06-10
+10323805	Meluṅ	Melun	Melun,Meluṅ	27.51325	86.07497	A	ADMD	NP		3				0		1134	Asia/Kathmandu	2025-04-15
+10323828	Buḍhākhāni̇̄	Budhakhani	Budhakhani,Buḍhākhāni̇̄,Buḍhākhānī	27.42258	85.67277	A	ADMD	NP		3				0		1297	Asia/Kathmandu	2025-04-15
+10323833	Ḍā̃ḍākharka	Dadakharka	Dadakharka,Dandakharka,Ḍānḍākharka,Ḍā̃ḍākharka	27.51421	86.01924	A	ADMD	NP		3				0		1775	Asia/Kathmandu	2025-04-15
+10323841	Bheḍpu	Bhedpu	Bhedpu,Bheḍpu	27.53542	86.04959	A	ADMD	NP		3				0		1832	Asia/Kathmandu	2025-04-15
+10323847	Bhiṅkhori̇̄	Bhinkhori	Bhinkhori,Bhinkori,Bhinkori̇̄,Bhinkorī,Bhiṅkhori̇̄,Bhiṅkhorī	27.4297	85.75231	A	ADMD	NP		3				0		1072	Asia/Kathmandu	2025-04-15
+10323852	Rāni̇̄churi̇̄	Ranichuri	Ranichuri,Rāni̇̄churi̇̄,Rānīchurī	27.18147	85.98999	A	ADMD	NP		00				0		515	Asia/Kathmandu	2015-07-05
+10323854	Mālu	Malu	Malu,Mālu	27.51822	86.10401	A	ADMD	NP		3				0		1370	Asia/Kathmandu	2025-04-15
+10323856	Shahare	Shahare		27.50505	86.1162	A	ADMD	NP		00				0		1071	Asia/Kathmandu	2015-06-10
+10323865	Japhe	Japhe	Japhe	27.55021	86.0987	A	ADMD	NP		3				0		1178	Asia/Kathmandu	2025-04-15
+10323866	Jhule	Jhule	Jhule	27.563	86.11827	A	ADMD	NP		3				0		1758	Asia/Kathmandu	2025-04-15
+10323875	Bankhu	Bankhu		27.37771	85.67009	A	ADMD	NP		00				0		1576	Asia/Kathmandu	2015-06-10
+10323877	Netrakāli̇̄	Netrakali	Netrakali,Netrakāli̇̄,Netrakālī	27.39621	85.74282	A	ADMD	NP		00				0		1268	Asia/Kathmandu	2015-06-10
+10323878	Shānteshwari̇̄	Shanteshwari	Shanteshwari,Shānteshwari̇̄,Shānteshwarī	27.39161	85.72512	A	ADMD	NP		00				0		1770	Asia/Kathmandu	2015-06-10
+10323879	Bhimān	Bhiman		27.15024	85.93159	A	ADMD	NP		00				0		499	Asia/Kathmandu	2015-06-10
+10323886	Māisthān	Maisthan	Maisthan,Māisthān	27.06856	85.86265	A	ADMD	NP		00				0		431	Asia/Kathmandu	2026-03-11
+10323910	Bhirkot	Bhirkot	Bhirkot	27.58745	86.09845	A	ADMD	NP		3				0		1460	Asia/Kathmandu	2025-04-15
+10323920	Gairi̇̄mudi̇̄	Gairimudi	Gairimudi,Gairi̇̄mudi̇̄,Gairīmudī	27.60918	86.10778	A	ADMD	NP		3				0		1267	Asia/Kathmandu	2025-04-15
+10323930	Nāmdu	Namdu	Namdu,Nāmdu	27.62344	86.0961	A	ADMD	NP		3				0		1250	Asia/Kathmandu	2025-04-15
+10323934	Jānaki̇̄nagar	Janakinagar	Janakinagar,Jānaki̇̄nagar,Jānakīnagar	27.0261	85.52403	A	ADMD	NP		00				0		125	Asia/Kathmandu	2015-06-10
+10323935	Piḍāri̇̄	Pidari	Pidari,Piḍāri̇̄,Piḍārī	27.00352	85.54922	A	ADMD	NP		00				0		113	Asia/Kathmandu	2015-06-10
+10323936	Lakṣmi̇̄pur	Laksmipur	Laksmipur,Lakṣmi̇̄pur,Lakṣmīpur	27.00326	85.58087	A	ADMD	NP		00				0		114	Asia/Kathmandu	2015-06-10
+10323937	Jabdi̇̄	Jabdi	Jabdi,Jabdi̇̄,Jabdī	27.02532	85.61345	A	ADMD	NP		00				0		130	Asia/Kathmandu	2015-07-05
+10323938	Ishwarpur	Ishwarpur	Ishwarpur,Ishworpur	27.0048	85.61587	A	ADMD	NP		2				0		123	Asia/Kathmandu	2026-01-19
+10323939	Haripur	Haripur		27.02448	85.58192	A	ADMD	NP		2				0		122	Asia/Kathmandu	2026-01-19
+10323940	Lālbandi̇̄	Lalbandi	Lalbandi,Lālbandi̇̄,Lālbandī	27.05429	85.63239	A	ADMD	NP		2				0		153	Asia/Kathmandu	2026-01-19
+10323941	Pattharkoṭ	Pattharkot		27.08857	85.65587	A	ADMD	NP		00				0		187	Asia/Kathmandu	2015-07-05
+10323942	Sāsāpur	Sasapur		27.08904	85.58999	A	ADMD	NP		00				0		150	Asia/Kathmandu	2015-06-10
+10323943	Sahiluṅgeshwar	Sahilungeshwar	Sahilungeshwar,Sahiluṅgeshwar	27.58606	86.01196	A	ADMD	NP		3				0		2338	Asia/Kathmandu	2025-04-15
+10323944	Atrauli̇̄	Atrauli	Atrauli,Atrauli̇̄,Atraulī	27.11728	85.59593	A	ADMD	NP		00				0		189	Asia/Kathmandu	2015-06-10
+10323946	Dhuṅgri̇̄kholā	Dhungrikhola	Dhungrikhola,Dhuṅgri̇̄kholā,Dhuṅgrīkholā	27.10094	85.51024	A	ADMD	NP		00				0		134	Asia/Kathmandu	2015-06-10
+10323947	Ghurkauli̇̄	Ghurkauli	Ghurkauli,Ghurkauli̇̄,Ghurkaulī	27.06438	85.54498	A	ADMD	NP		00				0		129	Asia/Kathmandu	2015-06-10
+10323948	Ghyān Sukāṭhokar	Ghyan Sukathokar	Ghyan Sukathokar,Ghyān Sukāṭhokar	27.5601	86.03684	A	ADMD	NP		3				0		1644	Asia/Kathmandu	2025-04-15
+10325792	Bhimeshwar	Bhimeshwar	Bhimeshwar	27.31939	85.98309	A	ADMD	NP		00				0		764	Asia/Kathmandu	2015-06-10
+10328189	Mrige	Mrige	Mrige	27.61623	86.15195	A	ADMD	NP		3				0		1780	Asia/Kathmandu	2025-04-15
+10328192	Jiri̇̄	Jiri	Jiri,Jiri̇̄,Jirī	27.61203	86.22486	A	ADMD	NP		3				0		1936	Asia/Kathmandu	2025-04-15
+10328205	Kālinjor	Kalinjor	Kalinjor,Kālinjor	27.08539	85.77263	A	ADMD	NP		00				0		455	Asia/Kathmandu	2015-06-10
+10328214	Powaṭi̇̄	Powati	Powati,Powaṭi̇̄,Powaṭī	27.58786	86.06849	A	ADMD	NP		3				0		1273	Asia/Kathmandu	2025-04-15
+10328245	Khairmārā	Khairmara	Khairmara,Khairmārā	27.05722	85.79695	A	ADMD	NP		00				0		269	Asia/Kathmandu	2015-06-10
+10328250	Parwāni̇̄pur	Parwanipur	Parwanipur,Parwāni̇̄pur,Parwānīpur	27.10233	85.75581	A	ADMD	NP		00				0		612	Asia/Kathmandu	2015-06-10
+10328367	Majhuwa	Majhuwa	Majhuwa	27.33113	85.93471	A	ADMD	NP		00				0		1372	Asia/Kathmandu	2015-06-10
+10328373	Amale	Amale	Amale	27.31667	85.85886	A	ADMD	NP		00				0		914	Asia/Kathmandu	2015-07-05
+10328376	Bhadpakāli̇̄	Bhadpakali	Bhadpakali,Bhadpakāli̇̄,Bhadpakālī	27.28968	85.92062	A	ADMD	NP		00				0		949	Asia/Kathmandu	2015-06-10
+10328384	Jalkanyā	Jalkanya	Jalkanya,Jalkanyā	27.30091	85.96592	A	ADMD	NP		00				0		996	Asia/Kathmandu	2015-06-10
+10328389	Ratanchurā	Ratanchura	Ratanchura,Ratanchurā	27.277	85.99023	A	ADMD	NP		00				0		1166	Asia/Kathmandu	2015-06-10
+10328398	Siddheshwar	Siddheshwar	Siddheshwar	27.25145	85.92484	A	ADMD	NP		00				0		865	Asia/Kathmandu	2015-06-10
+10328402	Ḍāḍhi̇̄ Gurānse	Dadhi Guranse	Dadhi Guranse,Ḍāḍhi̇̄ Gurānse,Ḍāḍhī Gurānse	27.27552	85.8897	A	ADMD	NP		00				0		1017	Asia/Kathmandu	2015-06-10
+10328410	Kapilākoţ	Kapilakot	Kapilakot,Kapilākoţ	27.30229	85.75358	A	ADMD	NP		CR	05			0		1083	Asia/Kathmandu	2015-06-10
+10328411	Laprāk	Laprak	Laprak,Laprāk	28.25424	84.78469	A	ADMD	NP		00				0		2778	Asia/Kathmandu	2015-07-05
+10328414	Bārpāk	Barpak	Barpak,Bārpāk	28.23072	84.75255	A	ADMD	NP		00				0		1929	Asia/Kathmandu	2015-07-05
+10328417	Netrakāli̇̄	Netrakali	Netrakali,Netrakāli̇̄,Netrakālī	27.35201	85.75481	A	ADMD	NP		CR	05			0		1284	Asia/Kathmandu	2015-06-10
+10328418	Gumdā	Gumda	Gumda,Gumdā	28.21824	84.83963	A	ADMD	NP		00				0		1796	Asia/Kathmandu	2015-06-10
+10328422	Rāni̇̄gañj	Raniganj	Raniganj,Rāni̇̄gañj,Rānīgañj	27.03934	85.6654	A	ADMD	NP		00				0		161	Asia/Kathmandu	2015-06-10
+10328423	Bhaktipur	Bhaktipur		27.01891	85.68725	A	ADMD	NP		00				0		171	Asia/Kathmandu	2015-06-10
+10328424	Ṭhulopātal	Thulopatal	Thulopatal,Ṭhulopātal	27.59146	86.18057	A	ADMD	NP		3				0		1986	Asia/Kathmandu	2025-04-15
+10328436	Gairi̇̄mudi̇̄	Gairimudi	Gairimudi,Gairi̇̄mudi̇̄,Gairīmudī	27.59635	86.13637	A	ADMD	NP		3				0		1943	Asia/Kathmandu	2025-04-15
+10328450	Hāwā	Hawa	Hawa,Hāwā	27.5626	86.15347	A	ADMD	NP		3				0		2162	Asia/Kathmandu	2025-04-15
+10328458	Uiyā	Uiya	Uiya,Uiyā	28.2954	84.86859	A	ADMD	NP		00				0		2932	Asia/Kathmandu	2015-07-05
+10328464	Mahādevsthān	Mahadevsthan	Mahadevsthan,Mahādevsthān	27.28752	85.78346	A	ADMD	NP		CR	05			0		877	Asia/Kathmandu	2015-06-10
+10328476	Rasanālu	Rasanalu		27.56017	86.21369	A	ADMD	NP		00				0		2322	Asia/Kathmandu	2015-06-10
+10328488	Betāli̇̄	Betali	Betali,Betāli̇̄,Betālī	27.522	86.18268	A	ADMD	NP		00				0		2091	Asia/Kathmandu	2015-06-10
+10328495	Chyāmā	Chyama	Chyama,Chyāmā	27.53014	86.13905	A	ADMD	NP		3				0		1664	Asia/Kathmandu	2025-04-15
+10328503	Tāmājor	Tamajor	Tamajor,Tāmājor	27.35199	85.78029	A	ADMD	NP		CR	05			0		1226	Asia/Kathmandu	2015-06-10
+10328514	Jhāngājholi̇̄	Jhangajholi	Jhangajholi,Jhāngājholi̇̄,Jhāngājholī	27.36959	85.83463	A	ADMD	NP		CR	05			0		1331	Asia/Kathmandu	2015-06-10
+10328515	Purāno Jhāngājholi̇̄	Purano Jhangajholi	Purano Jhangajholi,Purāno Jhāngājholi̇̄,Purāno Jhāngājholī	27.36633	85.85998	A	ADMD	NP		CR	05			0		1399	Asia/Kathmandu	2015-06-10
+10328516	Keraũjā	Kerauja	Kerauja,Keraunja,Keraunjā,Keraũjā	28.33758	85.00262	A	ADMD	NP		00				0		4371	Asia/Kathmandu	2020-06-13
+10328517	Kāshigāũ	Kashigau	Kashigau,Kāshigāũ	28.19696	84.92621	A	ADMD	NP		00				0		2795	Asia/Kathmandu	2015-06-10
+10328536	Goli̇̄	Goli	Goli,Goli̇̄,Golī	27.51193	86.42663	A	ADMD	NP		00				0		3220	Asia/Kathmandu	2015-06-10
+10328538	Ratanchurā	Ratanchura	Ratanchura,Ratanchurā	27.26909	86.00778	A	ADMD	NP		CR	05			0		1068	Asia/Kathmandu	2015-06-10
+10328541	Ḍā̃ḍi̇̄gurā̃se	Dadigurase	Dadigurase,Dandiguranse,Ḍānḍīgurānse,Ḍā̃ḍi̇̄gurā̃se	27.2683	85.85696	A	ADMD	NP		CR	05			0		774	Asia/Kathmandu	2015-06-10
+10328555	Bhimeshwar	Bhimeshwar	Bhimeshwar	27.30824	86.00158	A	ADMD	NP		CR	05			0		820	Asia/Kathmandu	2015-06-10
+10328559	Bhaluwājor	Bhaluwajor	Bhaluwajor,Bhaluwājor	27.35377	86.01865	A	ADMD	NP		CR	05			0		1415	Asia/Kathmandu	2015-06-10
+10328567	Rāmechhāp	Ramechhap	Ramechhap,Rāmechhāp	27.30114	86.16467	A	ADMD	NP		3	05			0		1535	Asia/Kathmandu	2026-01-19
+10328568	Manthali Municipality	Manthali Municipality	Manthali,Manthali Municipality,Manthali̇̄,Manthalī,RHP	27.37073	86.05003	A	ADMD	NP		CR	05			0		735	Asia/Kathmandu	2020-02-21
+10328599	Tulasi̇̄chaurā	Tulasichaura	Tulasichaura,Tulasi̇̄chaurā,Tulasīchaurā	27.03598	85.947	A	ADMD	NP		00				0		363	Asia/Kathmandu	2015-06-10
+10328606	Māisthān	Maisthan	Maisthan,Māisthān	27.06525	85.87735	A	ADMD	NP		00				0		452	Asia/Kathmandu	2015-06-10
+10328610	Beṅgāḍābar	Bengadabar	Bengadabar,Beṅgāḍābar	27.00587	85.94529	A	ADMD	NP		00				0		328	Asia/Kathmandu	2015-06-10
+10328611	Puṣpabalpur	Puspabalpur	Puspabalpur,Puṣpabalpur	27.01142	85.97981	A	ADMD	NP		00				0		373	Asia/Kathmandu	2015-06-10
+10328612	Rāni̇̄bās	Ranibas	Ranibas,Rāni̇̄bās,Rānībās	27.04179	85.98912	A	ADMD	NP		00				0		461	Asia/Kathmandu	2015-06-10
+10328624	Bāseshwar	Baseshwar	Baseshwar,Bāseshwar	27.2604	86.0208	A	ADMD	NP		CR	05			0		1202	Asia/Kathmandu	2015-07-05
+10328636	Rāmpur	Rampur	Rampur,Rāmpur	27.27161	86.16087	A	ADMD	NP		00				0		1052	Asia/Kathmandu	2015-07-05
+10328643	Bhubaneshwari̇̄ Gwālṭār	Bhubaneshwari Gwaltar	Bhubaneshwari Gwaltar,Bhubaneshwari̇̄ Gwālṭār,Bhubaneshwarī Gwālṭār	27.2615	86.07306	A	ADMD	NP		CR	05			0		843	Asia/Kathmandu	2015-06-10
+10328646	Bitijor Bagainchā	Bitijor Bagaincha	Bitijor Bagaincha,Bitijor Bagainchā	27.24215	86.1088	A	ADMD	NP		CR	05			0		809	Asia/Kathmandu	2015-07-05
+10328650	Bitijor Bagainchā	Bitijor Bagaincha	Bitijor Bagaincha,Bitijor Bagainchā	27.23444	86.12821	A	ADMD	NP		00				0		1261	Asia/Kathmandu	2015-06-10
+10328691	Sālu	Salu	Salu,Sālu	27.36316	86.13446	A	ADMD	NP		CR	05			0		1265	Asia/Kathmandu	2015-07-05
+10328695	Sunārpāni̇̄	Sunarpani	Sunarpani,Sunārpāni̇̄,Sunārpānī	27.35365	86.09533	A	ADMD	NP		CR	05			0		891	Asia/Kathmandu	2015-06-10
+10328701	Kaṭhjor	Kathjor	Kathjor,Kaṭhjor	27.38861	86.10914	A	ADMD	NP		CR	05			0		1457	Asia/Kathmandu	2015-07-05
+10328702	Deurāli̇̄	Deurali	Deurali,Deurāli̇̄,Deurālī	27.36214	86.16895	A	ADMD	NP		00				0		1120	Asia/Kathmandu	2015-06-10
+10328708	Sukājor	Sukajor	Sukajor,Sukājor	27.30164	86.10022	A	ADMD	NP		CR	05			0		1227	Asia/Kathmandu	2015-06-10
+10328723	Kholāgāũ	Kholagau	Kholagau,Kholagaun,Kholāgāun,Kholāgāũ	27.19094	86.25964	A	ADMD	NP		00				0		1516	Asia/Kathmandu	2015-06-10
+10328731	Goṭhgāũ	Gothgau	Gothgau,Gothgaun,Goṭhgāun,Goṭhgāũ	27.3811	86.20457	A	ADMD	NP		00				0		1094	Asia/Kathmandu	2015-07-05
+10328733	Sunnām	Sunnam	Sunnam,Sunnām	27.21386	86.21824	A	ADMD	NP		00				0		1155	Asia/Kathmandu	2015-06-10
+10328741	Ḍuḍbhañjyāṅ	Dudbhanjyan	Dudbhanjyan,Ḍuḍbhañjyāṅ	27.21932	86.15847	A	ADMD	NP		00				0		929	Asia/Kathmandu	2015-06-10
+10328747	Ḍānḍuwa	Danduwa		27.49344	86.00802	A	ADMD	NP		00				0		1742	Asia/Kathmandu	2015-06-10
+10328754	Ratanchurā	Ratanchura	Ratanchura,Ratanchurā	27.24832	85.99922	A	ADMD	NP		00				0		1395	Asia/Kathmandu	2015-06-10
+10328755	Bāseshwar	Baseshwar	Baseshwar,Bāseshwar	27.24793	86.01689	A	ADMD	NP		00				0		1305	Asia/Kathmandu	2015-06-10
+10328764	Chyānam	Chyanam		27.28309	86.42991	A	ADMD	NP		00				0		1259	Asia/Kathmandu	2015-06-10
+10328765	Mulkharka	Mulkharka		27.27303	86.38933	A	ADMD	NP		00				0		1610	Asia/Kathmandu	2015-06-10
+10328766	Betini̇̄	Betini	Betini,Betini̇̄,Betinī	27.27548	86.46118	A	ADMD	NP		00				0		1294	Asia/Kathmandu	2015-06-10
+10328767	Phulāsi̇̄	Phulasi	Phulasi,Phulāsi̇̄,Phulāsī	27.48771	86.06365	A	ADMD	NP		00				0		1274	Asia/Kathmandu	2015-06-10
+10328768	Kuntādevi̇̄	Kuntadevi	Kuntadevi,Kuntādevi̇̄,Kuntādevī	27.32447	86.4539	A	ADMD	NP		00				0		1337	Asia/Kathmandu	2015-06-10
+10328769	Baruṇeshwar	Baruneshwar		27.34392	86.47835	A	ADMD	NP		00				0		1638	Asia/Kathmandu	2015-06-10
+10328773	Bhuvaneshwari̇̄	Bhuvaneshwari	Bhuvaneshwari,Bhuvaneshwari̇̄,Bhuvaneshwarī	27.2482	86.05014	A	ADMD	NP		00				0		1220	Asia/Kathmandu	2015-06-10
+10328778	Bitijor Bagainchā	Bitijor Bagaincha	Bitijor Bagaincha,Bitijor Bagainchā	27.22833	86.10511	A	ADMD	NP		00				0		886	Asia/Kathmandu	2015-06-10
+10328782	Tinkanye	Tinkanye	Tinkanye	27.21725	86.06916	A	ADMD	NP		00				0		962	Asia/Kathmandu	2015-06-10
+10328788	Rāni̇̄churi̇̄	Ranichuri	Ranichuri,Rāni̇̄churi̇̄,Rānīchurī	27.2054	86.02305	A	ADMD	NP		00				0		1237	Asia/Kathmandu	2015-06-10
+10328800	Bālājor	Balajor	Balajor,Bālājor	27.17074	86.12512	A	ADMD	NP		00				0		843	Asia/Kathmandu	2015-07-05
+10328805	Bhimsthān	Bhimsthan	Bhimsthan,Bhimsthān	27.15645	86.0616	A	ADMD	NP		00				0		642	Asia/Kathmandu	2015-06-10
+10328812	Bhimān	Bhiman	Bhiman,Bhimān	27.13054	86.00435	A	ADMD	NP		00				0		522	Asia/Kathmandu	2015-06-10
+10328813	Belghāri̇̄	Belghari	Belghari,Belghāri̇̄,Belghārī	27.12569	86.04374	A	ADMD	NP		00				0		564	Asia/Kathmandu	2015-07-05
+10328815	Jarāyoṭār	Jarayotar	Jarayotar,Jarāyoṭār	27.1192	86.12122	A	ADMD	NP		00				0		640	Asia/Kathmandu	2015-07-05
+10328816	Rāni̇̄bās	Ranibas	Ranibas,Rāni̇̄bās,Rānībās	27.04651	86.02021	A	ADMD	NP		CR	05			0		459	Asia/Kathmandu	2015-06-10
+10328819	Rāṅgādip	Rangadip		27.37384	86.4718	A	ADMD	NP		00				0		1968	Asia/Kathmandu	2015-06-10
+10328820	Prāpchā	Prapcha		27.36452	86.42047	A	ADMD	NP		00				0		1372	Asia/Kathmandu	2015-06-10
+10328821	Shri̇̄chaur	Shrichaur	Shrichaur,Shri̇̄chaur,Shrīchaur	27.38279	86.38989	A	ADMD	NP		00				0		2190	Asia/Kathmandu	2015-06-10
+10328822	Harkapur	Harkapur		27.34648	86.40341	A	ADMD	NP		00				0		1677	Asia/Kathmandu	2015-06-10
+10328823	Sāhare	Sahare	Sahar,Sahare,Shahare,Sāhare	27.49853	86.12327	A	ADMD	NP		3				0		1252	Asia/Kathmandu	2025-04-15
+10328824	Kaṭuñje	Katunje		27.32039	86.3846	A	ADMD	NP		00				0		1894	Asia/Kathmandu	2015-06-10
+10328825	Phedi̇̄guth	Phediguth	Phediguth,Phedi̇̄guth,Phedīguth	27.30583	86.33993	A	ADMD	NP		00				0		1409	Asia/Kathmandu	2015-06-10
+10328826	Phulbāri̇̄	Phulbari	Phulbari,Phulbāri̇̄,Phulbārī	27.32536	86.29893	A	ADMD	NP		00				0		1127	Asia/Kathmandu	2015-06-10
+10328827	Rāni̇̄ban	Raniban	Raniban,Rāni̇̄ban,Rānīban	27.34139	86.26977	A	ADMD	NP		00				0		1413	Asia/Kathmandu	2015-06-10
+10328828	Bilandu	Bilandu		27.35192	86.32538	A	ADMD	NP		00				0		1861	Asia/Kathmandu	2015-06-10
+10328829	Pokali̇̄	Pokali	Pokali,Pokali̇̄,Pokalī	27.40937	86.30136	A	ADMD	NP		00				0		2111	Asia/Kathmandu	2015-06-10
+10328830	Ragani̇̄	Ragani	Ragani,Ragani̇̄,Raganī	27.44037	86.29455	A	ADMD	NP		00				0		1981	Asia/Kathmandu	2015-06-10
+10328831	Khiji̇̄ Chaṇḍeshwari̇̄	Khiji Chandeshwari	Khiji Chandeshwari,Khiji̇̄ Chaṇḍeshwari̇̄,Khijī Chaṇḍeshwarī	27.4564	86.31704	A	ADMD	NP		00				0		1720	Asia/Kathmandu	2015-06-10
+10328832	Khiji̇̄kāti̇̄	Khijikati	Khijikati,Khiji̇̄kāti̇̄,Khijīkātī	27.47716	86.33182	A	ADMD	NP		00				0		2377	Asia/Kathmandu	2015-06-10
+10328838	Khimti̇̄	Khimti	Khimti,Khimti̇̄,Khimtī	27.45362	86.13714	A	ADMD	NP		00				0		1392	Asia/Kathmandu	2015-07-05
+10328851	Gelu	Gelu		27.45313	86.0789	A	ADMD	NP		00				0		1326	Asia/Kathmandu	2015-06-10
+10328865	Esam	Esam	Esam	27.3769	86.25367	A	ADMD	NP		00				0		1364	Asia/Kathmandu	2015-07-05
+10328867	Narmadeshwar	Narmadeshwar	Narmadeshwar	27.36552	86.23358	A	ADMD	NP		00				0		741	Asia/Kathmandu	2015-06-10
+10328869	Sā̃ghuṭār	Saghutar	Saghutar,Sanghutar,Sānghuṭār,Sā̃ghuṭār	27.35948	86.20478	A	ADMD	NP		00				0		932	Asia/Kathmandu	2015-07-05
+10328873	Simhadevi̇̄	Simhadevi	Simhadevi,Simhadevi̇̄,Simhadevī	27.3349	86.23342	A	ADMD	NP		00				0		1082	Asia/Kathmandu	2015-06-10
+10328875	Himgaṅgā	Himganga	Himganga,Himgaṅgā	27.31345	86.20244	A	ADMD	NP		00				0		1162	Asia/Kathmandu	2015-06-10
+10328881	Kāli̇̄kā	Kalika	Kalika,Kāli̇̄kā,Kālīkā	27.30171	86.2636	A	ADMD	NP		00				0		1391	Asia/Kathmandu	2015-07-05
+10328888	Okhreni̇̄	Okhreni	Okhreni,Okhreni̇̄,Okhrenī	27.31376	86.14182	A	ADMD	NP		00				0		1624	Asia/Kathmandu	2015-06-10
+10328896	Rāmpur	Rampur	Rampur,Rāmpur	27.27393	86.17208	A	ADMD	NP		00				0		1127	Asia/Kathmandu	2015-06-10
+10328900	Ḍunḍbhañjyāṅ	Dundbhanjyan	Dundbhanjyan,Ḍunḍbhañjyāṅ	27.2506	86.16812	A	ADMD	NP		00				0		517	Asia/Kathmandu	2015-06-10
+10328906	Palāpu	Palapu	Palapu,Palāpu	27.26851	86.23728	A	ADMD	NP		00				0		1281	Asia/Kathmandu	2015-06-10
+10328909	Pokhari̇̄	Pokhari	Pokhari,Pokhari̇̄,Pokharī	27.25091	86.19546	A	ADMD	NP		00				0		539	Asia/Kathmandu	2015-06-10
+10328910	Sahar	Sahar		27.49402	86.12981	A	ADMD	NP		00				0		935	Asia/Kathmandu	2015-06-10
+10328914	Namāḍi̇̄	Namadi	Namadi,Namāḍi̇̄,Namāḍī	27.49308	86.18131	A	ADMD	NP		00				0		2130	Asia/Kathmandu	2015-06-10
+10328924	Bhuji̇̄	Bhuji	Bhuji,Bhuji̇̄,Bhujī	27.49751	86.25166	A	ADMD	NP		00				0		2358	Asia/Kathmandu	2015-06-10
+10328925	Durāgāũ	Duragau	Duragau,Duragaun,Durāgāun,Durāgāũ	27.47032	86.22266	A	ADMD	NP		00				0		1810	Asia/Kathmandu	2015-06-10
+10328936	Pharpu	Pharpu		27.47027	86.15545	A	ADMD	NP		00				0		1687	Asia/Kathmandu	2015-06-10
+10328937	Khimti̇̄	Khimti	Khimti,Khimti̇̄,Khimtī	27.44782	86.15545	A	ADMD	NP		00				0		1792	Asia/Kathmandu	2015-06-10
+10328955	Sainpu	Sainpu		27.43423	86.22535	A	ADMD	NP		00				0		1625	Asia/Kathmandu	2015-06-10
+10328959	Ṭārkerābāri̇̄	Tarkerabari	Tarkerabari,Ṭārkerābāri̇̄,Ṭārkerābārī	27.40871	86.26334	A	ADMD	NP		00				0		1118	Asia/Kathmandu	2015-07-05
+10328960	Gāmnāṅṭār	Gamnantar		27.39319	86.25724	A	ADMD	NP		00				0		1324	Asia/Kathmandu	2015-07-05
+10328971	Nāgdaha	Nagdaha		27.41835	86.15099	A	ADMD	NP		00				0		1534	Asia/Kathmandu	2015-06-10
+10328982	Bhimān	Bhiman	Bhiman,Bhimān	27.1087	86.00738	A	ADMD	NP		CR	05			0		884	Asia/Kathmandu	2015-06-10
+10328986	Kaṭhajor	Kathajor		27.39468	86.13524	A	ADMD	NP		00				0		1564	Asia/Kathmandu	2015-06-10
+10328989	Sālu	Salu		27.38154	86.14433	A	ADMD	NP		00				0		1426	Asia/Kathmandu	2015-06-10
+10328991	Deurāli̇̄	Deurali	Deurali,Deurāli̇̄,Deurālī	27.38224	86.17471	A	ADMD	NP		00				0		1375	Asia/Kathmandu	2015-06-10
+10328992	Goṭhgāũ	Gothgau	Gothgau,Gothgaun,Goṭhgāun,Goṭhgāũ	27.38337	86.20071	A	ADMD	NP		00				0		1180	Asia/Kathmandu	2015-06-10
+10328996	Esam	Esam		27.38113	86.23311	A	ADMD	NP		00				0		1071	Asia/Kathmandu	2015-06-10
+10329000	Bālājor	Balajor	Balajor,Bālājor	27.17115	86.14124	A	ADMD	NP		00				0		923	Asia/Kathmandu	2015-06-10
+10329007	Belghāri̇̄	Belghari	Belghari,Belghāri̇̄,Belghārī	28.20872	85.47666	A	ADMD	NP		3	05			0		3190	Asia/Kathmandu	2025-04-15
+10329025	Tasarankholā	Tasarankhola	Tasarankhola,Tasarankholā	27.18651	86.17873	A	ADMD	NP		00				0		1287	Asia/Kathmandu	2015-06-10
+10329171	Jarāyoṭār	Jarayotar	Jarayotar,Jarāyoṭār	27.09722	86.12183	A	ADMD	NP		CR	05			0		482	Asia/Kathmandu	2015-06-10
+10329177	Chankhu	Chankhu		27.45476	86.04499	A	ADMD	NP		00				0		1251	Asia/Kathmandu	2015-06-10
+10329186	Belghāri̇̄	Belghari	Belghari,Belghāri̇̄,Belghārī	27.11091	86.05427	A	ADMD	NP		CR	05			0		588	Asia/Kathmandu	2015-06-10
+10329191	Hatpate	Hatpate	Hatpate	27.06121	86.0895	A	ADMD	NP		CR	05			0		511	Asia/Kathmandu	2015-06-10
+10329200	Nipāne	Nipane	Nipane,Nipāne	27.02397	86.0852	A	ADMD	NP		CR	05			0		372	Asia/Kathmandu	2015-06-10
+10329214	Tilbun	Tilbun		27.43183	86.11146	A	ADMD	NP		00				0		1079	Asia/Kathmandu	2015-06-10
+10329215	Bāhuntilpuṅ	Bahuntilpun	Bahuntilpun,Bāhuntilpuṅ	27.16067	86.21714	A	ADMD	NP		00				0		1419	Asia/Kathmandu	2015-06-10
+10329218	Tribhuwan Āmboṭe	Tribhuwan Ambote	Tribhuwan Ambote,Tribhuwan Āmboṭe	27.10773	86.20435	A	ADMD	NP		00				0		838	Asia/Kathmandu	2015-07-05
+10329229	Lāmpanṭār	Lampantar	Lampantar,Lāmpanṭār	27.11856	86.17027	A	ADMD	NP		00				0		751	Asia/Kathmandu	2015-07-05
+10329239	Lekhāni̇̄	Lekhani	Lekhani,Lekhāni̇̄,Lekhānī	27.14	86.39662	A	ADMD	NP		00				0		1104	Asia/Kathmandu	2015-06-10
+10329241	Māne Bhañjyāṅ	Mane Bhanjyan	Mane Bhanjyan,Manebhanjyang,Māne Bhañjyāṅ	27.21847	86.46817	A	ADMD	NP		1				0		1211	Asia/Kathmandu	2025-09-09
+10329243	Thākle	Thakle		27.17744	86.44213	A	ADMD	NP		00				0		908	Asia/Kathmandu	2015-06-10
+10329245	Ṭoksel	Toksel		27.20261	86.4086	A	ADMD	NP		00				0		1248	Asia/Kathmandu	2015-06-10
+10329375	Jarāyoṭār	Jarayotar	Jarayotar,Jarāyoṭār	27.14368	86.15837	A	ADMD	NP		00				0		844	Asia/Kathmandu	2015-06-10
+10329376	Bhaṭauli̇̄	Bhatauli	Bhatauli,Bhaṭauli̇̄,Bhaṭaulī	27.41461	86.02266	A	ADMD	NP		00				0		1163	Asia/Kathmandu	2015-06-10
+10329377	Pakarbās	Pakarbas		27.39504	86.00996	A	ADMD	NP		00				0		681	Asia/Kathmandu	2015-06-10
+10329379	Chisāpāni̇̄	Chisapani	Chisapani,Chisāpāni̇̄,Chisāpānī	27.41929	86.05315	A	ADMD	NP		00				0		884	Asia/Kathmandu	2015-06-10
+10329384	Khaṅsāṅ	Khansan	Khansan,Khaṅsāṅ	27.22858	86.27645	A	ADMD	NP		00				0		844	Asia/Kathmandu	2015-06-10
+10329394	Balkhu	Balkhu	Balkhu	27.2425	86.33448	A	ADMD	NP		00				0		890	Asia/Kathmandu	2015-06-10
+10329399	Sisneri̇̄	Sisneri	Sisneri,Sisneri̇̄,Sisnerī	27.23028	86.36864	A	ADMD	NP		00				0		1479	Asia/Kathmandu	2015-06-10
+10329408	Swalpā Thānā	Swalpa Thana	Swalpa Thana,Swalpā Thānā	27.2066	86.31387	A	ADMD	NP		00				0		974	Asia/Kathmandu	2015-06-10
+10329416	Mahādev Ḍāḍā	Mahadev Dada	Mahadev Dada,Mahādev Ḍāḍā	27.14624	86.29299	A	ADMD	NP		00				0		1620	Asia/Kathmandu	2015-07-05
+10329441	Ratnāwati̇̄	Ratnawati	Ratnawati,Ratnāwati̇̄,Ratnāwatī	27.1669	86.34785	A	ADMD	NP		00				0		1157	Asia/Kathmandu	2015-06-10
+10329443	Mainkhu	Mainkhu	Mainkhu	27.11774	86.35558	A	ADMD	NP		00				0		1240	Asia/Kathmandu	2015-07-05
+10329449	Jinākhu	Jinakhu	Jinakhu,Jinākhu	27.10056	86.25436	A	ADMD	NP		CR	05			0		921	Asia/Kathmandu	2015-07-05
+10329450	Nāgdaha	Nagdaha		27.40755	86.12017	A	ADMD	NP		00				0		1231	Asia/Kathmandu	2015-06-10
+10329451	Kaṭhjor	Kathjor		27.4024	86.10545	A	ADMD	NP		00				0		1007	Asia/Kathmandu	2015-06-10
+10329457	Bhai̇̄se	Bhaise	Bhaise,Bhai̇̄se,Bhaīse	27.48264	85.03439	A	ADMD	NP		00				0		692	Asia/Kathmandu	2015-06-10
+10329458	Jinākhu	Jinakhu		27.08031	86.22894	A	ADMD	NP		00				0		853	Asia/Kathmandu	2015-06-10
+10329472	Āmbhañjyāṅ	Ambhanjyan	Ambhanjyan,Āmbhañjyāṅ	27.45668	85.08901	A	ADMD	NP		00				0		769	Asia/Kathmandu	2015-06-10
+10329477	Nibuwāṭār	Nibuwatar	Nibuwatar,Nibuwāṭār	27.49125	85.08712	A	ADMD	NP		00				0		1269	Asia/Kathmandu	2015-06-10
+10329479	Buḍhichaur	Budhichaur	Budhichaur,Buḍhichaur	27.49105	85.11474	A	ADMD	NP		00				0		1551	Asia/Kathmandu	2015-06-10
+10329484	Makawānpurgaḍhi̇̄	Makawanpurgadhi	Makawanpur Gadhi,Makawanpurgadhi,Makawānpur Gaḍhi̇̄,Makawānpur Gaḍhī,Makawānpurgaḍhi̇̄,Makawānpurgaḍhī	27.44644	85.13161	A	ADMD	NP		3				0		808	Asia/Kathmandu	2026-02-10
+10329490	Bāsāmāḍi̇̄	Basamadi	Basamadi,Bāsāmāḍi̇̄,Bāsāmāḍī	27.46246	85.01613	A	ADMD	NP		00				0		866	Asia/Kathmandu	2015-06-10
+10329499	Padampokhari̇̄	Padampokhari	Padampokhari,Padampokhari̇̄,Padampokharī	27.41487	85.00408	A	ADMD	NP		00				0		465	Asia/Kathmandu	2015-06-10
+10329501	Heṭaudā	Hetauda	Hetauda,Heṭaudā	27.438	85.002	A	ADMD	NP		CR				0		482	Asia/Kathmandu	2016-10-06
+10329505	Lāmpanṭār	Lampantar		27.09417	86.17267	A	ADMD	NP		00				0		814	Asia/Kathmandu	2015-06-10
+10329508	Haṭiyā	Hatiya	Hatiya,Hatiyā,Haṭiyā	27.3879	85.12512	A	ADMD	NP		00				0		458	Asia/Kathmandu	2026-02-10
+10330029	Sirthauli̇̄	Sirthauli	Sirthaul,Sirthauli,Sirthauli̇̄,Sirthaulī	27.03454	86.1928	A	ADMD	NP		00				0		466	Asia/Kathmandu	2026-01-19
+10330034	Hatpate	Hatpate		27.04786	86.14151	A	ADMD	NP		00				0		382	Asia/Kathmandu	2015-06-10
+10330040	Churiyāmāi̇̄	Churiyamai	Churiyamai,Churiyāmāi̇̄,Churiyāmāī	27.38184	85.04062	A	ADMD	NP		00				0		554	Asia/Kathmandu	2015-06-10
+10330066	Mālṭā	Malta	Malta,Mālṭā	27.48987	85.2581	A	ADMD	NP		3				0		1530	Asia/Kathmandu	2025-04-15
+10330067	Bhaṭṭeḍāḍā	Bhattedada	Bhattedada,Bhaṭṭeḍāḍā	27.48969	85.28864	A	ADMD	NP		3				0		950	Asia/Kathmandu	2025-04-15
+10330116	Ṭānḍi̇̄	Tandi	Tandi,Ṭānḍi̇̄,Ṭānḍī	26.98238	86.23866	A	ADMD	NP		CR	05			0		199	Asia/Kathmandu	2015-07-05
+10330151	Churiyāmāi̇̄	Churiyamai	Churiyamai,Churiyāmāi̇̄,Churiyāmāī	27.36462	85.03342	A	ADMD	NP		00				0		693	Asia/Kathmandu	2015-06-10
+10330157	Hatiyā	Hatiya		27.35935	85.09913	A	ADMD	NP		00				0		608	Asia/Kathmandu	2015-06-10
+10330158	Harnāmāḍi̇̄	Harnamadi	Harnamadi,Harnāmāḍi̇̄,Harnāmāḍī	27.35633	85.12492	A	ADMD	NP		00				0		549	Asia/Kathmandu	2015-06-10
+10330160	Amalekhgañj	Amalekhganj	Amalekhganj,Amalekhgañj,Amlekhganj,Amlekhgañj	27.32354	85.03566	A	ADMD	NP		00				0		608	Asia/Kathmandu	2026-01-19
+10330168	Ratanpuri̇̄	Ratanpuri	Ratanpuri,Ratanpuri̇̄,Ratanpurī	27.27768	85.07657	A	ADMD	NP		00				0		279	Asia/Kathmandu	2015-06-10
+10330179	Ipā Pañchakanyā	Ipa Panchakanya	Ipa Panchakanya,Ipā Pañchakanyā	27.48488	85.22209	A	ADMD	NP		00				0		1490	Asia/Kathmandu	2015-06-10
+10330183	Ṭhiṅgan	Thingan	Thingan,Ṭhiṅgan	27.43224	85.21552	A	ADMD	NP		00				0		830	Asia/Kathmandu	2015-06-10
+10330188	Sukaurā	Sukaura	Sukaura,Sukaurā	27.45119	85.17415	A	ADMD	NP		00				0		1091	Asia/Kathmandu	2015-06-10
+10330199	Makawānpur Gaḍhi̇̄	Makawanpur Gadhi	Makawanpur Gadhi,Makawānpur Gaḍhi̇̄,Makawānpur Gaḍhī	27.41429	85.17962	A	ADMD	NP		00				0		892	Asia/Kathmandu	2015-06-10
+10330200	Harnāmāḍi̇̄	Harnamadi	Harnamadi,Harnāmāḍi̇̄,Harnāmāḍī	27.39219	85.15574	A	ADMD	NP		00				0		544	Asia/Kathmandu	2015-06-10
+10330206	Chhatiwan	Chhatiwan	Chhatiwan	27.37796	85.24734	A	ADMD	NP		00				0		447	Asia/Kathmandu	2015-06-10
+10330217	Jinākhu	Jinakhu	Jinakhu,Jinākhu	27.10301	86.26807	A	ADMD	NP		CR	05			0		1340	Asia/Kathmandu	2015-06-10
+10330224	Dudhauli̇̄	Dudhauli	Dudhauli,Dudhauli̇̄,Dudhaulī,Dudhouli	27.00929	86.22507	A	ADMD	NP		3	05			0		190	Asia/Kathmandu	2026-01-19
+10330232	Pyuṭār	Pyutar	Pyutar,Pyuṭār	27.46944	85.28551	A	ADMD	NP		3				0		1338	Asia/Kathmandu	2025-04-15
+10330234	Mahendra Ladābhi̇̄r	Mahendra Ladabhir	Mahendra Ladabhir,Mahendra Ladābhi̇̄r,Mahendra Ladābhīr	26.99586	86.30749	A	ADMD	NP		CR	05			0		212	Asia/Kathmandu	2015-07-05
+10330236	Kakur Ṭhākur	Kakur Thakur	Kakur Thakur,Kakur Ṭhākur	27.04971	86.33597	A	ADMD	NP		CR	05			0		962	Asia/Kathmandu	2015-06-10
+10330238	Āsrāṅ	Asran	Asran,Āsrāṅ	27.46204	85.31849	A	ADMD	NP		3				0		1352	Asia/Kathmandu	2025-04-15
+10330256	Gi̇̄mdi̇̄	Gimdi	Gimdi,Gimdi̇̄,Gimdī,Gi̇̄mdi̇̄,Gīmdī	27.44878	85.35872	A	ADMD	NP		3				0		1104	Asia/Kathmandu	2025-04-15
+10330278	Manthali̇̄	Manthali	Manthali,Manthali̇̄,Manthalī	27.43972	85.2942	A	ADMD	NP		00				0		1036	Asia/Kathmandu	2015-06-10
+10330280	Phāparbāri̇̄	Phaparbari	Phaparbari,Phāparbāri̇̄,Phāparbārī	27.32378	85.36676	A	ADMD	NP		00				0		324	Asia/Kathmandu	2015-07-05
+10330292	Hardeni̇̄	Hardeni	Hardeni,Hardeni̇̄,Hardenī	27.06685	86.37887	A	ADMD	NP		CR	05			0		745	Asia/Kathmandu	2015-07-05
+10330307	Ṭhiṅgan	Thingan		27.42576	85.26768	A	ADMD	NP		00				0		1209	Asia/Kathmandu	2015-06-10
+10330310	Hariharpur Gaḍhi̇̄	Hariharpur Gadhi	Harihapurgadhi,Hariharpur Gadhi,Hariharpur Gaḍhi̇̄,Hariharpur Gaḍhī,Hariharpurgadhi,Hari̇̄hapurgaḍhi̇̄,Harīhapurgaḍhī	27.24426	85.5551	A	ADMD	NP		3				0		240	Asia/Kathmandu	2026-01-19
+10330351	Rāi̇̄gāũ	Raigau	Raigau,Raigaun,Rāi̇̄gāũ,Rāīgāun	27.26119	85.42336	A	ADMD	NP		00				0		374	Asia/Kathmandu	2015-06-10
+10330352	Dhiyāl	Dhiyal	Dhiyal,Dhiyāl	27.25974	85.37892	A	ADMD	NP		00				0		382	Asia/Kathmandu	2026-02-10
+10330372	Mainkhu	Mainkhu	Mainkhu	27.10854	86.36288	A	ADMD	NP		CR	05			0		1101	Asia/Kathmandu	2015-06-10
+10330373	Shikharpur	Shikharpur	Shikharpur	27.40654	85.2925	A	ADMD	NP		00				0		728	Asia/Kathmandu	2026-02-10
+10330378	Ikuḍol	Ikudol	Ikudol,Ikuḍol	27.48832	85.3147	A	ADMD	NP		3				0		1449	Asia/Kathmandu	2025-04-15
+10330383	Mahādev Ḍānḍā	Mahadev Danda	Mahadev Danda,Mahādev Ḍānḍā	27.11819	86.31455	A	ADMD	NP		CR	05			0		1681	Asia/Kathmandu	2015-06-10
+10330397	Phāparbāri̇̄	Phaparbari	Phaparbari,Phāparbāri̇̄,Phāparbārī	27.39282	85.35376	A	ADMD	NP		00				0		682	Asia/Kathmandu	2015-06-10
+10330400	Beti̇̄ni̇̄	Betini	Betini,Beti̇̄ni̇̄,Betīnī	27.42133	85.3596	A	ADMD	NP		00				0		662	Asia/Kathmandu	2015-06-10
+10330417	Bukhel	Bukhel	Bukhel	27.49055	85.35954	A	ADMD	NP		3				0		1560	Asia/Kathmandu	2025-04-15
+10330444	Kāleshwar	Kaleshwar	Kaleshwar,Kāleshwar	27.49027	85.42105	A	ADMD	NP		3				0		1803	Asia/Kathmandu	2025-04-15
+10330446	Goṭi̇̄khel	Gotikhel	Gotikhel,Goṭi̇̄khel,Goṭīkhel	27.48344	85.38873	A	ADMD	NP		3				0		1681	Asia/Kathmandu	2025-04-15
+10330447	Bhāni̇̄kholā	Bhanikhola	Bhanikhola,Bhāni̇̄kholā,Bhānīkholā	27.48688	85.37546	A	ADMD	NP		3				0		1773	Asia/Kathmandu	2025-04-15
+10330448	Chandanpur	Chandanpur	Chandanpur	27.47219	85.41685	A	ADMD	NP		3				0		1271	Asia/Kathmandu	2025-04-15
+10330456	Ḍhuṅkharka	Dhunkharka		27.49316	85.48859	A	ADMD	NP		00				0		2795	Asia/Kathmandu	2015-06-10
+10330459	Chyāmrāṅbesi̇̄	Chyamranbesi	Chyamranbesi,Chyāmrāṅbesi̇̄,Chyāmrāṅbesī	27.47662	85.46074	A	ADMD	NP		3				0		1890	Asia/Kathmandu	2025-04-15
+10330460	Phalāmṭār	Phalamtar		27.45898	85.48193	A	ADMD	NP		00				0		1893	Asia/Kathmandu	2015-06-10
+10330465	Milche	Milche	Milche	27.42568	85.43962	A	ADMD	NP		3				0		1269	Asia/Kathmandu	2025-04-15
+10330469	Saldhārā	Saldhara	Saldhara,Saldhārā	27.4194	85.47439	A	ADMD	NP		3				0		1077	Asia/Kathmandu	2025-04-15
+10330472	Ṭhūlā Durluṅ	Thula Durlun	Thula Durlun,Ṭhūlā Durluṅ	27.44719	85.39392	A	ADMD	NP		3				0		967	Asia/Kathmandu	2025-04-15
+10330481	Gimdi̇̄	Gimdi	Gimdi,Gimdi̇̄,Gimdī	27.42541	85.38584	A	ADMD	NP		00				0		849	Asia/Kathmandu	2015-06-10
+10330486	Phāparbāri̇̄	Phaparbari	Phaparbari,Phāparbāri̇̄,Phāparbārī	27.382	85.3878	A	ADMD	NP		00				0		614	Asia/Kathmandu	2015-06-10
+10330491	Salme Chākal	Salme Chakal		27.38369	85.48537	A	ADMD	NP		00				0		532	Asia/Kathmandu	2015-06-10
+10330522	Bharatgañj	Bharatganj	Bharatganj,Bharatgañj	27.19857	85.23015	A	ADMD	NP		00				0		187	Asia/Kathmandu	2015-06-10
+10330523	Kanakpur	Kanakpur	Kanakpur	27.09993	85.23733	A	ADMD	NP		00				0		139	Asia/Kathmandu	2026-01-19
+10330524	Raṅgapur	Rangapur	Rangapur,Raṅgapur	27.13854	85.27831	A	ADMD	NP		00				0		151	Asia/Kathmandu	2026-01-19
+10330529	Chandranigāhpur	Chandranigahpur	Chandranigahpur,Chandranigāhpur	27.15504	85.33714	A	ADMD	NP		00				0		173	Asia/Kathmandu	2026-01-19
+10331084	Chandranigāhpur	Chandranigahpur		27.11205	85.33312	A	ADMD	NP		00				0		139	Asia/Kathmandu	2015-06-10
+10331090	Bishrāmpur	Bishrampur	Bishrampur,Bishrāmpur	27.08282	85.39485	A	ADMD	NP		00				0		126	Asia/Kathmandu	2026-01-19
+10331190	Ḍumariyā	Dumariya	Dumariya,Ḍumariyā	27.05419	85.35086	A	ADMD	NP		00				0		106	Asia/Kathmandu	2026-01-19
+10331203	Bishrāmpur	Bishrampur		27.01857	85.35177	A	ADMD	NP		00				0		101	Asia/Kathmandu	2015-06-10
+10331205	Sakhuwā Dhamaurā	Sakhuwa Dhamaura	Sakhuawa Dhamaura,Sakhuawā Dhamaurā,Sakhuwa Dhamaura,Sakhuwā Dhamaurā	27.0129	85.33117	A	ADMD	NP		00				0		96	Asia/Kathmandu	2026-01-19
+10331258	Pratāppur Palṭuwā	Pratappur Paltuwa	Pratappur Paltuwa,Pratāppur Palṭuwā	27.02031	85.28297	A	ADMD	NP		00				0		99	Asia/Kathmandu	2026-01-19
+10331261	Hathiyāhi̇̄	Hathiyahi	Hathiyahi,Hathiyāhi̇̄,Hathiyāhī	27.02627	85.25171	A	ADMD	NP		00				0		103	Asia/Kathmandu	2015-06-10
+10331262	Bhaserwā	Bhaserwa	Bhaserwa,Bhaserwā	27.01611	85.25013	A	ADMD	NP		00				0		99	Asia/Kathmandu	2026-01-19
+10331263	Birti̇̄	Birti	Birti,Birti̇̄,Birtī	27.00154	85.25417	A	ADMD	NP		00				0		97	Asia/Kathmandu	2015-06-10
+10331265	Gamhari̇̄yābirtā	Gamhariyabirta	Gamhariyabirta,Gamhari̇̄yābirtā,Gamharīyābirtā	27.00731	85.30969	A	ADMD	NP		00				0		97	Asia/Kathmandu	2015-06-10
+10331266	Hardiyā	Hardiya	Hardiya,Hardiyā	27.00286	85.3612	A	ADMD	NP		00				0		94	Asia/Kathmandu	2026-01-19
+10332082	Shri̇̄purchhatiwan	Shripurchhatiwan	Shripurchhatiwan,Shri̇̄purchhatiwan,Shrīpurchhatiwan	27.32722	85.21006	A	ADMD	NP		00				0		267	Asia/Kathmandu	2015-06-10
+10332085	Juḍibelā	Judibela	Judibela,Juḍibelā	27.14444	85.3966	A	ADMD	NP		00				0		149	Asia/Kathmandu	2015-07-05
+10332086	Karmaiyā	Karmaiya	Karmaiya,Karmaiyā	27.09244	85.47481	A	ADMD	NP		00				0		127	Asia/Kathmandu	2015-06-10
+10332088	Shaṅkarpur	Shankarpur	Shankarpur,Shaṅkarpur	27.04339	85.47613	A	ADMD	NP		00				0		111	Asia/Kathmandu	2015-06-10
+10332090	Rājghāṭ	Rajghat	Rajghat,Rājghāṭ	27.04312	85.43598	A	ADMD	NP		00				0		107	Asia/Kathmandu	2015-06-10
+10332093	Hajāriyā	Hajariya	Hajariya,Hajāriyā	27.00641	85.42027	A	ADMD	NP		00				0		98	Asia/Kathmandu	2015-06-10
+10332095	Barahathawā	Barahathawa	Barahathawa,Barahathawā	27.01953	85.45917	A	ADMD	NP		2				0		101	Asia/Kathmandu	2026-01-19
+10332096	Murtiyā	Murtiya	Murtiya,Murtiyā	27.01505	85.48642	A	ADMD	NP		00				0		105	Asia/Kathmandu	2015-06-10
+10332218	Phattepur	Phattepur		27.10471	85.01747	A	ADMD	NP		00				0		112	Asia/Kathmandu	2015-06-10
+10332257	Kakaḍi̇̄	Kakadi	Kakadi,Kakaḍi̇̄,Kakaḍī	27.10408	85.12592	A	ADMD	NP		00				0		120	Asia/Kathmandu	2015-06-10
+10332258	Parsauni̇̄	Parsauni	Parsauni,Parsauni̇̄,Parsaunī	27.08446	85.11327	A	ADMD	NP		00				0		112	Asia/Kathmandu	2015-06-10
+10332421	Dhiyāl	Dhiyal	Dhiyal,Dhiyāl	27.25404	85.20638	A	ADMD	NP		00				0		609	Asia/Kathmandu	2015-06-10
+10332432	Karaiyā	Karaiya	Karaiya,Karaiyā	27.06799	85.09006	A	ADMD	NP		00				0		108	Asia/Kathmandu	2019-02-23
+10332433	Haraiyā	Haraiya		27.06818	85.07804	A	ADMD	NP		00				0		108	Asia/Kathmandu	2015-06-10
+10332435	Bhoḍahā	Bhodaha	Bhodaha,Bhoḍahā	27.079	85.05078	A	ADMD	NP		00				0		110	Asia/Kathmandu	2019-02-23
+10332728	Manaharwā	Manaharwa		27.09414	85.03094	A	ADMD	NP		00				0		116	Asia/Kathmandu	2015-06-10
+10332729	Inarwā Sirā	Inarwa Sira	Inarwa Sira,Inarwasira,Inarwā Sirā,Inarwāsirā	27.08527	85.00798	A	ADMD	NP		00				0		107	Asia/Kathmandu	2026-01-19
+10332733	Banjariyā	Banjariya		27.066	85.00138	A	ADMD	NP		00				0		107	Asia/Kathmandu	2015-06-10
+10332735	Jhiṭkaiyā	Jhitkaiya		27.06625	85.01914	A	ADMD	NP		00				0		107	Asia/Kathmandu	2015-06-10
+10332750	Ratanpuri̇̄	Ratanpuri	Ratanpuri,Ratanpuri̇̄,Ratanpurī	27.26874	85.13366	A	ADMD	NP		00				0		464	Asia/Kathmandu	2015-06-10
+10332759	Dohari̇̄	Dohari	Dohari,Dohari̇̄,Doharī	27.05764	85.04034	A	ADMD	NP		00				0		104	Asia/Kathmandu	2015-06-10
+10332775	Sihorwā	Sihorwa		27.04338	85.09173	A	ADMD	NP		00				0		102	Asia/Kathmandu	2015-06-10
+10332776	Tetariyā	Tetariya		27.04843	85.11145	A	ADMD	NP		00				0		106	Asia/Kathmandu	2015-06-10
+10332778	Khopawā	Khopawa		27.01483	85.12391	A	ADMD	NP		00				0		98	Asia/Kathmandu	2015-06-10
+10332780	Umajan	Umajan		27.02903	85.10914	A	ADMD	NP		00				0		98	Asia/Kathmandu	2015-06-10
+10332781	Gaḍahal	Gadahal		27.01505	85.10447	A	ADMD	NP		00				0		95	Asia/Kathmandu	2015-06-10
+10332783	Gañjbhawāni̇̄pur	Ganjbhawanipur	Ganjbhawanipur,Gañjbhawāni̇̄pur,Gañjbhawānīpur	27.02414	85.05974	A	ADMD	NP		00				0		99	Asia/Kathmandu	2015-06-10
+10332784	Maheshpur	Maheshpur		27.03796	85.04085	A	ADMD	NP		00				0		103	Asia/Kathmandu	2015-06-10
+10332787	Balirāmpur	Balirampur		27.0054	85.00845	A	ADMD	NP		00				0		93	Asia/Kathmandu	2015-06-10
+10332790	Baghban	Baghban		27.00584	85.02687	A	ADMD	NP		00				0		94	Asia/Kathmandu	2015-06-10
+10332791	Bariyārpur	Bariyarpur		27.00572	85.03817	A	ADMD	NP		00				0		94	Asia/Kathmandu	2015-06-10
+10332792	Dahiyār	Dahiyar		27.00881	85.05649	A	ADMD	NP		00				0		97	Asia/Kathmandu	2015-06-10
+10332793	Kabahi̇̄	Kabahi	Kabahi,Kabahi̇̄,Kabahī	27.00193	85.07012	A	ADMD	NP		00				0		95	Asia/Kathmandu	2015-06-10
+10332795	Narahi̇̄	Narahi	Narahi,Narahi̇̄,Narahī	27.00673	85.09246	A	ADMD	NP		00				0		95	Asia/Kathmandu	2015-06-10
+10332796	Piparā	Pipara		27.00745	85.11548	A	ADMD	NP		00				0		95	Asia/Kathmandu	2015-06-10
+10333132	Nijagḍgh	Nijagdgh	Nijagdgh,Nijagḍgh,Nijgadh	27.23782	85.12382	A	ADMD	NP		2				0		205	Asia/Kathmandu	2026-01-19
+10333141	Sapahi̇̄	Sapahi	Sapahi,Sapahi̇̄,Sapahī	27.1425	85.18089	A	ADMD	NP		00				0		146	Asia/Kathmandu	2015-06-10
+10333142	Lakṣmi̇̄niyā	Laksminiya	Laksminiya,Lakṣmi̇̄niyā,Lakṣmīniyā	27.13828	85.23707	A	ADMD	NP		00				0		155	Asia/Kathmandu	2015-06-10
+10336713	Lāpā	Lapa	Lapa,Lāpā	28.18424	84.98695	A	ADMD	NP		00				0		2252	Asia/Kathmandu	2015-06-10
+10336715	Lāpu	Lapu	Lapu,Lāpu	28.17153	84.8517	A	ADMD	NP		00				0		2123	Asia/Kathmandu	2015-06-10
+10336966	Mānbu	Manbu	Manbu,Mānbu	28.12909	84.89168	A	ADMD	NP		00				0		2016	Asia/Kathmandu	2015-06-10
+10337005	Ri	Ri	Ri	28.11558	84.97	A	ADMD	NP		00				0		2416	Asia/Kathmandu	2015-06-10
+10337016	Baseri̇̄	Baseri	Baseri,Baseri̇̄	28.10347	84.87034	A	ADMD	NP		00				0		1747	Asia/Kathmandu	2015-06-10
+10337029	Thumi̇̄	Thumi	Thumi,Thumi̇̄	28.1249	84.81821	A	ADMD	NP		00				0		1863	Asia/Kathmandu	2015-06-10
+10337032	Arbāṅ	Arban	Arban,Arbāṅ	28.09867	84.77674	A	ADMD	NP		00				0		1704	Asia/Kathmandu	2015-06-10
+10337116	Āru Chanauṭe	Aru Chanaute	Aru Chanaute,Āru Chanauṭe	28.07729	84.81259	A	ADMD	NP		00				0		822	Asia/Kathmandu	2015-06-10
+10337358	Buḍhāthum	Budhathum	Budhathum,Buḍhāthum	28.07191	84.86256	A	ADMD	NP		00				0		791	Asia/Kathmandu	2015-06-10
+10337441	Phulkharka	Phulkharka	Phulkharka	28.07968	84.92898	A	ADMD	NP		00				0		1953	Asia/Kathmandu	2015-06-10
+10337571	Dārkhā	Darkha	Darkha,Dārkhā	28.04527	84.99133	A	ADMD	NP		00				0		1164	Asia/Kathmandu	2015-06-10
+10337572	Satyadevi̇̄	Satyadevi	Satyadevi,Satyadevi̇̄	28.03187	84.98502	A	ADMD	NP		00				0		937	Asia/Kathmandu	2015-06-10
+10337573	Gumdi̇̄	Gumdi	Gumdi,Gumdi̇̄	28.0469	84.95061	A	ADMD	NP		00				0		996	Asia/Kathmandu	2015-06-10
+10337581	Mulpāni̇̄	Mulpani	Mulpani,Mulpāni̇̄	28.05341	84.87146	A	ADMD	NP		00				0		1020	Asia/Kathmandu	2015-06-10
+10337689	Āginchok	Aginchok	Aginchok,Āginchok	28.0258	84.8477	A	ADMD	NP		00				0		911	Asia/Kathmandu	2015-06-10
+10337764	Āru Pokhari̇̄	Aru Pokhari	Aru Pokhari,Āru Pokhari̇̄	28.06277	84.78461	A	ADMD	NP		00				0		984	Asia/Kathmandu	2015-06-10
+10337765	Tāndrāṅ	Tandran	Tandran,Tāndrāṅ	28.02881	84.79067	A	ADMD	NP		00				0		608	Asia/Kathmandu	2015-06-10
+10337769	Borlāṅ	Borlan	Borlan,Borlāṅ	28.00165	84.76302	A	ADMD	NP		00				0		675	Asia/Kathmandu	2015-06-10
+10337771	Dhāwā	Dhawa	Dhawa,Dhāwā	28.00944	84.79398	A	ADMD	NP		00				0		669	Asia/Kathmandu	2015-06-10
+10337782	Tripureshwar	Tripureshwar	Tripureshwar	28.0051	84.88486	A	ADMD	NP		00				0		808	Asia/Kathmandu	2015-06-10
+10337786	Salyānkoṭ	Salyankot	Salyankot,Salyānkoṭ	28.0228	84.89743	A	ADMD	NP		00				0		992	Asia/Kathmandu	2015-07-05
+10337790	Mārpāk	Marpak	Marpak,Mārpāk	28.01087	84.97787	A	ADMD	NP		00				0		1661	Asia/Kathmandu	2015-06-10
+11208538	Keruṅ	Kerun	Kerun,Keruṅ	27.42957	86.54028	A	ADMD	NP		00				0		2465	Asia/Kathmandu	2025-08-13
+11208539	Khārpā	Kharpa		27.26927	86.70345	A	ADMD	NP		00				0		987	Asia/Kathmandu	2016-08-05
+11208540	Māmkha	Mamkha		27.31306	86.56844	A	ADMD	NP		00				0		1617	Asia/Kathmandu	2016-08-05
+11210292	Sotāṅ	Sotan	Sotan,Sotang,Sotāṅ	27.50133	86.77677	A	ADMD	NP		1				0		2391	Asia/Kathmandu	2025-08-13
+11210293	Lokhim	Lokhim	Lokhim	27.43168	86.77254	A	ADMD	NP		00				0		2459	Asia/Kathmandu	2025-08-13
+11210294	Bākāchol	Bakachol		27.39762	86.78769	A	ADMD	NP		00				0		2154	Asia/Kathmandu	2016-08-05
+11210295	Ai̇̃selukharka	Aiselukharka	Ainselukhark,Aiselukharka,Ai̇̃selukharka	27.3671	86.76141	A	ADMD	NP		1				0		2343	Asia/Kathmandu	2025-09-09
+11210296	Rākhā Bãṅdel	Rakha Bandel		27.36043	86.80757	A	ADMD	NP		00				0		1802	Asia/Kathmandu	2016-08-05
+11210298	Sapteshwar	Sapteshwar		27.32409	86.80051	A	ADMD	NP		00				0		1638	Asia/Kathmandu	2016-08-05
+11210299	Jālpa	Jalpa		27.30842	86.77887	A	ADMD	NP		00				0		1446	Asia/Kathmandu	2016-08-05
+11210302	Haũchur	Hauchur		27.28883	86.76298	A	ADMD	NP		00				0		1792	Asia/Kathmandu	2016-08-05
+11210304	Kubhiṇḍe	Kubhinde		27.27009	86.75825	A	ADMD	NP		00				0		1965	Asia/Kathmandu	2016-08-05
+11210305	Khārmi̇̄	Kharmi		27.28832	86.81133	A	ADMD	NP		00				0		2070	Asia/Kathmandu	2016-08-05
+11210306	Diktel	Diktel		27.25842	86.79066	A	ADMD	NP		00				0		2273	Asia/Kathmandu	2016-08-05
+11210307	Nerpā	Nerpa		27.25944	86.82432	A	ADMD	NP		00				0		2098	Asia/Kathmandu	2016-08-05
+11210329	Chhināmakhu	Chhinamakhu		27.25887	86.9241	A	ADMD	NP		1				0		2257	Asia/Kathmandu	2025-04-15
+11210330	Khārtāmchhā	Khartamchha		27.32113	86.88606	A	ADMD	NP		00				0		1817	Asia/Kathmandu	2016-08-05
+11210353	Chheskām	Chheskam	Chheskam,Chheskām	27.48362	86.93903	A	ADMD	NP		00				0		2974	Asia/Kathmandu	2025-08-13
+11210354	Sisuwā	Sisuwa		27.47844	86.97206	A	ADMD	NP		1				0		3343	Asia/Kathmandu	2025-04-15
+11210355	Dobhāne	Dobhane		27.402	86.95093	A	ADMD	NP		1				0		2460	Asia/Kathmandu	2025-04-15
+11210356	Timmā	Timma		27.27209	86.9724	A	ADMD	NP		1				0		2516	Asia/Kathmandu	2025-04-15
+11221298	Biguṭār	Bigutar		27.36794	86.51059	A	ADMD	NP		00				0		2259	Asia/Kathmandu	2016-08-05
+11230017	Barnālu	Barnalu		27.3381	86.54231	A	ADMD	NP		00				0		1897	Asia/Kathmandu	2016-08-05
+11230018	Rumjāṭār	Rumjatar		27.29192	86.55031	A	ADMD	NP		00				0		1210	Asia/Kathmandu	2016-08-05
+11231962	Nele	Nele	Nele	27.44344	86.63036	A	ADMD	NP		00				0		2504	Asia/Kathmandu	2025-08-13
+11232024	Sernā	Serna		27.31236	86.61963	A	ADMD	NP		00				0		932	Asia/Kathmandu	2016-08-05
+11232213	Ḍumared Dhārāpāni̇̄	Dumared Dharapani		27.3042	86.7022	A	ADMD	NP		00				0		840	Asia/Kathmandu	2016-08-05
+11232342	Jaleshwar	Jaleshwar		27.38467	86.71335	A	ADMD	NP		00				0		1235	Asia/Kathmandu	2016-08-05
+11232343	Mukli̇̄	Mukli	Mukli,Mukli̇̄	27.42771	86.67059	A	ADMD	NP		00				0		1438	Asia/Kathmandu	2025-08-13
+11232344	Pañchan	Panchan	Panchan,Pañchan	27.38881	86.66407	A	ADMD	NP		00				0		1277	Asia/Kathmandu	2025-08-13
+11232345	Jyāmire	Jyamire		27.33658	86.7015	A	ADMD	NP		00				0		1190	Asia/Kathmandu	2016-08-05
+11232347	Kuibhi̇̄r	Kuibhir		27.33343	86.65594	A	ADMD	NP		00				0		1294	Asia/Kathmandu	2016-08-05
+11232348	Necha Betghari̇̄	Necha Betghari	Necha Betghari,Necha Betghari̇̄	27.36364	86.64136	A	ADMD	NP		00				0		1118	Asia/Kathmandu	2025-08-13
+11232349	Kā̃gel	Kagel	Kagel,Kā̃gel	27.41797	86.65047	A	ADMD	NP		00				0		1769	Asia/Kathmandu	2025-08-13
+11232350	Gārmā	Garma	Garma,Gārmā	27.45694	86.59033	A	ADMD	NP		00				0		2505	Asia/Kathmandu	2025-08-13
+11232354	Salyān	Salyan	Salyan,Salyān	27.38271	86.58654	A	ADMD	NP		00				0		1868	Asia/Kathmandu	2025-08-13
+11232498	Ṭhulāchhāp	Thulachhap		27.26291	86.56004	A	ADMD	NP		00				0		1410	Asia/Kathmandu	2016-08-05
+11243433	Piparā Pokhari̇̄yā	Pipara Pokhariya	Pipara Pokhariya,Piparā Pokhari̇̄yā	26.98008	85.25886	A	ADMD	NP		00				0		92	Asia/Kathmandu	2019-02-23
+11243434	Gamhari̇̄yā	Gamhariya	Gamhariya,Gamhari̇̄yā	26.98947	85.29288	A	ADMD	NP		00				0		92	Asia/Kathmandu	2026-01-19
+11243435	Pipariyā Dosti̇̄yā	Pipariya Dostiya	Pipariya Dostiya,Pipariyā Dosti̇̄yā	26.9759	85.29119	A	ADMD	NP		00				0		90	Asia/Kathmandu	2026-01-19
+11243436	Kaṭahari̇̄yā	Katahariya	Katahariya,Kaṭahariyā,Kaṭahari̇̄yā	26.99669	85.25213	A	ADMD	NP		2				0		85	Asia/Kathmandu	2026-01-19
+11243437	Bagahi̇̄	Bagahi	Bagahi,Bagahi̇̄	26.96469	85.27742	A	ADMD	NP		00				0		89	Asia/Kathmandu	2026-01-19
+11243438	Prempur Gonāhi̇̄	Prempur Gonahi	Prempur Gonahi,Prempur Gonāhi̇̄	26.94701	85.2654	A	ADMD	NP		00				0		89	Asia/Kathmandu	2026-01-19
+11243439	Poṭi̇̄yāhi̇̄	Potiyahi	Potiyahi,Poṭi̇̄yāhi̇̄	26.93535	85.29784	A	ADMD	NP		00				0		88	Asia/Kathmandu	2026-01-19
+11243440	Dharahari̇̄	Dharahari	Dharahari,Dharahari̇̄	26.93348	85.28083	A	ADMD	NP		00				0		82	Asia/Kathmandu	2026-01-19
+11243441	Jayangar	Jayangar	Jayangar	26.91517	85.30058	A	ADMD	NP		00				0		82	Asia/Kathmandu	2026-01-19
+11243442	Dipahi̇̄	Dipahi	Dipahi,Dipahi̇̄	26.91299	85.28698	A	ADMD	NP		00				0		86	Asia/Kathmandu	2026-01-19
+11243443	Karuni̇̄yā	Karuniya	Karuniya,Karuni̇̄yā	26.91306	85.2673	A	ADMD	NP		00				0		84	Asia/Kathmandu	2026-01-19
+11243453	Dewāhi̇̄	Dewahi	Dewahi,Dewāhi̇̄	26.90856	85.25714	A	ADMD	NP		00				0		86	Asia/Kathmandu	2026-01-19
+11243454	Khesarahiyā	Khesarahiya	Khesarahiya,Khesarahiyā	26.89644	85.28863	A	ADMD	NP		00				0		84	Asia/Kathmandu	2026-01-19
+11243455	Sakhuāwā	Sakhuawa	Sakhuawa,Sakhuāwā	26.88312	85.29527	A	ADMD	NP		00				0		82	Asia/Kathmandu	2019-02-23
+11243456	Miṭhuāwā	Mithuawa	Mithuawa,Miṭhuāwā	26.88783	85.31024	A	ADMD	NP		00				0		84	Asia/Kathmandu	2026-01-19
+11243457	Bisunpūrwā Mānpur	Bisunpurwa Manpur	Bisunpurwa Manpur,Bisunpūrwā Mānpur	26.89908	85.31826	A	ADMD	NP		00				0		84	Asia/Kathmandu	2019-02-23
+11243458	Mādhopur	Madhopur	Madhopur,Mādhopur	26.89718	85.33818	A	ADMD	NP		00				0		84	Asia/Kathmandu	2026-01-19
+11243459	Geḍahi̇̄ Guṭhi̇̄	Gedahi Guthi	Gedahi Guthi,Geḍahi̇̄ Guṭhi̇̄	26.92779	85.3263	A	ADMD	NP		00				0		86	Asia/Kathmandu	2026-01-19
+11243460	Malāhi̇̄	Malahi	Malahi,Malāhi̇̄	26.94037	85.33611	A	ADMD	NP		00				0		88	Asia/Kathmandu	2026-01-19
+11243461	Mahamadpur	Mahamadpur	Mahamadpur	26.94023	85.31098	A	ADMD	NP		00				0		87	Asia/Kathmandu	2026-01-19
+11243462	Garuḍā Bairiyā	Garuda Bairiya	Garuda Bairiya,Garuḍā Bairiyā	26.95292	85.32451	A	ADMD	NP		00				0		87	Asia/Kathmandu	2026-01-19
+11243463	Basbiṭṭi̇̄	Basbitti	Basbitti,Basbiṭṭi̇̄	26.97151	85.31769	A	ADMD	NP		00				0		87	Asia/Kathmandu	2026-01-19
+11243464	Raghunāthpur	Raghunathpur	Raghunathpur,Raghunāthpur	26.97618	85.34858	A	ADMD	NP		00				0		92	Asia/Kathmandu	2026-01-19
+11243465	Saṅgrāmpur	Sangrampur	Sangrampur,Saṅgrāmpur	26.95155	85.36078	A	ADMD	NP		00				0		90	Asia/Kathmandu	2026-01-19
+11243466	Gamhari̇̄yā Parsā	Gamhariya Parsa	Gamhariya Parsa,Gamhariyā Parsā,Gamhari̇̄yā Parsā	26.93292	85.3644	A	ADMD	NP		00				0		88	Asia/Kathmandu	2026-01-19
+11243467	Dharmapur	Dharmapur	Dharmapur	26.90326	85.35498	A	ADMD	NP		00				0		84	Asia/Kathmandu	2026-01-19
+11243468	Piparā Rājbārā	Pipara Rajbara	Pipara Rajbara,Piparā Rājbārā	26.88765	85.35435	A	ADMD	NP		00				0		82	Asia/Kathmandu	2026-01-19
+11243469	Gaḍau Bhagawānpur	Gadau Bhagawanpur	Gadau Bhagawanpur,Gaḍau Bhagawānpur	26.88323	85.365	A	ADMD	NP		00				0		81	Asia/Kathmandu	2026-01-19
+11243886	Samanpur	Samanpur	Samanpur	26.97386	85.38756	A	ADMD	NP		00				0		92	Asia/Kathmandu	2026-01-19
+11244613	Sundarpur Chuharwā	Sundarpur Chuharwa		26.96028	85.4281	A	ADMD	NP		00				0		92	Asia/Kathmandu	2016-09-10
+11244614	Saṅgrāmpur	Sangrampur		26.95182	85.37641	A	ADMD	NP		00				0		87	Asia/Kathmandu	2016-09-10
+11244615	Madanpur	Madanpur	Madanpur	26.94406	85.38139	A	ADMD	NP		00				0		90	Asia/Kathmandu	2026-01-19
+11244616	Mānpur	Manpur		26.93234	85.42295	A	ADMD	NP		00				0		89	Asia/Kathmandu	2016-09-10
+11244733	Gamhariyā Parsā	Gamhariya Parsa		26.91471	85.38028	A	ADMD	NP		00				0		85	Asia/Kathmandu	2016-09-10
+11244734	Bhawāni̇̄pur	Bhawanipur		26.92062	85.43789	A	ADMD	NP		00				0		87	Asia/Kathmandu	2016-09-10
+11244735	Dhankaul	Dhankaul		26.90299	85.43744	A	ADMD	NP		2				0		86	Asia/Kathmandu	2026-01-19
+11244736	Gaḍau Bhagawānpur	Gadau Bhagawanpur		26.89069	85.38055	A	ADMD	NP		00				0		83	Asia/Kathmandu	2016-09-10
+11244737	Maināthpur	Mainathpur		26.88734	85.41083	A	ADMD	NP		00				0		86	Asia/Kathmandu	2016-09-10
+11244738	Chhaṭaul	Chhataul		26.88162	85.39522	A	ADMD	NP		00				0		82	Asia/Kathmandu	2016-09-10
+11244739	Harkaṭawā	Harkatawa		26.89938	85.40673	A	ADMD	NP		00				0		84	Asia/Kathmandu	2016-09-10
+11244740	Sekhaunā	Sekhauna		26.87712	85.4374	A	ADMD	NP		00				0		86	Asia/Kathmandu	2016-09-10
+11244741	Bagdaha	Bagdaha		26.85459	85.45245	A	ADMD	NP		00				0		87	Asia/Kathmandu	2016-09-10
+11244742	Sisauṭiyā	Sisautiya		26.89382	85.4686	A	ADMD	NP		00				0		86	Asia/Kathmandu	2016-09-10
+11244743	Dhangaḍhā	Dhangadha		26.91484	85.46675	A	ADMD	NP		00				0		89	Asia/Kathmandu	2016-09-10
+11244744	Laukāṭ	Laukat		26.94406	85.46953	A	ADMD	NP		00				0		94	Asia/Kathmandu	2016-09-10
+11245318	Chhaṭaul	Chhataul		26.86244	85.39105	A	ADMD	NP		00				0		82	Asia/Kathmandu	2016-09-10
+11245319	Sisauṭ	Sisaut		26.84361	85.40939	A	ADMD	NP		00				0		81	Asia/Kathmandu	2016-09-10
+11245320	Khairwā	Khairwa		26.8277	85.38522	A	ADMD	NP		00				0		78	Asia/Kathmandu	2016-09-10
+11245321	Gaḍhi̇̄yā	Gadhiya		26.82651	85.40779	A	ADMD	NP		00				0		80	Asia/Kathmandu	2016-09-10
+11245337	Achalgaḍh	Achalgadh		26.80045	85.37823	A	ADMD	NP		00				0		77	Asia/Kathmandu	2016-09-10
+11245338	Mirjāpur	Mirjapur		26.79687	85.39145	A	ADMD	NP		00				0		77	Asia/Kathmandu	2016-09-10
+11245339	Madhubani̇̄	Madhubani		26.80075	85.41008	A	ADMD	NP		00				0		75	Asia/Kathmandu	2016-09-10
+11245340	Arnāhā	Arnaha		26.78073	85.39162	A	ADMD	NP		00				0		77	Asia/Kathmandu	2016-09-10
+11245341	Balarā	Balara	Balara,Balarā	26.77821	85.37508	A	ADMD	NP		2				0		77	Asia/Kathmandu	2026-01-19
+11245342	Bārā Uddhoraṇ	Bara Uddhoran		26.79395	85.46421	A	ADMD	NP		00				0		74	Asia/Kathmandu	2016-09-10
+11245343	Bahādurpur	Bahadurpur		26.80018	85.42623	A	ADMD	NP		00				0		75	Asia/Kathmandu	2016-09-10
+11245344	Madhubangoṭh	Madhubangoth		26.80771	85.46116	A	ADMD	NP		00				0		78	Asia/Kathmandu	2016-09-10
+11245345	Bhagwati̇̄pur	Bhagwatipur		26.81958	85.45142	A	ADMD	NP		00				0		76	Asia/Kathmandu	2016-09-10
+11245346	Belawājabdi̇̄	Belawajabdi		26.81649	85.43027	A	ADMD	NP		00				0		82	Asia/Kathmandu	2016-09-10
+11245347	Batraul	Batraul		26.84155	85.47442	A	ADMD	NP		00				0		82	Asia/Kathmandu	2016-09-10
+11245348	Bagdaha	Bagdaha		26.84898	85.45182	A	ADMD	NP		00				0		81	Asia/Kathmandu	2016-09-10
+11245349	Rāmban	Ramban		26.8569	85.43882	A	ADMD	NP		00				0		85	Asia/Kathmandu	2016-09-10
+11245350	Sekhaunā	Sekhauna		26.87182	85.43653	A	ADMD	NP		00				0		83	Asia/Kathmandu	2016-09-10
+11245351	Goḍaitā	Godaita	Godaita,Goḍaitā	26.86194	85.46627	A	ADMD	NP		2				0		83	Asia/Kathmandu	2026-01-19
+11245352	Phūlparāsi̇̄	Phulparasi		26.85829	85.48821	A	ADMD	NP		00				0		85	Asia/Kathmandu	2016-09-10
+11245353	Simarā	Simara		26.81676	85.48526	A	ADMD	NP		00				0		78	Asia/Kathmandu	2016-09-10
+11245355	Rāmnagar Bahuarwā	Ramnagar Bahuarwa		26.83906	85.38407	A	ADMD	NP		00				0		80	Asia/Kathmandu	2016-09-10
+12184589	Gokuleshwar	Gokuleshwar	Gokuleshwar	29.65719	80.54745	A	ADMD	NP		7				0		1006	Asia/Kathmandu	2020-09-15
+12184590	Sittaḍ	Sittad	Sittad,Sittaḍ	29.63259	80.51752	A	ADMD	NP		7				0		1036	Asia/Kathmandu	2020-09-15
+12184591	Rim	Rim	Rim	29.62963	80.56562	A	ADMD	NP		7				0		1207	Asia/Kathmandu	2020-09-15
+12184592	Ḍilāsaini̇̄	Dilasaini	Dilasaini,Ḍilāsaini̇̄	29.6534	80.58435	A	ADMD	NP		7				0		1351	Asia/Kathmandu	2020-09-15
+12184593	Sarmauli̇̄	Sarmauli	Sarmauli,Sarmauli̇̄	29.65383	80.50771	A	ADMD	NP		7				0		975	Asia/Kathmandu	2020-09-15
+12184594	Riṭhā Chaupāṭā	Ritha Chaupata	Ritha Chaupata,Riṭhā Chaupāṭā	29.67047	80.51115	A	ADMD	NP		7				0		949	Asia/Kathmandu	2020-09-15
+12184595	Bohari̇̄gāũ	Boharigau	Boharigau,Bohari̇̄gāũ	29.68562	80.52193	A	ADMD	NP		7				0		1209	Asia/Kathmandu	2020-09-15
+12184596	Gwāni̇̄	Gwani	Gwani,Gwāni̇̄	29.72311	80.52594	A	ADMD	NP		7				0		1592	Asia/Kathmandu	2020-09-15
+12184597	Rāni̇̄ Shikhar	Rani Shikhar	Rani Shikhar,Rāni̇̄ Shikhar	29.71721	80.5749	A	ADMD	NP		7				0		1671	Asia/Kathmandu	2020-09-15
+12184599	Dhuligaḍā	Dhuligada	Dhuligada,Dhuligaḍā	29.74188	80.59585	A	ADMD	NP		7				0		1535	Asia/Kathmandu	2020-09-15
+12184600	Dethalā	Dethala	Dethala,Dethalā	29.70823	80.61352	A	ADMD	NP		7				0		1135	Asia/Kathmandu	2020-09-15
+12245905	Urlābāri̇̄	Urlabari	Urlabari,Urlābāri̇̄	26.66658	87.61222	A	ADMD	NP		1				0		121	Asia/Kathmandu	2021-06-14
+12245906	Ṭā̃ḍi̇̄	Tadi	Tadi,Ṭā̃ḍi̇̄	26.74499	87.57797	A	ADMD	NP		1				0		286	Asia/Kathmandu	2021-06-14
+12245907	Jā̃te	Jate	Jate,Jā̃te	26.7206	87.55195	A	ADMD	NP		1				0		225	Asia/Kathmandu	2021-06-14
+12245908	Leṭāṅ	Letan	Letan,Leṭāṅ	26.72027	87.51391	A	ADMD	NP		1				0		248	Asia/Kathmandu	2021-06-14
+12245909	Bayarban	Bayarban	Bayarban	26.62546	87.51392	A	ADMD	NP		1				0		115	Asia/Kathmandu	2021-06-14
+12268652	Kharāṅ	Kharan	Kharan,Kharāṅ	27.27346	87.25876	A	ADMD	NP		1				0		1228	Asia/Kathmandu	2021-08-12
+12268653	Chainpur	Chainpur	Chainpur	27.2951	87.30683	A	ADMD	NP		1				0		1094	Asia/Kathmandu	2021-08-12
+12268659	Nālbu	Nalbu	Nalbu,Nālbu	27.48919	87.48312	A	ADMD	NP		1				0		3797	Asia/Kathmandu	2021-08-12
+12268663	Matsya Pokhari̇̄	Matsya Pokhari	Matsya Pokhari,Matsya Pokhari̇̄	27.47938	87.26725	A	ADMD	NP		1				0		1233	Asia/Kathmandu	2021-08-12
+12268664	Bārhabise	Barhabise	Barhabise,Bārhabise	27.46865	87.32632	A	ADMD	NP		1				0		1907	Asia/Kathmandu	2021-08-12
+12268665	Sabhā Pokhari̇̄	Sabha Pokhari	Sabha Pokhari,Sabhā Pokhari̇̄	27.42344	87.40838	A	ADMD	NP		1				0		1999	Asia/Kathmandu	2021-08-12
+12268666	Dhupu	Dhupu	Dhupu	27.40346	87.26807	A	ADMD	NP		1				0		738	Asia/Kathmandu	2021-08-12
+12268667	Siddha Pokhari̇̄	Siddha Pokhari	Siddha Pokhari,Siddha Pokhari̇̄	27.3569	87.4156	A	ADMD	NP		1				0		2073	Asia/Kathmandu	2021-08-12
+12268668	Jaljalā	Jaljala	Jaljala,Jaljalā	27.36845	87.37216	A	ADMD	NP		1				0		1678	Asia/Kathmandu	2021-08-12
+12268669	Syābun	Syabun	Syabun,Syābun	27.37355	87.29046	A	ADMD	NP		1				0		750	Asia/Kathmandu	2021-08-12
+12268670	Wānā	Wana	Wana,Wānā	27.32211	87.26899	A	ADMD	NP		1				0		1051	Asia/Kathmandu	2021-08-12
+12268671	Nunḍhāki̇̄	Nundhaki	Nundhaki,Nunḍhāki̇̄	27.31247	87.46634	A	ADMD	NP		1				0		2037	Asia/Kathmandu	2021-08-12
+12268672	Māwādin	Mawadin	Mawadin,Māwādin	27.27516	87.42776	A	ADMD	NP		1				0		2025	Asia/Kathmandu	2021-08-12
+12268673	Mādi̇̄ Rāmbeni̇̄	Madi Rambeni	Madi Rambeni,Mādi̇̄ Rāmbeni̇̄	27.26666	87.36865	A	ADMD	NP		1				0		1881	Asia/Kathmandu	2021-08-12
+12268674	Bāneshwar	Baneshwar	Baneshwar,Bāneshwar	27.28175	87.27775	A	ADMD	NP		1				0		1262	Asia/Kathmandu	2021-08-12
+12268753	Siddhakāli̇̄	Siddhakali	Siddhakali,Siddhakāli̇̄	27.30307	87.39324	A	ADMD	NP		1				0		1214	Asia/Kathmandu	2021-08-12
+12470504	Tāṅkhuwā	Tankhuwa	Tankhuwa,Tāṅkhuwā	27.01495	87.39192	A	ADMD	NP		1				0		1300	Asia/Kathmandu	2022-05-23
+12470505	Suṅnām	Sunnam	Sungnam,Sunnam,Suṅnām	27.11813	87.45843	A	ADMD	NP		1				0		1397	Asia/Kathmandu	2022-05-23
+12470506	Phulek	Phulek	Phulek	27.11034	87.41081	A	ADMD	NP		1				0		1826	Asia/Kathmandu	2022-05-23
+12470507	Sudāp	Sudap	Sudap,Sudāp	27.08327	87.4651	A	ADMD	NP		1				0		1603	Asia/Kathmandu	2022-05-23
+12470508	Parewādin	Parewadin	Parewadin,Parewādin	27.05337	87.40077	A	ADMD	NP		1				0		1733	Asia/Kathmandu	2022-05-23
+12473802	Mailā	Maila	Maila,Mailā	29.6399	81.74201	A	ADMD	NP		6				0		2248	Asia/Kathmandu	2022-05-23
+12473874	Rugin	Rugin	Rugin	29.58993	81.72356	A	ADMD	NP		7				0		2546	Asia/Kathmandu	2022-05-23
+12473875	Bā̃dhu	Badhu	Baddhu,Badhu,Bā̃dhu	29.52806	81.72178	A	ADMD	NP		7				0		2553	Asia/Kathmandu	2022-05-23
+12473876	Koṭilā	Kotila	Kolti,Kotila,Koṭilā	29.55964	81.60615	A	ADMD	NP		7				0		2863	Asia/Kathmandu	2022-05-23
+12595080	Bijayanagar	Bijayanagar	Bijayanagar	27.66341	82.76682	A	ADMD	NP		5				0		127	Asia/Kathmandu	2023-10-16
+13433831	Bhadaure	Bhadaure		27.26712	86.61107	A	ADMD	NP		1	12095498	12095571		0		1215	Asia/Kathmandu	2025-07-18
+13433832	Rātmāṭe	Ratmate		27.32572	86.59453	A	ADMD	NP		1	12095498	12095571		0		1521	Asia/Kathmandu	2025-07-18
+13434090	Bariyārpur	Bariyarpur	Bariyarpur,Bariyārpur	26.93348	85.34834	A	ADMD	NP		2	12095512	12096146		0		78	Asia/Kathmandu	2026-01-19
+13434139	Lakṣmi̇̄pur	Laksmipur		26.87708	85.48535	A	ADMD	NP		2	12095519	12096016		0		75	Asia/Kathmandu	2025-07-18
+13434170	Ḍumari̇̄yā	Dumariya		26.81182	85.40892	A	ADMD	NP		2	12095519	12096028		0		70	Asia/Kathmandu	2025-07-18
+13434171	Lakṣmi̇̄pur	Laksmipur		26.87056	85.48294	A	ADMD	NP		2	12095519	12096016		0		75	Asia/Kathmandu	2025-07-18

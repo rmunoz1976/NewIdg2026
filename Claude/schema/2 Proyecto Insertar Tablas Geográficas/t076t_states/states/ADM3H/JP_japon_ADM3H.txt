@@ -1,0 +1,182 @@
+﻿1848024	Yūtō-chō	Yuto-cho	Yuto-cho,Yūtō-chō	34.71667	137.63333	A	ADM3H	JP		00		1848024		0		4	Asia/Tokyo	2013-10-07
+1848076	Yumoto-machi	Yumoto-machi	Yumoto-machi	35.23333	139.08333	A	ADM3H	JP		00		1848076		0		203	Asia/Tokyo	2012-07-22
+1848094	Yuki-chō	Yuki-cho	Yuki-cho,Yuki-chō,Yuki-machi	34.78333	133.3	A	ADM3H	JP		11	1861022	1848094		0		568	Asia/Tokyo	2017-04-09
+1848095	Yuki-chō	Yuki-cho	Mikita-cho,Mikita-chō,Mikita-mura,Yuki-cho,Yuki-chō	33.76667	134.61667	A	ADM3H	JP		39	1860803	1848095		0		-9999	Asia/Tokyo	2017-04-09
+1848111	Yuge-mura	Yuge-mura	Yuge-mura	34.25	133.2	A	ADM3H	JP		00		1848111		0		-9999	Asia/Tokyo	2012-07-22
+1848121	Yufuin-chō	Yufuin-cho		33.25	131.41667	A	ADM3H	JP		30		1848121		0		521	Asia/Tokyo	2017-04-17
+1848128	Yubara-chō	Yubara-cho	Yubara-cho,Yubara-chō,Yubara-machi,Yuhara-cho,Yuhara-chō,Yuhara-machi	35.16667	133.75	A	ADM3H	JP		31	7405221	1848128		0		435	Asia/Tokyo	2017-04-18
+1848160	Yoshinotani-mura	Yoshinotani-mura	Yoshinodani,Yoshinotani-mura	36.28333	136.75	A	ADM3H	JP		00		1848160		0		1096	Asia/Tokyo	2012-07-22
+1848162	Yoshino Mura	Yoshino Mura	Yoshino Mura,Yoshino-mura,fang ye cun,yoshinomura,よしのむら,ヨシノムラ,芳野村	35.93333	139.5	A	ADM3H	JP		34	1861470			0		13	Asia/Tokyo	2014-02-10
+1848171	Yoshino-chō	Yoshino-cho		34.08333	134.11667	A	ADM3H	JP		00		1848171		0		271	Asia/Tokyo	2012-07-22
+1848187	Yoshikawa-machi	Yoshikawa-machi		37.21667	138.43333	A	ADM3H	JP		00		1848187		0		60	Asia/Tokyo	2012-07-22
+1848191	Yoshii-machi	Yoshii-machi	Yoshii-machi,ji jing ding,yoshiimachi,よしいまち,吉井町	36.25469	138.98235	A	ADM3H	JP		10	1850653	1848191		0		122	Asia/Tokyo	2017-04-17
+1848202	Yoshida-machi	Yoshida-machi		37.7	138.88333	A	ADM3H	JP		00		1848202		0		3	Asia/Tokyo	2012-07-22
+1848203	Yoshida-machi	Yoshida-machi		36.06667	139	A	ADM3H	JP		00		1848203		0		378	Asia/Tokyo	2012-07-22
+1848249	Yonōzu-mura	Yonozu-mura	Yonozu-mura,Yonōzu-mura	37.7	138.91667	A	ADM3H	JP		00		1848249		0		2	Asia/Tokyo	2012-07-22
+1848252	Yonouzu-mura	Yonouzu-mura	Yonouzu-mura,Yonozu Son,Yonozu-mura,Yonōzu Son,Yonōzu-mura	32.91447	132.00611	A	ADM3H	JP		00		1848252		0		181	Asia/Tokyo	2014-01-13
+1848261	Yoneda-chō	Yoneda-cho	Yoneda-cho,Yoneda-chō,Yoneda-machi,Yoneda-mura	34.78333	134.81667	A	ADM3H	JP		00		1848261		0		4	Asia/Tokyo	2017-04-14
+1848271	Yonagusuku-son	Yonagusuku-son	Yonagusuku-mura,Yonagusuku-son,Yunagusuku-mura	26.31667	127.88333	A	ADM3H	JP		00		1848271		0		1	Asia/Tokyo	2012-07-22
+1848289	Yomikaki-mura	Yomikaki-mura	Yomikaki-mura	35.61667	137.66667	A	ADM3H	JP		00		1848289		0		925	Asia/Tokyo	2012-07-22
+1848411	Yobe-ku	Yobe-ku	Amarube-ku,Yobe-ku	34.8	134.56667	A	ADM3H	JP		00		1848411		0		4	Asia/Tokyo	2012-07-22
+1848597	Yamato-mura	Yamato-mura		35.8	136.88333	A	ADM3H	JP		00		1848597		0		522	Asia/Tokyo	2012-07-22
+1848599	Yamato-machi	Yamato-machi		37.15	138.91667	A	ADM3H	JP		00		1848599		0		137	Asia/Tokyo	2012-07-22
+1848600	Yamato-machi	Yamato-machi	Yamato-machi,Yamato-mura	33.11667	130.43333	A	ADM3H	JP		00		1848600		0		3	Asia/Tokyo	2012-07-22
+1848609	Yamate-son	Yamate-son	Yamate-mura,Yamate-son	34.65	133.78333	A	ADM3H	JP		00		1848609		0		77	Asia/Tokyo	2012-07-22
+1848621	Yamashiro-chō	Yamashiro-cho		33.96667	133.73333	A	ADM3H	JP		00		1848621		0		282	Asia/Tokyo	2012-07-22
+1848630	Yamasaki-chō	Yamasaki-cho	Yamasaki-cho,Yamasaki-chō,Yamasaki-machi,Yamazaki-cho,Yamazaki-chō	35.05	134.51667	A	ADM3H	JP		13	7370820	1848630		0		218	Asia/Tokyo	2017-04-14
+1848635	Yamaoka-chō	Yamaoka-cho		35.35	137.36667	A	ADM3H	JP		09		1848635		0		453	Asia/Tokyo	2017-04-17
+1848664	Yamakuni-machi	Yamakuni-machi	Yamakuni-machi,Yamakuni-mura	33.41667	131.01667	A	ADM3H	JP		00		1848664		0		256	Asia/Tokyo	2012-07-22
+1848666	Yamakoshi-mura	Yamakoshi-mura	Yamakoshi-mura	37.33333	138.91667	A	ADM3H	JP		00		1848666		0		224	Asia/Tokyo	2012-07-22
+1848668	Yamakawa-chō	Yamakawa-cho		34.03333	134.23333	A	ADM3H	JP		00		1848668		0		92	Asia/Tokyo	2012-07-22
+1848696	Yamagawa-chō	Yamagawa-cho	Yamagawa-cho,Yamagawa-chō,Yamakawa-cho,Yamakawa-chō,Yamakawa-machi	31.2	130.6	A	ADM3H	JP		18	1862007	1848696		0		56	Asia/Tokyo	2017-04-19
+1848702	Yamaga-machi	Yamaga-machi	Yamaga-machi	33.46667	131.5	A	ADM3H	JP		00		1848702		0		100	Asia/Tokyo	2012-07-22
+1848740	Yaku-chō	Yaku-cho	Shimo-yaku-mura,Yaku-cho,Yaku-chō,Yaku-machi,Yaku-shima-machi	30.25	130.5	A	ADM3H	JP		18	8714932	1848740		0		318	Asia/Tokyo	2017-04-09
+1848761	Yakami-machi	Yakami-machi	Yakami-machi,Yakami-mura	34.88333	132.45	A	ADM3H	JP		00		1848761		0		237	Asia/Tokyo	2012-07-22
+1848787	Yahata-ku	Yahata-ku	Yahata-ku,Yahata-shi,Yawata-shi	33.85	130.8	A	ADM3H	JP		07	1848787			0		426	Asia/Tokyo	2014-05-12
+1848802	Yagi-mura	Yagi-mura	Yagi-mura	34.76667	134.71667	A	ADM3H	JP		00		1848802		0		-9999	Asia/Tokyo	2012-07-22
+1848811	Yagaji-son	Yagaji-son	Yagachi-mura,Yagaji-mura,Yagaji-son	26.65	128.01667	A	ADM3H	JP		00		1848811		0		-9999	Asia/Tokyo	2012-07-22
+1848835	Yachiyo-machi	Yachiyo-machi	Yachiyo-machi	34.61667	132.6	A	ADM3H	JP		00		1848835		0		282	Asia/Tokyo	2012-07-22
+1848836	Yachiyo-chō	Yachiyo-cho	Yachiyo-cho,Yachiyo-chō,Yachiyo-mura	34.98333	134.91667	A	ADM3H	JP		13	1851159	1848836		6200		210	Asia/Tokyo	2017-04-09
+1848838	Yachiho-mura	Yachiho-mura		36.13333	138.43333	A	ADM3H	JP		00		1848838		0		948	Asia/Tokyo	2012-07-22
+1848840	Yabuzukahon-machi	Yabuzukahon-machi		36.35	139.3	A	ADM3H	JP		00		1848840		0		84	Asia/Tokyo	2012-07-22
+1848842	Yabu-son	Yabu-son	Yabu-son	26.61667	127.93333	A	ADM3H	JP		00		1848842		0		75	Asia/Tokyo	2012-07-22
+1848857	Yabe-machi	Yabe-machi		32.73333	131.03333	A	ADM3H	JP		00		1848857		0		642	Asia/Tokyo	2012-07-22
+1849106	Usuda-machi	Usuda-machi		36.18333	138.46667	A	ADM3H	JP		00		1849106		0		733	Asia/Tokyo	2012-07-22
+1849162	Usa-machi	Usa-machi		33.53333	131.4	A	ADM3H	JP		00		1849162		0		4	Asia/Tokyo	2012-07-22
+1849172	Urushiyama-mura	Urushiyama-mura	Urushiyama-mura	37.75	138.91667	A	ADM3H	JP		00		1849172		0		2	Asia/Tokyo	2012-07-22
+1849227	Urada-mura	Urada-mura	Urada-mura,Urata	37.05	138.56667	A	ADM3H	JP		00		1849227		0		658	Asia/Tokyo	2012-07-22
+1849249	Uojima-mura	Uojima-mura	Uojima-mura,Uoshima-mura	34.18333	133.31667	A	ADM3H	JP		00		1849249		0		-9999	Asia/Tokyo	2012-07-22
+1849403	Ueno-shi	Ueno-shi	Ueno-shi,Uyeno-shi	34.76954	136.12919	A	ADM3H	JP		00	1849403			0		162	Asia/Tokyo	2014-03-04
+1849750	Tsuda-machi	Tsuda-machi	Tsuda-machi,jin tian ding,津田町	34.8	135.7	A	ADM3H	JP		00				0		61	Asia/Tokyo	2015-08-22
+1849829	Toyooka	Toyooka	Toyooka-machi,li gang,豊岡	35.8366	139.3875	A	ADM3H	JP		34				0		101	Asia/Tokyo	2016-07-06
+1850129	Tomari-machi	Tomari-machi	Tomari-machi	36.95	137.56667	A	ADM3H	JP		42	1852239			0		20	Asia/Tokyo	2015-08-22
+1850392	Tenryū-shi	Tenryu-shi	Tenryu,Tenryū	34.91667	137.8	A	ADM3H	JP		00	1850392			0		223	Asia/Tokyo	2014-02-24
+1850755	Tamagusuku-son	Tamagusuku-son	Tamagusuku-mura,Tamagusuku-son	26.13333	127.78333	A	ADM3H	JP		00		1850755		0		-9999	Asia/Tokyo	2012-07-22
+1851699	Shōgawa-machi	Shogawa-machi	Shogawa-machi,Shōgawa-machi	36.58333	137	A	ADM3H	JP		00				0		236	Asia/Tokyo	2015-08-22
+1852032	Shin-yoshitomi-mura	Shin-yoshitomi-mura	ji fu ding,吉富町	33.58333	131.16667	A	ADM3H	JP		07	1864588			4000		21	Asia/Tokyo	2017-04-09
+1852447	Shima-machi	Shima-machi	Shima-mura	33.6	130.16667	A	ADM3H	JP		07				0		160	Asia/Tokyo	2017-08-15
+1852887	Sashiki-son	Sashiki-son	Sashichi-mura,Sashiki-mura,Sashiki-son	26.16667	127.8	A	ADM3H	JP		00		1852887		0		24	Asia/Tokyo	2012-07-22
+1853445	Ōzato-son	Ozato-son	Osato-mura,Ozato-mura,Ozato-son,Ufuzatu-mura,Ōzato-mura,Ōzato-son	26.16667	127.75	A	ADM3H	JP		00		1853445		0		97	Asia/Tokyo	2017-04-19
+1853464	Ōyodo-ku	Oyodo-ku	Oyodo-ku,Yodo-ku,Ōyodo-ku	34.71667	135.5	A	ADM3H	JP		00		1853464		0		6	Asia/Tokyo	2015-06-24
+1853523	Ōwada-machi	Owada-machi	Owada Machi,Owada-machi,Owata,da he tian ding,oowadamachi,Ōwada Machi,Ōwada-machi,Ōwata,おおわだまち,オオワダマチ,大和田町	35.80175	139.54968	A	ADM3H	JP		00				0		39	Asia/Tokyo	2014-02-10
+1853561	Ōtsu-ku	Otsu-ku	Otsu-ku,Ōtsu-ku	34.78333	134.6	A	ADM3H	JP		00		1853561		0		5	Asia/Tokyo	2012-07-22
+1853733	Ōshima-machi	Oshima-machi	Oshima-machi,Oshima-mura,da dao ding,ooshimamachi,Ōshima-machi,Ōshima-mura,おおしままち,大島町	36.73333	137.06667	A	ADM3H	JP		00				0		6	Asia/Tokyo	2015-08-22
+1854508	Ōi Machi	Oi Machi	Oi Machi,Oi-machi,da jing ding,ooimachi,Ōi Machi,Ōi-machi,おおいまち,オオイマチ,大井町	35.85	139.5	A	ADM3H	JP		00				0		38	Asia/Tokyo	2017-01-06
+1854707	Ōgagō-mura	Ogago-mura	Ogago-mura,Okago-mura,Okagō-mura,Ōgagō-mura	33.1	139.76666	A	ADM3H	JP		40	1863453			0		-9999	Asia/Tokyo	2014-02-10
+1854745	Odawara-machi	Odawara-machi	Odawara	35.25	139.16667	A	ADM3H	JP		19	1865009			0		1	Asia/Tokyo	2014-02-12
+1854821	Obata-machi	Obata-machi	Akihata-mura,Obata-machi	36.21667	138.9	A	ADM3H	JP		10	1854821			0		280	Asia/Tokyo	2014-04-25
+1855304	Nishi-hadano-machi	Nishi-hadano-machi	Nishi-hadano-machi,Nishi-hatano-machi	35.4	139.16667	A	ADM3H	JP		19	1855966			0		287	Asia/Tokyo	2014-02-12
+1855406	Niiza-machi	Niiza-machi	Katayama-mura,Owada-machi,Ōwada-machi	35.78333	139.55	A	ADM3H	JP		34	1859369			0		41	Asia/Tokyo	2014-02-10
+1855658	Nanatsuka-machi	Nanatsuka-machi	Nanatsuka-machi	36.73333	136.7	A	ADM3H	JP		15	1860811			0		44	Asia/Tokyo	2014-02-10
+1855737	Nakaumi-mura	Nakaumi-mura		36.38333	136.55	A	ADM3H	JP		00		1855737		0		217	Asia/Tokyo	2012-07-22
+1855844	Nakanomachi-mura	Nakanomachi-mura	Nakanomachi-mura	34.75	137.8	A	ADM3H	JP		00				0		8	Asia/Tokyo	2014-02-24
+1856708	Miyazaki-mura	Miyazaki-mura	Miyazaki-mura,gong qi cun,宮崎村	35.93333	136.08333	A	ADM3H	JP		06	1854875			0		110	Asia/Tokyo	2015-08-29
+1856815	Miyagawa-mura	Miyagawa-mura	Miyagawa-mura	34.28333	136.25	A	ADM3H	JP		00				0		563	Asia/Tokyo	2014-03-04
+1856825	Miyada-chō	Miyada-cho	Miyada-cho,Miyada-chō,Miyata	35.77354	137.88081	A	ADM3H	JP		00				0		1522	Asia/Tokyo	2012-08-05
+1856866	Mitsune-mura	Mitsune-mura	Mitsune-mura	33.11667	139.8	A	ADM3H	JP		40	1863453			0		70	Asia/Tokyo	2014-02-10
+1857259	Mikuni-chō	Mikuni-cho	mikunichou,san guo ding,みくにちょう,三国町	36.21667	136.16667	A	ADM3H	JP		00				0		-1	Asia/Tokyo	2015-08-29
+1857367	Mida-mura	Mida-mura	Mida Mura,Mida-mura,Minoda-mura,ji tian cun,midamura,みだむら,ミダムラ,箕田村	36.08333	139.5	A	ADM3H	JP		34	1859369			0		17	Asia/Tokyo	2014-02-10
+1857932	Kyōbashi-ku	Kyobashi-ku		35.68333	139.76667	A	ADM3H	JP		00		1857932		0		13	Asia/Tokyo	2012-07-22
+1858020	Kushi-son	Kushi-son	Kushi-mura,Kushi-son	26.55	128.08333	A	ADM3H	JP		00		1858020		0		61	Asia/Tokyo	2012-07-22
+1858293	Kureha-machi	Kureha-machi	Kureha-machi,wu yu ding,呉羽町	36.71667	137.15	A	ADM3H	JP		00				0		0	Asia/Tokyo	2015-08-22
+1858645	Koumi-mura	Koumi-mura	Koumi,xiao hai ding,小海町	36.06667	138.48333	A	ADM3H	JP		26				0		1025	Asia/Tokyo	2014-05-14
+1858693	Kosugi-machi	Kosugi-machi	Kosugi-machi,kosugimachi,xiao shan ding,こすぎまち,小杉町	36.71667	137.1	A	ADM3H	JP		42				0		7	Asia/Tokyo	2015-08-22
+1858799	Kōno-mura	Kono-mura	Kono-mura,Kōno-mura,he ye cun,河野村	35.81667	136.08333	A	ADM3H	JP		06	7465771			0		257	Asia/Tokyo	2015-08-29
+1858954	Kokura-ku	Kokura-ku	Kohura,Kokura-ku,Kokura-shi	33.8	130.88333	A	ADM3H	JP		00		1858954		0		98	Asia/Tokyo	2012-07-22
+1859130	Kochinda-son	Kochinda-son	Kochinda-mura,Kochinda-son,Kuchinda-mura,Kuchinda-son	26.13333	127.71667	A	ADM3H	JP		00		1859130		0		73	Asia/Tokyo	2012-07-22
+1859334	Kitahama-mura	Kitahama-mura	Kitahama-mura	34.78333	137.8	A	ADM3H	JP		37	1859334			0		18	Asia/Tokyo	2014-05-20
+1859336	Kita-hadano-mura	Kita-hadano-mura	Kita-hadano-mura,Kita-hatano-mura	35.41667	139.2	A	ADM3H	JP		19	1855966			0		370	Asia/Tokyo	2014-02-12
+1859342	Kitagō Chō	Kitago Cho	Kitago,Kitago Cho,Kitago-cho,Kitago-mura,Kitagō,Kitagō Chō,Kitagō-chō,Kitagō-mura,bei xiang ding,kitagouchou,きたごうちょう,北郷町	31.71444	131.32483	A	ADM3H	JP		25	1857155	1859342		0		133	Asia/Tokyo	2017-04-17
+1859421	Kira-chō	Kira-cho	Kira,Kira-cho,Kira-chō,ji liang ding,kirachou,きらちょう,吉良町	34.81212	137.07404	A	ADM3H	JP		01	1862948	1859421		0		4	Asia/Tokyo	2017-01-06
+1859783	Katsuren-son	Katsuren-son	Katchin-mura,Katsuren-mura,Katsuren-son	26.3	127.9	A	ADM3H	JP		00		1859783		0		-9999	Asia/Tokyo	2012-07-22
+1859889	Kasuga-machi	Kasuga-machi	Kasuga-machi,Kasuga-mura	33.51667	130.46667	A	ADM3H	JP		00				0		43	Asia/Tokyo	2015-11-18
+1860489	Kami-motobu-son	Kami-motobu-son	Kami-motobu-mura,Kami-motobu-son,Motobu-mura	26.68333	127.9	A	ADM3H	JP		00		1860489		0		52	Asia/Tokyo	2012-07-22
+1860831	Kagemori-mura	Kagemori-mura	Kagemori-mura	35.95	139.08333	A	ADM3H	JP		34	1864636			0		778	Asia/Tokyo	2014-02-10
+1861277	Itō-mura	Ito-mura	Ito-mura,Itō-mura,itoumura,mi sheng cun,いとうむら,糸生村	35.98333	136.08333	A	ADM3H	JP		06	1854875			0		98	Asia/Tokyo	2015-08-29
+1861453	Isawa-chō	Isawa-cho		35.65	138.66667	A	ADM3H	JP		00				0		303	Asia/Tokyo	2017-03-29
+1861626	Inami-machi	Inami-machi	Inami-machi	36.56667	136.96667	A	ADM3H	JP		00				0		105	Asia/Tokyo	2015-08-22
+1861725	Ikuta-ku	Ikuta-ku		34.68333	135.18333	A	ADM3H	JP		00		1861725		0		3	Asia/Tokyo	2012-07-22
+1862255	Hom-mura	Hom-mura		34.36667	139.26667	A	ADM3H	JP		00				0		41	Asia/Tokyo	2014-02-12
+1862663	Hikawa-chō	Hikawa-cho	Hikawa-cho,Hikawa-chō,Hikawa-mura,fei chuan ding,hikawachou,ひかわちょう,斐川町	35.3905	132.84286	A	ADM3H	JP		36	1861082	1862663		0		3	Asia/Tokyo	2017-04-14
+1862829	Higashi-hadano-mura	Higashi-hadano-mura	Higashi-hadano-mura,Higashi-hatano-mura	35.41667	139.23333	A	ADM3H	JP		19	1855966			0		437	Asia/Tokyo	2014-02-12
+1862852	Higashi-agano-mura	Higashi-agano-mura	Higashi-agano-mura	35.91667	139.25	A	ADM3H	JP		34	1861470			0		394	Asia/Tokyo	2014-02-10
+1862874	Hidaka-machi	Hidaka-machi	ri gao ding,日高町	35.907	139.33907	A	ADM3H	JP		34	1861470			0		75	Asia/Tokyo	2014-12-11
+1862949	Hazu-chō	Hazu-cho	Hazu,Hazu-cho,Hazu-chō,Hazu-machi,fan dou ding,hazuchou,はずちょう,幡豆町	34.80537	137.13121	A	ADM3H	JP		01	1862948	1862949		0		111	Asia/Tokyo	2017-04-18
+1863127	Harue-machi	Harue-machi	Harue-machi,Harue-mura,chun jiang ding,haruechou,はるえちょう,春江町	36.15	136.21667	A	ADM3H	JP		00				0		5	Asia/Tokyo	2015-08-29
+1863193	Haneji-son	Haneji-son	Hanechi-son,Haneji-mura,Haneji-son,Haniji-mura	26.66667	128.01667	A	ADM3H	JP		00		1863193		0		17	Asia/Tokyo	2012-07-22
+1863430	Hadano-machi	Hadano-machi	Hadano,Hatano-machi	35.36667	139.23333	A	ADM3H	JP		19	1855966			0		84	Asia/Tokyo	2014-02-12
+1863496	Gushikami-son	Gushikami-son	Gushicha-mura,Gushichan-mura,Gushichan-son,Gushikami-son,Kushikami-son	26.11667	127.73333	A	ADM3H	JP		00		1863496		0		58	Asia/Tokyo	2012-07-22
+1864019	Fukiai-ku	Fukiai-ku	Fukiai-ku	34.7	135.21667	A	ADM3H	JP		00		1864019		0		-2	Asia/Tokyo	2012-07-22
+1864079	Fujiwara-chō	Fujiwara-cho	Fujiwara-cho,Fujiwara-chō,Fujiwara-mura	35.16667	136.48333	A	ADM3H	JP		23	7417702			0		158	Asia/Tokyo	2014-02-17
+1864114	Fujimi-mura	Fujimi-mura	Fujimi-mura	35.9	138.21667	A	ADM3H	JP		00				0		1021	Asia/Tokyo	2014-05-14
+1864153	Fuchū-machi	Fuchu-machi	Fuchu,Fuchū	35.66667	139.48333	A	ADM3H	JP		40				0		50	Asia/Tokyo	2014-02-17
+1864444	Daimon-machi	Daimon-machi	Daimon-machi,da men ding,daimonmachi,だいもんまち,大門町	36.73333	137.05	A	ADM3H	JP		00				0		9	Asia/Tokyo	2015-08-22
+1864517	Chōfu-machi	Chofu-machi	Chofu,Chōfu	35.65	139.55	A	ADM3H	JP		40				0		36	Asia/Tokyo	2014-02-17
+1864560	Chinen-son	Chinen-son	Chinen-mura,Chinen-son,Chinin-mura	26.16667	127.81667	A	ADM3H	JP		00		1864560		0		105	Asia/Tokyo	2012-07-22
+1864893	Awara-chō	Awara-cho	Awara-cho,Awara-chō,awarachou,lu yuan ding,あわらちょう,芦原町	36.23333	136.2	A	ADM3H	JP		00				0		32	Asia/Tokyo	2015-08-29
+1865030	Asashina-mura	Asashina-mura		36.26667	138.4	A	ADM3H	JP		26	1865030			0		668	Asia/Tokyo	2014-05-13
+1865070	Asahi-mura	Asahi-mura	Asahi	38.5	139.83333	A	ADM3H	JP		44	1862730			0		706	Asia/Tokyo	2016-08-15
+1865072	Asahi-mura	Asahi-mura		38.25	139.56667	A	ADM3H	JP		29	1861238			11800		90	Asia/Tokyo	2015-08-30
+1865073	Asahi-mura	Asahi-mura	Asahi-mura	36.08333	137.36667	A	ADM3H	JP		09	7418820			0		926	Asia/Tokyo	2015-08-30
+1865185	Arakawa-mura	Arakawa-mura	Arakawa-mura	35.93333	139.01667	A	ADM3H	JP		34	1864636			0		795	Asia/Tokyo	2014-02-10
+1865222	Arachi-mura	Arachi-mura	Arachi-mura	35.58333	136.13333	A	ADM3H	JP		06				0		394	Asia/Tokyo	2015-08-29
+1865588	Akagi-mura	Akagi-mura	Akagi-mura	36.55	139.08333	A	ADM3H	JP		10	1865588			0		651	Asia/Tokyo	2014-04-25
+1865598	Akabori-mura	Akabori-mura	Akabori-mura,chi ku cun,赤堀村	36.4	139.21667	A	ADM3H	JP		10	1865598			0		142	Asia/Tokyo	2013-12-27
+1865672	Aino-chō	Aino-cho	Aino-cho,Aino-chō,Aino-machi,Aino-mura	32.8	130.15	A	ADM3H	JP		27		1865672		0		49	Asia/Tokyo	2017-04-18
+2110458	Yuzukami-mura	Yuzukami-mura		36.83333	140.11667	A	ADM3H	JP		00		2110458		0		155	Asia/Tokyo	2012-07-22
+2110462	Yūwa-machi	Yuwa-machi	Yuwa-machi,Yuwa-mura,Yūwa-machi,Yūwa-mura	39.53333	140.21667	A	ADM3H	JP		00		2110462		0		13	Asia/Tokyo	2012-07-22
+2110463	Yuri-machi	Yuri-machi	Yuri-machi,Yuri-mura	39.28333	140.11667	A	ADM3H	JP		00		2110463		0		18	Asia/Tokyo	2012-07-22
+2110485	Yoshima-mura	Yoshima-mura	Yoshima-mura	37.06667	140.83333	A	ADM3H	JP		00		2110485		0		86	Asia/Tokyo	2012-07-22
+2110487	Yoshida-mura	Yoshida-mura	Yoshida-mura	38	140.91667	A	ADM3H	JP		00		2110487		0		-9999	Asia/Tokyo	2012-07-22
+2110499	Yoneyama-chō	Yoneyama-cho	Yoneyama-cho,Yoneyama-chō	38.63333	141.21667	A	ADM3H	JP		00		2110499		0		21	Asia/Tokyo	2012-07-22
+2110508	Yokoshiba-machi	Yokoshiba-machi		35.65	140.46667	A	ADM3H	JP		00		2110508		0		10	Asia/Tokyo	2012-07-22
+2110539	Yamoto Machi	Yamoto Machi	Takaki-mura,Yamato-cho,Yamato-chō,Yamoto Machi,Yamoto-machi,shi ben ding,yamotochou,yamotomachi,やもとちょう,やもとまち,ヤモトマチ,矢本町	38.41879	141.21344	A	ADM3H	JP		00				0		4	Asia/Tokyo	2012-08-05
+2110553	Yamagata-machi	Yamagata-machi		36.63333	140.38333	A	ADM3H	JP		00		2110553		0		89	Asia/Tokyo	2012-07-22
+2110987	Shōwa-machi	Showa-machi	Showa-machi,Shōwa-machi	39.85	140.06667	A	ADM3H	JP		02	7443155			0		3	Asia/Tokyo	2017-01-08
+2111513	Ogawa-machi	Ogawa-machi	Ogawa-machi,xiao chuan ding,小川町	36.18333	140.4	A	ADM3H	JP		14	2112766	2111513		0		30	Asia/Tokyo	2014-02-17
+2111681	Naruko Chō	Naruko Cho	Narugo-machi,Naruko Cho,Naruko Chō,ming zi ding,narukochou,なるこちょう,ナルコチョウ,鳴子町	38.76564	140.68821	A	ADM3H	JP		00				0		533	Asia/Tokyo	2012-08-05
+2113141	Akai Mura	Akai Mura	Akai Mura,Akai-mura,akaimura,chi jing cun,あかいむら,アカイムラ,赤井村	38.45	141.23333	A	ADM3H	JP		24	2113141			0		3	Asia/Tokyo	2016-08-15
+2127385	Zenikamezawa-mura	Zenikamezawa-mura	Zenigama-zawa-mura,Zenikamesawa-mura,Zenikamezawa-mura	41.78333	140.88333	A	ADM3H	JP		00		2127385		0		242	Asia/Tokyo	2012-07-22
+2127466	Yamase Mura	Yamase Mura	Yamase Mura,Yamase-mura,shan lai cun,yamasemura,やませむら,ヤマセムラ,山瀬村	40.4	140.48333	A	ADM3H	JP		00		2127466		0		238	Asia/Tokyo	2012-12-06
+2127467	Yamamoto-machi	Yamamoto-machi		40.11667	140.11667	A	ADM3H	JP		00		2127467		0		74	Asia/Tokyo	2012-07-22
+2130688	Akan-chō	Akan-cho	Akan-cho,Akan-chō,Akan-mura	43.25	144.08333	A	ADM3H	JP		12		2130688		0		280	Asia/Tokyo	2024-12-11
+2130725	Abuta-chō	Abuta-cho	Abuta-cho,Abuta-chō	42.56667	140.78333	A	ADM3H	JP		00		2130725		0		197	Asia/Tokyo	2014-02-10
+7354048	Isshiki-chō	Isshiki-cho	Isshiki-cho,Isshiki-chō,isshikichou,yi se ding,いっしきちょう,一色町	34.80455	137.01868	A	ADM3H	JP		01	1862948	7354048		0		-4	Asia/Tokyo	2017-04-09
+7374341	Haruhi-chō	Haruhi-cho	Haruhi-cho,Haruhi-chō,chun ri ding,haruhichou,はるひちょう,春日町	35.23588	136.84238	A	ADM3H	JP		01		7374341		0		6	Asia/Tokyo	2014-02-18
+7374342	Miwa-chō	Miwa-cho	Miwa-cho,Miwa-chō,mei he ding,miwachou,みわちょう,美和町	35.19726	136.78792	A	ADM3H	JP		01	1865365	7374342		0		4	Asia/Tokyo	2017-04-18
+7384002	Kamō Chō	Kamo Cho	Kamo Cho,Kamo-cho,Kamō Chō,Kamō-chō,kamouchou,pu sheng ding,かもうちょう,蒲生町	31.78697	130.54372	A	ADM3H	JP		18	1865649	7384002		0		143	Asia/Tokyo	2017-04-09
+7394801	Kinomoto-chō	Kinomoto-cho	Kinomoto-cho,Kinomoto-chō,kinomotochou,mu zhi ben ding,きのもとちょう,木之本町	35.54875	136.26272	A	ADM3H	JP		35		7394801		0		376	Asia/Tokyo	2017-04-16
+7394803	Takatsuki-chō	Takatsuki-cho	Takatsuki-cho,Takatsuki-chō,gao yue ding,takatsukichou,たかつきちょう,高月町	35.47429	136.20341	A	ADM3H	JP		35		7394803		0		136	Asia/Tokyo	2017-04-09
+7407426	Nakagawa Machi	Nakagawa Machi	Chikushi-gun Nakagawa-shi,Nakagawa City,Nakagawa Machi,Nakagawa-machi,Nakagawa-shi,na ke chuan ding,na ke chuan shi,nakagawamachi,zhu zi jun na ke chuan shi,なかがわまち,筑紫郡 那珂川市,那珂川市,那珂川町	33.46477	130.42207	A	ADM3H	JP		07	1864574	40305		50030		114	Asia/Tokyo	2021-09-18
+7407434	Nijō-machi	Nijo-machi	Nijo-machi,Nijō-machi,er zhang ding,nijoumachi,にじょうまち,二丈町	33.4978	130.12048	A	ADM3H	JP		07		7407434		0		365	Asia/Tokyo	2017-04-16
+7407439	Tachibana-machi	Tachibana-machi	Tachibana-machi,li hua ding,tachibanamachi,たちばなまち,立花町	33.1559	130.59594	A	ADM3H	JP		07	1848579	7407439		0		380	Asia/Tokyo	2017-04-16
+7407441	Yabe-mura	Yabe-mura	Yabe-mura,shi bu cun,yabemura,やべむら,矢部村	33.15445	130.82789	A	ADM3H	JP		07	1848579	7407441		0		359	Asia/Tokyo	2017-04-09
+7413158	Ueki-machi	Ueki-machi	Ueki-machi,uekimachi,zhi mu ding,うえきまち,植木町	32.91809	130.6861	A	ADM3H	JP		21	7412707	7413158		0		90	Asia/Tokyo	2017-04-06
+7413971	Kiyotake Chō	Kiyotake Cho	Kiyotake Cho,Kiyotake Chō,Kiyotake-cho,Kiyotake-chō,kiyotakechou,qing wu ding,きよたけちょう,清武町	31.84774	131.36993	A	ADM3H	JP		25	1856706	7413971		0		66	Asia/Tokyo	2017-04-14
+7413973	Nojiri Chō	Nojiri Cho	Nojiri Cho,Nojiri Chō,Nojiri-cho,Nojiri-chō,nojirichou,ye kao ding,のじりちょう,野尻町	31.96858	131.11214	A	ADM3H	JP		25	7413970	7413973		0		160	Asia/Tokyo	2017-04-14
+7415919	Kajikazawa-chō	Kajikazawa-cho	Kajikazawa-cho,Kajikazawa-chō,kajikazawachou,qiu ze ding,かじかざわちょう,鰍沢町	35.51792	138.4045	A	ADM3H	JP		46		7415919		0		810	Asia/Tokyo	2017-04-07
+7417091	Seinaiji-mura	Seinaiji-mura	Seinaiji-mura,qing nei lu cun,seinaijimura,せいないじむら,清内路村	35.51042	137.69355	A	ADM3H	JP		26	1852309	7417091		0		1188	Asia/Tokyo	2017-04-09
+7417109	Shinshūshin-machi	Shinshushin-machi	Shinshushin-machi,Shinshūshin-machi,shinshuushinmachi,xin zhou xin ding,しんしゅうしんまち,信州新町	36.56419	137.97938	A	ADM3H	JP		26	7416552	7417109		0		599	Asia/Tokyo	2017-04-16
+7417111	Nakajō-mura	Nakajo-mura	Nakajo-mura,Nakajō-mura,nakajoumura,zhong tiao cun,なかじょうむら,中条村	36.62582	138.03052	A	ADM3H	JP		26	7416552	7417111		0		680	Asia/Tokyo	2017-04-09
+7418812	Emukae-chō	Emukae-cho	Emukae-cho,Emukae-chō,emukaechou,jiang ying ding,えむかえちょう,江迎町	33.30199	129.64873	A	ADM3H	JP		27	1859301	7418812		0		149	Asia/Tokyo	2017-04-19
+7418816	Shikamachi-chō	Shikamachi-cho	Shikamachi-cho,Shikamachi-chō,lu ding ding,shikamachichou,しかまちちょう,鹿町町	33.27397	129.59875	A	ADM3H	JP		27	1859301	7418816		0		96	Asia/Tokyo	2017-04-09
+7441813	Kawai-mura	Kawai-mura	Kawai-mura,chuan jing cun,kawaimura,かわいむら,川井村	39.59479	141.56987	A	ADM3H	JP		16	7441806	7441813		0		556	Asia/Tokyo	2017-04-15
+7446997	Motoyoshi-chō	Motoyoshi-cho	Motoyoshi-cho,Motoyoshi-chō,ben ji ding,motoyoshichou,もとよしちょう,本吉町	38.79573	141.4876	A	ADM3H	JP		24	2111817			0		108	Asia/Tokyo	2017-04-15
+7447003	Tomiya Machi	Tomiya Machi	Tomiya Machi,Tomiya-machi,fu gu ding,tomiyamachi,とみやまち,富谷町	38.37959	140.90136	A	ADM3H	JP		24	2112074	04423		51138		65	Asia/Tokyo	2021-09-18
+7453507	Fujioka-machi	Fujioka-machi	Fujioka-machi,fujiokamachi,teng gang ding,ふじおかまち,藤岡町	36.26445	139.66883	A	ADM3H	JP		38	1852170	7453507		0		27	Asia/Tokyo	2017-04-09
+7453508	Iwafune-machi	Iwafune-machi	Iwafune-machi,iwafunemachi,yan zhou ding,いわふねまち,岩舟町	36.33507	139.65241	A	ADM3H	JP		38	1852170	7453508		0		73	Asia/Tokyo	2017-04-09
+7453514	Nishikata-machi	Nishikata-machi	Nishikata-machi,nishikatamachi,xi fang ding,にしかたまち,西方町	36.47077	139.70717	A	ADM3H	JP		38		7453514		0		120	Asia/Tokyo	2017-04-15
+7453591	Tsuga-machi	Tsuga-machi	Tsuga-machi,dou he ding,tsugamachi,つがまち,都賀町	36.43759	139.72519	A	ADM3H	JP		38	1852170	7453591		0		68	Asia/Tokyo	2017-04-09
+7464135	Kisai-machi	Kisai-machi	Kisai-machi,kisaimachi,qi xi ding,きさいまち,騎西町	36.0989	139.57099	A	ADM3H	JP		34		7464135		0		16	Asia/Tokyo	2017-04-15
+7464136	Kitakawabe-machi	Kitakawabe-machi	Kitakawabe-machi,bei chuan bian ding,kitakawabemachi,きたかわべまち,北川辺町	36.18639	139.66563	A	ADM3H	JP		34		7464136		0		12	Asia/Tokyo	2017-04-09
+7464137	Ōtone-machi	Otone-machi	Otone-machi,da li gen ding,ootonemachi,Ōtone-machi,おおとねまち,大利根町	36.14627	139.66361	A	ADM3H	JP		34		7464137		0		9	Asia/Tokyo	2017-04-09
+7464139	Shōbu Machi	Shobu Machi	Shobu Machi,Shobu-machi,Shōbu Machi,Shōbu-machi,chang pu ding,shoubumachi,しょうぶまち,ショウブマチ,菖蒲町	36.05745	139.59814	A	ADM3H	JP		34		7464139		0		10	Asia/Tokyo	2017-04-14
+7464140	Kurihashi-machi	Kurihashi-machi	Kurihashi-machi,kurihashimachi,li qiao ding,くりはしまち,栗橋町	36.11875	139.69798	A	ADM3H	JP		34	1859316	7464140		0		11	Asia/Tokyo	2017-04-09
+7468187	Kawaguchi-machi	Kawaguchi-machi	Kawaguchi-machi,chuan kou ding,kawaguchimachi,かわぐちまち,川口町	37.25288	138.86022	A	ADM3H	JP		29		7468187		0		92	Asia/Tokyo	2017-04-15
+7522554	Hoshino-mura	Hoshino-mura	Hoshino-mura,hoshinomura,xing ye cun,ほしのむら,星野村	33.24418	130.77294	A	ADM3H	JP		07		7522554		0		373	Asia/Tokyo	2017-04-09
+8300557	Kajiki Chō	Kajiki Cho	Kajiki Cho,Kajiki Chō,Kajiki-cho,Kajiki-chō,jia zhi mu ding,kajikichou,かじきちょう,加治木町	31.76917	130.66311	A	ADM3H	JP		18	1865649	8300557		0		122	Asia/Tokyo	2017-04-14
+8351487	Kanan Cho	Kanan Cho	Kanan Cho,he nan ding,kananchou,かなんちょう,カナンチョウ,河南町	38.48146	141.21469	A	ADM3H	JP		00				0		2	Asia/Tokyo	2012-07-21
+8351488	Kanan Chō	Kanan Cho	Kanan Cho,Kanan Chō,he nan ding,kananchou,かなんちょう,カナンチョウ,河南町	38.48039	141.2666	A	ADM3H	JP		24				0		1	Asia/Tokyo	2012-07-21
+8354407	Hanayama Mura	Hanayama Mura	Hanayama Mura,hanayamamura,hua shan cun,はなやまむら,ハナヤマムラ,花山村	38.78261	140.752	A	ADM3H	JP		24				0		473	Asia/Tokyo	2012-07-21
+8354408	Tennō Machi	Tenno Machi	Tenno Machi,Tennō Machi,ten'noumachi,tian wang ding,てんのうまち,テンノウマチ,天王町	39.82891	140.03543	A	ADM3H	JP		02				0		13	Asia/Tokyo	2012-07-21
+8593985	Yawatahama-shi	Yawatahama-shi	Yawatahama-shi,ba fan bang,ba fan bang shi,yawatahamashi,やわたはまし,八幡浜,八幡浜市	33.47298	132.43251	A	ADM3H	JP		00				0		214	Asia/Tokyo	2017-07-21

@@ -1,0 +1,43 @@
+﻿5955756	Forsyth	Forsyth		45.91677	-70.99905	A	ADMDH	CA		10				0		333	America/Toronto	2024-02-11
+6143831	Seigneurie Bruyères	Seigneurie Bruyeres		46.28336	-72.46581	A	ADMDH	CA		10				0		26	America/Toronto	2016-02-22
+6143832	Seigneurie Champlain	Seigneurie Champlain		46.53335	-72.44911	A	ADMDH	CA		10				0		50	America/Toronto	2016-02-04
+6143837	Seigneurie de Batiscan	Seigneurie de Batiscan		46.75006	-72.61581	A	ADMDH	CA		10				0		155	America/Toronto	2016-02-04
+6143839	Seigneurie de Bécancour	Seigneurie de Becancour		46.31676	-72.43241	A	ADMDH	CA		10				0		7	America/Toronto	2016-02-22
+6143846	Seigneurie de Carufel	Seigneurie de Carufel		46.26676	-73.08244	A	ADMDH	CA		10				0		52	America/Toronto	2016-02-24
+6143851	Seigneurie de Cournoyer	Seigneurie de Cournoyer		46.33335	-72.33241	A	ADMDH	CA		10				0		34	America/Toronto	2016-02-22
+6143853	Seigneurie de Courval	Seigneurie de Courval		46.06676	-72.58242	A	ADMDH	CA		10				0		48	America/Toronto	2016-02-23
+6143854	Seigneurie de Gentilly	Seigneurie de Gentilly		46.38335	-72.2491	A	ADMDH	CA		10				0		33	America/Toronto	2016-02-23
+6143855	Seigneurie de Grandpré	Seigneurie de Grandpre		46.30006	-73.01584	A	ADMDH	CA		10				0		55	America/Toronto	2016-02-24
+6143856	Seigneurie de Grosbois-Est	Seigneurie de Grosbois-Est		46.31676	-72.81583	A	ADMDH	CA		10				0		21	America/Toronto	2016-02-04
+6143857	Seigneurie de Grosbois-Ouest	Seigneurie de Grosbois-Ouest		46.31676	-72.88243	A	ADMDH	CA		10				0		33	America/Toronto	2016-02-04
+6143858	Seigneurie Deguire	Seigneurie Deguire		45.93336	-72.74913	A	ADMDH	CA		10				0		50	America/Toronto	2016-02-23
+6143859	Seigneurie de la Baie-Saint-Antoine	Seigneurie de la Baie-Saint-Antoine		46.11676	-72.66582	A	ADMDH	CA		10				0		39	America/Toronto	2016-02-23
+6143865	Seigneurie de La Lussaudière	Seigneurie de La Lussaudiere		46.11676	-72.81583	A	ADMDH	CA		10				0		5	America/Toronto	2016-02-23
+6143871	Seigneurie de la Pointe-du-Lac	Seigneurie de la Pointe-du-Lac		46.30006	-72.69913	A	ADMDH	CA		10				0		17	America/Toronto	2016-02-04
+6143874	Seigneurie de la Rivière-du-Loup	Seigneurie de la Riviere-du-Loup		46.26676	-73.03244	A	ADMDH	CA		10				0		32	America/Toronto	2016-02-24
+6143877	Seigneurie de Lavaltrie	Seigneurie de Lavaltrie		45.93337	-73.39916	A	ADMDH	CA		10				0		23	America/Toronto	2016-06-16
+6143892	Seigneurie de Mont-Louis	Seigneurie de Mont-Louis		49.18339	-65.69875	A	ADMDH	CA		10				0		323	America/Toronto	2016-06-14
+6143893	Seigneurie de Nicolet	Seigneurie de Nicolet		46.20006	-72.51581	A	ADMDH	CA		10				0		38	America/Toronto	2016-02-09
+6143894	Seigneurie de Niverville	Seigneurie de Niverville		46.35006	-72.53242	A	ADMDH	CA		10				0		1	America/Toronto	2016-02-04
+6143897	Seigneurie de Pierreville	Seigneurie de Pierreville		46.05006	-72.76583	A	ADMDH	CA		10				0		40	America/Toronto	2016-02-23
+6143900	Seigneurie de Roquetaillade	Seigneurie de Roquetaillade		46.23336	-72.51581	A	ADMDH	CA		10				0		32	America/Toronto	2016-02-09
+6143904	Seigneurie de Sainte-Anne-De La Pérade	Seigneurie de Sainte-Anne-De La Perade		46.68336	-72.4158	A	ADMDH	CA		10				0		129	America/Toronto	2016-02-04
+6143906	Seigneurie de Saint-François	Seigneurie de Saint-Francois		46.10006	-72.83243	A	ADMDH	CA		10				0		19	America/Toronto	2016-02-23
+6143909	Seigneurie Deschaillons	Seigneurie Deschaillons		46.45005	-71.99909	A	ADMDH	CA		10				0		77	America/Toronto	2016-02-23
+6143917	Seigneurie des Îles-Saint-Pierre	Seigneurie des Iles-Saint-Pierre		46.10006	-73.03244	A	ADMDH	CA		10				0		4	America/Toronto	2016-02-23
+6143925	Seigneurie-de-Vaudreuil	Seigneurie-de-Vaudreuil		45.42004	-74.05349	A	ADMDH	CA		10	16	71083		0		23	America/Toronto	2017-01-24
+6143927	Seigneurie de Vieuxpont	Seigneurie de Vieuxpont		46.33336	-72.53242	A	ADMDH	CA		10				0		1	America/Toronto	2016-02-04
+6143932	Seigneurie du Cap-de-la-Madeleine	Seigneurie du Cap-de-la-Madeleine		46.3679	-72.50359	A	ADMDH	CA		10	04	37067		0		15	America/Toronto	2016-02-24
+6143938	Seigneurie Dutort	Seigneurie Dutort		46.33335	-72.36581	A	ADMDH	CA		10				0		40	America/Toronto	2016-02-22
+6143941	Seigneurie Gastineau	Seigneurie Gastineau		46.28336	-72.83243	A	ADMDH	CA		10				0		9	America/Toronto	2016-06-20
+6143942	Seigneurie Godefroy	Seigneurie Godefroy		46.25006	-72.49911	A	ADMDH	CA		10				0		31	America/Toronto	2016-02-09
+6143943	Seigneurie Hertel	Seigneurie Hertel		46.45005	-72.41581	A	ADMDH	CA		10				0		31	America/Toronto	2016-02-04
+6143946	Seigneurie Marsolet	Seigneurie Marsolet		46.38335	-72.43241	A	ADMDH	CA		10				0		1	America/Toronto	2016-02-23
+6143948	Seigneurie Pachirini	Seigneurie Pachirini		46.36676	-72.53242	A	ADMDH	CA		10				0		15	America/Toronto	2016-02-04
+6143957	Seigneurie Sainte-Marguerite	Seigneurie Sainte-Marguerite		46.35006	-72.58242	A	ADMDH	CA		10				0		47	America/Toronto	2016-02-04
+6143958	Seigneurie Sainte-Marie	Seigneurie Sainte-Marie		46.50005	-72.2658	A	ADMDH	CA		10				0		28	America/Toronto	2016-02-24
+6143959	Seigneurie Saint-Étienne	Seigneurie Saint-Etienne		46.33336	-72.74913	A	ADMDH	CA		10				0		44	America/Toronto	2016-02-04
+6143961	Seigneurie Saint-James	Seigneurie Saint-James		45.18338	-73.51587	A	ADMDH	CA		10				0		61	America/Toronto	2016-06-16
+6143962	Seigneurie Saint-Jean	Seigneurie Saint-Jean		46.26676	-72.99914	A	ADMDH	CA		10				0		33	America/Toronto	2016-02-24
+6143963	Seigneurie Saint-Maurice	Seigneurie Saint-Maurice		46.36676	-72.64912	A	ADMDH	CA		10				0		61	America/Toronto	2016-02-04
+6143967	Seigneurie Thwaite	Seigneurie Thwaite		45.20008	-73.49917	A	ADMDH	CA		10				0		54	America/Toronto	2016-06-16

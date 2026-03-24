@@ -1,0 +1,17 @@
+﻿2806521	Landkreis Wolfstein	Landkreis Wolfstein		48.81667	13.56667	A	ADM3H	DE		02	092			0		663	Europe/Berlin	2014-08-23
+2807463	Kreisfreie Stadt Wismar	Kreisfreie Stadt Wismar	Kreisfreie Stadt Wismar,Stadtkreis Wismar,Wismar	53.88333	11.46667	A	ADM3H	DE		12	00	13006		44470		10	Europe/Berlin	2014-01-10
+2826286	Kreisfreie Stadt Stralsund	Kreisfreie Stadt Stralsund	Kreisfreie Stadt Stralsund,Stadtkreis Stralsund,Stralsund	54.31667	13.08333	A	ADM3H	DE		12	00	13005		57778		2	Europe/Berlin	2014-01-10
+2855440	Landkreis Parchim	Landkreis Parchim	Landkreis Parchim,Parchim	53.43389	11.82167	A	ADM3H	DE		12	00	13060		96896		46	Europe/Berlin	2014-01-10
+2866134	Kreisfreie Stadt Neubrandenburg	Kreisfreie Stadt Neubrandenburg	Kreisfreie Stadt Neubrandenburg,Neubrandenburg,Stadtkreis Neubrandenburg	53.55333	13.26639	A	ADM3H	DE		12	00	13002		65137		18	Europe/Berlin	2014-01-10
+2875341	Landkreis Ludwigslust	Landkreis Ludwigslust	Landkreis Ludwigslust,Ludwigslust	53.29361	11.45611	A	ADM3H	DE		12	00	13054		123528		21	Europe/Berlin	2014-01-10
+2913431	Landkreis Güstrow	Landkreis Guestrow	Landkreis Gustrow,Landkreis Güstrow	53.79306	12.2675	A	ADM3H	DE		12	00	13053		99943		19	Europe/Berlin	2013-12-31
+2917786	Kreisfreie Stadt Greifswald	Kreisfreie Stadt Greifswald	Greifswald,Kreisfreie Stadt Greifswald,Stadtkreis Greifswald	54.085	13.41806	A	ADM3H	DE		12	00	13001		54362		4	Europe/Berlin	2014-01-10
+2938283	Landkreis Demmin	Landkreis Demmin	Demmin,Landkreis Demmin	53.90806	13.105	A	ADM3H	DE		12	00	13052		80643		7	Europe/Berlin	2014-01-10
+2953526	Landkreis Bad Doberan	Landkreis Bad Doberan	Bad Doberan,DBR,Landkreis Bad Doberan	54.07139	11.80306	A	ADM3H	DE		12	00	13051		117430		77	Europe/Berlin	2017-07-22
+3221016	Landkreis Osterode am Harz	Landkreis Osterode am Harz	Landkreis Osterode am Harz,Osterode am Harz	51.71998	10.23749	A	ADM3H	DE		06	00	03156		75245		265	Europe/Berlin	2018-04-18
+3302144	Landkreis Mecklenburg-Strelitz	Landkreis Mecklenburg-Strelitz	Landkreis Mecklenburg-Strelitz,Mecklenburg-Strelitz	53.4425	13.37806	A	ADM3H	DE		12	00	13055		78562		108	Europe/Berlin	2014-01-14
+3302145	Landkreis Nordvorpommern	Landkreis Nordvorpommern	Landkreis Nordvorpommern,Nordvorpommern	54.21806	12.82083	A	ADM3H	DE		12	00	13057		106664		30	Europe/Berlin	2014-01-14
+3302146	Landkreis Ostvorpommern	Landkreis Ostvorpommern	Landkreis Ostvorpommern,Ostvorpommern	53.92028	13.67861	A	ADM3H	DE		12	00	13059		105924		28	Europe/Berlin	2014-01-14
+3302147	Landkreis Uecker-Randow	Landkreis Uecker-Randow	Landkreis Uecker-Randow,Uecker-Randow	53.59833	14.08889	A	ADM3H	DE		12	00	13062		73027		7	Europe/Berlin	2014-01-14
+3302148	Landkreis Müritz	Landkreis Mueritz		53.48222	12.62333	A	ADM3H	DE		12	00	13056		65210		67	Europe/Berlin	2013-12-31
+6547386	Eisenach	Eisenach	Eisenach,Kreisfreie Stadt Eisenach	50.97443	10.33407	A	ADM3H	DE		15	00	16056		42250		253	Europe/Berlin	2022-10-26

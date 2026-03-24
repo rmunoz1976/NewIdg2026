@@ -1,0 +1,21 @@
+﻿8378534	Rwamatamu District	Rwamatamu District	Rwamatamu	-2.215	29.231	A	ADM2H	RW		08				0		1573	Africa/Kigali	2012-08-06
+8378535	Gisovu District	Gisovu District	Gisovu	-2.213	29.361	A	ADM2H	RW		08				0		2282	Africa/Kigali	2012-08-06
+8378536	Mwendo District	Mwendo District		-2.196	29.471	A	ADM2H	RW		08				0		1912	Africa/Kigali	2012-08-06
+8378537	Bwakira District	Bwakira District	Bwakira	-2.12	29.55	A	ADM2H	RW		08				0		1935	Africa/Kigali	2012-08-06
+8378538	Kivumu District	Kivumu District	Kivumu	-2.027	29.574	A	ADM2H	RW		08				0		1652	Africa/Kigali	2012-08-06
+8378539	Rutsiro District	Rutsiro District	Rutsiro	-1.929	29.445	A	ADM2H	RW		08				0		2401	Africa/Kigali	2012-08-06
+8378540	Mabanza District	Mabanza District		-2.027	29.434	A	ADM2H	RW		08				0		1839	Africa/Kigali	2012-08-06
+8378541	Gitesi District	Gitesi District		-2.102	29.38	A	ADM2H	RW		08				0		1718	Africa/Kigali	2012-08-06
+8378542	Gishyita District	Gishyita District		-2.144	29.3	A	ADM2H	RW		08				0		1546	Africa/Kigali	2012-08-06
+8378543	Karama District	Karama District		-2.432	29.604	A	ADM2H	RW		04				0		1845	Africa/Kigali	2012-08-06
+8378544	Mubuga District	Mubuga District		-2.702	29.555	A	ADM2H	RW		04				0		1825	Africa/Kigali	2012-08-06
+8378545	Rwamiko District	Rwamiko District		-2.593	29.537	A	ADM2H	RW		04				0		1932	Africa/Kigali	2012-08-06
+8378546	Karambo District	Karambo District	Karambo	-2.391	29.516	A	ADM2H	RW		04				0		2031	Africa/Kigali	2012-08-06
+8378547	Rukondo District	Rukondo District	Rukondo	-2.361	29.624	A	ADM2H	RW		04				0		1684	Africa/Kigali	2012-08-06
+8378548	Nyakizu District	Nyakizu District		-2.738	29.628	A	ADM2H	RW		01				0		2086	Africa/Kigali	2012-08-06
+8378549	Runyinya District	Runyinya District	Runyinya	-2.614	29.631	A	ADM2H	RW		01				0		1772	Africa/Kigali	2012-08-06
+8378550	Huye District	Huye District	Huye	-2.582	29.702	A	ADM2H	RW		01				0		1783	Africa/Kigali	2012-08-06
+8378551	Maraba District	Maraba District	Maraba	-2.522	29.671	A	ADM2H	RW		01				0		1718	Africa/Kigali	2012-08-06
+8378552	Mbazi District	Mbazi District		-2.541	29.746	A	ADM2H	RW		01				0		1766	Africa/Kigali	2012-08-06
+8378553	Gishanvu District	Gishanvu District		-2.661	29.702	A	ADM2H	RW		01				0		1754	Africa/Kigali	2012-08-06
+9173537	Rusumo District	Rusumo District		-2.27306	30.70917	A	ADM2H	RW		11	9173537			150000		1655	Africa/Kigali	2016-06-30

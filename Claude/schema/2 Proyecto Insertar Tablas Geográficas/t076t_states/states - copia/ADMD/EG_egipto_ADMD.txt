@@ -1,0 +1,32 @@
+﻿347216	Markaz Ţumā	Markaz Tuma		26.83333	31.41667	A	ADMD	EG		24				0		58	Africa/Cairo	1993-12-08
+347234	Markaz Ţūkh	Markaz Tukh		30.33333	31.16667	A	ADMD	EG		12				0		14	Africa/Cairo	1993-12-08
+347590	Markaz Ţalkhā	Markaz Talkha	Markaz Talkha,Markaz Ţalkhā,Markaz Ṭalkhā,mrkz tlkha,مركز طلخا	31.08509	31.352	A	ADMD	EG		01				0		3	Africa/Cairo	2013-06-05
+347611	Markaz Talā	Markaz Tala		30.7	30.91667	A	ADMD	EG		09				0		9	Africa/Cairo	1993-12-08
+347633	Markaz Ţahţā	Markaz Tahta		26.75	31.46667	A	ADMD	EG		24				0		61	Africa/Cairo	1993-12-08
+347861	Markaz Sīwah	Markaz Siwah	Markaz Siwa,Markaz Siwah,Markaz Sîwa,Markaz Sīwah	29.2	25.51667	A	ADMD	EG		22				0		-11	Africa/Cairo	2012-01-19
+347905	Markaz Sinnūris	Markaz Sinnuris		29.46667	30.88333	A	ADMD	EG		04				0		-29	Africa/Cairo	1993-12-08
+347928	Markaz as Sinbillāwayn	Markaz as Sinbillawayn		30.88333	31.53333	A	ADMD	EG		01				0		6	Africa/Cairo	1993-12-08
+348961	Markaz Şidfā	Markaz Sidfa		26.96667	31.38333	A	ADMD	EG		17				0		59	Africa/Cairo	1993-12-08
+349057	Markaz Shubrā Khīt	Markaz Shubra Khit		31.03333	30.66667	A	ADMD	EG		03				0		3	Africa/Cairo	1993-12-08
+349113	Markaz Shirbīn	Markaz Shirbin		31.3	31.58333	A	ADMD	EG		01				0		1	Africa/Cairo	1993-12-08
+349155	Markaz Shibīn al Qanāţir	Markaz Shibin al Qanatir	Markaz Shibin al Qanatir,Markaz Shibīn al Qanāţir,Shibin el Qanatir,Shibîn el Qanâṭir	30.3	31.33333	A	ADMD	EG		12				0		12	Africa/Cairo	2012-01-19
+349157	Markaz Shibīn al Kawm	Markaz Shibin al Kawm	Markaz Shibin al Kawm,Markaz Shibīn al Kawm,Shibin el-Kom,Shibîn el-Kôm	30.56667	30.96667	A	ADMD	EG		09				0		9	Africa/Cairo	2012-01-19
+349601	Markaz Sāqultah	Markaz Saqultah	Markaz Saqulta,Markaz Saqultah,Markaz Sâqulta,Markaz Sāqultah	26.65	31.65	A	ADMD	EG		24				0		59	Africa/Cairo	2012-01-19
+349713	Markaz Samannūd	Markaz Samannud	Markaz Samannud,Markaz Samannūd,Markaz Sammanud,Markaz Sammanūd,Samannud,Samannūd,mrkz smnwd,smnwd,سمنود,مركز سمنود	30.96136	31.23638	A	ADMD	EG		05				0		10	Africa/Cairo	2026-03-11
+350420	Markaz Qūş	Markaz Qus		25.86667	32.78333	A	ADMD	EG		23				0		76	Africa/Cairo	1993-12-08
+352353	Markaz Minūf	Markaz Minuf		30.45	30.91667	A	ADMD	EG		09				0		10	Africa/Cairo	1993-12-08
+352912	Markaz Manfalūţ	Markaz Manfalut	Markaz Manfalut,Markaz Manfalūţ,Monafalut,mrkz mnflwt,مركز منفلوط	27.33333	30.83333	A	ADMD	EG		17				0		48	Africa/Cairo	2017-07-12
+353181	Markaz Maghāghah	Markaz Maghaghah		28.66667	30.8	A	ADMD	EG		10				0		31	Africa/Cairo	1993-12-08
+353801	Markaz Kawm Umbū	Markaz Kawm Umbu	Markaz Kawm Umbu,Markaz Kawm Umbū,Markaz Kom Ombo,Markaz Kôm Ombo	24.46667	32.95	A	ADMD	EG		16				0		104	Africa/Cairo	2012-01-19
+353827	Markaz Kawm Ḩamādah	Markaz Kawm Hamadah	Kom Hamada,Kôm Ḥamâda,Markaz Kawm Hamadah,Markaz Kawm Ḩamādah	30.73333	30.66667	A	ADMD	EG		03				0		4	Africa/Cairo	2012-01-19
+354104	Markaz Kafr Şaqr	Markaz Kafr Saqr		30.95	31.75	A	ADMD	EG		14				0		2	Africa/Cairo	1993-12-08
+354121	Kafr Sa‘d Markaz	Kafr Sa`d Markaz		31.33333	31.65	A	ADMD	EG		20				0		3	Africa/Cairo	1993-12-08
+354364	Markaz Kafr az Zayyāt	Markaz Kafr az Zayyat	Kafr el-Zaiyat,Kafr el-Zaiyât,Markaz Kafr az Zayyat,Markaz Kafr az Zayyāt,mrkz kfr alzyat,مركز كفر الزيات	30.83333	30.83333	A	ADMD	EG		05				0		9	Africa/Cairo	2017-07-12
+356988	Markaz Fāqūs	Markaz Faqus		30.75	31.91667	A	ADMD	EG		14				0		9	Africa/Cairo	1993-12-08
+362972	Markaz Abnūb	Markaz Abnub		27.28333	31.13333	A	ADMD	EG		17				0		50	Africa/Cairo	1993-12-08
+6692525	Nijldal	Nijldal		30.39894	31.13251	A	ADMD	EG		12				0		14	Africa/Cairo	2008-05-21
+9180123	qism al-Khalifa	qism al-Khalifa	Al Khalefa,El Khalefa,al Khalifah,qism al-Halifat,qism al-H̱alīfaẗ,qism al-Khalifa,qism al-Khalifah,qism al-Khalîfa,qism al-Khalīfah,qsm alkhlyft,قسم الخليفة	30.03038	31.25572	A	ADMD	EG		11				0		41	Africa/Cairo	2024-07-08
+9495544	Qism al Muntazah	Qism al Muntazah	Qism al Muntazah,qsm almntzh,قسم المنتزه	31.24801	29.98422	A	ADMD	EG		06				0		10	Africa/Cairo	2014-09-07
+9495551	Qism Bāb Sharqī	Qism Bab Sharqi	Qism Bab Sharqi,Qism Bāb Sharqī,qsm bab shrqy,قسم باب شرقي	31.20123	29.91916	A	ADMD	EG		06				0		8	Africa/Cairo	2014-09-07
+9495686	Qism al Mīnā’	Qism al Mina'	Qism al Mina',Qism al Mīnā’,qsm almynaʾ,قسم الميناء	31.19728	29.87879	A	ADMD	EG		06				0		8	Africa/Cairo	2014-09-07
+10277352	Luxor Governorate	Luxor Governorate		25.69135	32.65549	A	ADMD	EG		23				0		78	Africa/Cairo	2015-05-08

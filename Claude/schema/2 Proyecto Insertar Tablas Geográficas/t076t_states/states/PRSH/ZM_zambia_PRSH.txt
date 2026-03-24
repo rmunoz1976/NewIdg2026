@@ -1,0 +1,15 @@
+﻿899906	Pangala	Pangala		-14.61667	30.96667	A	PRSH	ZM		03				0		831	Africa/Lusaka	1994-01-08
+900060	Nyika	Nyika		-14.33333	31.36667	A	PRSH	ZM		03				0		949	Africa/Lusaka	1994-01-08
+901125	Ngolwe	Ngolwe		-13.43333	31.25	A	PRSH	ZM		02				0		521	Africa/Lusaka	1994-01-08
+904561	Mululuzye	Mululuzye		-14.5	31.31667	A	PRSH	ZM		03				0		1034	Africa/Lusaka	1994-01-08
+905666	Msumbazi	Msumbazi		-14.35	31.21667	A	PRSH	ZM		03				0		884	Africa/Lusaka	1994-01-08
+907563	Masambo	Masambo		-14.15	31.31667	A	PRSH	ZM		03				0		898	Africa/Lusaka	1994-01-08
+908919	Luwezi	Luwezi		-14.4	31.25	A	PRSH	ZM		03				0		984	Africa/Lusaka	1994-01-08
+909112	Lusandwa	Lusandwa		-13.83333	31.63333	A	PRSH	ZM		03				0		880	Africa/Lusaka	1994-01-08
+911756	Kaulo	Kaulo		-14.33333	31.4	A	PRSH	ZM		03				0		967	Africa/Lusaka	1994-01-08
+913311	Kaombwe	Kaombwe		-14.35	31.46667	A	PRSH	ZM		03				0		1038	Africa/Lusaka	1994-01-08
+918091	Chitola	Chitola	Chitola,Chitoola	-14.21667	31.18333	A	PRSH	ZM		03				0		1056	Africa/Lusaka	2012-01-17
+918276	Chisoyo	Chisoyo		-14.48333	31.38333	A	PRSH	ZM		03				0		973	Africa/Lusaka	1994-01-08
+918508	Chirimanyama	Chirimanyama		-14.15	31.36667	A	PRSH	ZM		03				0		866	Africa/Lusaka	1994-01-08
+919883	Chikokwe	Chikokwe		-14.18333	31.3	A	PRSH	ZM		03				0		931	Africa/Lusaka	1994-01-08
+919958	Chikalawa	Chikalawa		-14.46667	31.65	A	PRSH	ZM		03				0		1022	Africa/Lusaka	1994-01-08

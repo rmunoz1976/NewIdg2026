@@ -1,0 +1,5 @@
+﻿1665539	Yanping Qu	Yanping Qu	Yanping Qu,Yen-p'ing Ch'u,Yen-p’ing Ch’ü	25.05	121.5	A	ADMDH	TW		04	TPE			0		2	Asia/Taipei	2024-07-12
+1669044	Shuangyuan Qu	Shuangyuan Qu	Shuang-yuan Ch'u,Shuang-yüan Ch’ü,Shuangyuan Qu	25.03333	121.48333	A	ADMDH	TW		04	TPE			0		1	Asia/Taipei	2024-07-12
+1672431	Longshan Qu	Longshan Qu	Longshan Qu,Lung-shan Ch'u,Lung-shan Ch’ü	25.05	121.5	A	ADMDH	TW		04	TPE			0		2	Asia/Taipei	2024-07-12
+1673168	Guting Qu	Guting Qu	Guting Qu,Ku-t'ing Ch'u,Ku-t’ing Ch’ü	25.01667	121.51667	A	ADMDH	TW		04	TPE			0		14	Asia/Taipei	2024-07-12
+1678545	Jiancheng Qu	Jiancheng Qu	Chien-ch'eng Ch'u,Chien-ch’eng Ch’ü,Jiancheng Qu	25.05	121.51667	A	ADMDH	TW		04	TPE			0		19	Asia/Taipei	2024-07-12

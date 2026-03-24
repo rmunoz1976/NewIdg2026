@@ -1,0 +1,214 @@
+﻿1848185	Yoshiki-gun	Yoshiki-gun	Yoshiki-gun	36.33333	137.25	A	ADM2H	JP		09	1848185			0		1173	Asia/Tokyo	2014-03-23
+1848381	Yōkaichi-shi	Yokaichi-shi	Yokaichi-shi,Yōkaichi-shi	35.1	136.21667	A	ADM2H	JP		00	1848381			0		142	Asia/Tokyo	2014-03-23
+1848398	Yodobashi	Yodobashi	Yodobashi,Yodobashicho,Yodobashichō	35.68333	139.68333	A	ADM2H	JP		40				0		44	Asia/Tokyo	2014-02-09
+1848450	Yatsuka-gun	Yatsuka-gun	Yatsuka,Yatsuka-gun,ba shu jun,yatsukagun,やつかぐん,八束郡	35.42799	133.15435	A	ADM2H	JP		36				0		5	Asia/Tokyo	2014-04-22
+1848481	Yasu-gun	Yasu-gun	Yasu-gun	35.08333	136.01667	A	ADM2H	JP		00	1848481			0		93	Asia/Tokyo	2014-03-23
+1848604	Yamato-gun	Yamato-gun	Yamato-gun	33.15	130.48333	A	ADM2H	JP		00	1848604			0		5	Asia/Tokyo	2014-03-23
+1848849	Yabu-gun	Yabu-gun	Yabu-gun	35.33333	134.75	A	ADM2H	JP		13	1848849			0		168	Asia/Tokyo	2014-03-23
+1849067	Uto-gun	Uto-gun	Udo-gun,Uto-gun	32.66667	130.58333	A	ADM2H	JP		00	1849067			0		225	Asia/Tokyo	2014-03-23
+1849100	Usui-gun	Usui-gun	Usui-gun	36.33333	138.83333	A	ADM2H	JP		00	1849100			0		208	Asia/Tokyo	2014-03-23
+1849165	Usa-gun	Usa-gun	Usa-gun	33.53333	131.33333	A	ADM2H	JP		00	1849165			0		15	Asia/Tokyo	2014-03-23
+1849325	Uma-gun	Uma-gun	Uma-gun	33.91667	133.5	A	ADM2H	JP		00	1849325			0		675	Asia/Tokyo	2014-03-23
+1849369	Uji-gun	Uji-gun	Uji-gun	34.9	135.83333	A	ADM2H	JP		22	1849369			0		139	Asia/Tokyo	2014-05-12
+1849557	Tsurusaki-shi	Tsurusaki-shi	Tsurusaki-machi,Tsurusaki-maki,Tsurusaki-shi,he qi,he qi shi,鶴崎,鶴崎市	33.2	131.7	A	ADM2H	JP		30	1849557			0		53	Asia/Tokyo	2017-07-21
+1849591	Tsuruga-gun	Tsuruga-gun	Tsuruga-gun	35.61667	136.08333	A	ADM2H	JP		06	1849591			0		51	Asia/Tokyo	2014-03-23
+1849632	Tsuna-gun	Tsuna-gun	Tsuna-gun	34.5	134.91667	A	ADM2H	JP		00	1849632			0		338	Asia/Tokyo	2014-03-23
+1849662	Tsukui-gun	Tsukui-gun	Tsukui-gun	35.58333	139.16667	A	ADM2H	JP		00	1849662			0		369	Asia/Tokyo	2014-03-23
+1849803	Toyoura-gun	Toyoura-gun	Toyoura-gun	34.2	131	A	ADM2H	JP		00	1849803			0		191	Asia/Tokyo	2014-03-23
+1849811	Toyotama-gun	Toyotama-gun		35.6894	139.69138	A	ADM2H	JP		00	1849811			0		44	Asia/Tokyo	2014-05-24
+1849824	Toyosaka-shi	Toyosaka-shi	Kuzutsuka-mura,Toyosaka-machi,Toyosaka-shi	37.91667	139.2	A	ADM2H	JP		00	1849824			0		0	Asia/Tokyo	2014-03-23
+1849834	Toyono-gun	Toyono-gun	Toyono,Toyono-gun	35.03333	135.38333	A	ADM2H	JP		00	1849834			0		670	Asia/Tokyo	2014-03-26
+1850149	Tokuyama-shi	Tokuyama-shi	Tokuyama-machi,Tokuyama-shi	34.08333	131.75	A	ADM2H	JP		00	1850149			0		213	Asia/Tokyo	2014-03-23
+1850871	Takefu-shi	Takefu-shi	Takefu-cho,Takefu-chō,Takefu-machi,Takefu-shi	35.9	136.16667	A	ADM2H	JP		00	1850871			0		38	Asia/Tokyo	2014-03-26
+1850958	Takashima-gun	Takashima-gun	Takashima-gun	35.38009	136.008	A	ADM2H	JP		00	1850958			0		249	Asia/Tokyo	2014-03-23
+1851349	Suzu-gun	Suzu-gun	Suzu	37.33333	137.21667	A	ADM2H	JP		00	1851349			0		66	Asia/Tokyo	2014-03-23
+1852063	Shinnan’yō-shi	Shinnan'yo-shi	Shinnan'yo-shi,Shinnan’yō-shi	34.06926	131.7635	A	ADM2H	JP		00	1852063			0		2	Asia/Tokyo	2017-08-18
+1852141	Ebara-ku	Ebara-ku		35.6	139.71667	A	ADM2H	JP		40				0		25	Asia/Tokyo	2014-02-10
+1852332	Shimoge-gun	Shimoge-gun	Shimoge-gun	33.41667	131.08333	A	ADM2H	JP		00	1852332			0		385	Asia/Tokyo	2014-03-23
+1852373	Shimo-agata-gun	Shimo-agata-gun	Shimo-agata-gun,xia xian jun,下県郡	34.2	129.23333	A	ADM2H	JP		27	1852373			0		356	Asia/Tokyo	2014-05-13
+1852379	Shimminato-shi	Shimminato-shi	Shimminato-shi,xin cou,xin cou shi,新湊,新湊市	36.76667	137.08333	A	ADM2H	JP		00				0		1	Asia/Tokyo	2017-07-21
+1852554	Shiga-gun	Shiga-gun	Shiga-gun	35.16667	135.86667	A	ADM2H	JP		00	1852554			0		330	Asia/Tokyo	2014-04-06
+1852565	Shida-gun	Shida-gun	Shida-gun	34.91667	138.25	A	ADM2H	JP		00	1852565			0		58	Asia/Tokyo	2014-03-23
+1852674	Seta-gun	Seta-gun	Seta-gun,setagun,shi duo jun,せたぐん,勢多郡	36.49306	139.11526	A	ADM2H	JP		10	1852674			0		546	Asia/Tokyo	2017-04-05
+1852937	Sarashina-gun	Sarashina-gun	Sarashina-gun,geng ji jun,更級郡	36.5	138.08333	A	ADM2H	JP		00	1852937			0		754	Asia/Tokyo	2014-05-13
+1853180	Sakai-gun	Sakai-gun	Sakai-gun,ban jing jun,sakaigun,さかいぐん,坂井郡	36.16667	136.23333	A	ADM2H	JP		00	1853180			0		9	Asia/Tokyo	2015-08-29
+1853258	Saidaiji-shi	Saidaiji-shi	Saidaiji-cho,Saidaiji-chō,Saidaiji-machi,Saidaiji-shi	34.65	134	A	ADM2H	JP		00				0		0	Asia/Tokyo	2014-04-11
+1853300	Saga-gun	Saga-gun	Saga-gun	33.38333	130.21667	A	ADM2H	JP		00	1853300			0		282	Asia/Tokyo	2014-03-23
+1853306	Saeki-gun	Saeki-gun	Saegi,Saeki-gun,Saheki-gun,Saiki-gun	34.41667	132.21667	A	ADM2H	JP		00	1853306			0		997	Asia/Tokyo	2014-03-23
+1853368	Ryōtsu-shi	Ryotsu-shi		38.06377	138.45005	A	ADM2H	JP		29	1853368			0		13	Asia/Tokyo	2017-08-15
+1853960	Onyū-gun	Onyu-gun	Onyu-gun,Onyū-gun	35.45	135.75	A	ADM2H	JP		00	1853960			0		375	Asia/Tokyo	2014-03-23
+1854008	Ōno-gun	Ono-gun	Ono-gun,Ōno-gun	33	131.58333	A	ADM2H	JP		00	1854008			0		134	Asia/Tokyo	2014-04-06
+1854149	Ōmi-machi	Omi-machi	Aomi,Aomi-machi,Omi-machi,Ōmi-machi	36.96667	137.73333	A	ADM2H	JP		00	1854149			0		433	Asia/Tokyo	2014-03-26
+1854243	Ōkuchi-shi	Okuchi-shi	Okuchi-shi,Ōkuchi-shi	32.08333	130.58333	A	ADM2H	JP		00	1854243			0		226	Asia/Tokyo	2014-04-06
+1854392	Ōkawa-gun	Okawa-gun	Okawa-gun,Ōkawa-gun	34.21667	134.26667	A	ADM2H	JP		00	1854392			0		428	Asia/Tokyo	2014-03-23
+1854485	Ōita-gun	Oita-gun	Oita-gun,Ōita-gun	33.18333	131.5	A	ADM2H	JP		00	1854485			0		108	Asia/Tokyo	2014-03-23
+1854685	Ogasa-gun	Ogasa-gun	Ogasa-gun	34.75	138.08333	A	ADM2H	JP		00	1854685			0		21	Asia/Tokyo	2014-03-23
+1854719	Oe-gun	Oe-gun	Oe-gun	34.03333	134.28333	A	ADM2H	JP		00	1854719			0		253	Asia/Tokyo	2014-03-23
+1854907	Numakuma-gun	Numakuma-gun	Numakuma-gun	34.45	133.3	A	ADM2H	JP		00	1854907			0		156	Asia/Tokyo	2014-03-24
+1855061	Nogi-gun	Nogi-gun	Nogi-gun	35.3	133.16667	A	ADM2H	JP		00	1855061			0		277	Asia/Tokyo	2014-03-24
+1855150	Nishi-tonami-gun	Nishi-tonami-gun	Nishi-tonami-gun,xi li bo jun,西砺波郡,西礪波郡	36.5	136.86667	A	ADM2H	JP		00	1855150			0		240	Asia/Tokyo	2015-08-22
+1855158	Nishi-tagawa-gun	Nishi-tagawa-gun	Nishi-tagawa-gun	38.66667	139.75	A	ADM2H	JP		00	1855158			0		153	Asia/Tokyo	2014-03-27
+1855248	Nishi-kunisaki-gun	Nishi-kunisaki-gun	Nishi Sanuki-gun,Nishi-kunisaki,Nishi-kunisaki-gun,Nishi-kunizaki Gun	33.58333	131.58333	A	ADM2H	JP		00	1855248			0		468	Asia/Tokyo	2014-03-27
+1855253	Nishi-kubiki-gun	Nishi-kubiki-gun	Nishi-kubiki-gun	37	138	A	ADM2H	JP		00	1855253			0		348	Asia/Tokyo	2014-03-27
+1855386	Nima-gun	Nima-gun	Nima-gun	35.08333	132.38333	A	ADM2H	JP		00	1855386			0		266	Asia/Tokyo	2014-03-23
+1855521	Nei-gun	Nei-gun	Nei-gun	36.58333	137.13333	A	ADM2H	JP		00	1855521			0		108	Asia/Tokyo	2014-03-23
+1855539	Naze-shi	Naze-shi	Nase-shi,Naze-shi	28.38333	129.48333	A	ADM2H	JP		00	1855539			0		167	Asia/Tokyo	2014-03-26
+1855878	Nakamura-shi	Nakamura-shi	Nakamura-shi	33	132.88333	A	ADM2H	JP		00	1855878			0		182	Asia/Tokyo	2014-04-06
+1855915	Naka-kubiki-gun	Naka-kubiki-gun	Naka-kubiki-gun	37	138.25	A	ADM2H	JP		00	1855915			0		188	Asia/Tokyo	2014-03-27
+1855924	Naka-kawachi-gun	Naka-kawachi-gun	Naka-kawachi-gun,zhong he nei jun,中河内郡	34.65	135.63333	A	ADM2H	JP		32	1855924			0		7	Asia/Tokyo	2014-06-05
+1855965	Naka-gun	Naka-gun	Naka-gun	35.58333	135.08333	A	ADM2H	JP		00	1855965			0		70	Asia/Tokyo	2014-03-23
+1855967	Naka-gun	Naka-gun	Haka-gun,Naka-gun	34.83333	132.16667	A	ADM2H	JP		00	1855967			0		309	Asia/Tokyo	2014-03-26
+1856254	Naga-gun	Naga-gun	Naga-gun	34.66667	136.16667	A	ADM2H	JP		00	1856254			0		185	Asia/Tokyo	2014-03-26
+1856255	Naga-gun	Naga-gun	Naga-gun,Naka-gun	34.25	135.38333	A	ADM2H	JP		00	1856255			0		28	Asia/Tokyo	2014-03-23
+1856454	Muko-gun	Muko-gun	Muko-gun,wu ku jun,武庫郡	34.8	135.31667	A	ADM2H	JP		13	1856454			0		494	Asia/Tokyo	2014-09-29
+1856896	Mitsugi-gun	Mitsugi-gun	Gocho-gun,Mitsugi-gun	34.5	133.11667	A	ADM2H	JP		00	1856896			0		98	Asia/Tokyo	2014-03-23
+1857053	Mino-gun	Mino-gun	Mino-gun	34.66667	132	A	ADM2H	JP		00	1857053			0		291	Asia/Tokyo	2014-03-23
+1857077	Mine-gun	Mine-gun	Mine-gun	34.25	131.33333	A	ADM2H	JP		00				0		214	Asia/Tokyo	2014-04-10
+1857129	Minami-takaki-gun	Minami-takaki-gun	Minami-takaki-gun	32.75	130.25	A	ADM2H	JP		00	1857129			0		629	Asia/Tokyo	2014-03-27
+1857139	Minami-shidara-gun	Minami-shidara-gun	Minami-shidara-gun,Minami-shitara-gun	34.96667	137.55	A	ADM2H	JP		00	1857139			0		187	Asia/Tokyo	2014-03-27
+1857155	Minaminaka Gun	Minaminaka Gun	Minaminaka,Minaminaka Gun,Minaminaka-gun,minaminakagun,nan na ke jun,みなみなかぐん,南那珂郡	31.66333	131.32836	A	ADM2H	JP		25	1857155			0		313	Asia/Tokyo	2024-06-12
+1857196	Minami-azumi-gun	Minami-azumi-gun	Minami-azumi-gun	36.2	137.75	A	ADM2H	JP		00	1857196			0		1221	Asia/Tokyo	2014-03-27
+1857202	Minami-amabe-gun	Minami-amabe-gun	Minami-amabe-gun	32.91667	131.75	A	ADM2H	JP		00	1857202			0		288	Asia/Tokyo	2014-03-27
+1857329	Mihara-gun	Mihara-gun	Mihara-gun	34.28333	134.76667	A	ADM2H	JP		00	1857329			0		31	Asia/Tokyo	2014-04-06
+1857468	Matsutō-shi	Matsuto-shi	Matsuto-machi,Matsuto-shi,Matsutō-machi,Matsutō-shi,Matto Machi,Mattō Machi,song ren,song ren shi,松任,松任市	36.51667	136.55	A	ADM2H	JP		15	1857468			0		19	Asia/Tokyo	2017-07-21
+1858039	Kushikino-shi	Kushikino-shi	Kushikino-shi	31.75649	130.20404	A	ADM2H	JP		00	1858039			0		12	Asia/Tokyo	2017-08-18
+1858265	Kurita-gun	Kurita-gun	Kurita-gun	35	136	A	ADM2H	JP		00	1858265			0		139	Asia/Tokyo	2014-03-23
+1858410	Kumano-gun	Kumano-gun	Kumano-gun	35.58333	134.95	A	ADM2H	JP		00	1858410			0		55	Asia/Tokyo	2014-03-23
+1858426	Kumage-gun	Kumage-gun	Kumage-gun	30.39153	130.63156	A	ADM2H	JP		00	1858426			0		104	Asia/Tokyo	2014-03-23
+1858577	Koza-shi	Koza-shi	Koza-shi,koza,koza shi,コザ,コザ市	26.36667	127.8	A	ADM2H	JP		47	1858577			0		49	Asia/Tokyo	2017-07-21
+1858704	Kōshoku-shi	Koshoku-shi	Koshoku-shi,Kōshoku-shi,geng zhi,geng zhi shi,更埴,更埴市	36.51667	138.11667	A	ADM2H	JP		26	1858704			0		361	Asia/Tokyo	2017-07-21
+1858726	Koshi-gun	Koshi-gun	Koshi-gun	37.33333	138.93333	A	ADM2H	JP		00	1858726			0		360	Asia/Tokyo	2014-04-06
+1858776	Kōnu-gun	Konu-gun	Konu-gun,Kōnu-gun	34.75	133.1	A	ADM2H	JP		00	1858776			0		494	Asia/Tokyo	2014-04-06
+1858997	Kojima-shi	Kojima-shi	Kojima-machi,Kojima-shi	34.48333	133.78333	A	ADM2H	JP		00				0		117	Asia/Tokyo	2014-04-11
+1859000	Kojima-gun	Kojima-gun	Kohima-gun,Kojima-gun	34.51667	133.86667	A	ADM2H	JP		00	1859000			0		245	Asia/Tokyo	2014-03-23
+1859209	Kiyosu-chō	Kiyosu-cho	Kiyosu-cho,Kiyosu-chō,Kiyosu-machi	35.21667	136.85	A	ADM2H	JP		01				0		8	Asia/Tokyo	2014-02-18
+1859259	Kitanonuma-gun	Kitanonuma-gun	Kita-uonuma-gun,Kitanonuma-gun	37.33	139.25	A	ADM2H	JP		08	1859259			0		653	Asia/Tokyo	2014-09-29
+1859265	Kita-tama-gun	Kita-tama-gun	Kita-tama-gun	35.71667	139.45	A	ADM2H	JP		00	1859265			0		92	Asia/Tokyo	2014-03-24
+1859315	Kita-kawachi-gun	Kita-kawachi-gun	Kita-kawachi-gun,Kitako-chi-gun,bei he nei jun,北河内郡	34.78333	135.63333	A	ADM2H	JP		32	1859315			0		24	Asia/Tokyo	2014-09-29
+1859366	Kita-amabe-gun	Kita-amabe-gun	Kita-amabe-gun	33.2	131.8	A	ADM2H	JP		00	1859366			0		127	Asia/Tokyo	2014-03-27
+1859368	Kita-aizu-gun	Kita-aizu-gun	Kita-aizu-gun	37.5	139.86667	A	ADM2H	JP		00	1859368			0		199	Asia/Tokyo	2014-03-27
+1859437	Kinosaki-gun	Kinosaki-gun	Kinosaki-gun	35.5	134.7	A	ADM2H	JP		00	1859437			0		299	Asia/Tokyo	2014-03-24
+1859703	Kawakami-gun	Kawakami-gun	Kawakami-gun	34.8	133.46667	A	ADM2H	JP		00	1859703			0		446	Asia/Tokyo	2014-03-24
+1859746	Kawachi-shi	Kawachi-shi	Kawachi-shi	34.66667	135.61667	A	ADM2H	JP		32	1859746			0		6	Asia/Tokyo	2014-06-05
+1860088	Kanzaki-gun	Kanzaki-gun	Kanzaki-gun	35.08333	136.36667	A	ADM2H	JP		00	1860088			0		547	Asia/Tokyo	2014-03-24
+1860328	Kamo-gun	Kamo-gun	Kamo-gun	34.41667	132.8	A	ADM2H	JP		00	1860328			0		334	Asia/Tokyo	2014-03-24
+1860399	Kamitsuga-gun	Kamitsuga-gun	Kamitsuga-gun,kamitsugagun,shang dou he jun,かみつがぐん,上都賀郡	36.47077	139.70717	A	ADM2H	JP		38				0		120	Asia/Tokyo	2017-04-15
+1860471	Kami-niikawa-gun	Kami-niikawa-gun	Kami-niikawa-gun	36.5	137.33333	A	ADM2H	JP		00	1860471			0		1190	Asia/Tokyo	2014-03-28
+1860583	Kami-gun	Kami-gun	Kami-gun,xiang mei jun,xiang mei shi,香美市,香美郡	33.66667	133.83333	A	ADM2H	JP		20	1860583			0		364	Asia/Tokyo	2026-03-10
+1860594	Kamifukuoka Shi	Kamifukuoka Shi	Fukuoka-machi,Fukuoka-mura,Kami-fukuoka-shi,Kamifukuoka Shi,kamifukuokashi,shang fu gang,shang fu gang shi,かみふくおかし,カミフクオカシ,上福岡,上福岡市	35.86667	139.53333	A	ADM2H	JP		34	1860594			0		15	Asia/Tokyo	2017-07-21
+1860621	Kami-agata-gun	Kami-agata-gun	Kami-agata-gun	34.55	129.33333	A	ADM2H	JP		00	1860621			0		59	Asia/Tokyo	2014-03-28
+1860996	Jōbō-gun	Jobo-gun	Jobo-gun,Jyobo,Jōbō-gun	34.91667	133.66667	A	ADM2H	JP		00	1860996			0		257	Asia/Tokyo	2014-03-24
+1861138	Iyomishima	Iyomishima		33.9	133.5	A	ADM2H	JP		00	1861138			0		492	Asia/Tokyo	2014-03-26
+1861169	Iwata-gun	Iwata-gun	Iwata-gun	34.91667	137.75	A	ADM2H	JP		00	1861169			0		133	Asia/Tokyo	2014-03-24
+1861217	Iwai-shi	Iwai-shi	Iwai-machi,Iwai-shi	36.03333	139.9	A	ADM2H	JP		00	1861217			0		20	Asia/Tokyo	2014-03-24
+1861272	Itoshima-gun	Itoshima-gun	Itoshima,Itoshima-gun,itoshimagun,mi dao jun,いとしまぐん,糸島郡	33.50419	130.14198	A	ADM2H	JP		07	1861272			0		123	Asia/Tokyo	2017-08-15
+1861384	Ishikawa-shi	Ishikawa-shi	Ishikawa-shi	26.41667	127.81667	A	ADM2H	JP		00	1861384			0		71	Asia/Tokyo	2014-04-06
+1861388	Ishikawa-gun	Ishikawa-gun	Ishikawa-gun,ishikawagun,shi chuan jun,いしかわぐん,石川郡	36.5252	136.60561	A	ADM2H	JP		15	1861388			0		27	Asia/Tokyo	2014-04-25
+1861585	Innoshima-shi	Innoshima-shi	Innoshima-shi	34.31667	133.16667	A	ADM2H	JP		00	1861585			0		45	Asia/Tokyo	2014-03-24
+1861588	Innami-gun	Innami-gun	Innami-gun,Innan	34.81667	134.83333	A	ADM2H	JP		00				0		18	Asia/Tokyo	2015-08-26
+1861609	Inasa-gun	Inasa-gun	Inasa-gun	34.86667	137.58333	A	ADM2H	JP		00	1861609			0		188	Asia/Tokyo	2014-04-06
+1861823	Ika-gun	Ika-gun	Ika,Ika-gun,ikagun,yi xiang jun,いかぐん,伊香郡	35.56263	136.20719	A	ADM2H	JP			1861823			0		409	Asia/Tokyo	2014-02-27
+1861875	Ihara-gun	Ihara-gun	Ibara-gun,Ihara-gun	35.13333	138.5	A	ADM2H	JP		00	1861875			0		217	Asia/Tokyo	2014-03-24
+1861926	Ichishi-gun	Ichishi-gun	Ichishi-gun,Isshi-gun	34.63333	136.41667	A	ADM2H	JP		00	1861926			0		71	Asia/Tokyo	2014-03-24
+1862009	Ibusuki-gun	Ibusuki-gun	Ibusuki-gun	31.3	130.46667	A	ADM2H	JP		00	1862009			0		162	Asia/Tokyo	2014-03-24
+1862071	Hōya-shi	Hoya-shi	Hoya,Hoya-machi,Hoya-shi,Hōya,Hōya-machi,Hōya-shi,bao gu,bao gu shi,保谷,保谷市	35.7415	139.55881	A	ADM2H	JP		40	1862071			0		55	Asia/Tokyo	2017-07-21
+1862094	Hōtaku-gun	Hotaku-gun	Hotaku-gun,Hōtaku-gun	32.83333	130.75	A	ADM2H	JP		00	1862094			0		85	Asia/Tokyo	2014-03-24
+1862227	Hondo-shi	Hondo-shi	Hondo-machi,Hondo-shi	32.45	130.16667	A	ADM2H	JP		00	1862227			0		119	Asia/Tokyo	2014-03-24
+1862294	Hoi-gun	Hoi-gun	Hoi,Hoi-gun,bao fan jun,hoigun,ほいぐん,宝飯郡	34.80056	137.35398	A	ADM2H	JP		00				0		6	Asia/Tokyo	2014-04-23
+1862387	Hisai-shi	Hisai-shi	Hisai-cho,Hisai-chō,Hisai-shi	34.67331	136.46976	A	ADM2H	JP		00	1862387			0		23	Asia/Tokyo	2014-03-24
+1862463	Hirata-shi	Hirata-shi	Hirata-shi	35.46667	132.8	A	ADM2H	JP		00	1862463			0		204	Asia/Tokyo	2014-04-06
+1862504	Hirara-shi	Hirara-shi	Bishara,Hirara-shi,Taira-shi	24.8313	125.3092	A	ADM2H	JP		00	1862504			0		39	Asia/Tokyo	2017-08-18
+1862568	Hioki-gun	Hioki-gun	Hioki-gun	31.58333	130.41667	A	ADM2H	JP		00	1862568			0		156	Asia/Tokyo	2014-03-24
+1862702	Higashi-yatsushiro-gun	Higashi-yatsushiro-gun	Higashi-yatsushiro-gun	35.58333	138.66667	A	ADM2H	JP		00	1862702			0		817	Asia/Tokyo	2014-03-28
+1862705	Higashiyamanashi-gun	Higashiyamanashi-gun	Higashiyamanashi-gun	35.75	138.7	A	ADM2H	JP		00	1862705			0		605	Asia/Tokyo	2014-03-28
+1862725	Higashi-tonami-gun	Higashi-tonami-gun	East Toanmi County,Higashi-tonami-gun,dong li bo jun,東砺波郡,東礪波郡	36.5	137	A	ADM2H	JP		00	1862725			0		464	Asia/Tokyo	2015-08-22
+1862769	Higashi-murayama-machi	Higashi-murayama-machi	Higashi-murayama,Higashi-murayama-mura	35.75	139.46667	A	ADM2H	JP		40			1862769	0		82	Asia/Tokyo	2014-02-12
+1862789	Higashi-kubiki-gun	Higashi-kubiki-gun	Higashi-kubiki-gun	37.1	138.53333	A	ADM2H	JP		00	1862789			0		506	Asia/Tokyo	2014-03-28
+1862797	Higashi-katsushika-gun	Higashi-katsushika-gun	Higashi-katsushika-gun	35.91667	139.88333	A	ADM2H	JP		00	1862797			0		4	Asia/Tokyo	2014-03-28
+1862799	Higashi-kasugai-gun	Higashi-kasugai-gun	Higashi-kasugai-gun,dong chun ri jing jun,東春日井郡	35.25	137	A	ADM2H	JP		00				0		22	Asia/Tokyo	2014-04-23
+1862803	Higashi-kamo-gun	Higashi-kamo-gun	Higashi-kamo-gun	35.13333	137.36667	A	ADM2H	JP		00	1862803			0		389	Asia/Tokyo	2014-03-28
+1862891	Hiba-gun	Hiba-gun	Hiba-gun	34.96667	133.13333	A	ADM2H	JP		00	1862891			0		385	Asia/Tokyo	2014-03-24
+1862913	Hekikai-gun	Hekikai-gun	Hekikai-gun,Hekkai-gun	35	137.08333	A	ADM2H	JP		00	1862913			0		18	Asia/Tokyo	2014-03-24
+1862948	Hazu-gun	Hazu-gun	Hazu,Hazu-gun,fan dou jun,hazugun,はずぐん,幡豆郡	34.80748	137.08425	A	ADM2H	JP		01	1862948			0		43	Asia/Tokyo	2017-04-05
+1863022	Hatogaya Shi	Hatogaya Shi	Hadogaya,Hatagayacho,Hatagayachō,Hatogaya,Hatogaya Shi,Hatogaya-machi,Hatogaya-shi,Hatogayacho,Hatogayachō,hatogayashi,jiuke gu,jiuke gu shi,はとがやし,ハトガヤシ,鳩ヶ谷,鳩ヶ谷市	35.82643	139.73786	A	ADM2H	JP		34	1863022			0		6	Asia/Tokyo	2017-07-21
+1863283	Hamana-gun	Hamana-gun	Hamana,Hamana-gun,bang ming jun,hamanagun,はまなぐん,浜名郡	34.69361	137.56352	A	ADM2H	JP		37	1863283			0		3	Asia/Tokyo	2014-05-20
+1863407	Haguri-gun	Haguri-gun	Haguri-gun	35.33333	136.76667	A	ADM2H	JP		00	1863407			0		8	Asia/Tokyo	2014-03-24
+1863491	Gushikawa-shi	Gushikawa-shi	Gushicha-mura,Gushichā-mura,Gushikawa-mura,Gushikawa-shi,Gushikawa-son	26.36667	127.85	A	ADM2H	JP		00	1863491			0		50	Asia/Tokyo	2014-03-24
+1863502	Gumma-gun	Gumma-gun	Gumma-gun,Gunnu-gun	36.41667	138.91667	A	ADM2H	JP		00	1863502			0		378	Asia/Tokyo	2014-03-24
+1863796	Fuse-shi	Fuse-shi	Fuse-shi	34.65	135.56667	A	ADM2H	JP		00	1863796			0		7	Asia/Tokyo	2015-06-24
+1863993	Fukue-shi	Fukue-shi	Fukue-machi,Fukue-shi	32.68333	128.81667	A	ADM2H	JP		00	1863993			0		30	Asia/Tokyo	2014-03-24
+1864129	Fuji-gun	Fuji-gun	Fuji,Fuji-gun,fu shi jun,fujigun,ふじぐん,富士郡	35.2392	138.54576	A	ADM2H	JP		37	1864129			0		416	Asia/Tokyo	2014-05-20
+1864136	Fugeshi-gun	Fugeshi-gun	Fugeshi-gun	37.33333	136.83333	A	ADM2H	JP		00	1864136			0		265	Asia/Tokyo	2014-03-24
+1864314	Ebina-shi	Ebina-shi	Ebina-machi,Ebina-shi	35.43333	135.38333	A	ADM2H	JP		22	1864314			0		276	Asia/Tokyo	2014-05-12
+1864574	Chikushi-gun	Chikushi-gun	Chikushi,Chikushi-gun,Tsukushi,Tsukushi-gun,chikushigun,zhu zi jun,ちくしぐん,筑紫郡	33.46626	130.42202	A	ADM2H	JP		07	1864574			0		73	Asia/Tokyo	2021-09-18
+1864720	Bisai-shi	Bisai-shi	Bisai-shi	35.3	136.75	A	ADM2H	JP		00	1864720			0		6	Asia/Tokyo	2014-04-06
+1864863	Ayauta-chō	Ayauta-cho	Ayauta-cho,Ayauta-chō	34.21667	133.88333	A	ADM2H	JP		00	1864863			0		101	Asia/Tokyo	2014-04-06
+1864922	Atsumi-gun	Atsumi-gun	Atsumi-gun	34.63886	137.29374	A	ADM2H	JP		00	1864922			0		50	Asia/Tokyo	2017-08-18
+1864933	Atetsu-gun	Atetsu-gun	Atetsu-gun	35	133.33333	A	ADM2H	JP		00	1864933			0		740	Asia/Tokyo	2014-03-24
+1865050	Asako-gun	Asako-gun	Asago,Asago-cho,Asago-chō,Asako-gun,chao lai ding,朝来町	35.23333	134.83333	A	ADM2H	JP		13	1865050			0		225	Asia/Tokyo	2017-04-05
+1865058	Asaji-machi	Asaji-machi	Asaji-machi	33	131.41667	A	ADM2H	JP		00	1865058			0		280	Asia/Tokyo	2014-03-26
+1865071	Asahi-mura	Asahi-mura	Asahi	38.3	139.66667	A	ADM2H	JP		00	1865071			0		623	Asia/Tokyo	2014-03-26
+1865085	Asahi-chō	Asahi-cho	Asahi-cho,Asahi-chō	35.23333	137.36667	A	ADM2H	JP		00	1865085			0		216	Asia/Tokyo	2014-04-06
+1865109	Arimatsu-chō	Arimatsu-cho	Arimatsu-cho,Arimatsu-chō,Arimatsu-machi	35.06667	136.96667	A	ADM2H	JP		00	1865109			0		15	Asia/Tokyo	2014-03-26
+1865119	Arie-machi	Arie-machi	Arie-machi	32.66667	130.3	A	ADM2H	JP		00	1865119			0		25	Asia/Tokyo	2014-04-06
+1865131	Ariake-machi	Ariake-machi	Ariake-machi	32.48333	130.31667	A	ADM2H	JP		00	1865131			0		96	Asia/Tokyo	2014-04-06
+1865132	Ariake-chō	Ariake-cho	Ariake Mura,Ariake-cho,Ariake-chō	33.13333	130.13333	A	ADM2H	JP		00	1865132			0		-1	Asia/Tokyo	2014-03-26
+1865186	Arakawa-machi	Arakawa-machi	Arakawa-machi	38.11667	139.46667	A	ADM2H	JP		00	1865186			0		12	Asia/Tokyo	2014-04-06
+1865206	Arai-chō	Arai-cho	Arai,Arai-machi	34.68333	137.56667	A	ADM2H	JP		00	1865206			0		2	Asia/Tokyo	2014-03-27
+1865229	Aoyama-chō	Aoyama-cho	Aoyama-cho,Aoyama-chō	34.6	136.21667	A	ADM2H	JP		00	1865229			0		606	Asia/Tokyo	2014-04-06
+1865317	Anabuki-chō	Anabuki-cho	Anabuki-cho,Anabuki-chō,Anabuki-machi	34.05	134.16667	A	ADM2H	JP		00	1865317			0		134	Asia/Tokyo	2014-03-26
+1865421	Akiyama-mura	Akiyama-mura	Akiyama-mura	35.56667	139.06667	A	ADM2H	JP		00	1865421			0		466	Asia/Tokyo	2014-03-26
+1865424	Akitsu-chō	Akitsu-cho	Akitsu-cho,Akitsu-chō,Akitsu-machi	34.33333	132.8	A	ADM2H	JP		00	1865424			0		272	Asia/Tokyo	2014-03-26
+1865472	Akashina-machi	Akashina-machi	Akashina-machi	36.33333	137.95	A	ADM2H	JP		00	1865472			0		838	Asia/Tokyo	2014-04-06
+1865499	Akasaki-chō	Akasaki-cho	Akasaki-cho,Akasaki-chō	35.43333	133.63333	A	ADM2H	JP		00	1865499			0		347	Asia/Tokyo	2014-04-06
+1865521	Akasaka-chō	Akasaka-cho	Akasaka-cho,Akasaka-chō,Akasaka-machi	34.85	137.3	A	ADM2H	JP		00				0		160	Asia/Tokyo	2015-08-26
+1865558	Akaiwa-gun	Akaiwa-gun	Akaiwa-gun	34.83333	134.01667	A	ADM2H	JP		00	1865558			0		143	Asia/Tokyo	2014-03-26
+1865569	Akaike-machi	Akaike-machi	Akaike-machi	33.7	130.78333	A	ADM2H	JP		00	1865569			0		43	Asia/Tokyo	2014-04-06
+1865590	Akagi-chō	Akagi-cho	Akagi-cho,Akagi-chō	35.01667	132.75	A	ADM2H	JP		00	1865590			0		425	Asia/Tokyo	2014-04-06
+1865622	Ajimu-machi	Ajimu-machi	Ajimu-machi	33.41667	131.36667	A	ADM2H	JP		00	1865622			0		158	Asia/Tokyo	2014-04-06
+1865626	Ajikata-mura	Ajikata-mura	Ajikata-mura	37.78333	139.01667	A	ADM2H	JP		00	1865626			0		-1	Asia/Tokyo	2014-04-06
+1865630	Aji-chō	Aji-cho	Aji,Aji-cho,Aji-chō,Aji-mura	34.38333	134.13333	A	ADM2H	JP		00	1865630			0		10	Asia/Tokyo	2014-03-27
+1865635	Aizu-Takada-machi	Aizu-Takada-machi	Aizu-Takada-machi	37.41667	139.81667	A	ADM2H	JP		00	1865635			0		424	Asia/Tokyo	2014-04-06
+1865644	Aitō-chō	Aito-cho	Aito-cho,Aitō-chō	35.11667	136.28333	A	ADM2H	JP		00	1865644			0		250	Asia/Tokyo	2014-04-06
+1865660	Aioi-chō	Aioi-cho	Aioi-cho,Aioi-chō	33.83333	134.41667	A	ADM2H	JP		00	1865660			0		231	Asia/Tokyo	2014-04-06
+1865773	Abe-gun	Abe-gun	Abe-gun	35.25	138.25	A	ADM2H	JP		00				0		813	Asia/Tokyo	2014-02-24
+2110639	Unakami-machi	Unakami-machi		35.73333	140.7	A	ADM2H	JP		00				0		44	Asia/Tokyo	2017-08-18
+2110682	Tsukuba-gun	Tsukuba-gun	Tsukuba-gun	36.11667	140.05	A	ADM2H	JP		00	2110682			0		40	Asia/Tokyo	2014-03-23
+2110928	Taga-gun	Taga-gun	Taga-gun	36.75	140.6	A	ADM2H	JP		00	2110928			0		455	Asia/Tokyo	2014-03-23
+2111058	Shinobu-gun	Shinobu-gun	Shinobu-gun	37.75	140.38333	A	ADM2H	JP		00	2111058			0		128	Asia/Tokyo	2014-03-26
+2111434	Ōmagari-shi	Omagari-shi	Fujiki-mura,Hanadate-machi,Okawanishine-mura,Omagari-machi,Omagari-shi,Uchiotomo-mura,Ōkawanishine-mura,Ōmagari-machi,Ōmagari-shi	39.45	140.45	A	ADM2H	JP		00	2111434			0		34	Asia/Tokyo	2014-03-26
+2111511	Ōgi-mura	Ogi-mura	Ogi-mura,Ōgi-mura	27.06667	142.21667	A	ADM2H	JP		40				0		187	Asia/Tokyo	2014-02-09
+2111648	Niihari-gun	Niihari-gun	Niihari-gun	36.16667	140.16667	A	ADM2H	JP		00	2111648			0		101	Asia/Tokyo	2014-04-06
+2111732	Nakaminato-shi	Nakaminato-shi	Minato-machi,Nakaminato-machi,Nakaminato-shi,na ke cou,na ke cou shi,那珂湊,那珂湊市	36.35	140.58333	A	ADM2H	JP		14	2111732			0		3	Asia/Tokyo	2017-07-21
+2111839	Monō Gun	Mono Gun	Mono Gun,Mono-gun,Monou,Monou-gun,Monō Gun,Monō-gun,monougun,tao sheng jun,ものうぐん,モノウグン,桃生郡	38.45	141.25	A	ADM2H	JP		24	2111839			0		0	Asia/Tokyo	2014-10-01
+2111858	Mizusawa-shi	Mizusawa-shi	Mizusawa-cho,Mizusawa-chō,Mizusawa-machi,Mizusawa-shi	39.11667	141.16667	A	ADM2H	JP		00	2111858			0		36	Asia/Tokyo	2014-03-26
+2112018	Makabe-gun	Makabe-gun	Makabe-gun	36.26667	140	A	ADM2H	JP		00	2112018			0		20	Asia/Tokyo	2014-03-23
+2112249	Kimitsu-gun	Kimitsu-gun	Kimitsu-gun	35.41667	140.01667	A	ADM2H	JP		00	2112249			0		18	Asia/Tokyo	2014-03-24
+2112304	Kawabe Gun	Kawabe Gun	Kawabe Gun,Kawabe-gun,he bian jun,kawabegun,かわべぐん,カワベグン,河辺郡	39.66667	140.25	A	ADM2H	JP		00	2112304			0		26	Asia/Tokyo	2014-04-06
+2112356	Karakuwa	Karakuwa	Karakuwa Cho,Karakuwa Chō,Karakuwa-cho,Karakuwa-chō,Karakuwa-mura,karakuwachou,tang sang ding,からくわちょう,カラクワチョウ,唐桑町	38.91667	141.63333	A	ADM2H	JP		24				8500		113	Asia/Tokyo	2016-10-02
+2112510	Izumi-shi	Izumi-shi	Izumi-machi,Izumi-mura	38.35	140.8	A	ADM2H	JP						0		78	Asia/Tokyo	2014-04-09
+2112680	Honjō-shi	Honjo-shi		39.41667	140.11667	A	ADM2H	JP		00	2112680			0		126	Asia/Tokyo	2014-03-24
+2112729	Hiraka-gun	Hiraka-gun	Hiraka-gun	39.25	140.61667	A	ADM2H	JP		00	2112729			0		234	Asia/Tokyo	2014-04-06
+2112765	Higashiiwai-gun	Higashiiwai-gun	Higashi-iwai,Higashiiwai-gun,dong pan jing jun,higashiiwaigun,ひがしいわいぐん,東磐井郡	38.83836	141.33703	A	ADM2H	JP		00				0		147	Asia/Tokyo	2014-04-22
+2112772	Hienuki Gun	Hienuki Gun	Enuki,Heinuki-gun,Hienuki Gun,Hienuki-gun,bai guan jun,hienukigun,ひえぬきぐん,ヒエヌキグン,稗貫郡	39.5	141.25	A	ADM2H	JP		00	2112772			0		171	Asia/Tokyo	2014-04-06
+2112807	Haramachi-shi	Haramachi-shi	Haramachi-shi,Haranomachi-shi	37.61667	140.96667	A	ADM2H	JP		00	2112807			0		29	Asia/Tokyo	2014-03-24
+2112897	Furukawa-shi	Furukawa-shi	Furukawa-shi	38.58333	140.95	A	ADM2H	JP		00	2112897			0		21	Asia/Tokyo	2014-03-24
+2112952	Esashi-shi	Esashi-shi	Esashi-shi	39.2	141.25	A	ADM2H	JP		00	2112952			0		98	Asia/Tokyo	2014-04-06
+2113105	Ani-machi	Ani-machi	Ani-machi	39.93333	140.48333	A	ADM2H	JP		00	2113105			0		335	Asia/Tokyo	2014-04-06
+2113129	Akeno-machi	Akeno-machi	Akeno-machi	36.23333	140.03333	A	ADM2H	JP		00	2113129			0		37	Asia/Tokyo	2014-04-06
+2127666	Tōya-mura	Toya-mura	Abuta-mura,Doya-mura,Dōya-mura,Toya-mura,Tōya-mura	42.66667	140.86667	A	ADM2H	JP		00	2127666			0		256	Asia/Tokyo	2014-03-23
+2128020	Shizunai-gun	Shizunai-gun	Shizunai-gun	42.41667	142.58333	A	ADM2H	JP		00	2128020			0		251	Asia/Tokyo	2014-03-23
+2128974	Nemuro-gun	Nemuro-gun	gen shi jun,根室郡	43.25	145.5	A	ADM2H	JP		12	2128974			0		13	Asia/Tokyo	2014-05-22
+2129369	Kushiro-shichō	Kushiro-shicho	Kushiro-no-kuni-shicho,Kushiro-no-kuni-shichō,chuan lu zhi ting,chuan lu zong he zhen xing ju,釧路支庁,釧路総合振興局	43	144.41667	A	ADM2H	JP		12	2129369			0		3	Asia/Tokyo	2017-03-22
+2129777	Kameda-shi	Kameda-shi	Kameda-cho,Kameda-chō,Kameda-mura,Kameda-shi,Kameta-mura,gui tian,gui tian shi,亀田,亀田市	41.83333	140.75	A	ADM2H	JP		00	2129777			0		49	Asia/Tokyo	2017-07-21
+2130646	Arakawa Mura	Arakawa Mura	Arakawa Mura,Arakawa-mura,arakawamura,huang chuan cun,あらかわむら,アラカワムラ,荒川村	40.75	140.75	A	ADM2H	JP		00				0		104	Asia/Tokyo	2014-04-30
+2130715	Aikawa-machi	Aikawa-machi	Aikawa-machi	40.13333	140.31667	A	ADM2H	JP		00	2130715			0		72	Asia/Tokyo	2014-04-06
+2130735	Okhotsk Subprefecture	Okhotsk Subprefecture	Abashiri Subprefecture,Okhotsk Subprefecture,ohotsuku zong he zhen xing ju,wang zou zhi ting,オホーツク総合振興局,網走支庁	43.83333	143.5	A	ADM2H	JP		12	2130735			0		352	Asia/Tokyo	2017-04-04
+7353788	Nishikamo-gun	Nishikamo-gun	Nishikamo-gun,nishikamogun,xi jia mao jun,にしかもぐん,西加茂郡	35.09279	137.08788	A	ADM2H	JP		00				0		44	Asia/Tokyo	2014-04-23
+7392546	Hikawa-gun	Hikawa-gun	Hikawa-gun,bo chuan jun,hikawagun,ひかわぐん,簸川郡	35.39338	132.84286	A	ADM2H	JP		00				0		3	Asia/Tokyo	2014-04-22
+7394805	Higashiazai-gun	Higashiazai-gun	Higashiazai-gun,dong qian jing jun,higashiazaigun,ひがしあざいぐん,東浅井郡	35.44275	136.23243	A	ADM2H	JP		35				0		91	Asia/Tokyo	2014-03-10
+7407414	Maebaru-shi	Maebaru-shi	Maebaru-shi,maebarushi,qian yuan,qian yuan shi,まえばるし,前原,前原市	33.52278	130.22319	A	ADM2H	JP		07	7407414			0		60	Asia/Tokyo	2017-07-21
+7412707	Kamoto-gun	Kamoto-gun	Kamoto-gun,kamotogun,lu ben jun,かもとぐん,鹿本郡	32.91724	130.68678	A	ADM2H	JP		21	7412707			0		92	Asia/Tokyo	2017-04-05
+7413966	Miyazaki Gun	Miyazaki Gun	Miyazaki Gun,Miyazaki-gun,gong qi jun,miyazakigun,みやざきぐん,宮崎郡	31.69816	131.33655	A	ADM2H	JP		00				0		134	Asia/Tokyo	2014-05-01
+7458574	Kitasaitama-gun	Kitasaitama-gun	Kitasaitama-gun,bei qi yu jun,kitasaitamagun,きたさいたまぐん,北埼玉郡	36.13924	139.62938	A	ADM2H	JP		34	7458574			0		12	Asia/Tokyo	2014-02-10
+7468156	Kitaōnuma-gun	Kitaonuma-gun	Kitaonuma-gun,Kitaōnuma-gun,bei yu zhao jun,kitauonumagun,きたうおぬまぐん,北魚沼郡	37.25288	138.86022	A	ADM2H	JP		29				0		92	Asia/Tokyo	2017-04-15

@@ -1,0 +1,68 @@
+﻿2961240	Templebreedy	Templebreedy		51.78167	-8.31583	A	PRSH	IE		M	04			0		34	Europe/Dublin	2010-08-14
+7536132	Kinsealy	Kinsealy		53.42378	-6.1756	A	PRSH	IE		L				1375		19	Europe/Dublin	2013-12-08
+8642909	Ayrfield	Ayrfield		53.39405	-6.18251	A	PRSH	IE		L				7856		30	Europe/Dublin	2013-12-08
+8642911	Balcurris	Balcurris		53.4004	-6.26869	A	PRSH	IE		L				5037		64	Europe/Dublin	2013-11-16
+8642912	Aughrim Street	Aughrim Street		53.35544	-6.29182	A	PRSH	IE		L				10544		29	Europe/Dublin	2013-11-16
+8642913	Ardlea	Ardlea		53.38643	-6.21006	A	PRSH	IE		L				4580		36	Europe/Dublin	2013-11-16
+8642914	Ballyfermot Upper	Ballyfermot Upper		53.34568	-6.37791	A	PRSH	IE		L				7623		54	Europe/Dublin	2013-11-16
+8642915	Ballyroan	Ballyroan	Baile Ui Ruain,Baile Uí Ruáin	53.28769	-6.30422	A	PRSH	IE		L				4861		72	Europe/Dublin	2013-11-17
+8642916	Beechwood Avenue	Beechwood Avenue		53.32125	-6.25414	A	PRSH	IE		L				6131		21	Europe/Dublin	2013-11-17
+8642917	Berkeley Road	Berkeley Road		53.35785	-6.26899	A	PRSH	IE		L				7912		23	Europe/Dublin	2013-11-17
+8642918	Blakestown	Blakestown		53.39769	-6.41129	A	PRSH	IE		L				4350		60	Europe/Dublin	2013-11-17
+8642919	Bluebell	Bluebell	An Cloigin Gorm,An Cloigín Gorm	53.32831	-6.35722	A	PRSH	IE		L				2443		47	Europe/Dublin	2013-11-17
+8642920	Bohernabreena	Bohernabreena		53.26591	-6.35774	A	PRSH	IE		L				7425		123	Europe/Dublin	2013-11-17
+8642921	Bray Ballywaltrim	Bray Ballywaltrim		53.18433	-6.1305	A	PRSH	IE		L				9634		59	Europe/Dublin	2013-11-17
+8642922	Cabra West	Cabra West		53.36807	-6.29791	A	PRSH	IE		L				6937		42	Europe/Dublin	2013-11-17
+8642923	Churchtown	Churchtown	Baile an Teampaill	53.29375	-6.24762	A	PRSH	IE		L	34			8219		49	Europe/Dublin	2017-07-20
+8642925	Cloger Road	Cloger Road	Clochar,Clogher	53.32859	-6.28624	A	PRSH	IE		L				7892		28	Europe/Dublin	2013-11-17
+8642927	Corduff	Corduff	An Chorr Dhubh	53.40009	-6.37859	A	PRSH	IE		L				4781		66	Europe/Dublin	2013-11-17
+8642928	Dolphins Barn	Dolphins Barn	An Carnan,An Carnán	53.33509	-6.28984	A	PRSH	IE		L				3987		21	Europe/Dublin	2013-11-17
+8642929	Dominick Street	Dominick Street		53.29178	-6.14005	A	PRSH	IE						4686		27	Europe/Dublin	2013-11-17
+8642930	Donore Avenue	Donore Avenue		53.33233	-6.28309	A	PRSH	IE		L				5493		21	Europe/Dublin	2013-11-17
+8642931	Edenmore	Edenmore		53.38819	-6.1862	A	PRSH	IE		L				4460		30	Europe/Dublin	2013-11-17
+8642933	Francis Street	Francis Street		53.34224	-6.27534	A	PRSH	IE		L				5845		18	Europe/Dublin	2013-11-17
+8642934	Gardiner Street	Gardiner Street	Sraid Ghairdineir,Sráid Ghairdinéir	53.35793	-6.25998	A	PRSH	IE		L				7421		15	Europe/Dublin	2013-11-17
+8642935	Glasthule	Glasthule		53.28785	-6.12681	A	PRSH	IE						6453		10	Europe/Dublin	2013-11-17
+8642936	Glendalough	Glendalough		53.01179	-6.32984	A	PRSH	IE		L				976		143	Europe/Dublin	2013-11-17
+8642937	Haddington Road	Haddington Road		53.33486	-6.24324	A	PRSH	IE		L				8005		14	Europe/Dublin	2013-11-17
+8642938	Halston Street	Halston Street		53.34937	-6.27152	A	PRSH	IE		L				10412		12	Europe/Dublin	2013-11-17
+8642939	Harrington Street	Harrington Street		53.3325	-6.26626	A	PRSH	IE		L				9682		21	Europe/Dublin	2013-11-17
+8642940	Huntstown	Huntstown		53.4027	-6.42451	A	PRSH	IE		L				21165		62	Europe/Dublin	2013-11-17
+8642941	Iona Road	Iona Road		53.3661	-6.26714	A	PRSH	IE		L				6693		24	Europe/Dublin	2013-11-17
+8642942	James's Street	James's Street		53.34284	-6.29197	A	PRSH	IE		L				8114		20	Europe/Dublin	2013-11-17
+8642944	Killinarden	Killinarden		53.26724	-6.39885	A	PRSH	IE		L				8955		215	Europe/Dublin	2013-11-17
+8642947	Kimmage Manor	Kimmage Manor		53.3089	-6.30708	A	PRSH	IE		L				2975		50	Europe/Dublin	2013-11-17
+8642948	Marley Grange	Marley Grange		53.28069	-6.26787	A	PRSH	IE		L				5023		83	Europe/Dublin	2013-11-17
+8642951	Laurel Lodge	Laurel Lodge		53.38028	-6.37201	A	PRSH	IE		L				5591		57	Europe/Dublin	2013-11-17
+8642952	Merrion Road	Merrion Road		53.32536	-6.2229	A	PRSH	IE		L				5295		9	Europe/Dublin	2013-11-17
+8642953	Mount Argus	Mount Argus		53.32345	-6.28218	A	PRSH	IE		L				5075		30	Europe/Dublin	2013-11-17
+8642954	Mourne Road	Mourne Road		53.33268	-6.31538	A	PRSH	IE		L				10950		32	Europe/Dublin	2013-11-17
+8642955	Navan Road	Navan Road		53.3821	-6.36117	A	PRSH	IE		L				9747		54	Europe/Dublin	2013-11-17
+8642956	William Street North	William Street North		53.35728	-6.24764	A	PRSH	IE		L				6123		8	Europe/Dublin	2013-11-17
+8642964	Priorswood	Priorswood	Coill an Phriora,Coill an Phrióra	53.40575	-6.1959	A	PRSH	IE		L				5214		34	Europe/Dublin	2013-11-17
+8642966	Pro Cathedral	Pro Cathedral	Leas-Ardeaglais Naomh Muire,Saint Mary's Pro-Cathedral	53.35101	-6.25904	A	PRSH	IE		L				4718		13	Europe/Dublin	2013-11-17
+8642968	River Valley	River Valley		53.45283	-6.2374	A	PRSH	IE		L				11986		42	Europe/Dublin	2013-11-17
+8642969	Rivermount	Rivermount		53.37484	-6.28848	A	PRSH	IE		L				7340		33	Europe/Dublin	2013-11-17
+8642970	Rolestown	Rolestown	Baile Roil,Baile Róil,Rowlestown	53.49348	-6.29963	A	PRSH	IE		L				2199		39	Europe/Dublin	2013-11-17
+8642971	Rush	Rush	An Ro	53.52546	-6.09106	A	PRSH	IE		L				10214		9	Europe/Dublin	2013-11-17
+8642972	Seville Place	Seville Place		53.35409	-6.24588	A	PRSH	IE		L				6641		5	Europe/Dublin	2013-11-17
+8642973	Silloge	Silloge		53.39286	-6.26905	A	PRSH	IE		L				3831		61	Europe/Dublin	2013-11-17
+8642974	Springfield	Springfield		53.28744	-6.38357	A	PRSH	IE		L				11451		107	Europe/Dublin	2013-11-17
+8642975	Dodder	Dodder		53.27953	-6.34795	A	PRSH	IE		L				4808		88	Europe/Dublin	2013-11-18
+8642982	Tymon	Tymon		53.29934	-6.34203	A	PRSH	IE		L				5014		71	Europe/Dublin	2013-11-18
+8642984	Tallaght Village	Tallaght Village		53.2879	-6.36025	A	PRSH	IE		L				5048		91	Europe/Dublin	2013-11-18
+8642985	University Newman Church	University Newman Church		53.33652	-6.26058	A	PRSH	IE		L				1807		19	Europe/Dublin	2013-11-18
+8642987	Walkinstown	Walkinstown	Baile Bhailcin,Baile Bhailcín	53.31736	-6.34083	A	PRSH	IE		L				5563		51	Europe/Dublin	2013-11-18
+8642988	Westland Row	Westland Row	Rae an Iarthair,Westland Row,Westlands	53.34281	-6.2502	A	PRSH	IE		L				4474		11	Europe/Dublin	2014-07-30
+8642991	Willington	Willington		53.30452	-6.32229	A	PRSH	IE		L				6456		55	Europe/Dublin	2013-11-18
+8642992	Yellow Walls	Yellow Walls		53.45169	-6.18359	A	PRSH	IE		L				9468		13	Europe/Dublin	2013-11-18
+8642993	Sean McDermott Street	Sean McDermott Street		53.35359	-6.25312	A	PRSH	IE		L				6884		6	Europe/Dublin	2013-11-18
+8642994	Porterstown	Porterstown		53.37721	-6.40636	A	PRSH	IE		L				15130		61	Europe/Dublin	2013-11-18
+8642995	Mountview	Mountview		53.39033	-6.40237	A	PRSH	IE		L				7460		65	Europe/Dublin	2013-11-18
+8642996	Meath Street and Merchants Quay	Meath Street and Merchants Quay		53.3416	-6.27888	A	PRSH	IE		L				9844		19	Europe/Dublin	2013-11-18
+8642997	Larkhill	Larkhill		53.38751	-6.2485	A	PRSH	IE		L				14666		48	Europe/Dublin	2013-11-18
+8642998	East Wall	East Wall	An Port Thoir	53.35416	-6.2341	A	PRSH	IE		L				5147		2	Europe/Dublin	2013-11-18
+8642999	Saint Anthony's	Saint Anthony's		53.36326	-6.21694	A	PRSH	IE		L				5141		4	Europe/Dublin	2013-11-18
+8643002	St. John's	St. John's		53.36415	-6.20558	A	PRSH	IE		L				4797		15	Europe/Dublin	2013-11-18
+8643030	Kilbride and Barndarrig	Kilbride and Barndarrig		52.91501	-6.11248	A	PRSH	IE		L				2142		46	Europe/Dublin	2013-11-19
+8643031	Meadowbrook	Meadowbrook		53.28221	-6.25558	A	PRSH	IE		L				4450		71	Europe/Dublin	2013-11-19

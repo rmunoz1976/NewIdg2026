@@ -1,0 +1,2 @@
+﻿2013088	Yaroslavskiy Rayon	Yaroslavskiy Rayon	Jaroslavskij rajon,Ярославский район	62	129.66667	A	ADM4H	RU		63			2013088	0		110	Asia/Yakutsk	2016-07-08
+2018605	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	62	129.66667	A	ADM4H	RU		63			2018605	0		110	Asia/Yakutsk	2016-07-08
