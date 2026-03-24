@@ -1,0 +1,42 @@
+﻿2083360	Wonenara District	Wonenara District	Wonenara District,Wonenra	-6.91667	145.75	A	ADMD	PG		09				0		2648	Pacific/Port_Moresby	2012-01-17
+2083652	Wau District	Wau District		-7.58333	146.75	A	ADMD	PG		14				0		1855	Pacific/Port_Moresby	1994-01-06
+2084441	Vanimo District	Vanimo District		-2.91667	141.33333	A	ADMD	PG		18				0		54	Pacific/Port_Moresby	1994-01-06
+2085069	Tufi District	Tufi District		-9.33333	148.91667	A	ADMD	PG		04				0		27	Pacific/Port_Moresby	1994-01-06
+2087414	Saidor District	Saidor District		-5.83333	146.33333	A	ADMD	PG		12				0		2446	Pacific/Port_Moresby	1994-01-06
+2087804	Ramu District	Ramu District		-5.25	144.91667	A	ADMD	PG		12				0		78	Pacific/Port_Moresby	1994-01-06
+2088121	Port Moresby District	Port Moresby District	Moresby Sub District,Port Moresby District	-9.25	147.33333	A	ADMD	PG		01				0		245	Pacific/Port_Moresby	2012-01-17
+2088142	Porgera District	Porgera District		-5.36667	142.95	A	ADMD	PG		19				0		1123	Pacific/Port_Moresby	1994-01-06
+2088161	Popondetta District	Popondetta District		-9	148.33333	A	ADMD	PG		04	2093690			0		1640	Pacific/Port_Moresby	2015-04-02
+2088665	Pangia District	Pangia District		-6.41667	144.25	A	ADMD	PG		05				0		1431	Pacific/Port_Moresby	1994-01-06
+2089541	Nomad District	Nomad District		-6.83333	142	A	ADMD	PG		06				0		44	Pacific/Port_Moresby	1994-01-06
+2090317	Mumeng District	Mumeng District		-6.91667	146.66667	A	ADMD	PG		14				0		1619	Pacific/Port_Moresby	1994-01-06
+2090371	Muglamp District	Muglamp District		-5.56667	144.2	A	ADMD	PG		16				0		1237	Pacific/Port_Moresby	1994-01-06
+2090493	Morehead District	Morehead District		-8.5	141.66667	A	ADMD	PG		06				0		46	Pacific/Port_Moresby	1994-01-06
+2090762	Minj District	Minj District		-6	144.58333	A	ADMD	PG		16				0		3208	Pacific/Port_Moresby	1994-01-06
+2091497	Manus District	Manus District		-2	147	A	ADMD	PG		13				0		133	Pacific/Port_Moresby	1994-01-06
+2091995	Madang District	Madang District	Madang District	-5.03333	145.5	A	ADMD	PG		12				0		619	Pacific/Port_Moresby	2013-04-03
+2092071	Lumi District	Lumi District		-3.66667	142	A	ADMD	PG		18				0		186	Pacific/Port_Moresby	1994-01-06
+2092149	Losuia District	Losuia District		-8.83333	152.33333	A	ADMD	PG		03				0		-9999	Pacific/Port_Moresby	1994-01-06
+2092608	Lamet District	Lamet District	Lamet District,Taskul Sub District	-2.5	150.25	A	ADMD	PG		15				0		221	Pacific/Port_Moresby	2012-01-17
+2092728	Lagaip District	Lagaip District		-5.5	143.33333	A	ADMD	PG		19				0		2768	Pacific/Port_Moresby	1994-01-06
+2093058	Kundiawa District	Kundiawa District		-6	145	A	ADMD	PG		08				0		1858	Pacific/Port_Moresby	1994-01-06
+2093402	Koroba District	Koroba District		-5.66667	142.5	A	ADMD	PG		05				0		2478	Pacific/Port_Moresby	1994-01-06
+2093467	Kopiago District	Kopiago District		-5.25	142.5	A	ADMD	PG		05				0		1038	Pacific/Port_Moresby	1994-01-06
+2093845	Kiunga District	Kiunga District		-5.83333	141.33333	A	ADMD	PG		06				0		71	Pacific/Port_Moresby	1994-01-06
+2094025	Kieta District	Kieta District		-6.16667	155.38333	A	ADMD	PG		07				0		276	Pacific/Bougainville	1994-01-06
+2095012	Kairuku District	Kairuku District		-8.75	146.75	A	ADMD	PG		01				0		54	Pacific/Port_Moresby	1994-01-06
+2095075	Kaiapit District	Kaiapit District		-6.33333	146.33333	A	ADMD	PG		14				0		234	Pacific/Port_Moresby	1994-01-06
+2095089	Kagua District	Kagua District		-6.38333	143.83333	A	ADMD	PG		05				0		1641	Pacific/Port_Moresby	1994-01-06
+2096035	Hoskins District	Hoskins District		-5.58333	150.83333	A	ADMD	PG		17				0		195	Pacific/Port_Moresby	1994-01-06
+2097053	Gembogl District	Gembogl District		-5.88333	145.06667	A	ADMD	PG		08				0		2568	Pacific/Port_Moresby	1994-01-06
+2097604	Erave District	Erave District		-6.66667	144	A	ADMD	PG		05				0		1492	Pacific/Port_Moresby	1994-01-06
+2098327	Daru District	Daru District		-8.75	143	A	ADMD	PG		06				0		56	Pacific/Port_Moresby	1994-01-06
+2098914	Buka District	Buka District	Buka District,Buka Passage Sub District	-5.58333	154.83333	A	ADMD	PG		07				0		627	Pacific/Bougainville	2012-01-17
+2098922	Buin District	Buin District		-6.58333	155.41667	A	ADMD	PG		07				0		144	Pacific/Bougainville	1994-01-06
+2099986	Balimo District	Balimo District		-7.91667	143	A	ADMD	PG		06				0		22	Pacific/Port_Moresby	1994-01-06
+2100975	Amanab District	Amanab District		-3.83333	141.33333	A	ADMD	PG		18				0		64	Pacific/Port_Moresby	1994-01-06
+2101168	Aitape District	Aitape District		-3.25	142.33333	A	ADMD	PG		18				0		64	Pacific/Port_Moresby	1994-01-06
+2132605	Samarai District	Samarai District		-11	150.33333	A	ADMD	PG		03				0		-9999	Pacific/Port_Moresby	1994-01-06
+2132891	Misima District	Misima District		-11	153	A	ADMD	PG		03				0		-9999	Pacific/Port_Moresby	1994-01-06
+2132896	Milne Bay District	Milne Bay District		-10.25	150.41667	A	ADMD	PG		03				0		666	Pacific/Port_Moresby	1994-01-06
+2133902	Baniara District	Baniara District	Baniara District,Raba Raba Sub District	-10	149.75	A	ADMD	PG		03				0		266	Pacific/Port_Moresby	2012-01-17

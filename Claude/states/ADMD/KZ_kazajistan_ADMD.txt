@@ -1,0 +1,2 @@
+﻿1521353	Leninskiy Rayon	Leninskiy Rayon		43.25	76.95	A	ADMD	KZ		02				0		839	Asia/Almaty	2007-05-30
+1524266	Frunzenskiy Rayon	Frunzenskiy Rayon		43.25	76.95	A	ADMD	KZ		02				0		839	Asia/Almaty	2007-05-30

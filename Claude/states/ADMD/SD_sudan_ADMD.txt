@@ -1,0 +1,3 @@
+﻿374463	Qureinat Habisa	Qureinat Habisa	Quraynat Habisah,Quraynat Ḩabīsah,Qureinat Habisa	15.04762	30.9714	A	ADMD	SD		56				0	531	507	Africa/Khartoum	2016-11-28
+376962	Cherro	Cherro	Cherro	12.73242	22.11468	A	ADMD	SD		47				0		701	Africa/Khartoum	2024-06-10
+10401609	Abyei Area	Abyei Area	Abyei,Abyei Area,Abyei Special Administrative Area,Abyei-Gebiet,Podrucje Abjej,Područje Abjej,Region Ab'ej,Region Abjej,Region d'Abiye,Région d'Abiyé,mhwz ʼbyy,mntqt abyy,rajon Ab'ej,Регион Абјеј,Регіон Аб'єй,район Абьей,מחוז אביי,منطقة أبيي	9.595	28.436	A	ADMD	SD	SD,SS	34				0		402	Africa/Khartoum	2025-11-12

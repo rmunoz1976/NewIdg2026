@@ -1,0 +1,3 @@
+﻿1804589	Laiwu Shi	Laiwu Shi	Gangcheng District,Lai-wu Hsien,Laiwu,Laiwu Shi,Laiwu Xian,lai wu,lai wu shi,莱芜,莱芜市	36.2825	117.66528	A	ADM2H	CN		25	3712			0		224	Asia/Shanghai	2024-03-03
+1814890	Chongwen Qu	Chongwen Qu	Ch'ung-wen Ch'u,Chongwen,Chongwen Qu,Ch’ung-wen Ch’ü,Ts'ung-wen Ward,Ts’ung-wen Ward,chong wen,chong wen qu,崇文,崇文区	39.88167	116.41222	A	ADM2H	CN		22	Dongcheng District (undefined)	1814890		0		47	Asia/Shanghai	2018-06-06
+6640436	Haozhou Shi	Haozhou Shi	Haozhou,Haozhou Shi,hao zhou,hao zhou shi,毫州,毫州市	33.46946	116.21846	A	ADM2H	CN		01	6640436			0		31	Asia/Shanghai	2018-11-24

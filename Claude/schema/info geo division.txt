@@ -1,0 +1,368 @@
+Alimentar las tablas geográficas, organizadas por nivel de detalle (pais, departamentos, municipios y localidades), 
+las tablas están en el archivo que te adjunto "divisions.txt"
+
+La tabla t072t_continents ya tiene estos datos :
+1	AF	ÁFRICA	AFRICA	
+2	AN	ANTÁRTIDA	ANTARCTICA	
+3	AS	ASIA	ASIA	
+4	EU	EUROPA	EUROPE	
+5	NA	AMÉRICA DEL NORTE	NORTH AMERICA	
+6	OC	OCEANÍA	OCEANIA	
+7	SA	AMÉRICA DEL SUR	SOUTH AMERICA	
+
+Estas son las tabla alimentar:
+t070t_divisions
+t074t_countries
+t076t_states
+t078t_municipalities
+t080t_localities
+
+Usa estos medios de consulta más confiables :
+1. countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+2. CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+3. GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+4. OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+5. Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+
+inserta en t070t_divisions según la division que hayas encontrado, 
+ejemplo: Ciudad - City, Barrio - Neighborhood - Distrito - District, Isla Island, etc
+
+NOTA: Los campos name_original corresponden en realidad a nombres 
+transcritos a alfabeto latino legible, usar una versión sin diacríticos y consistente;
+Reglas:
+- Usa solo caracteres ASCII (a-z, 0-9 y espacios)
+- No uses diacríticos (ej: ā → a, ñ → n)
+- Mantén números como están
+- Convierte todo a minúsculas
+
+por ejemplo 'ناحیه ۱' , 'nahiye 1'
+
+
+    pais: Japón
+    ciudades: 
+        name_spanish: Distrito de Shibuya Tokio
+        name_english: Shibuya District Tokyo
+        name_original: 東京都渋谷区
+        name_transcribed: tokyo-to shibuya-ku
+      
+        name_spanish: Distrito de Minato Tokio
+        name_english: Minato District Tokyo
+        name_original: 東京都港区
+        name_transcribed: tokyo-to minato-ku
+  
+    pais: China
+    ciudades: 
+        name_spanish: Distrito de Chaoyang Pekín
+        name_english: Chaoyang District Beijing
+        name_original: 北京市朝阳区
+        name_transcribed: beijing shi chaoyang qu
+      
+      
+        name_spanish: Distrito de Pudong Shanghái
+        name_english: Pudong District Shanghai
+        name_original: 上海市浦东新区
+        name_transcribed: shanghai shi pudong xin qu
+  
+    pais: Rusia
+    ciudades: 
+        name_spanish: Moscú
+        name_english: Moscow
+        name_original: Москва
+        name_transcribed: moskva
+      
+        name_spanish: San Petersburgo
+        name_english: Saint Petersburg
+        name_original: Санкт-Петербург
+        name_transcribed: sankt-peterburg
+  
+    pais: Arabia Saudita
+    ciudades: 
+        name_spanish: Riad
+        name_english: Riyadh
+        name_original: الرياض
+        name_transcribed: al riyadh
+      
+        name_spanish: Yeda
+        name_english: Jeddah
+        name_original: جدة
+        name_transcribed: jeddah
+      
+    pais: Afganistán
+    ciudades: 
+        name_spanish: Kabul
+        name_english: Kabul
+        name_original: کابل
+        name_transcribed: kabul
+      
+        name_spanish: Herat
+        name_english: Herat
+        name_original: هرات
+        name_transcribed: herat
+      
+
+name_spanish VARCHAR(150) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+name_english VARCHAR(150) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+name_original VARCHAR(150) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+name_transcribed VARCHAR(150) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci
+
+-----
+
+
+Con las instrucciones y el archivo 'divisiones.txt'. 
+Genera el insert para mysql MySQL 8.0.43 en estas tablas para el país de:
+'AFGHANISTAN'
+
+
+
+'AFGHANISTAN'
+'ALAND ISLANDS'
+'ALBANIA'
+'ALGERIA'
+'AMERICAN SAMOA'
+'ANDORRA'
+'ANGOLA'
+'ANGUILLA'
+'ANTARCTICA'
+'ANTIGUA AND BARBUDA'
+'ARGENTINA'
+'ARMENIA'
+'ARUBA'
+'AUSTRALIA'
+'AUSTRIA'
+'AZERBAIJAN'
+'BAHAMAS'
+'BAHRAIN'
+'BANGLADESH'
+'BARBADOS'
+'BELARUS'
+'BELGIUM'
+'BELIZE'
+'BENIN'
+'BERMUDAS'
+'BHUTAN'
+'BOLIVIA'
+'BONAIRE, SAINT EUSTATIUS AND SABA'
+'BOSNIA AND HERZEGOVINA'
+'BOTSWANA'
+'BOUVET ISLAND'
+'BRAZIL'
+'BRITISH INDIAN OCEAN TERRITORY'
+'BRITISH VIRGIN ISLANDS'
+'BRUNEI'
+'BULGARIA'
+'BURKINA FASO'
+'BURUNDI'
+'CAMBODIA'
+'CAMEROON'
+'CANADA'
+'CAPE VERDE'
+'CAYMAN ISLANDS'
+'CENTRAL AFRICAN REPUBLIC'
+'CHAD'
+'CHILE'
+'CHINA'
+'CHRISTMAS ISLAND'
+'COCOS ISLANDS'
+'COLOMBIA'
+'COMOROS'
+'COOK ISLANDS'
+'COSTA RICA'
+'CROATIA'
+'CUBA'
+'CURACAO'
+'CYPRUS'
+'CZECHIA'
+'DEMOCRATIC REPUBLIC OF THE CONGO'
+'DENMARK'
+'DJIBOUTI'
+'DOMINICA'
+'DOMINICAN REPUBLIC'
+'ECUADOR'
+'EGYPT'
+'EL SALVADOR'
+'EQUATORIAL GUINEA'
+'ERITREA'
+'ESTONIA'
+'ESWATINI'
+'ETHIOPIA'
+'FALKLAND ISLANDS'
+'FAROE ISLANDS'
+'FIJI'
+'FINLAND'
+'FRANCE'
+'FRENCH GUIANA'
+'FRENCH POLYNESIA'
+'FRENCH SOUTHERN TERRITORIES'
+'GABON'
+'GAMBIA'
+'GEORGIA'
+'GERMANY'
+'GHANA'
+'GIBRALTAR'
+'GREECE'
+'GREENLAND'
+'GRENADA'
+'GUADELOUPE'
+'GUAM'
+'GUATEMALA'
+'GUERNSEY'
+'GUINEA'
+'GUINEA-BISSAU'
+'GUYANA'
+'HAITI'
+'HEARD ISLAND AND MCDONALD ISLANDS'
+'HONDURAS'
+'HONG KONG'
+'HUNGARY'
+'ICELAND'
+'INDIA'
+'INDONESIA'
+'IRAN'
+'IRAQ'
+'IRELAND'
+'ISLE OF MAN'
+'ISRAEL'
+'ITALY'
+'IVORY COAST'
+'JAMAICA'
+'JAPAN'
+'JERSEY'
+'JORDAN'
+'KAZAKHSTAN'
+'KENYA'
+'KIRIBATI'
+'KOSOVO'
+'KUWAIT'
+'KYRGYZSTAN'
+'LAOS'
+'LATVIA'
+'LEBANON'
+'LESOTHO'
+'LIBERIA'
+'LIBYA'
+'LIECHTENSTEIN'
+'LITHUANIA'
+'LUXEMBOURG'
+'MACAO'
+'MADAGASCAR'
+'MALAWI'
+'MALAYSIA'
+'MALDIVES'
+'MALI'
+'MALTA'
+'MARSHALL ISLANDS'
+'MARTINIQUE'
+'MAURITANIA'
+'MAURITIUS'
+'MAYOTTE'
+'MEXICO'
+'MICRONESIA'
+'MOLDOVA'
+'MONACO'
+'MONGOLIA'
+'MONTENEGRO'
+'MONTSERRAT'
+'MOROCCO'
+'MOZAMBIQUE'
+'MYANMAR'
+'NAMIBIA'
+'NAURU'
+'NEPAL'
+'NEW CALEDONIA'
+'NEW ZEALAND'
+'NICARAGUA'
+'NIGER'
+'NIGERIA'
+'NIUE'
+'NORFOLK ISLAND'
+'NORTH KOREA'
+'NORTH MACEDONIA'
+'NORTHERN MARIANA ISLANDS'
+'NORWAY'
+'OMAN'
+'PAKISTAN'
+'PALAU'
+'PALESTINIAN TERRITORY'
+'PANAMA'
+'PAPUA NEW GUINEA'
+'PARAGUAY'
+'PERU'
+'PHILIPPINES'
+'PITCAIRN'
+'POLAND'
+'PORTUGAL'
+'PUERTO RICO'
+'QATAR'
+'REPUBLIC OF THE CONGO'
+'REUNION'
+'ROMANIA'
+'RUSSIA'
+'RWANDA'
+'SAINT BARTHELEMY'
+'SAINT HELENA'
+'SAINT KITTS AND NEVIS'
+'SAINT LUCIA'
+'SAINT MARTIN'
+'SAINT PIERRE AND MIQUELON'
+'SAINT VINCENT AND THE GRENADINES'
+'SAMOA'
+'SAN MARINO'
+'SAO TOME AND PRINCIPE'
+'SAUDI ARABIA'
+'SENEGAL'
+'SERBIA'
+'SEYCHELLES'
+'SIERRA LEONE'
+'SINGAPORE'
+'SINT MAARTEN'
+'SLOVAKIA'
+'SLOVENIA'
+'SOLOMON ISLANDS'
+'SOMALIA'
+'SOUTH AFRICA'
+'SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS'
+'SOUTH KOREA'
+'SOUTH SUDAN'
+'SPAIN'
+'SRI LANKA'
+'SUDAN'
+'SURINAME'
+'SVALBARD AND JAN MAYEN'
+'SWEDEN'
+'SWITZERLAND'
+'SYRIA'
+'TAIWAN'
+'TAJIKISTAN'
+'TANZANIA'
+'THAILAND'
+'THE NETHERLANDS'
+'TIMOR LESTE'
+'TOGO'
+'TOKELAU'
+'TONGA'
+'TRINIDAD AND TOBAGO'
+'TUNISIA'
+'TURKEY'
+'TURKMENISTAN'
+'TURKS AND CAICOS ISLANDS'
+'TUVALU'
+'U.S. VIRGIN ISLANDS'
+'UGANDA'
+'UKRAINE'
+'UNITED ARAB EMIRATES'
+'UNITED KINGDOM'
+'UNITED STATES'
+'UNITED STATES MINOR OUTLYING ISLANDS'
+'URUGUAY'
+'UZBEKISTAN'
+'VANUATU'
+'VATICAN'
+'VENEZUELA'
+'VIETNAM'
+'WALLIS AND FUTUNA'
+'WESTERN SAHARA'
+'YEMEN'
+'ZAMBIA'
+'ZIMBABWE'
+
+

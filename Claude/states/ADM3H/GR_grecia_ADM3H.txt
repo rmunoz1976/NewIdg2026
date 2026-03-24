@@ -1,0 +1,2 @@
+﻿258151	Eparkhía Lokrídos	Eparkhia Lokridos	Eparkhia Lokridos,Eparkhía Lokrídos,Lokres,Lokris,Lokrís	38.66667	22.83333	A	ADM3H	GR				258151		0		705	Europe/Athens	2012-07-21
+8200697	Asklipieío	Asklipieio	Asklipieio,Asklipieío,Ασκληπιείο	37.58764	23.02878	A	ADM3H	GR		ESYE25	36	9234		4800		362	Europe/Athens	2016-06-25

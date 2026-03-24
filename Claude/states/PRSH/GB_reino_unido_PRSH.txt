@@ -1,0 +1,8 @@
+﻿2641178	Norwood	Norwood		51.5	-0.36667	A	PRSH	GB		ENG				0		32	Europe/London	1994-01-13
+2644247	Little Stanmore	Little Stanmore	Little Stanmore,Whitchurch	51.61667	-0.31667	A	PRSH	GB		ENG				0		92	Europe/London	2012-01-17
+2646218	Ingatestone and Fryering	Ingatestone and Fryering		51.66667	0.38333	A	PRSH	GB		ENG				0		61	Europe/London	1994-01-13
+2648015	Great Stanmore	Great Stanmore		51.61667	-0.31667	A	PRSH	GB		ENG				0		92	Europe/London	1994-01-13
+2648502	Glendermot	Glendermot	Clondermot,Glendermot	54.95	-7.33333	A	PRSH	GB		NIR				0		42	Europe/London	2012-01-17
+2653072	Christchurch East	Christchurch East		50.76667	-1.73333	A	PRSH	GB		ENG				0		19	Europe/London	1994-01-13
+6954184	Forgan	Forgan		56.4236	-2.9321	A	PRSH	GB		SCT				0		38	Europe/London	2009-10-09
+9884540	Hargham Parish	Hargham Parish		52.48939	0.96465	A	PRSH	GB		ENG	I9	33UB	33UB077	0		39	Europe/London	2015-01-03

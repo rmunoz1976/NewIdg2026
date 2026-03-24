@@ -1,0 +1,6 @@
+﻿9632628	Gozo and Comino District	Gozo and Comino District		36.04718	14.24973	A	ADMD	MT		00				0		48	Europe/Malta	2014-10-04
+9632629	Northern District	Northern District		35.93736	14.37655	A	ADMD	MT		00				0		70	Europe/Malta	2014-10-04
+9632630	Western District	Western District		35.87193	14.40612	A	ADMD	MT		00				0		171	Europe/Malta	2014-10-04
+9632631	Northern Harbour District	Northern Harbour District		35.90285	14.47813	A	ADMD	MT		00				0		58	Europe/Malta	2014-10-04
+9632632	Southern Harbour District	Southern Harbour District		35.87315	14.50756	A	ADMD	MT		00				0		44	Europe/Malta	2014-10-04
+9632633	South Eastern District	South Eastern District		35.83839	14.5126	A	ADMD	MT		00				0		55	Europe/Malta	2014-10-04

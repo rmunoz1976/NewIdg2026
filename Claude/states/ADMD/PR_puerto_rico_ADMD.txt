@@ -1,0 +1,10 @@
+﻿4562802	Barricada Ferran	Barricada Ferran		18.01774	-66.62684	A	ADMD	PR		113				0	71	64	America/Puerto_Rico	2007-02-16
+4563813	Municipio de Coamo	Municipio de Coamo	La Villa de San Blas de Illescas	18.07996	-66.35795	A	ADMD	PR		043				0	125	126	America/Puerto_Rico	2007-02-16
+4565578	Isabela Municipio	Isabela Municipio		18.48306	-67.01416	A	ADMD	PR		071				0	97	96	America/Puerto_Rico	2013-03-08
+4565714	Municipio de Juana Diaz	Municipio de Juana Diaz	Ciudad de los Reyes y los Poetas,La Ciudad del Mavi	18.05246	-66.50656	A	ADMD	PR		113				0	49	50	America/Puerto_Rico	2007-02-16
+4566027	Municipio de Loiza	Municipio de Loiza	El Pueblo de la Cacia	18.44883	-65.94961	A	ADMD	PR		087				0	5	6	America/Puerto_Rico	2007-02-16
+4566139	Municipio de Manati	Municipio de Manati		18.42745	-66.49212	A	ADMD	PR		091				0	33	33	America/Puerto_Rico	2007-02-16
+4566400	Municipio de Naguabo	Municipio de Naguabo	El Pueblo de los Enchumbaos	18.21162	-65.73488	A	ADMD	PR		103				0	17	20	America/Puerto_Rico	2007-02-16
+4568454	Municipio de Trujillo Alto	Municipio de Trujillo Alto	El Pueblo de los Arrecostaos	18.35467	-66.00739	A	ADMD	PR		139				0	20	21	America/Puerto_Rico	2007-02-16
+4568493	Municipio de Utuado	Municipio de Utuado	El Pueblo del Vivi,Otoao	18.26551	-66.70045	A	ADMD	PR		141				0	142	145	America/Puerto_Rico	2007-02-16
+4568535	Municipio de Vega Baja	Municipio de Vega Baja	La Ciudad del Melao Melao,Vega-Baja	18.44439	-66.38767	A	ADMD	PR		091				0	10	12	America/Puerto_Rico	2007-02-16

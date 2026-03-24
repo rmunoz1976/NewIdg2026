@@ -1,0 +1,125 @@
+﻿253438	Eparchía Soulíou	Eparchia Souliou	Eparkhia Souliou,Eparkhía Soulíou,Souli,Soulion,Soulíon	39.46667	20.51667	A	ADMD	GR		ESYE21	18	253438		0		382	Europe/Athens	2012-01-17
+255543	Periféreia Protévousis	Perifereia Protevousis	Greater Athens,Perifereia Protevousas,Periféreia Protévousas	38	23.75	A	ADMD	GR						0		189	Europe/Athens	2010-01-29
+408627	Eparchía Siteías	Eparchia Siteias	Siteias,Siteías	35.11667	26.11667	A	ADMD	GR		ESYE43	46	408627		0		389	Europe/Athens	2012-01-17
+408629	Eparchía Ierapétras	Eparchia Ierapetras	Ierapetras,Ierápetras	35.05	25.75	A	ADMD	GR		ESYE43	46	408629		0		92	Europe/Athens	2012-01-17
+408631	Eparchía Lasithíou	Eparchia Lasithiou		35.16667	25.46667	A	ADMD	GR		ESYE43	46	408631		0		820	Europe/Athens	2012-01-17
+408635	Eparchía Mylopotámou	Eparchia Mylopotamou		35.33333	24.8	A	ADMD	GR		ESYE43	44	408635		0		345	Europe/Athens	2012-01-17
+408636	Eparchía Amaríou	Eparchia Amariou		35.21667	24.68333	A	ADMD	GR		ESYE43	44	408636		0		398	Europe/Athens	2012-01-17
+408638	Eparchía Agíou Vasileíou	Eparchia Agiou Vasileiou		35.2	24.5	A	ADMD	GR		ESYE43	44	408638		0		474	Europe/Athens	2012-01-17
+408639	Eparchía Rethýmnis	Eparchia Rethymnis	Eparchia Rethymnou,Eparchía Rethýmnou	35.33333	24.46667	A	ADMD	GR		ESYE43	44	408639		0		331	Europe/Athens	2012-01-17
+409521	Eparchía Viánnou	Eparchia Viannou	Viannou,Viánnou	35.03333	25.41667	A	ADMD	GR		ESYE43	45	409521		0		666	Europe/Athens	2012-01-17
+409524	Eparchía Kainourgíou	Eparchia Kainourgiou	Eparchia Kainouriou,Eparchía Kainouríou,Kainourgiou,Kainourgíou,Kainouriou,Kainouríou	35.06667	24.91667	A	ADMD	GR		ESYE43	45	409524		0		207	Europe/Athens	2012-01-17
+409527	Eparchía Malevizíou	Eparchia Maleviziou	Maleviziou,Malevizíou	35.21667	24.96667	A	ADMD	GR		ESYE43	45	409527		0		670	Europe/Athens	2012-01-17
+445357	Eparchía Pogoníou	Eparchia Pogoniou		39.93333	20.45	A	ADMD	GR		ESYE21	17	445357		0		726	Europe/Athens	2012-01-17
+445358	Eparchía Dodónis	Eparchia Dodonis		39.75	20.66667	A	ADMD	GR		ESYE21	17	445358		0		626	Europe/Athens	2012-01-17
+445359	Eparchía Metsóvou	Eparchia Metsovou		39.76667	21.16667	A	ADMD	GR		ESYE21	17	445359		0		1193	Europe/Athens	2012-01-17
+445361	Eparchía Paxón	Eparchia Paxon		39.16667	20.2	A	ADMD	GR		ESYE22	25	445361		0		-9999	Europe/Athens	2012-01-17
+445362	Eparchía Ártas	Eparchia Artas	Eparchia Artas,Eparchía Ártas	39.23333	21.1	A	ADMD	GR		ESYE21	20	445362		0		236	Europe/Athens	2012-01-17
+445365	Eparchía Filiatón	Eparchia Filiaton		39.65	20.35	A	ADMD	GR		ESYE21	18	445365		0		1127	Europe/Athens	2012-01-17
+445366	Eparchía Ithákis	Eparchia Ithakis		38.43073	20.66803	A	ADMD	GR		ESYE22	27	445366		0		455	Europe/Athens	2012-01-17
+445370	Eparchía Lefkádos	Eparchia Lefkados	Eparchia Lefkadas,Eparchía Lefkádas	38.75	20.66667	A	ADMD	GR		ESYE22	26	445370		0		413	Europe/Athens	2012-01-17
+445373	Eparchía Mesolongíou	Eparchia Mesolongiou		38.43333	21.36667	A	ADMD	GR		ESYE23	31	445373		0		0	Europe/Athens	2012-01-17
+445374	Eparchía Nafpaktías	Eparchia Nafpaktias	Eparkhia Navpaktias,Eparkhía Navpaktías	38.51667	21.81667	A	ADMD	GR		ESYE23	31	445374		0		510	Europe/Athens	2012-01-17
+445376	Eparchía Kardítsas	Eparchia Karditsas	Eparchia Karditsas,Eparchia Karditses,Eparchia Karditsis,Eparchía Kardítsis,Karditsa,Kardítsa,Επαρχία Καρδίτσας,Επαρχία Καρδίτσης,Καρδίτσα	39.33333	21.75	A	ADMD	GR				445376		0		840	Europe/Athens	2012-01-17
+445377	Eparchía Kalampákas	Eparchia Kalampakas	Eparkhia Kalambakas,Eparkhía Kalambákas	39.73333	21.55	A	ADMD	GR		ESYE14	22	445377		0		258	Europe/Athens	2012-01-17
+445378	Eparchía Trikálon	Eparchia Trikalon		39.55	21.68333	A	ADMD	GR		ESYE14	22	445378		0		117	Europe/Athens	2012-01-17
+445379	Eparchía Elassónos	Eparchia Elassonos	Eparchia Elassonas,Eparchía Elassónas	39.91667	22.15	A	ADMD	GR		ESYE14	21	445379		0		433	Europe/Athens	2012-01-17
+445380	Eparchía Tyrnávou	Eparchia Tyrnavou		39.81667	22.38333	A	ADMD	GR		ESYE14	21	445380		0		201	Europe/Athens	2012-01-17
+445381	Eparchía Larísis	Eparchia Larisis	Eparchia Larisas,Eparchía Lárisas	39.6	22.5	A	ADMD	GR		ESYE14	21	445381		0		74	Europe/Athens	2012-01-17
+445382	Eparchía Agiás	Eparchia Agias		39.71667	22.76667	A	ADMD	GR		ESYE14	21	445382		0		190	Europe/Athens	2012-01-17
+445383	Eparchía Farsálon	Eparchia Farsalon		39.31667	22.4	A	ADMD	GR		ESYE14	21	445383		0		135	Europe/Athens	2012-01-17
+445384	Eparchía Vólou	Eparchia Volou		39.43333	22.93333	A	ADMD	GR		ESYE14	24	445384		0		273	Europe/Athens	2012-01-17
+445385	Eparchía Almyroú	Eparchia Almyrou		39.13333	22.75	A	ADMD	GR		ESYE14	24	445385		0		228	Europe/Athens	2012-01-17
+445386	Eparchía Skopélou	Eparchia Skopelou		39.13219	23.68515	A	ADMD	GR		ESYE14	24	445386		0		454	Europe/Athens	2012-01-17
+445387	Eparchía Domokoú	Eparchia Domokou		39.11667	22.3	A	ADMD	GR		ESYE24	29	445387		0		591	Europe/Athens	2012-01-17
+445389	Eparchía Lokrídos	Eparchia Lokridos	Eparchia Lokridas,Eparchía Lokrídas	38.66667	22.9	A	ADMD	GR		ESYE24	29	445389		0		459	Europe/Athens	2012-01-17
+445390	Eparchía Dorídos	Eparchia Doridos	Eparchia Doridas,Eparchía Dorídas	38.53333	22.13333	A	ADMD	GR		ESYE24	32	445390		0		430	Europe/Athens	2012-01-17
+445392	Eparchía Levadeías	Eparchia Levadeias	Eparchia Livadeias,Eparchía Livadeiás	38.43333	22.86667	A	ADMD	GR		ESYE24	33	445392		0		273	Europe/Athens	2012-01-17
+445393	Eparchía Thivón	Eparchia Thivon		38.33333	23.3	A	ADMD	GR		ESYE24	33	445393		0		123	Europe/Athens	2012-01-17
+445394	Eparchía Istiaías	Eparchia Istiaias		38.93333	23.13333	A	ADMD	GR		ESYE24	34	445394		0		129	Europe/Athens	2012-01-17
+445395	Eparchía Chalkídos	Eparchia Chalkidos	Eparchia Chalkidas,Eparchía Chalkídas	38.63333	23.65	A	ADMD	GR		ESYE24	34	445395		0		295	Europe/Athens	2012-01-17
+445399	Eparchía Aigialeías	Eparchia Aigialeias		38.18333	22.15	A	ADMD	GR		ESYE23	38	445399		0		277	Europe/Athens	2012-01-17
+445400	Eparchía Patrón	Eparchia Patron		38.08333	21.68333	A	ADMD	GR		ESYE23	38	445400		0		126	Europe/Athens	2012-01-17
+445401	Eparchía Peiraiá	Eparchia Peiraia	Eparchia Peiraia,Eparchia Peiraios,Eparchía Peiraiós,Peiraias,Peiraiás,Επαρχία Πειραιά,Επαρχία Πειραιώς,Πειραιάς	37.99889	23.71861	A	ADMD	GR		ESYE31	35	445401		0		63	Europe/Athens	2012-01-17
+445402	Eparchía Aigínis	Eparchia Aiginis	Eparchia Aiginas,Eparchía Aíginas	37.75	23.38333	A	ADMD	GR		ESYE31	35	445402		0		-9999	Europe/Athens	2012-01-17
+445403	Eparchía Troizinías	Eparchia Troizinias		37.5	23.35	A	ADMD	GR		ESYE31	35	445403		0		99	Europe/Athens	2012-01-17
+445410	Perifereiakí Enótita Ándrou	Perifereiaki Enotita Androu	Andros,Eparchia Androu,Eparchía Ándrou,Perifereiaki Enotita Androu,Perifereiakí Enótita Ándrou,Ándros,Άνδρος,Περιφερειακή Ενότητα Άνδρου	37.85285	24.85958	A	ADMD	GR		ESYE42	49	445410		0		951	Europe/Athens	2013-04-05
+445411	Perifereiakí Enótita Kéas - Kýthnou	Perifereiaki Enotita Keas - Kythnou	Eparchia Keas,Eparchía Kéas,Keas - Kythnou,Kéas - Kýthnou,Perifereiaki Enotita Keas - Kythnou,Perifereiakí Enótita Kéas - Kýthnou,Κέας - Κύθνου,Περιφερειακή Ενότητα Κέας - Κύθνου	37.49445	24.37496	A	ADMD	GR		ESYE42	49	445411		0		-9999	Europe/Athens	2012-02-29
+445412	Perifereiakí Enótita Sýrou	Perifereiaki Enotita Syrou	Eparchia Syrou,Eparchía Sýrou,Perifereiaki Enotita Syrou,Perifereiakí Enótita Sýrou,Syrou,Sýrou,Περιφερειακή Ενότητα Σύρου,Σύρου	37.50126	24.82116	A	ADMD	GR		ESYE42	49	445412		0		-9999	Europe/Athens	2012-02-29
+445413	Perifereiakí Enótita Mílou	Perifereiaki Enotita Milou	Eparchia Milou,Eparchía Mílou,Milos,Mílos,Perifereiaki Enotita Milou,Perifereiakí Enótita Mílou,Μήλος,Περιφερειακή Ενότητα Μήλου	36.91667	24.46667	A	ADMD	GR		ESYE42	49	445413		0		-9999	Europe/Athens	2013-04-05
+445414	Eparchía Korinthías	Eparchia Korinthias		37.86667	22.71667	A	ADMD	GR		ESYE25	37	445414		0		361	Europe/Athens	2012-01-17
+445415	Eparchía Árgous	Eparchia Argous		37.66667	22.66667	A	ADMD	GR		ESYE25	36	445415		0		160	Europe/Athens	2012-01-17
+445416	Eparchía Nafplías	Eparchia Nafplias		37.61667	22.96667	A	ADMD	GR		ESYE25	36	445416		0		637	Europe/Athens	2012-01-17
+445417	Eparchía Ermionídos	Eparchia Ermionidos	Eparchia Ermionidas,Eparchía Ermionídas	37.41667	23.16667	A	ADMD	GR		ESYE25	36	445417		0		143	Europe/Athens	2012-01-17
+445419	Eparchía Gortynías	Eparchia Gortynias		37.66667	22	A	ADMD	GR		ESYE25	41	445419		0		1199	Europe/Athens	2012-01-17
+445420	Eparchía Megalopóleos	Eparchia Megalopoleos		37.33341	22.11645	A	ADMD	GR		ESYE25	41	445420		0		396	Europe/Athens	2014-05-09
+445426	Eparchía Kalamón	Eparchia Kalamon		37.00015	22.25094	A	ADMD	GR		ESYE25	40	445426		0		1103	Europe/Athens	2015-05-01
+445428	Eparchía Messínis	Eparchia Messinis		37.16667	21.91667	A	ADMD	GR		ESYE25	40	445428		0		265	Europe/Athens	2012-01-17
+445429	Eparchía Trifylías	Eparchia Trifylias		37.25	21.7	A	ADMD	GR		ESYE25	40	445429		0		220	Europe/Athens	2012-01-17
+445430	Eparchía Olympías	Eparchia Olympias		37.5	21.75	A	ADMD	GR		ESYE23	39	445430		0		876	Europe/Athens	2012-01-17
+445432	Eparchía Kalavrýton	Eparchia Kalavryton		38	22.05	A	ADMD	GR		ESYE23	38	445432		0		767	Europe/Athens	2012-01-17
+445433	Eparchía Zakýnthou	Eparchia Zakynthou		37.75	20.75	A	ADMD	GR		ESYE22	28	445433		0		449	Europe/Athens	2012-01-17
+445437	Eparchía Apokorónou	Eparchia Apokoronou		35.38333	24.16667	A	ADMD	GR		ESYE43	43	445437		0		154	Europe/Athens	2012-01-17
+445438	Eparchía Sfakíon	Eparchia Sfakion		35.25	24.08333	A	ADMD	GR		ESYE43	43	445438		0		1174	Europe/Athens	2012-01-17
+445443	Perifereiakí Enótita Karpáthou	Perifereiaki Enotita Karpathou	Eparchia Karpathou,Eparchía Karpáthou,Karpathos,Kárpathos,Perifereiaki Enotita Karpathou,Perifereiakí Enótita Karpáthou,Κάρπαθος,Περιφερειακή Ενότητα Καρπάθου	35.46775	27.04901	A	ADMD	GR		ESYE42	47	445443		0		-9999	Europe/Athens	2016-11-23
+445444	Perifereiakí Enótita Ródou	Perifereiaki Enotita Rodou	Eparchia Rodou,Eparchía Ródou,Perifereiaki Enotita Rodou,Perifereiakí Enótita Ródou,Rodos,Ródos,Περιφερειακή Ενότητα Ρόδου,Ρόδος	36.33333	27.75	A	ADMD	GR		ESYE42	47	445444		0		-9999	Europe/Athens	2016-11-23
+445445	Kos	Kos	Eparchia Ko,Eparchía Ko,Kos,Perifereiaki Enotita Ko,Perifereiakí Enótita Ko,Κως,Περιφερειακή Ενότητα Κω	36.81785	27.12659	A	ADMD	GR		ESYE42	47	445445		0		115	Europe/Athens	2016-11-23
+445446	Perifereiakí Enótita Kalýmnou	Perifereiaki Enotita Kalymnou	Eparchia Kalymnou,Eparchía Kalýmnou,Kalymnos,Kálymnos,Perifereiaki Enotita Kalymnou,Perifereiakí Enótita Kalýmnou,Κάλυμνος,Περιφερειακή Ενότητα Καλύμνου	37.16397	26.86508	A	ADMD	GR		ESYE42	47	445446		0		-9999	Europe/Athens	2016-10-08
+445447	Perifereiakí Enótita Náxou	Perifereiaki Enotita Naxou	Eparchia Naxou,Eparchía Náxou,Naxos,Náxos,Perifereiaki Enotita Naxou,Perifereiakí Enótita Náxou,Νάξος,Περιφερειακή Ενότητα Νάξου	37	25.75	A	ADMD	GR		ESYE42	49	445447		0		-9999	Europe/Athens	2013-04-05
+445448	Perifereiakí Enótita Párou	Perifereiaki Enotita Parou	Eparchia Parou,Eparchía Párou,Paros,Perifereiaki Enotita Parou,Perifereiakí Enótita Párou,Páros,Πάρος,Περιφερειακή Ενότητα Πάρου	37.00279	25.09499	A	ADMD	GR		ESYE42	49	445448		0		-9999	Europe/Athens	2013-04-05
+445449	Perifereiakí Enótita Thíras	Perifereiaki Enotita Thiras	Perifereiaki Enotita Thiras,Perifereiakí Enótita Thíras,Thira,Thíra,Θήρα,Περιφερειακή Ενότητα Θήρας	36.52225	25.39008	A	ADMD	GR		ESYE42	49	445449		0		-9999	Europe/Athens	2013-04-05
+445450	Eparchía Tínou	Eparchia Tinou		37.6	25.13333	A	ADMD	GR		ESYE42	49	445450		0		110	Europe/Athens	2012-01-17
+445451	Eparchía Sámou	Eparchia Samou		37.75	26.75	A	ADMD	GR		ESYE41	48	445451		0		387	Europe/Athens	2012-01-17
+445452	Eparchía Ikarías	Eparchia Ikarias		37.58333	26.33333	A	ADMD	GR		ESYE41	48	445452		0		-9999	Europe/Athens	2012-01-17
+445453	Eparchía Chíou	Eparchia Chiou		38.41667	26	A	ADMD	GR		ESYE41	50	445453		0		583	Europe/Athens	2012-01-17
+445457	Eparchía Límnou	Eparchia Limnou		39.75	25.08333	A	ADMD	GR		ESYE41	51	445457		0		-9999	Europe/Athens	2012-01-17
+736916	Eparchía Almopías	Eparchia Almopias	Almopia,Almopía,Eparkhia Almopias,Eparkhía Almopías,Meglen,Меглен	40.98333	22.06611	A	ADMD	GR		ESYE12	07	736916		0		122	Europe/Athens	2017-12-16
+865545	Eparchía Orestiádos	Eparchia Orestiados	Eparchia Orestiadas,Eparchía Orestiádas	41.58333	26.33333	A	ADMD	GR		ESYE11	01	865545		0		68	Europe/Athens	2012-01-17
+865546	Eparchía Didymoteíchou	Eparchia Didymoteichou		41.38333	26.3	A	ADMD	GR		ESYE11	01	865546		0		89	Europe/Athens	2012-01-17
+865547	Eparchía Souflíou	Eparchia Soufliou		41.13333	26.15	A	ADMD	GR		ESYE11	01	865547		0		224	Europe/Athens	2012-01-17
+865548	Eparchía Alexandroupóleos	Eparchia Alexandroupoleos	Eparchia Alexandroupolis,Eparchía Alexandroúpolis	40.95	25.95	A	ADMD	GR		ESYE11	01	865548		0		292	Europe/Athens	2012-01-17
+865549	Eparchía Samothrákis	Eparchia Samothrakis		40.45	25.56667	A	ADMD	GR		ESYE11	01	865549		0		1133	Europe/Athens	2012-01-17
+865551	Eparchía Komotinís	Eparchia Komotinis		41.13333	25.38333	A	ADMD	GR		ESYE11	02	865551		0		34	Europe/Athens	2012-01-17
+865552	Eparchía Xánthis	Eparchia Xanthis		41.2	24.88333	A	ADMD	GR		ESYE11	03	865552		0		439	Europe/Athens	2012-01-17
+865553	Eparchía Néstou	Eparchia Nestou		41.03333	24.63333	A	ADMD	GR		ESYE11	14	865553		0		258	Europe/Athens	2012-01-17
+865554	Eparchía Pangaíou	Eparchia Pangaiou		40.91667	24.23333	A	ADMD	GR		ESYE11	14	865554		0		194	Europe/Athens	2012-01-17
+865555	Eparchía Drámas	Eparchia Dramas		41.26667	24.2	A	ADMD	GR		ESYE11	04	865555		0		422	Europe/Athens	2012-01-17
+865557	Eparchía Visaltías	Eparchia Visaltias		40.9	23.5	A	ADMD	GR		ESYE12	05	865557		0		128	Europe/Athens	2012-01-17
+865558	Eparchía Serrón	Eparchia Serron		41.1	23.53333	A	ADMD	GR		ESYE12	05	865558		0		126	Europe/Athens	2012-01-17
+865559	Eparchía Sintikís	Eparchia Sintikis		41.25	23.3	A	ADMD	GR		ESYE12	05	865559		0		47	Europe/Athens	2012-01-17
+865560	Eparchía Lagkáda	Eparchia Lagkada		40.73333	23.28333	A	ADMD	GR		ESYE12	13	865560		0		230	Europe/Athens	2022-07-28
+865563	Eparchía Thásou	Eparchia Thasou		40.68333	24.65	A	ADMD	GR		ESYE11	14	865563		0		601	Europe/Athens	2012-01-17
+865564	Eparchía Grevenón	Eparchia Grevenon		40.08333	21.41667	A	ADMD	GR		ESYE13	10	865564		0		563	Europe/Athens	2012-01-17
+865566	Eparchía Náousis	Eparchia Naousis	Eparchia Naousas,Eparchía Náousas	40.61667	22.08333	A	ADMD	GR		ESYE12	12	865566		0		321	Europe/Athens	2012-01-17
+865567	Eparchía Thessaloníkis	Eparchia Thessalonikis		40.66667	22.88333	A	ADMD	GR		ESYE12	13	865567		0		7	Europe/Athens	2022-07-28
+865568	Eparchía Kastorías	Eparchia Kastorias		40.5	21.16667	A	ADMD	GR		ESYE13	09	865568		0		690	Europe/Athens	2012-01-17
+865569	Eparchía Kilkís	Eparchia Kilkis		41	22.85	A	ADMD	GR		ESYE12	06	865569		0		260	Europe/Athens	2012-01-17
+865570	Eparchía Paionías	Eparchia Paionias		41	22.41667	A	ADMD	GR		ESYE12	06	865570		0		416	Europe/Athens	2012-01-17
+865571	Eparchía Kozánis	Eparchia Kozanis		40.25	21.85	A	ADMD	GR		ESYE13	11	865571		0		434	Europe/Athens	2012-01-17
+865572	Eparchía Eordaías	Eparchia Eordaias		40.48333	21.73333	A	ADMD	GR		ESYE13	11	865572		0		619	Europe/Athens	2012-01-17
+865573	Eparchía Voḯou	Eparchia Voiou		40.31667	21.41667	A	ADMD	GR		ESYE13	11	865573		0		549	Europe/Athens	2012-01-17
+865575	Eparchía Edéssis	Eparchia Edessis	Eparchia Edessas,Eparchía Édessas	40.78333	21.95	A	ADMD	GR		ESYE12	07	865575		0		697	Europe/Athens	2012-01-17
+865577	Eparchía Florínis	Eparchia Florinis	Eparchia Florina,Eparchía Flórina	40.75	21.41667	A	ADMD	GR		ESYE13	08	865577		0		744	Europe/Athens	2012-01-17
+865578	Eparchía Konítsis	Eparchia Konitsis	Eparchia Konitsas,Eparchía Kónitsas	40.15	20.83333	A	ADMD	GR		ESYE21	17	865578		0		725	Europe/Athens	2012-01-17
+2595978	Eparchía Kerkýras	Eparchia Kerkyras		39.66667	19.75	A	ADMD	GR		ESYE22	25	2595978		0		150	Europe/Athens	2012-01-17
+6692631	Alonissos	Alonissos	Alonnisos,Αλόννησος	39.19608	23.90625	A	ADMD	GR		ESYE14	24			0		277	Europe/Athens	2010-08-02
+6692649	Cycladen	Cycladen		37.28717	24.90326	A	ADMD	GR						0		-9999	Europe/Athens	2008-05-22
+6692650	Sporaden	Sporaden		39.24076	23.80463	A	ADMD	GR						0		-9999	Europe/Athens	2008-05-22
+8139378	Perifereiakí Enótita Tínou	Perifereiaki Enotita Tinou	Perifereiaki Enotita Tinou,Perifereiakí Enótita Tínou,Tinos,Tínos,Περιφερειακή Ενότητα Τήνου,Τήνος	37.60798	25.10979	A	ADMD	GR		ESYE42				0		312	Europe/Athens	2013-04-05
+8200474	Apokentroméni Dioíkisi Attikís	Apokentromeni Dioikisi Attikis	Apokentromeni Dioikisi Attikis,Apokentroméni Dioíkisi Attikís,Attiki,Attikí,Αποκεντρωμένη Διοίκηση Αττικής,Αττική	38.06933	23.70747	A	ADMD	GR		00				0		159	Europe/Athens	2012-05-06
+8200475	Apokentroméni Dioíkisi Thessalías - Stereás Elládas	Apokentromeni Dioikisi Thessalias - Stereas Elladas	Apokentromeni Dioikisi Thessalias - Stereas Elladas,Apokentroméni Dioíkisi Thessalías - Stereás Elládas,Thessalia - Sterea Ellada,Thessalía - Stereá Elláda,Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδας,Θεσσαλία - Στερεά Ελλάδα	39.23923	22.27603	A	ADMD	GR		00				0		127	Europe/Athens	2012-05-06
+8200477	Apokentroméni Dioíkisi Ipeírou - Dytikís Makedonías	Apokentromeni Dioikisi Ipeirou - Dytikis Makedonias	Apokentromeni Dioikisi Ipeirou - Dytikis Makedonias,Apokentroméni Dioíkisi Ipeírou - Dytikís Makedonías,Ipeiros - Dytiki Makedonia,Ípeiros - Dytikí Makedonía,Ήπειρος - Δυτική Μακεδονία,Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας	40.70642	22.26711	A	ADMD	GR		00				0		12	Europe/Athens	2012-05-06
+8200478	Apokentroméni Dioíkisi Peloponnísou - Dytikís Elládas - Ioníou	Apokentromeni Dioikisi Peloponnisou - Dytikis Elladas - Ioniou	Apokentromeni Dioikisi Peloponnisou - Dytikis Elladas - Ioniou,Apokentroméni Dioíkisi Peloponnísou - Dytikís Elládas - Ioníou,Peloponnisos - Dytiki Ellada - Ionia Nisia,Peloponnísos - Dytikí Elláda - Ionía Nísia,Αποκεντρωμένη Διοίκηση Πελοποννήσου - Δυτικής Ελλάδας - Ιονίου,Πελοποννήσος - Δυτική Ελλάδα - Ιονία Νήσια	38.09737	21.67445	A	ADMD	GR		00				0		76	Europe/Athens	2012-05-06
+8200479	Apokentroméni Dioíkisi Aigaíou	Apokentromeni Dioikisi Aigaiou	Aigaio,Aigaío,Apokentromeni Dioikisi Aigaiou,Apokentroméni Dioíkisi Aigaíou,Αιγαίο,Αποκεντρωμένη Διοίκηση Αιγαίου	38.19275	25.82304	A	ADMD	GR		00				0		-9999	Europe/Athens	2012-05-06
+8200480	Apokentroméni Dioíkisi Krítis	Apokentromeni Dioikisi Kritis	Apokentromeni Dioikisi Kritis,Apokentroméni Dioíkisi Krítis,Kriti,Kríti,Αποκεντρωμένη Διοίκηση Κρήτης,Κρήτη	35.21584	24.99196	A	ADMD	GR		00				0		347	Europe/Athens	2012-05-06
+8200481	Apokentroméni Dioíkisi Makedonías - Thrákis	Apokentromeni Dioikisi Makedonias - Thrakis	Apokentromeni Dioikisi Makedonias - Thrakis,Apokentroméni Dioíkisi Makedonías - Thrákis,Makedonia - Thraki,Makedonía - Thráki,Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης,Μακεδονία - Θράκη	41.13559	23.82027	A	ADMD	GR		00				0		885	Europe/Athens	2012-05-06
+8200482	Perifereiakí Enótita Kentrikoú Toméa Athinón	Perifereiaki Enotita Kentrikou Tomea Athinon	Kentrikou Tomea Athinon,Kentrikoú Toméa Athinón,Perifereiaki Enotita Kentrikou Tomea Athinon,Perifereiakí Enótita Kentrikoú Toméa Athinón,Κεντρικού Τομέα Αθηνών,Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών	37.99006	23.76396	A	ADMD	GR		ESYE31				0		158	Europe/Athens	2012-02-29
+8200483	Perifereiakí Enótita Notíou Toméa Athinón	Perifereiaki Enotita Notiou Tomea Athinon	Notiou Tomea Athinon,Notíou Toméa Athinón,Perifereiaki Enotita Notiou Tomea Athinon,Perifereiakí Enótita Notíou Toméa Athinón,Νοτίου Τομέα Αθηνών,Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών	37.90661	23.72905	A	ADMD	GR		ESYE31				0		35	Europe/Athens	2012-02-29
+8200484	Perifereiakí Enótita Voreíou Toméa Athinón	Perifereiaki Enotita Voreiou Tomea Athinon	Perifereiaki Enotita Voreiou Tomea Athinon,Perifereiakí Enótita Voreíou Toméa Athinón,Voreiou Tomea Athinon,Voreíou Toméa Athinón,Βορείου Τομέα Αθηνών,Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών	38.07265	23.84145	A	ADMD	GR		ESYE31				0		408	Europe/Athens	2012-02-29
+8200485	Perifereiakí Enótita Dytikoú Toméa Athinón	Perifereiaki Enotita Dytikou Tomea Athinon	Dytikou Tomea Athinon,Dytikoú Toméa Athinón,Perifereiaki Enotita Dytikou Tomea Athinon,Perifereiakí Enótita Dytikoú Toméa Athinón,Δυτικού Τομέα Αθηνών,Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών	38.01646	23.67796	A	ADMD	GR		ESYE31				0		79	Europe/Athens	2012-02-29
+8200486	Perifereiakí Enótita Peiraiós	Perifereiaki Enotita Peiraios	Peiraios,Peiraiós,Perifereiaki Enotita Peiraios,Perifereiakí Enótita Peiraiós,Πειραιώς,Περιφερειακή Ενότητα Πειραιώς	37.97047	23.62601	A	ADMD	GR		ESYE31				0		63	Europe/Athens	2012-02-29
+8200487	Perifereiakí Enótita Níson	Perifereiaki Enotita Nison	Perifereiaki Enotita Nison,Perifereiakí Enótita Níson,Περιφερειακή Ενότητα Νήσων	37.46978	23.52213	A	ADMD	GR		ESYE31				0		-9999	Europe/Athens	2012-02-29
+8200488	Perifereiakí Enótita Dytikís Attikís	Perifereiaki Enotita Dytikis Attikis	Dytikis Attikis,Dytikís Attikís,Perifereiaki Enotita Dytikis Attikis,Perifereiakí Enótita Dytikís Attikís,Δυτικής Αττικής,Περιφερειακή Ενότητα Δυτικής Αττικής	38.09309	23.37907	A	ADMD	GR		ESYE31				0		755	Europe/Athens	2012-02-29
+8200489	Perifereiakí Enótita Anatolikís Attikís	Perifereiaki Enotita Anatolikis Attikis	Anatolikis Attikis,Anatolikís Attikís,Perifereiaki Enotita Anatolikis Attikis,Perifereiakí Enótita Anatolikís Attikís,Ανατολικής Αττικής,Περιφερειακή Ενότητα Ανατολικής Αττικής	38.01135	23.92915	A	ADMD	GR		ESYE31				0		166	Europe/Athens	2012-02-29
+8538487	Perifereiakí Enótita Mykónou	Perifereiaki Enotita Mykonou	Mykonos,Mýkonos,Perifereiaki Enotita Mykonou,Perifereiakí Enótita Mykónou,Μύκονος,Περιφερειακή Ενότητα Μυκόνου	37.44412	25.36708	A	ADMD	GR		ESYE42				0		163	Europe/Athens	2017-04-07
+12035672	Roman catholic diocese of Larissa	Roman catholic diocese of Larissa		39.63682	22.41756	A	ADMD	GR		ESYE14	21	9100		0		84	Europe/Athens	2019-05-28

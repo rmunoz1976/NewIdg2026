@@ -1,0 +1,24 @@
+﻿80501	Mudīrīyat Umm ar Rizam	Mudiriyat Umm ar Rizam	Mudiriyat Umm ar Rizam,Mudīrīyat Umm ar Rizam,Om Zerem	32.53333	23	A	ADMD	LY		70				0		79	Africa/Tripoli	2020-06-10
+80502	Mudīrīyat Martūbah	Mudiriyat Martubah	Martouba,Mudiriyat Martubah,Mudīrīyat Martūbah	32.58333	22.76667	A	ADMD	LY		70				0		282	Africa/Tripoli	2020-06-10
+80504	Mutaşarrifīyat al Marj	Mutasarrifiyat al Marj	El Marj District,Mutasarrifiyat al Marj,Mutaşarrifīyat al Marj	32.5	20.83333	A	ADMD	LY		66				0		330	Africa/Tripoli	2020-06-10
+80505	Mudīrīyat al Marj	Mudiriyat al Marj	El Marj,Mudiriyat al Marj,Mudīrīyat al Marj	32.5	20.83333	A	ADMD	LY		66				0		330	Africa/Tripoli	2020-06-10
+83758	Mudīrīyat al Qawārishah	Mudiriyat al Qawarishah	Al Qawarishah,Al Qawārishah,Mudiriyat al Qawarishah,Mudīrīyat al Qawārishah	32.03333	20.06667	A	ADMD	LY		69				0		13	Africa/Tripoli	2026-03-10
+84242	Mudīrīyat Qandūlah	Mudiriyat Qandulah	Mudiriyat Qandulah,Mudīrīyat Qandūlah,Qandulah,Qandūlah	32.53333	21.56667	A	ADMD	LY		63				0		607	Africa/Tripoli	2026-03-10
+84633	Mudīrīyat Musā‘id	Mudiriyat Musa`id		31.6	25.05	A	ADMD	LY		79				0		184	Africa/Tripoli	2018-07-03
+84740	Al Mulţānīyah	Al Multaniyah	Al Multaniyah,Al Mulţānīyah,Mudiriyat al Mulaytaniyah,Mudīrīyat al Mulayţānīyah,almltanyt,الملطانية	32.27198	20.65011	A	ADMD	LY		69				0		305	Africa/Tripoli	2018-04-05
+84750	Mudīrīyat al Mukhaylá	Mudiriyat al Mukhayla	Al Mukhayla,Al Mukhaylá,Mudiriyat al Mukhayla,Mudīrīyat al Mukhaylá	32.16667	22.28333	A	ADMD	LY		70				0		201	Africa/Tripoli	2026-03-10
+86589	Mudīrīyat al Ḩanīyah	Mudiriyat al Haniyah	Al Haniyah,Al Ḩanīyah,Mudiriyat al Haniyah,Mudīrīyat al Ḩanīyah	32.85	21.53333	A	ADMD	LY		63				0		35	Africa/Tripoli	2026-03-10
+2208402	Mudīrīyat Umm al Arānib	Mudiriyat Umm al Aranib	Mudiriyat Umm al Aranib,Mudīrīyat Umm al Arānib,Om El Araneb	26.13333	14.75	A	ADMD	LY		73				0		423	Africa/Tripoli	2020-06-10
+2208404	Mudīrīyat al ‘Urban	Mudiriyat al `Urban	El Orban,Mudiriyat al `Urban,Mudīrīyat al ‘Urban	32.16667	13.01667	A	ADMD	LY		80				0		705	Africa/Tripoli	2020-06-10
+2208405	Mudīrīyat al Maḩjūb	Mudiriyat al Mahjub	El Mahjoub,Mudiriyat al Mahjub,Mudīrīyat al Maḩjūb	32.38333	14.98333	A	ADMD	LY		72				0		10	Africa/Tripoli	2020-06-10
+2212857	Mudīrīyat ar Ruḩaybāt	Mudiriyat ar Ruhaybat	Ar Ruhaybat,Ar Ruḩaybāt,Mudiriyat ar Ruhaybat,Mudīrīyat ar Ruḩaybāt	31.75	11.85	A	ADMD	LY		80				0		634	Africa/Tripoli	2026-03-10
+2212933	Mudīrīyat ar Rayāyinah	Mudiriyat ar Rayayinah	Ar Rayayinah,Ar Rayāyinah,Mudiriyat ar Rayayinah,Mudīrīyat ar Rayāyinah	32.06667	12.31667	A	ADMD	LY		80				0		216	Africa/Tripoli	2026-03-10
+2213436	Mudīrīyat al Qawāsim	Mudiriyat al Qawasim	Al Qawasim,Al Qawāsim,Mudiriyat al Qawasim,Mudīrīyat al Qawāsim	32.18333	13.05	A	ADMD	LY		80				0		538	Africa/Tripoli	2026-03-10
+2213972	Mudīrīyat Qarqūrish	Mudiriyat Qarqurish	Mudiriyat Qarqurish,Mudīrīyat Qarqūrish,Qarqurish,Qarqūrish	32.88333	13.1	A	ADMD	LY		61				0		-9999	Africa/Tripoli	2026-03-10
+2214367	Mudīrīyat an Nawfalīyah	Mudiriyat an Nawfaliyah	An Nawfaliyah,An Nawfalīyah,Mudiriyat an Nawfaliyah,Mudīrīyat an Nawfalīyah	30.78333	17.83333	A	ADMD	LY		76				0		54	Africa/Tripoli	2026-03-10
+2214393	An Nasamah	AnNasamah	An Nasamah,AnNasamah,MudiriyatanNasamah,Mudīrīyat an Nasamah	31.35	13.35	A	ADMD	LY		80				0		356	Africa/Tripoli	2022-02-17
+2216154	Mudīrīyat Kābāw	Mudiriyat Kabaw	Kabao,Kabaw,Kābāw,Mudiriyat Kabaw,Mudīrīyat Kābāw	31.85	11.33333	A	ADMD	LY		74				0		643	Africa/Tripoli	2026-03-10
+2216430	Mudīrīyat Jādū	Mudiriyat Jadu	Jadu,Jādū,Mudiriyat Jadu,Mudīrīyat Jādū	31.95	12.01667	A	ADMD	LY		80				0		678	Africa/Tripoli	2026-03-10
+2216857	Mudīrīyat al Ḩarshā’	Mudiriyat al Harsha'	Al Harsha',Al Ḩarshā’,Mudiriyat al Harsha',Mudīrīyat al Ḩarshā’	32.76667	12.66667	A	ADMD	LY		68				0		7	Africa/Tripoli	2026-03-10
+2216899	Mudīrīyat al Ḩarābah	Mudiriyat al Harabah	Al Harabah,Al Ḩarābah,Mudiriyat al Harabah,Mudīrīyat al Ḩarābah	31.85	11.61667	A	ADMD	LY		74				0		580	Africa/Tripoli	2026-03-10
+2218703	Mudīrīyat al Bawānīs	Mudiriyat al Bawanis	Al Bawanis,Al Bawānīs,Mudiriyat al Bawanis,Mudīrīyat al Bawānīs	27.28333	14.8	A	ADMD	LY		78				0		416	Africa/Tripoli	2026-03-10

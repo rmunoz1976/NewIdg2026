@@ -1,0 +1,3 @@
+﻿10793218	El Piedrero	El Piedrero		-2.37467	-79.26743	A	ADMD	EC			9004	900451		6324		329	America/Guayaquil	2017-02-04
+10793551	Las Golondrinas	Las Golondrinas		0.31866	-79.07309	A	ADMD	EC		11	1003	900151		0		327	America/Guayaquil	2017-02-22
+13130487	Parroquia El Paraíso La Catorce	Parroquia El Paraiso La Catorce	El Paraiso La 14,El Paraiso La Catorce,El Paraíso La 14,El Paraíso La Catorce,Parroquia El Paraiso La 14,Parroquia El Paraiso La Catorce,Parroquia El Paraíso La 14,Parroquia El Paraíso La Catorce	-0.59084	-79.5104	A	ADMD	EC		14	1304	13130487	13130487	0		151		2024-12-04

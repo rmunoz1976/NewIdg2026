@@ -1,0 +1,48 @@
+﻿2142739	Wyong Shire	Wyong Shire	Wyong Shire	-33.22306	151.41489	A	ADM2H	AU		02	18550			157358		56	Australia/Sydney	2019-05-19
+2156065	Murrumbidgee Shire	Murrumbidgee Shire		-34.68333	145.7	A	ADM2H	AU		02	15550			2503		114	Australia/Sydney	2019-05-19
+2156090	Murray Shire	Murray Shire	Comte de Murray,Comté de Murray,Contea di Murray,Murray Shire,Murray Shire Council	-35.7081	144.83363	A	ADM2H	AU		02	15500			7418		98	Australia/Sydney	2019-05-19
+2158864	Manly Vale	Manly Vale	Manly Vale	-33.79275	151.27281	A	ADM2H	AU		02	15150			44232		22	Australia/Sydney	2019-05-19
+2164848	Gosford Shire	Gosford Shire		-33.3403	151.23455	A	ADM2H	AU		02	13100			170752		277	Australia/Sydney	2019-05-19
+2165153	Gloucester Shire	Gloucester Shire	Gloucester Shire	-31.88789	151.77598	A	ADM2H	AU		02	13050			4974		568	Australia/Sydney	2019-05-19
+2168303	Dubbo Municipality	Dubbo Municipality		-32.2698	148.69572	A	ADM2H	AU		02	12600			40975		336	Australia/Sydney	2019-05-19
+2177670	Armidale Dumaresq	Armidale Dumaresq		-30.58124	151.87486	A	ADM2H	AU		02	10110			25343		1011	Australia/Sydney	2019-05-19
+7839365	Greater Taree	Greater Taree		-31.80491	152.27955	A	ADM2H	AU		02	13350			0		74	Australia/Sydney	2019-05-19
+7839367	Tumbarumba	Tumbarumba		-36.17337	148.12888	A	ADM2H	AU		02	17450			3521		389	Australia/Sydney	2019-05-19
+7839368	Tumut Shire	Tumut Shire	Comte de Tumut,Comté de Tumut,Contea di Tumut,Tumut Shire Council	-35.54176	148.32624	A	ADM2H	AU		02	17500			11316		947	Australia/Sydney	2019-05-19
+7839389	Rockhampton	Rockhampton		-22.88444	150.22716	A	ADM2H	AU		04	36360			118043		38	Australia/Brisbane	2019-05-19
+7839395	Tablelands	Tablelands		-17.31041	144.00716	A	ADM2H	AU		04	36810			46175		242	Australia/Brisbane	2019-05-19
+7839508	Geraldton-Greenough	Geraldton-Greenough		-28.84832	114.85851	A	ADM2H	AU		08	53520			0		169	Australia/Perth	2019-05-13
+7839614	Mullewa	Mullewa		-28.41433	115.65524	A	ADM2H	AU		08	56020			0		334	Australia/Perth	2019-05-13
+7839620	Narrogin	Narrogin		-32.93756	117.17167	A	ADM2H	AU		08	56440			0		365	Australia/Perth	2019-05-13
+7839634	Roebourne	Roebourne		-21.03971	116.85743	A	ADM2H	AU		08	57560			25907		70	Australia/Perth	2019-05-19
+7839683	Ashfield	Ashfield		-33.88861	151.13142	A	ADM2H	AU		02	10150			44175		38	Australia/Sydney	2019-05-19
+7839684	Auburn	Auburn		-33.8543	151.04812	A	ADM2H	AU		02	10200			83367		17	Australia/Sydney	2019-05-19
+7839688	Bankstown	Bankstown	Bankstown,Bankstown City,Citta di Bankstown,Città di Bankstown,City of Bankstown,Kota Bankstown,Ville de Bankstown,bin shi zhen shi,シティ・オブ・バンクスタウン,賓士鎮市	-33.92384	151.02075	A	ADM2H	AU		02	10350			196974		26	Australia/Sydney	2019-10-15
+7839698	Bombala	Bombala		-36.91101	148.95274	A	ADM2H	AU		02	11000			2401		864	Australia/Sydney	2019-05-19
+7839699	Boorowa	Boorowa		-34.2879	148.84233	A	ADM2H	AU		02	11050			2558		480	Australia/Sydney	2019-05-19
+7839700	Botany Bay	Botany Bay		-33.9466	151.19874	A	ADM2H	AU		02	11100			43292		8	Australia/Sydney	2026-02-16
+7839707	Canterbury	Canterbury		-33.92229	151.09689	A	ADM2H	AU		02	11550			148853		42	Australia/Sydney	2019-05-19
+7839714	Conargo	Conargo		-35.23387	144.82349	A	ADM2H	AU		02	11860			1543		87	Australia/Sydney	2019-05-19
+7839716	Cooma-Monaro	Cooma-Monaro		-36.13467	149.07065	A	ADM2H	AU		02	12050			10073		845	Australia/Sydney	2019-05-19
+7839718	Cootamundra	Cootamundra		-34.58757	148.02042	A	ADM2H	AU		02	12200			7625		350	Australia/Sydney	2019-05-19
+7839719	Corowa Shire	Corowa Shire		-35.81704	146.32748	A	ADM2H	AU		02	12300			11410		135	Australia/Sydney	2019-05-19
+7839721	Deniliquin	Deniliquin		-35.52908	144.97317	A	ADM2H	AU		02	12500			7376		111	Australia/Sydney	2019-05-19
+7839722	Great Lakes	Great Lakes		-32.38784	152.11035	A	ADM2H	AU		02	13400			0		120	Australia/Sydney	2019-05-19
+7839726	Guyra	Guyra		-30.17581	151.67894	A	ADM2H	AU		02	13650			4645		1325	Australia/Sydney	2019-05-19
+7839728	Harden	Harden		-34.62874	148.40572	A	ADM2H	AU		02	13700			3762		411	Australia/Sydney	2019-05-19
+7839731	Holroyd	Holroyd		-33.8275	150.9608	A	ADM2H	AU		02	13950			108889		44	Australia/Sydney	2019-05-19
+7839733	Hurstville	Hurstville		-33.96666	151.07609	A	ADM2H	AU		02	14150			84859		31	Australia/Sydney	2019-05-19
+7839735	Jerilderie	Jerilderie		-35.22299	145.78271	A	ADM2H	AU		02	14250			1504		108	Australia/Sydney	2019-05-19
+7839739	Kogarah	Kogarah		-33.9811	151.10476	A	ADM2H	AU		02	14450			60411		51	Australia/Sydney	2019-05-19
+7839745	Leichhardt	Leichhardt		-33.86781	151.17057	A	ADM2H	AU		02	14800			57266		21	Australia/Sydney	2019-05-19
+7839750	Marrickville	Marrickville		-33.91041	151.15508	A	ADM2H	AU		02	15200			82523		20	Australia/Sydney	2019-05-19
+7839761	Palerang	Palerang		-35.423	149.568	A	ADM2H	AU		02	16180			15306		694	Australia/Sydney	2024-02-15
+7839764	Pittwater	Pittwater	Conseil de Pittwater,Dewan Pittwater,Municipalita di Pittwater,Municipalità di Pittwater,Pittwater Council,bi shui yi hui,ピットウォーター・カウンシル,碧水議會	-33.6433	151.27654	A	ADM2H	AU		02	16370			62070		51	Australia/Sydney	2019-05-19
+7839766	Queanbeyan	Queanbeyan		-35.41965	149.22838	A	ADM2H	AU		02	16470			40568		743	Australia/Sydney	2019-05-19
+7839768	City of Rockdale	City of Rockdale	Cidade de Rockdale,City of Rockdale,Dinas Rockdale,Rockdale,Rockdale City,Rokdejl,Ville de Rockdale,citta di Rockdale,città di Rockdale,rwqdyyl,shi gu shi,tzitade de Rockdale,Рокдейл,רוקדייל,シティ・オブ・ロックデール,石谷市	-33.96611	151.14342	A	ADM2H	AU		02	16650			106712		4	Australia/Sydney	2026-02-16
+7839772	Snowy River	Snowy River		-36.30274	148.68576	A	ADM2H	AU		02	17050			8087		1111	Australia/Sydney	2019-05-19
+7839777	Urana	Urana		-35.27174	146.32408	A	ADM2H	AU		02	17700			1157		126	Australia/Sydney	2019-05-19
+7839779	Wakool	Wakool		-35.05042	143.90841	A	ADM2H	AU		02	17800			3979		68	Australia/Sydney	2019-05-19
+7839782	Warringah	Warringah	Conseil de Warringah,Dewan Warringah,Municipalita di Warringah,Municipalità di Warringah,Warringah Council,hua ling jia yi hui,ワーリンガー・カウンシル,华令加议会	-33.70342	151.23923	A	ADM2H	AU		02	18000			152636		65	Australia/Sydney	2019-05-19
+7839786	Wellington	Wellington		-32.57502	148.97395	A	ADM2H	AU		02	18150			8955		334	Australia/Sydney	2019-05-19
+7839794	Young	Young		-34.23934	148.19063	A	ADM2H	AU		02	18750			12699		427	Australia/Sydney	2019-05-19

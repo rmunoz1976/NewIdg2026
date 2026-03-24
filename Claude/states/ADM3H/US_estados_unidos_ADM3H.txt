@@ -1,0 +1,21 @@
+﻿5847232	Kahanahāiki	Kahanahaiki	Ahupua'a Kahanahaiki,Ahupuaʻa Kahanahāiki,Kahanahaiki,Kahanahāiki	21.54667	-158.21583	A	ADM3H	US		HI	003			0	470	497	Pacific/Honolulu	2014-10-26
+5848892	Kea‘au	Kea'au	Ahupua'a Kea'au,Ahupuaʻa Keaʻau,Kea'au,Keaau,Kea‘au	21.50307	-158.22201	A	ADM3H	US		HI	003			0	272	76	Pacific/Honolulu	2013-11-11
+5849112	Keawa‘ula	Keawa'ula	Ahupua'a Keawa'ula,Ahupuaʻa Keawaʻula,Keawa'ula,Keawaula,Keawa‘ula	21.56083	-158.25111	A	ADM3H	US		HI	003			0	295	336	Pacific/Honolulu	2014-10-26
+5850510	Mākaha	Makaha	Ahupua'a Makaha,Ahupuaʻa Mākaha,Makaha,Mākaha	21.47531	-158.21355	A	ADM3H	US		HI	003			0	135	18	Pacific/Honolulu	2013-11-11
+5850679	Makua	Makua	Ahupua'a Makua,Ahupuaʻa Mākua	21.53018	-158.21952	A	ADM3H	US		HI	003			0	143	41	Pacific/Honolulu	2014-10-26
+5850757	Mānana	Manana	Ahupua'a Manana,Ahupuaʻa Manana,Ahupuaʻa Mānana,Manana,Mānana	21.44611	-157.92417	A	ADM3H	US		HI	003			0	272	305	Pacific/Honolulu	2013-11-18
+5851647	ʻŌhikilolo	'Ohikilolo	Ahupua'a 'Ohikilolo,Ahupuaʻa ʻŌhikilolo	21.51556	-158.21972	A	ADM3H	US		HI	003			0	183	192	Pacific/Honolulu	2013-11-18
+5854201	Wai‘anae Kai	Wai'anae Kai	Ahupua'a Wai'anae Kai,Ahupuaʻa Waiʻanae Kai,Wai'anae Kai,Wai'anae-kai,Waianae Kai,Wai‘anae Kai,Wai‘anae-kai	21.46737	-158.15729	A	ADM3H	US		HI	003			0	375	115	Pacific/Honolulu	2013-11-11
+5854217	Waiʻanae Uka	Wai'anae Uka	Ahupua'a Wai'anae Uka,Ahupuaʻa Waiʻanae Uka,Wai'anae Uka,Waianae Uka,Waianae Uku,Waianae-Uka,Waiʻanae Uka	21.49139	-158.07889	A	ADM3H	US		HI	003			0	300	309	Pacific/Honolulu	2013-11-11
+5854233	Waiau	Waiau	Ahupua'a Waiau,Ahupuaʻa Waiau	21.42556	-157.92639	A	ADM3H	US		HI	003			0	331	316	Pacific/Honolulu	2013-11-18
+5854247	Waiawa	Waiawa	Ahupua'a Waiawa,Ahupuaʻa Waiawa	21.45806	-157.94694	A	ADM3H	US		HI	003			0	290	305	Pacific/Honolulu	2013-11-18
+5854371	Waikele	Waikele	Ahupua'a Waikele,Ahupuaʻa Waikele	21.404	-158.002	A	ADM3H	US		HI	003			0	223	71	Pacific/Honolulu	2024-02-12
+5854525	Waimalu	Waimalu	Ahupua'a Waimalu,Ahupuaʻa Waimalu	21.41667	-157.91639	A	ADM3H	US		HI	003			0	311	327	Pacific/Honolulu	2013-11-19
+5854549	Waimano	Waimano	Ahupua'a Waimano,Ahupuaʻa Waimano	21.44083	-157.91083	A	ADM3H	US		HI	003			0	384	401	Pacific/Honolulu	2013-11-19
+5854716	Waipi‘o	Waipi'o	Ahupua'a Waipi'o,Ahupuaʻa Waipiʻo,Waipi'o,Waipio,Waipi‘o	21.47417	-157.98194	A	ADM3H	US		HI	003			0	242	267	Pacific/Honolulu	2013-11-19
+5855320	Hālawa	Halawa	Ahupua'a Halawa,Ahupuaʻa Hālawa,Halawa,Hālawa	21.38333	-157.91167	A	ADM3H	US		HI	003			0	150	158	Pacific/Honolulu	2013-11-19
+5855992	Hō‘ae‘ae	Ho'ae'ae	Ahupua'a Ho'ae'ae,Ahupuaʻa Hō‘ae‘ae,Ho'ae'ae,Hoaeae,Hō‘ae‘ae	21.41444	-158.03889	A	ADM3H	US		HI	003			0	170	174	Pacific/Honolulu	2013-11-19
+5856293	Honouliuli	Honouliuli	Ahupua'a Honouliuli,Ahupuaʻa Honouliuli,Honouliuli,Honouliuul,Honouliuuli	21.42361	-158.0775	A	ADM3H	US		HI	003			0	365	377	Pacific/Honolulu	2013-11-19
+5857015	‘Aiea	'Aiea	'Aiea,Ahupua'a 'Aiea,Ahupuaʻa ʻAiea,Aiea,‘Aiea	21.38472	-157.92806	A	ADM3H	US		HI	003			0	40	53	Pacific/Honolulu	2013-11-19
+7317982	City of Helena	City of Helena		32.07882	-82.91019	A	ADM3H	US		GA	271	7317982		2883	66	67	America/New_York	2017-12-11
+7318094	City of McRae	City of McRae		32.05633	-82.89056	A	ADM3H	US		GA	271	7318094		5740	61	68	America/New_York	2017-12-11
