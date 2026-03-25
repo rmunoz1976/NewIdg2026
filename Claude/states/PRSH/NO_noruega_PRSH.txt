@@ -1,4 +1,0 @@
-﻿3137497	Sør-Hålogaland Bispedømme	Sor-Halogaland Bispedomme	Diocese of Sor-Halogaland,Diocese of Sør-Hålogaland,Sor-Halogaland Bispedomme,Sør-Hålogaland Bispedømme	67.25	15.5	A	PRSH	NO		09				0		20	Europe/Oslo	2019-08-08
-3144334	Nord-Hålogaland Bispedømme	Nord-Halogaland Bispedomme		69.75	19.5	A	PRSH	NO		18	5501			0		220	Europe/Oslo	2024-01-27
-3147109	Loddefjord Sogn	Loddefjord Sogn		60.36667	5.2	A	PRSH	NO		46	4601			0		40	Europe/Oslo	2019-12-14
-3148355	Langestrand	Langestrand		59.05	10	A	PRSH	NO		20	3909			0		119	Europe/Oslo	2024-01-27

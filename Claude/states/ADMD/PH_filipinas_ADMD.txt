@@ -1,3 +1,0 @@
-﻿1709139	Katablangan	Katablangan	Katablangan	17.8233	121.1871	A	ADMD	PH		15	H6	148102000		0		290	Asia/Manila	2023-03-29
-1709201	Karagawan	Karagawan	Karagaoan,Karagauan,Karagawan	17.9179	121.1592	A	ADMD	PH		15	H6	148104000		0		223	Asia/Manila	2023-03-29
-8367019	Bangsamoro Autonomous Region of Muslim Mindanao	Bangsamoro Autonomous Region of Muslim Mindanao	ARMM,Autonomous Region of Muslim Mindanao,BARMM,Bangsamoro Autonomous Region of Muslim Mindanao	5.97618	121.38684	A	ADMD	PH		00				0		129	Asia/Manila	2020-03-10

@@ -1,2 +1,0 @@
-﻿3919186	Copacabana	Copacabana	Copacabana	-16.15	-69.08333	A	ADMD	BO		04				4508		3815	America/La_Paz	2012-02-29
-7603043	San Pedro	San Pedro		-11.79422	-67.92658	A	ADMD	BO		06				0		179	America/La_Paz	2010-11-29

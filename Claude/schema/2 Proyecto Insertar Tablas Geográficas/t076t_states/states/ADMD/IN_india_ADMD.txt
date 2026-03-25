@@ -1,3 +1,0 @@
-﻿1278151	Aurangabad division	Aurangabad division	Aurangabad division	19.91667	75.33333	A	ADMD	IN		16	8131498	1278151		18000000		596	Asia/Kolkata	2018-05-26
-9036668	Bargarh	Bargarh		21.333	83.616	A	ADMD	IN		21				0		181	Asia/Kolkata	2014-05-19
-10846642	Torgal Jāgīr	Torgal Jagir		15.94729	75.09209	A	ADMD	IN		19				0		621	Asia/Kolkata	2015-10-07

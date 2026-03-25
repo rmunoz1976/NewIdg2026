@@ -1,7 +1,0 @@
-﻿7667620	Bondo District	Bondo District	Bondo	-0.1	34.25	A	ADM2H	KE		07	7667620			0		1245	Africa/Nairobi	2013-12-01
-7667630	Mount Elgon	Mount Elgon		0.93329	34.60654	A	ADM2H	KE		08	7667630			0		2653	Africa/Nairobi	2015-06-27
-7667660	Trans Mara District	Trans Mara District		-1.169	34.889	A	ADM2H	KE		08	7667660			0		1705	Africa/Nairobi	2015-06-27
-7668899	Keiyo	Keiyo		0.47754	35.55889	A	ADM2H	KE		08				143865		2209	Africa/Nairobi	2015-06-16
-7729810	Buret District	Buret District	Buret	-0.56011	35.27496	A	ADM2H	KE		08	7729810			0		2021	Africa/Nairobi	2015-06-21
-7909894	Koibatek District	Koibatek District	Koibatek	0.13	35.86	A	ADM2H	KE		08	7909894			0		1638	Africa/Nairobi	2015-06-27
-9157389	Wajir	Wajir		1.74722	40.0689	A	ADM2H	KE		54				0		259	Africa/Nairobi	2014-06-09

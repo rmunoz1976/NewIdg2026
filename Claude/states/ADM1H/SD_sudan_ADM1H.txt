@@ -1,3 +1,0 @@
-﻿371853	Kurdufan Wilayat	Kurdufan Wilayat	Iqlim Kurdofan,Kordofan,Kurdufan	13	29.5	A	ADM1H	SD		34				0		692	Africa/Khartoum	2015-06-27
-378377	Al Wilāyah ash Sharqīyah	Al Wilayah ash Sharqiyah	Al Iqlim ash Sharqi,Al Iqlīm ash Sharqī,Ash Sharqiyah,Eastern	18	36	A	ADM1H	SD		31				0		537	Africa/Khartoum	2012-07-21
-379668	Al Wilāyah al Wusţá	Al Wilayah al Wusta	Al Wusta,Central	13	33	A	ADM1H	SD		27				0		397	Africa/Khartoum	2012-07-21

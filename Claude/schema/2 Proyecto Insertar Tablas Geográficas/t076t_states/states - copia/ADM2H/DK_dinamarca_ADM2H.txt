@@ -1,2 +1,0 @@
-﻿2611735	Thyholm Kommune	Thyholm Kommune	Thyholm	56.63395	8.53432	A	ADM2H	DK		18	2611735			0		25	Europe/Copenhagen	2017-09-16
-2611739	Thyborøn-Harboør Kommune	Thyboron-Harboor Kommune	Thyboron-Harboor Kommune,Thyborøn-Harboør Kommune	56.58333	8.16667	A	ADM2H	DK		09				0		0	Europe/Copenhagen	2015-07-03

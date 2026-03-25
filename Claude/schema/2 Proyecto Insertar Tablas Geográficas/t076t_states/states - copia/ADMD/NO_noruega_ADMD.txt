@@ -1,2 +1,0 @@
-﻿6940984	Stovner District	Stovner District	Bydel Stovner,Stovner	59.96146	10.92805	A	ADMD	NO		12	0301	13		0		195	Europe/Oslo	2016-12-06
-6940986	Østensjø District	Ostensjo District	Bydel Ostensjo,Bydel Østensjø,Ostensjo,Østensjø	59.89367	10.84136	A	ADMD	NO		12	0301	13		0		167	Europe/Oslo	2010-12-06

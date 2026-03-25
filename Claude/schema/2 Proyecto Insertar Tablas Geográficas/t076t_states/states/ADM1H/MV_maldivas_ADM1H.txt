@@ -1,7 +1,0 @@
-﻿8030589	Dhekunu Sarahahdhu	Dhekunu Sarahahdhu	Dhekunu,Dhekunu Sarahahdhu,South Province	-0.5	73.25	A	ADM1H	MV		48				25662		-9999	Indian/Maldives	2015-06-28
-8030590	Mathi Dhekunu Sarahahdhu	Mathi Dhekunu Sarahahdhu	Mathi Dhekunu,Mathi Dhekunu Sarahahdhu,Upper South,Upper South Province	0.5	73.25	A	ADM1H	MV		49				19275		-9999	Indian/Maldives	2015-08-04
-8030591	Mathi Uthuru Sarahahdhu	Mathi Uthuru Sarahahdhu	Mathi Uthuru,Mathi Uthuru Sarahahdhu,Upper North,Upper North Province	6.5	73	A	ADM1H	MV		50				41672		-9999	Indian/Maldives	2015-06-28
-8030592	Medhu Sarahahdhu	Medhu Sarahahdhu	Central Province,Medhu,Medhu Sarahahdhu	3	73.16667	A	ADM1H	MV		51				13442		-9999	Indian/Maldives	2015-06-28
-8030593	Medhu Dhekunu Sarahahdhu	Medhu Dhekunu Sarahahdhu	Medhu Dhekunu,Medhu Dhekunu Sarahahdhu,South Central,South Central Province	2.16667	73.25	A	ADM1H	MV		52				20483		-9999	Indian/Maldives	2015-06-28
-8030594	Medhu Uthuru Sarahahdhu	Medhu Uthuru Sarahahdhu	Medhu Uthuru,Medhu Uthuru Sarahahdhu,North Central,North Central Province	4	73.16667	A	ADM1H	MV		53				31202		-9999	Indian/Maldives	2015-06-28
-8030595	Uthuru Sarahahdhu	Uthuru Sarahahdhu	North Province,Uthuru,Uthuru Sarahahdhu	5.5	73.16667	A	ADM1H	MV		54				43539		-9999	Indian/Maldives	2015-06-28

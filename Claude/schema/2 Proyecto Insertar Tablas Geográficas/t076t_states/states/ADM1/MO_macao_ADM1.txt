@@ -1,8 +1,0 @@
-﻿11875154	Nossa Senhora de Fátima	Nossa Senhora de Fatima		22.213	113.54537	A	ADM1	MO		11875154				237500		18	Asia/Macau	2019-07-27
-11875155	Santo António	Santo Antonio	sheng an duo ni tang qu,聖安多尼堂區	22.19953	113.54124	A	ADM1	MO		11875155				136000		23	Asia/Macau	2018-05-23
-11875156	São Lázaro	Sao Lazaro	wang de tang qu,望德堂區	22.2001	113.55065	A	ADM1	MO		11875156				33100		22	Asia/Macau	2018-05-23
-11875157	Sé	Se	da tang qu,大堂區	22.19389	113.55103	A	ADM1	MO		11875157				49200		5	Asia/Macau	2018-05-23
-11875158	São Lourenço	Sao Lourenco	feng shun tang qu,風順堂區	22.19232	113.53586	A	ADM1	MO		11875158				53700		20	Asia/Macau	2018-05-23
-11875159	Nossa Senhora do Carmo	Nossa Senhora do Carmo	jia mo tang qu,嘉模堂區	22.15822	113.55665	A	ADM1	MO		11875159				101200		15	Asia/Macau	2019-02-24
-11875160	Cotai	Cotai	lu dang tian hai qu,路氹填海區	22.14353	113.56577	A	ADM1	MO		11875160				300		-9999	Asia/Macau	2019-07-27
-11875161	São Francisco Xavier	Sao Francisco Xavier	Coloane,Freguesia de Sao Francisco Xavier,Freguesia de São Francisco Xavier,lu huan,sheng fang ji ge tang qu,聖方濟各堂區,路環	22.12823	113.56342	A	ADM1	MO		11875161				9300		34	Asia/Macau	2019-07-27

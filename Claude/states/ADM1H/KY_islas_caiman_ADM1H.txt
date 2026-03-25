@@ -1,8 +1,0 @@
-﻿8689196	Creek	Creek		19.74167	-79.76667	A	ADM1H	KY		00				0		19	America/Cayman	2014-01-19
-8689197	Eastern	Eastern	Eastern,Eastern District	19.31667	-81.13333	A	ADM1H	KY		00				0		5	America/Cayman	2014-01-19
-8689198	Midland	Midland	Midland,Midland District	19.31667	-81.23333	A	ADM1H	KY		00				0		4	America/Cayman	2014-01-19
-8689199	South Town	South Town		19.69167	-80.0375	A	ADM1H	KY		00				0		9	America/Cayman	2014-01-19
-8689200	Spot Bay	Spot Bay		19.75	-79.74167	A	ADM1H	KY		00				0		43	America/Cayman	2014-01-19
-8689201	Stake Bay	Stake Bay		19.70417	-79.85	A	ADM1H	KY		00				0		7	America/Cayman	2014-01-19
-8689202	West End	West End		19.68611	-79.88889	A	ADM1H	KY		00				0		3	America/Cayman	2014-01-19
-8689203	Western	Western	Western,Western District	19.30833	-81.375	A	ADM1H	KY		00				0		6	America/Cayman	2014-01-19

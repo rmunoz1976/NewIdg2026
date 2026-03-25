@@ -1,2 +1,0 @@
-﻿8692966	General Authority for Economic Zone North West of Gulf Suez	General Authority for Economic Zone North West of Gulf Suez		29.65718	32.36052	A	ZN	EG						0		5	Africa/Cairo	2014-01-27
-9409382	Hala'ib Triangle	Hala'ib Triangle		22.51002	35.49133	A	ZN	EG						0		251	Africa/Cairo	2014-08-29

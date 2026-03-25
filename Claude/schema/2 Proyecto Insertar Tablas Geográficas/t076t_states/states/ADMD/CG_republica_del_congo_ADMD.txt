@@ -1,5 +1,0 @@
-﻿2255412	District de Pointe-Noire	District de Pointe-Noire		-4.78333	11.9	A	ADMD	CG		00				0		21	Africa/Brazzaville	1994-01-06
-2258223	Louessé-Niari	Louesse-Niari	Bouenza-Louesse,Bouenza-Louessé,Louesse-Niari,Louessé-Niari	-3	13	A	ADMD	CG		00				0		453	Africa/Brazzaville	2012-01-17
-2258225	Louessé	Louesse	Louesse,Louessé,Nyanga-Louesse,Nyanga-Louessé	-3	12.5	A	ADMD	CG		00				0		347	Africa/Brazzaville	2012-01-17
-2258428	Likouala-Mossaka	Likouala-Mossaka	Likouala-Messaka,Likouala-Mossaka,Region de Likouala-Mossaka,Région de Likouala-Mossaka	-0.5	16	A	ADMD	CG		00				0		335	Africa/Brazzaville	2012-01-17
-2261326	Alima-Léfini	Alima-Lefini	Alima,Alima-Lefini,Alima-Lefiny,Alima-Léfini,L'Alima-Lefini,L’Alima-Léfini,Region de l'Alima-Lefini,Région de l’Alima-Léfini	-2	15	A	ADMD	CG		08				0		440	Africa/Brazzaville	2020-06-10

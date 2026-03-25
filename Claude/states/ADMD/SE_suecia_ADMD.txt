@@ -1,4 +1,0 @@
-﻿605391	Kalix Domsaga	Kalix Domsaga		66.25	22.5	A	ADMD	SE		14				0		206	Europe/Stockholm	1999-04-01
-606085	Gällivare Domsaga	Gallivare Domsaga		67.66667	20	A	ADMD	SE		14				0		532	Europe/Stockholm	1999-04-01
-2715276	Färs Domsaga	Fars Domsaga		55.66667	13.73333	A	ADMD	SE		27				0		81	Europe/Stockholm	1999-04-01
-6692538	Småland	Smaland		56.96744	15.68298	A	ADMD	SE		12				0		185	Europe/Stockholm	2008-05-21

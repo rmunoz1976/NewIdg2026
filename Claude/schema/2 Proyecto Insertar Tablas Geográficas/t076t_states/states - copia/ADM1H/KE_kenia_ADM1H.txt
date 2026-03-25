@@ -1,7 +1,0 @@
-﻿182763	Nyanza Province	Nyanza Province	Nyanza,Nyanza Province,Nyanza Region	-0.5	34.5	A	ADM1H	KE		07				4392196		1181	Africa/Nairobi	2013-05-05
-199247	Coast Province	Coast Province	Coast,Coast Province,Coast Region	-3	39.5	A	ADM1H	KE		02				0		151	Africa/Nairobi	2013-05-05
-400741	Eastern Province	Eastern Province	Aust-Kenya,Eastern,Eastern Province,OEstprovinsen,Ost-Kenya,Östprovinsen,Øst-Kenya	0	38	A	ADM1H	KE		03				4631779		745	Africa/Nairobi	2013-05-05
-400742	Central Province	Central Province	Central,Central Province,Centralprovinsen	-0.75	37	A	ADM1H	KE		01				3724159		1627	Africa/Nairobi	2013-05-05
-400743	Western Province	Western Province	Vaestprovinsen,Västprovinsen,Western,Western Province	0.5	34.58333	A	ADM1H	KE		09				3358776		1409	Africa/Nairobi	2013-05-05
-400744	Rift Valley Province	Rift Valley Province	Rift Valley,Rift Valley Province	0.5	36	A	ADM1H	KE		08				6987036		1004	Africa/Nairobi	2013-05-05
-400745	North Eastern Province	North Eastern Province	Nordoestra provinsen,Nordöstra provinsen,North Eastern Province,North-Eastern	1	40.25	A	ADM1H	KE		06				962143		184	Africa/Nairobi	2013-05-05

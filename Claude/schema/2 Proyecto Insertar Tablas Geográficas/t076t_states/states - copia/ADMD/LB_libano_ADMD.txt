@@ -1,5 +1,0 @@
-﻿8505511	Minet el Hosn	Minet el Hosn		33.89894	35.49679	A	ADMD	LB		04				0		15	Asia/Beirut	2013-04-06
-8505513	Bachoura	Bachoura		33.89014	35.50347	A	ADMD	LB		04				0		66	Asia/Beirut	2013-04-06
-8505514	Al Mazraa	Al Mazraa	Al Mazraa,Mazraa	33.87835	35.50516	A	ADMD	LB		04				0		70	Asia/Beirut	2013-04-06
-8505515	Ashrafiye	Ashrafiye	Achrafieh,Ashrafiye	33.88611	35.51917	A	ADMD	LB		04				0		102	Asia/Beirut	2013-04-06
-8505516	Rmeil	Rmeil	Remeil,Rmeil	33.89423	35.52456	A	ADMD	LB		04				0		72	Asia/Beirut	2013-04-06

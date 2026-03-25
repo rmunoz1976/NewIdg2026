@@ -1,4 +1,0 @@
-﻿2810959	Werdenfelser Land	Werdenfelser Land		47.48361	11.08267	A	ADMDH	DE		02	091	09180	09180117	0		707	Europe/Berlin	2024-11-02
-2856312	Ostfalen	Ostfalen	Eastfalen,Eastphalia,Estfalia,Oostfalen,Ostfaal,Ostfaalen,Ostfalai [a. 775],Ostfalen,Ostfalia,Ostfalija,Ostfalya,Ostfaolen,Oſtfalai [a. 775],Остфалия	52.5	10.83333	A	ADMDH	DE		00				0		76	Europe/Berlin	2016-03-15
-3208611	Lahstedt	Lahstedt		52.2479	10.23192	A	ADMDH	DE		06	00			10718		102	Europe/Berlin	2023-10-05
-12047669	Reifenberg	Reifenberg		50.24372	8.4313	A	ADMDH	DE		05	064	06434	06434009	0		584	Europe/Berlin	2019-06-03

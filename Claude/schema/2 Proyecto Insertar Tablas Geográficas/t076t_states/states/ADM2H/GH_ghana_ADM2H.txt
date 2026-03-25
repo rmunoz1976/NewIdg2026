@@ -1,5 +1,0 @@
-﻿7647457	Atebubu	Atebubu		7.75	-0.98333	A	ADM2H	GH		03	7647457			0		139	Africa/Accra	2014-10-21
-7647507	Upper Denkyira	Upper Denkyira		5.85388	-1.71496	A	ADM2H	GH		04	7647507			0		152	Africa/Accra	2019-09-01
-7647529	Dangme East District	Dangme East District	Dangme East	5.78304	0.60734	A	ADM2H	GH		01	7647529			0		4	Africa/Accra	2019-12-03
-7648923	Adaklu-Anyigbe	Adaklu-Anyigbe		6.55	0.7	A	ADM2H	GH		08	7648923			0		70	Africa/Accra	2019-12-03
-9166073	Shama Ahanta East Metropolitan District	Shama Ahanta East Metropolitan District		4.91667	-1.76667	A	ADM2H	GH		09	9166073			0		12	Africa/Accra	2019-09-01

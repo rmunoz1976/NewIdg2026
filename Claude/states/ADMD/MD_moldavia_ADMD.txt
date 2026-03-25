@@ -1,4 +1,0 @@
-﻿617365	Sovetskiy Rayon	Sovetskiy Rayon		47	28.83333	A	ADMD	MD		57	617365			0		130	Europe/Chisinau	2014-11-11
-617653	Oktyabr'skiy Rayon	Oktyabr'skiy Rayon	Stalinskiy Rayon	47	28.83333	A	ADMD	MD		57	617653			0		130	Europe/Chisinau	2014-11-11
-617908	Leninskiy Rayon	Leninskiy Rayon		47	28.83333	A	ADMD	MD		57	617908			0		130	Europe/Chisinau	2014-11-11
-618319	Frunzenskiy Rayon	Frunzenskiy Rayon		47	28.83333	A	ADMD	MD		57	618319			0		130	Europe/Chisinau	2014-11-11

@@ -1,6 +1,0 @@
-﻿10346796	George Town	George Town		19.28908	-81.36981	A	ADM1	KY		10346796				34921		1	America/Cayman	2023-01-13
-10375968	West Bay	West Bay		19.38039	-81.38869	A	ADM1	KY		10375968				15335		5	America/Cayman	2023-01-12
-10375969	Bodden Town	Bodden Town		19.2821	-81.25797	A	ADM1	KY		10375969				10341		8	America/Cayman	2015-11-27
-10375970	North Side	North Side		19.34824	-81.20849	A	ADM1	KY		10375970				1902		7	America/Cayman	2023-01-13
-10375971	East End	East End		19.29976	-81.11052	A	ADM1	KY		10375971				1846		4	America/Cayman	2023-01-13
-10375972	Sister Island	Sister Island	Cayman Brac,Little Cayman,Sister Island	19.72195	-79.78958	A	ADM1	KY		10375972				2547		30	America/Cayman	2021-01-21

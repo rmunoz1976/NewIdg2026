@@ -1,3 +1,0 @@
-﻿865083	Grad Niš	Grad Nis		43.32306	21.89444	A	ADMD	RS		00	865083			0		194	Europe/Belgrade	2017-11-18
-7910477	Kolubara District	Kolubara District		44.28847	19.90505	A	ADMD	RS						0		200	Europe/Belgrade	2011-07-30
-8356015	Grad Beograd	Grad Beograd		44.81861	20.46806	A	ADMD	RS		00				0		92	Europe/Belgrade	2012-08-05

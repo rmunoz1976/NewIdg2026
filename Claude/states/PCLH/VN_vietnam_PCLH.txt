@@ -1,2 +1,0 @@
-﻿11608491	Republic of Vietnam	Republic of Vietnam	South Vietnam	10.75	106.66667	A	PCLH	VN		00				0		5	Asia/Ho_Chi_Minh	2017-07-07
-11608492	Democratic Republic of Vietnam	Democratic Republic of Vietnam	North Vietnam	21.03333	105.85	A	PCLH	VN		00				0		21	Asia/Bangkok	2017-07-07

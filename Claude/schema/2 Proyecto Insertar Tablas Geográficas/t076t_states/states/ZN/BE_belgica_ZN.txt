@@ -1,2 +1,0 @@
-﻿6695079	NATO	NATO	NATO,NAVO,OTAN,Organisation du Traite de l'Atlantique Nord,Organisation du Traité de l'Atlantique Nord	50.8765	4.42213	A	ZN	BE		BRU	BRU			0		55	Europe/Brussels	2011-02-03
-7648909	Brussel X-Luchthaven Remailing	Brussel X-Luchthaven Remailing	Brussel X-Luchthaven Remailing,Bruxelles X-Aeroport Remailing	50.90184	4.49169	A	ZN	BE		VLG	VBR			0		40	Europe/Brussels	2011-02-07

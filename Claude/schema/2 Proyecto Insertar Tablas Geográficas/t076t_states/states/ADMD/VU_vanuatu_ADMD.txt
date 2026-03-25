@@ -1,2 +1,0 @@
-﻿2134013	Circonscription de Tanna	Circonscription de Tanna	Circonscription de Tanna,Southern District	-19.25	169.25	A	ADMD	VU		15				0		-9999	Pacific/Efate	2012-01-17
-2134014	Circonscription de Santo	Circonscription de Santo	Circonscription de Santo,Northern District	-14.5	167.5	A	ADMD	VU		07				0		-9999	Pacific/Efate	2012-01-17

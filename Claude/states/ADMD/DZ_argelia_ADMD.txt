@@ -1,7 +1,0 @@
-﻿2485629	Oued Djemaa	Oued Djemaa	Commune d'Oued el Djemaa,Commune d’Oued el Djemaa,Oued Djemaa,bldyt wady aljmʿt,wady aljmʿt,بلدية وادي الجمعة,وادي الجمعة	35.78694	0.66667	A	ADMD	DZ		51				0		76	Africa/Algiers	2024-08-05
-2485999	Wilaya des Oasis	Wilaya des Oasis	Departement des Oasis,Département des Oasis,Wilaya des Oasis	26	6	A	ADMD	DZ		53				0		863	Africa/Algiers	2024-08-05
-2488833	Daïa de Médéa	Daia de Medea		35.5	2.91667	A	ADMD	DZ		22				0		661	Africa/Algiers	2024-08-05
-2490223	AL Mamoura Academy	AL Mamoura Academy		29.3823	0.32145	A	ADMD	DZ	AE	TM				0		263	Asia/Dubai	2024-08-05
-2501162	Collo	Collo	Collo,QOL,alql‎‎,القل‎‎	37.00717	6.56099	A	ADMD	DZ		31				55682		12	Africa/Algiers	2024-08-05
-2502956	Bouïra Province	Bouira Province	Bouira Province,Bouïra Province,Commune de Bouira,Commune de Bouïra,albwyrt,bldyt albwyrt,bwyrt,wlayh albwyrh,wlayt albwyrt,البويرة,بلدية البويرة,بويرة,ولاية البويرة,ولايه البويره	36.38333	3.9	A	ADMD	DZ		21				0		536	Africa/Algiers	2024-08-05
-2507476	Ville d’Alger	Ville d'Alger	Ville d'Alger,Ville d’Alger,mdynt aljzayr,مدينة الجزائر	36.78333	3.05	A	ADMD	DZ		01				0		119	Africa/Algiers	2024-08-05

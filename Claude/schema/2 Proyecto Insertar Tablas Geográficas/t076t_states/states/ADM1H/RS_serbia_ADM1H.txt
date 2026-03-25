@@ -1,2 +1,0 @@
-﻿6957933	Banat of Temesvar	Banat of Temesvar	Banat,Banat of Temesvar	45.5	21	A	ADM1H	RS	RS,RO	00				0		76	Europe/Belgrade	2017-12-14
-8378521	Moesia Superior	Moesia Superior	Mesia Superior (provincia romana),Mesia superiore (provincia romana),Mesie superieure (province romaine),Mésie supérieure (province romaine),Obermoesien (roemische Provinz),Obermoesien (römische Provinz),Obermösien (römische Provinz),Upper Moesia (Roman province)	44.73327	21.23037	A	ADM1H	RS						0		78	Europe/Belgrade	2012-10-24

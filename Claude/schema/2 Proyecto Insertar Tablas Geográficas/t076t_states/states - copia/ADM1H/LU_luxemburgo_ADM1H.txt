@@ -1,3 +1,0 @@
-﻿2960314	District de Luxembourg	District de Luxembourg	District de Luxembourg,Distrikt Letzebuerg,Distrikt Luxemburg,Distrikt Lëtzebuerg,Letzebuerg,Luxembourg,Luxemburg,Lëtzebuerg	49.6278	6.09	A	ADM1H	LU		03				0		302	Europe/Luxembourg	2017-01-02
-2960513	District de Grevenmacher	District de Grevenmacher	District de Grevenmacher,Distrikt Greiwemaacher,Distrikt Grevenmacher,Distrikt Gréiwemaacher,Greiwemaacher,Grevenmacher,Gréiwemaacher	49.67777	6.35	A	ADM1H	LU		02				0		252	Europe/Luxembourg	2017-01-02
-2960655	District de Diekirch	District de Diekirch	Diekirch,Dikrech,District de Diekirch,Distrikt Diekirch,Distrikt Dikrech	49.97777	6	A	ADM1H	LU		01				0		413	Europe/Luxembourg	2017-01-02

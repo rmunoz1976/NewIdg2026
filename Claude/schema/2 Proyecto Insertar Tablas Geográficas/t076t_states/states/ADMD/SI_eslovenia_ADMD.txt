@@ -1,2 +1,0 @@
-﻿6692430	Mariborsko Pohorje	Mariborsko Pohorje		46.59568	15.60814	A	ADMD	SI						0		479	Europe/Ljubljana	2014-08-26
-6692431	Sloveense Binnenland	Sloveense Binnenland		46.43786	15.51682	A	ADMD	SI						0		800	Europe/Ljubljana	2008-05-20

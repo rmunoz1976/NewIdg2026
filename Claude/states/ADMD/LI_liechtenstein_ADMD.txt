@@ -1,5 +1,0 @@
-﻿10352517	Gemeinde Vaduz	Gemeinde Vaduz		47.13326	9.60135	A	ADMD	LI		11				0		1635	Europe/Vaduz	2015-07-05
-10352804	Gemeinde Balzers	Gemeinde Balzers		47.08133	9.57191	A	ADMD	LI		01				0		1913	Europe/Vaduz	2015-07-05
-10353060	Gemeinde Schaan	Gemeinde Schaan		47.07506	9.60328	A	ADMD	LI		07				0		1921	Europe/Vaduz	2015-07-05
-10355190	Gemeinde Schaan	Gemeinde Schaan		47.11878	9.60403	A	ADMD	LI		07				0		1840	Europe/Vaduz	2015-07-05
-10356396	Gemeinde Schaan	Gemeinde Schaan		47.13723	9.58474	A	ADMD	LI		07				0		1469	Europe/Vaduz	2015-07-05

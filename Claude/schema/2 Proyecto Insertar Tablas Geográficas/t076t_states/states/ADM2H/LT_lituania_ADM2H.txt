@@ -1,2 +1,0 @@
-﻿864493	Gargždai	Gargzdai	Gargzda,Gargzdai,Gargzdi,Gargzhdaj,Gargždai,Gargždi,Gargždā,Gorad Gargzhdaj,Gorzdy,Gorżdy,galeugeujudai,gargzhdai,gargzhday,gargzhdyy,jia er ge ri dai,Гаргждай,Гаргждај,Горад Гаргждай,گارگژدئی,گارگژدای,გარგჟდაი,加爾格日代,가르그주다이	55.71667	21.4	A	ADM2H	LT		58	864493			0		36	Europe/Vilnius	2014-09-20
-864503	Naujoji Akmenė	Naujoji Akmene		56.31667	22.9	A	ADM2H	LT		61	864503			0		79	Europe/Vilnius	2014-09-20

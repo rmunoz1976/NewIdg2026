@@ -1,6 +1,0 @@
-﻿863851	Drugovo	Drugovo	Drugovo,Opshtina Drugovo,Opstina Drugovo,Opština Drugovo,Другово,Општина Другово	41.46667	20.91667	A	ADM1H	MK		30				2961		656	Europe/Skopje	2019-08-08
-863885	Oslomej	Oslomej	Gmina Oslomej,Gmina Osłomej,Komuna e Osllomejit,Municipalidad de Oslomej,Opcina Oslomej,Opshtina Oslomej,Opstina Oslomej,Općina Oslomej,Opština Oslomej,Oslomei,Oslomej,Oslomej Municipality,Oslomey Belediyesi,Oslomeï,Vilojati Oslomej,ao si luo mei qu,Вилояти Осломей,Општина Осломеј,Осломей,Осломеј,奧斯洛梅區	41.6	21.05	A	ADM1H	MK		77				10566		943	Europe/Skopje	2019-08-08
-863913	Opština Vraneštica	Opstina Vranestica	Opshtina Vraneshtica,Opstina Vranestica,Opština Vraneštica,Vraneshtica,Vranestica,Vraneštica,Вранештица,Општина Вранештица	41.5	21.05	A	ADM1H	MK		B6				1249		649	Europe/Skopje	2019-08-08
-863917	Zajas	Zajas	Komuna e Zajazit,Municipalidad de Zajas,Opcina Zajas,Opshtina Zajas,Opstina Zajas,Općina Zajas,Opština Zajas,Vilojati Zajas,Zaias,Zajac',Zajas,Zajas Municipality,Zaïas,zha ya si qu,Вилояти Зайас,Заяс,Заяць,Зајас,Општина Зајас,扎亞斯區	41.6	20.9	A	ADM1H	MK		C1				11887		994	Europe/Skopje	2019-08-08
-7883645	Blatec	Blatec		41.78846	22.63202	A	ADM1H	MK		B4	7883645			0		1136	Europe/Skopje	2019-10-04
-7886994	Lukovo	Lukovo		41.35971	20.61941	A	ADM1H	MK		E6	7886994			0		980	Europe/Skopje	2019-10-04

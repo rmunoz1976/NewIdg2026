@@ -1,4 +1,0 @@
-﻿6692484	Phang-Nga	Phang-Nga	phangnga,พังงา	8.7005	98.26447	A	ADMD	TH		61				0		15	Asia/Bangkok	2010-08-15
-6955121	Bang Muang	Bang Muang	bang mwng,บางม่วง	13.8514	100.4242	A	ADMD	TH		38	1203			12	1	4	Asia/Bangkok	2017-03-22
-7091845	Thetsaban Tambon Karon	Thetsaban Tambon Karon	Karon municipality,Thetsaban Tambon Karon,thesbal tabl ka rn,เทศบาลตำบลกะรน	7.8312	98.29975	A	ADMD	TH		62	8301			0		29	Asia/Bangkok	2017-03-22
-7091852	Thetsaban Mueang Pa Tong	Thetsaban Mueang Pa Tong	Pa Tong municipality,Thetsaban Mueang Pa Tong,thesbal meuxng pa txng,เทศบาลเมืองป่าตอง	7.88819	98.3042	A	ADMD	TH		62	8302			0		28	Asia/Bangkok	2017-03-22

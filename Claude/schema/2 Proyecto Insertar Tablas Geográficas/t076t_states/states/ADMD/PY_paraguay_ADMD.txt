@@ -1,2 +1,0 @@
-﻿3439122	Departamento (historical) Chaco	Departamento (historical) Chaco		-20	-60	A	ADMD	PY		23				0		155	America/Asuncion	2008-04-30
-3867214	Departamento de (historical) Nueva Asunción	Departamento de (historical) Nueva Asuncion	Departamento de Nueva Asuncion	-21.08333	-61.16667	A	ADMD	PY		24				0		209	America/Asuncion	2014-07-07

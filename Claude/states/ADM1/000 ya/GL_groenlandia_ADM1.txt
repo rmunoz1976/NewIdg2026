@@ -1,5 +1,0 @@
-﻿7602005	Kujalleq	Kujalleq	Kommune Kujalleq,Kujalek,Kujallek,Kujalleq,Kujalleq Kommune,Kujalleq kommuna,ku ya lei ke,kuyallekeu,kuyarekku,kwjalyq,kwyalyk,Куяллек,Кујалек,Կույալեք,كوياليك,کوجالیق,クヤレック,库雅雷克,쿠얄레크	60.71905	-46.03683	A	ADM1	GL		04				7151		-9999	America/Nuuk	2021-10-10
-7602006	Qeqqata	Qeqqata	Kekata,Kekkata,Qeqqata,Qeqqata Kommune,Qeqqata Kommunia,Qeqqata kommuna,kai ke ka ta,kekata,kekatta,kykata,qyqata,Кеката,Кекката,Քեքատա,قیقاتا,كيكاتا,ケカッタ,凯克卡塔,케카타	66.94142	-53.66374	A	ADM1	GL		06				9620		-9999	America/Nuuk	2023-02-08
-7602007	Sermersooq	Sermersooq	Kommuneqarfik Sermersooq,Sermersok,Sermersook,Sermersooq,Sermersooq Kommune,seleumeleusokeu,Сермерсок,Сермерсоок,세르메르소크	64.18284	-51.71831	A	ADM1	GL		07				21868		1	America/Nuuk	2021-10-10
-11839534	Qeqertalik	Qeqertalik		68.70716	-52.84289	A	ADM1	GL		11839534				6500		-9999	America/Nuuk	2021-10-10
-11839537	Avannaata	Avannaata	Avannaata	69.21536	-51.08301	A	ADM1	GL		11839537				10726		30	America/Nuuk	2025-06-18

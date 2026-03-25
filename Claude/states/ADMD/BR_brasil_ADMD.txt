@@ -1,9 +1,0 @@
-﻿8449798	Jacarepaguáda	Jacarepaguada		-22.94519	-43.3487	A	ADMD	BR		21	3304557			0		36	America/Sao_Paulo	2013-02-02
-8449799	Zona Sul	Zona Sul	South Zone	-22.97499	-43.19807	A	ADMD	BR		21	3304557			0		58	America/Sao_Paulo	2013-02-02
-8449800	Grande Tijuca	Grande Tijuca		-22.99538	-43.28373	A	ADMD	BR		21	3304557			0		490	America/Sao_Paulo	2013-02-02
-8449801	Zona Norte	Zona Norte		-22.82935	-43.31772	A	ADMD	BR		21	3304557			0		16	America/Sao_Paulo	2013-02-02
-8449802	Zona Oeste	Zona Oeste		-22.89547	-43.5759	A	ADMD	BR		21	3304557			0		23	America/Sao_Paulo	2013-02-02
-8449803	Zona Central	Zona Central		-22.90369	-43.18777	A	ADMD	BR		21	3304557			0		13	America/Sao_Paulo	2013-02-02
-8449804	Governador Island	Governador Island	Governador Island,Ilha do Governador	-22.80973	-43.21404	A	ADMD	BR		21	3304557			0		24	America/Sao_Paulo	2013-05-11
-9883043	Parque dos Poderes	Parque dos Poderes		-20.45207	-54.55922	A	ADMD	BR		11	5002704			0		631	America/Campo_Grande	2014-12-21
-9883044	Centro	Centro		-20.46172	-54.61192	A	ADMD	BR		11	5002704			0		555	America/Campo_Grande	2014-12-21

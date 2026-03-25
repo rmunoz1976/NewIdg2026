@@ -1,2 +1,0 @@
-﻿3265371	Ljut	Ljut		43.03167	18.28833	A	ADMD	BA		02				0		636	Europe/Sarajevo	2008-04-30
-11170703	Grad Sarajevo	Grad Sarajevo	Grad Sarajevo,Sarajevo,Град Сарајево,Сарајево	43.86716	18.40083	A	ADMD	BA		01				0		568	Europe/Sarajevo	2016-06-06

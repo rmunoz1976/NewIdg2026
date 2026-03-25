@@ -1,3 +1,0 @@
-﻿2678206	Skaraborgs Län	Skaraborgs Lan	Skaraborg	58.33333	13.5	A	ADM1H	SE		28				0		123	Europe/Stockholm	2012-07-21
-2699307	Kristianstads Län	Kristianstads Lan	Kristianstad	56.25	14	A	ADM1H	SE		27				0		72	Europe/Stockholm	2012-07-21
-2726263	Älvsborgs Län	Alvsborgs Lan	Alvborgslan,Alvsborg,Älvborgslän,Älvsborg	58	12.5	A	ADM1H	SE		28				0		176	Europe/Stockholm	2012-07-21

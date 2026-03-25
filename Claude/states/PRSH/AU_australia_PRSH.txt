@@ -1,9 +1,0 @@
-﻿11079282	Naradhan	Naradhan	Naradhan,Naradhun	-33.7318	146.30119	A	PRSH	AU		02				0		324	Australia/Sydney	2016-03-12
-11079329	South Micabil	South Micabil	South Micabil,South Mickabil	-33.11596	146.91476	A	PRSH	AU		02	14600			0		183	Australia/Sydney	2026-02-06
-11079348	Pangee	Pangee	Pangee,Panjee	-32.04631	146.74816	A	PRSH	AU		02	10950			0		300	Australia/Sydney	2026-02-07
-11079351	Pangee Creek	Pangee Creek	Pange Creek,Pangee Creek	-31.8318	146.7679	A	PRSH	AU		02	10950			0		218	Australia/Sydney	2026-02-07
-11551203	Ournie	Ournie	Ouranee,Ournie	-35.95757	147.87354	A	PRSH	AU		02				0		286	Australia/Sydney	2017-08-03
-11551232	Mullengandra	Mullengandra	Mullanjandra,Mullengandra	-35.8985	147.1846	A	PRSH	AU		02				0		321	Australia/Sydney	2017-06-08
-11551241	Jingellic East	Jingellic East	Jingellec East,Jingellic East	-35.90162	147.75457	A	PRSH	AU		02				0		408	Australia/Sydney	2017-08-03
-11551525	Califat	Califat	Calafat,Califat	-35.23873	148.08134	A	PRSH	AU		02				0		340	Australia/Sydney	2017-06-08
-11551592	Uranquinty	Uranquinty	Uranquintry,Uranquinty	-35.18272	147.23845	A	PRSH	AU		02				0		197	Australia/Sydney	2017-06-08

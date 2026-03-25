@@ -1,5 +1,0 @@
-﻿3191838	Opština Ravne na Koroškem	Opstina Ravne na Koroskem	Opstina Ravne na Koroskem,Opština Ravne na Koroškem,Ravne na Koroskem,Ravne na Koroškem	46.53333	14.9	A	ADM2H	SI		K6	3191838			0		599	Europe/Ljubljana	2014-12-03
-3196355	Opština Ljubljana-Moste-Polje	Opstina Ljubljana-Moste-Polje	Ljubljana-Moste-Polje,Obcina  Ljubljana-Moste-Polje,Občina  Ljubljana-Moste-Polje,Opstina Ljubljana-Moste-Polje,Opština Ljubljana-Moste-Polje	46.06667	14.61667	A	ADM2H	SI		61	3196355			19433		272	Europe/Ljubljana	2026-02-27
-3239217	Opština Maribor-Tabor	Opstina Maribor-Tabor	Maribor-Tabor,Opstina Maribor-Tabor,Opština Maribor-Tabor	46.50639	15.60778	A	ADM2H	SI		H1	3239217			0		631	Europe/Ljubljana	2014-12-03
-3239219	Opština Maribor-Rotovže	Opstina Maribor-Rotovze	Maribor-Rotovze,Maribor-Rotovže,Opstina Maribor-Rotovze,Opština Maribor-Rotovže	46.59667	15.58972	A	ADM2H	SI		J2	3239219			0		467	Europe/Ljubljana	2014-12-03
-3239222	Opština Maribor-Tezno	Opstina Maribor-Tezno		46.44389	15.69583	A	ADM2H	SI		98	3239222			0		256	Europe/Ljubljana	2014-12-03

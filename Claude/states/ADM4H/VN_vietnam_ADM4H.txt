@@ -1,2 +1,0 @@
-﻿1580764	Ấp Long Hội	Ap Long Hoi	Hoa Long	10.28333	105.68333	A	ADM4H	VN		82				0		7	Asia/Ho_Chi_Minh	2025-11-03
-9289616	Ấp Tân Quý	Ap Tan Quy	Xa Tan Phuoc,Xã Tân Phước	10.29399	105.57676	A	ADM4H	VN		82	1577922			0		2	Asia/Ho_Chi_Minh	2025-11-06

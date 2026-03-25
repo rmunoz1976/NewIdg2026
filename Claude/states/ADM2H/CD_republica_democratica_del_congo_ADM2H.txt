@@ -1,8 +1,0 @@
-﻿922772	Kolwezi City	Kolwezi City		-10.70986	25.49927	A	ADM2H	CD		22	922772			0		1510	Africa/Lubumbashi	2021-09-08
-7670778	Haut Lomami	Haut Lomami		-8.12166	25.5951	A	ADM2H	CD		15	15			0		967	Africa/Lubumbashi	2021-09-08
-7670837	Haut Katanga	Haut Katanga		-10.46044	27.94322	A	ADM2H	CD		14	16			0		1691	Africa/Lubumbashi	2021-09-08
-7670932	Nord Ubangi	Nord Ubangi		3.88593	21.05228	A	ADM2H	CD		02	32			0		522	Africa/Kinshasa	2021-09-08
-7731903	Sud Ubangi	Sud Ubangi		3.16795	19.49877	A	ADM2H	CD		02	36			0		353	Africa/Kinshasa	2021-09-08
-7731971	Cataractes District	Cataractes District	Cataractes	-5.19705	14.35037	A	ADM2H	CD		08	13			0		237	Africa/Kinshasa	2021-09-08
-7731975	Bas Fleuve District	Bas Fleuve District	Bas-Fleuve	-5.44296	12.98423	A	ADM2H	CD		08	10			0		184	Africa/Kinshasa	2021-09-08
-8260565	Tshilenge District	Tshilenge District	Tshilenge	-6.25431	23.4978	A	ADM2H	CD		04	38			0		615	Africa/Lubumbashi	2021-09-08

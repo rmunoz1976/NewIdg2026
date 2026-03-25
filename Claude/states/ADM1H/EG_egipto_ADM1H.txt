@@ -1,1 +1,0 @@
-﻿8378475	Aegyptus	Aegyptus	AEgypten (roemische Provinz),Egipto (provincia romana),Egitto (provincia romana),Egypt (Roman province),Egypte (province romaine),Ägypten (römische Provinz),Égypte (province romaine)	31.19518	29.90976	A	ADM1H	EG		06				0		15	Africa/Cairo	2012-10-24

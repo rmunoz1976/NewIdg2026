@@ -1,2 +1,0 @@
-﻿9887712	Imnam-myeon	Imnam-myeon	Imnam-myeon,imnammyeon,임남면	38.31161	127.84753	A	ADM3H	KR		00				0		438	Asia/Seoul	2015-01-08
-9983613	Jinseo-myeon	Jinseo-myeon	Jinseo-myeon,jinseomyeon,진서면	37.94761	126.71883	A	ADM3H	KR		00				0		41	Asia/Seoul	2015-02-08

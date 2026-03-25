@@ -1,4 +1,0 @@
-﻿7576574	Tabiteuea South	Tabiteuea South	Tabiteuea Maiaki	-1.4926	175.0153	A	ADMD	KI		01	TR			1298		-9999	Pacific/Tarawa	2010-11-09
-7576575	Tabiteuea North	Tabiteuea North	TBF,Tabiteuea Meang	-1.19828	174.71781	A	ADMD	KI		01	TR			3600		1	Pacific/Tarawa	2017-02-19
-7577056	Urban South Tarawa	Urban South Tarawa		1.39517	173.13812	A	ADMD	KI		01	TW			40311		4	Pacific/Tarawa	2013-07-24
-7577057	Rural North Tarawa	Rural North Tarawa		1.3965	173.13644	A	ADMD	KI		01	TW			5678		-9999	Pacific/Tarawa	2013-07-24

@@ -1,4 +1,0 @@
-﻿4041530	Rota Municipality	Rota Municipality	Luta,Rota	14.154	145.201	A	ADM1	MP		100				2527	496	291	Pacific/Saipan	2018-02-26
-4041552	Saipan Municipality	Saipan Municipality	Saipan,saipan,사이판	15.16847	145.74081	A	ADM1	MP		110				48220	466	184	Pacific/Saipan	2018-02-26
-4041650	Tinian Municipality	Tinian Municipality	Tinian	15.029	145.616	A	ADM1	MP		120				3540	187	100	Pacific/Saipan	2018-02-26
-7733156	Northern Islands Municipality	Northern Islands Municipality	Northern Islands	18.11	145.771	A	ADM1	MP		085				85	979	68	Pacific/Saipan	2013-10-16

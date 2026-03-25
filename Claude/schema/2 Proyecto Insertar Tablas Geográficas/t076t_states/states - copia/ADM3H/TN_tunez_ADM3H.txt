@@ -1,2 +1,0 @@
-﻿8354636	Africa Proconsularis	Africa Proconsularis	Africa,Africa (Roman province),Africa (provincia romana),Afrika (roemische Provinz),Afrika (römische Provinz),Afrique (province romaine),Ifriqiya (afryqyt‎),Ifriqiya (إفريقية‎),el-Maghrib el-Adna (almghrb aladny),el-Maghrib el-Adna (المغرب الأدنى),África (provincia romana)	36.86877	10.33256	A	ADM3H	TN		36				0		32	Africa/Tunis	2024-07-14
-8354637	Africa Byzacena	Africa Byzacena		35.82439	10.62893	A	ADM3H	TN		23				0		34	Africa/Tunis	2012-08-03

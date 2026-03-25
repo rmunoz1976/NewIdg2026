@@ -1,9 +1,0 @@
-﻿1055428	Faritanin’ i Toliara	Faritanin' i Toliara		-21	45	A	ADM1H	MG		54				2543763		339	Indian/Antananarivo	2023-06-28
-1055467	Faritanin’ i Toamasina	Faritanin' i Toamasina		-18	49	A	ADM1H	MG		31				3012480		370	Indian/Antananarivo	2023-06-28
-1062662	Faritanin’ i Mahajanga	Faritanin' i Mahajanga		-17	47	A	ADM1H	MG		43				1988786		248	Indian/Antananarivo	2023-06-28
-1064889	Faritanin’ i Fianarantsoa	Faritanin' i Fianarantsoa		-19.5	47	A	ADM1H	MG		12				3797493		2103	Indian/Antananarivo	2023-06-28
-1069127	Faritanin’ Antsiran̈ana	Faritanin' Antsiranana		-14	49.5	A	ADM1H	MG		72				1342317		797	Indian/Antananarivo	2023-06-28
-1070938	Faritanin’ Antananarivo	Faritanin' Antananarivo		-19	47	A	ADM1H	MG		13				5270750		1418	Indian/Antananarivo	2023-06-28
-7670906	Vatovavy Fitovinany Region	Vatovavy Fitovinany Region	Vatovavy Fitovinany	-21.3	47.9	A	ADM1H	MG		27				1097700		33	Indian/Antananarivo	2023-06-28
-10229484	Antananarivo Province	Antananarivo Province		-18.75	46.75	A	ADM1H	MG		11	10229484			5370900		1239	Indian/Antananarivo	2018-09-07
-10229493	Toliara Province	Toliara Province		-22.75	44.25	A	ADM1H	MG		51	10229493			2229550		638	Indian/Antananarivo	2018-09-07

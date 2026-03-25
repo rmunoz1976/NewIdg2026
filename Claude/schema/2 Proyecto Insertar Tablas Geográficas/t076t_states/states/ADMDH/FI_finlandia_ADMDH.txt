@@ -1,2 +1,0 @@
-﻿633537	Tyrvää	Tyrvaeae	Tyrvis	61.33333	23	A	ADMDH	FI		15				0		71	Europe/Helsinki	2021-03-29
-658228	Helsinge Landskommun	Helsinge Landskommun	(( Helsingin Maalaiskunta )),Halsinge,Helsingin Pitaja,Helsingin Pitäjä,Hälsinge	60.3	25	A	ADMDH	FI		13				0		14	Europe/Helsinki	2012-11-09

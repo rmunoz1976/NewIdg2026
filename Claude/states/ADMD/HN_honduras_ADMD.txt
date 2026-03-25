@@ -1,2 +1,0 @@
-﻿9651529	Colonia Zapote Norte	Colonia Zapote Norte		14.10472	-87.225	A	ADMD	HN		08				0		1001	America/Tegucigalpa	2014-10-08
-9651530	Centro America	Centro America		14.09117	-87.23642	A	ADMD	HN		08				0		1085	America/Tegucigalpa	2014-10-08

@@ -1,9 +1,0 @@
-﻿2761332	Politischer Bezirk Wien-Umgebung	Politischer Bezirk Wien-Umgebung	Bezirk Wien-Umgebung,Politischer Bezirk Wien-Umgebung,Wien-Umgebung	48.23824	16.16489	A	ADM2H	AT		03	324			115986		346	Europe/Vienna	2017-06-16
-2768118	Politischer Bezirk Radkersburg	Politischer Bezirk Radkersburg	Politischer Bezirk Radkersburg,Radkersburg	46.76471	15.83731	A	ADM2H	AT		06	615			0		256	Europe/Vienna	2014-02-07
-2770992	Politischer Bezirk Mürzzuschlag	Politischer Bezirk Muerzzuschlag		47.55	15.6	A	ADM2H	AT		06	613			0		676	Europe/Vienna	2013-08-25
-2773886	Politischer Bezirk Knittelfeld	Politischer Bezirk Knittelfeld		47.25	14.8	A	ADM2H	AT		06	609			0		1068	Europe/Vienna	2013-08-25
-2775019	Politischer Bezirk Judenburg	Politischer Bezirk Judenburg		47.25	14.53333	A	ADM2H	AT		06	608			0		970	Europe/Vienna	2013-08-25
-2776799	Politischer Bezirk Hartberg	Politischer Bezirk Hartberg		47.33333	15.93333	A	ADM2H	AT		06	607			0		601	Europe/Vienna	2013-08-25
-2779114	Politischer Bezirk Fürstenfeld	Politischer Bezirk Fuerstenfeld		47.06667	16.03333	A	ADM2H	AT		06	605			0		258	Europe/Vienna	2013-08-25
-2779681	Politischer Bezirk Feldbach	Politischer Bezirk Feldbach	Feldbach,Politischer Bezirk Feldbach	46.93003	15.83734	A	ADM2H	AT		06	604			0		365	Europe/Vienna	2014-11-14
-2781370	Politischer Bezirk Bruck an der Mur	Politischer Bezirk Bruck an der Mur		47.53333	15.25	A	ADM2H	AT		06	602			0		708	Europe/Vienna	2013-08-25

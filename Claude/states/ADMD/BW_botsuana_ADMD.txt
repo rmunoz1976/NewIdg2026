@@ -1,3 +1,0 @@
-﻿443222	Bakwena Tribal Territory	Bakwena Tribal Territory		-24.58333	25.8	A	ADMD	BW		00				0		1015	Africa/Gaborone	2000-10-04
-1106233	Balete Tribal Territory	Balete Tribal Territory		-24.74167	25.79611	A	ADMD	BW		06				0		1057	Africa/Gaborone	2001-06-12
-1106234	Batlokwa Tribal Territory	Batlokwa Tribal Territory		-24.67889	25.99	A	ADMD	BW		09				0		1006	Africa/Gaborone	2000-10-04

@@ -1,4 +1,0 @@
-﻿3873113	Departamento de Río Negro	Departamento de Rio Negro		-40.83333	-73.33333	A	ADMD	CL		14				0		116	America/Santiago	1993-12-19
-3873144	Departamento de Río Bueno	Departamento de Rio Bueno		-40.33333	-72.33333	A	ADMD	CL		17				0		336	America/Santiago	2011-08-08
-3884371	Departmento de La Serena	Departmento de La Serena		-29.5	-71	A	ADMD	CL		07				0		1198	America/Santiago	1993-12-19
-3896215	Departamento de Castro	Departamento de Castro		-43	-74	A	ADMD	CL		14				0		208	America/Santiago	1993-12-19

@@ -1,2 +1,0 @@
-﻿611834	South Ossetia [provisional]	South Ossetia [provisional]	Chussar Iryston,Juzhnaja Osetija,Juzna Osetija,Južna Osetija,Khussar Iryston,Samkhret' Oset'is AO,Samkhret' Oset'is Avtonomiuri Olk'i,South Ossetia,South Ossetian Autonomous Oblast,Suedossetien,Südossetien,Yugo-Osetinskaya AO,Yugo-Osetinskaya Avtonoanaya Oblast',samkhreti oseti,Хуссар Ирыстон,Южная Осетия,სამხრეთი ოსეთი	42.33333	44	A	ADMD	GE		00				0		1466	Asia/Tbilisi	2022-10-08
-612141	Samgorskiy Rayon	Samgorskiy Rayon		41.66667	44.91667	A	ADMD	GE		00				0		414	Asia/Tbilisi	2007-05-30

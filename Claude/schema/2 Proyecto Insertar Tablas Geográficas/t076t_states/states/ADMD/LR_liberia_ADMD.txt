@@ -1,4 +1,0 @@
-﻿2274098	Sasstown Territory	Sasstown Territory		4.83333	-8.5	A	ADMD	LR		16				0		51	Africa/Monrovia	2008-04-30
-2274893	Commonwealth District of Monrovia	Commonwealth District of Monrovia	Commonwealth District of Monrovia	6.31667	-10.8	A	ADMD	LR		14				0		7	Africa/Monrovia	2012-01-17
-2275103	Marshall Territory	Marshall Territory		6.25	-10.5	A	ADMD	LR		17				0		12	Africa/Monrovia	2008-04-30
-2275581	Kru Coast Territory	Kru Coast Territory		4.58333	-8.08333	A	ADMD	LR		13				0		7	Africa/Monrovia	2008-04-30

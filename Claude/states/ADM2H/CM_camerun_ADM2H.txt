@@ -1,4 +1,0 @@
-﻿2227419	Département de la Méfou	Departement de la Mefou		3.83333	11.66667	A	ADM2H	CM		11	2227419			0		725	Africa/Douala	2019-01-08
-2228070	Département du Mbam	Departement du Mbam	Departement du Mbam,Département du Mbam,M'Boum,M’Boum	5.25	12	A	ADM2H	CM		11	2228070			0		628	Africa/Douala	2019-01-08
-2228394	Département du Margui-Wandala	Departement du Margui-Wandala		10.75	13.83333	A	ADM2H	CM		12	2228394			0		768	Africa/Douala	2019-01-08
-2236016	Département de l’Adamaoua	Departement de l'Adamaoua	Adamoua,Departement de l'Adamaoua,Département de l’Adamaoua	7	13.5	A	ADM2H	CM		10	2236016			0		1173	Africa/Douala	2019-01-08

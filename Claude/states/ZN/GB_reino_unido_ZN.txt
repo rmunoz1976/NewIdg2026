@@ -1,4 +1,0 @@
-﻿6697195	East End	East End		51.52105	-0.04635	A	ZN	GB		ENG				0		14	Europe/London	2009-12-03
-8306813	Akrotiri	Akrotiri		34.64167	32.92639	A	ZN	GB		00				0		13	Asia/Nicosia	2024-03-03
-8306814	Dhekelia	Dhekelia		35.01667	33.775	A	ZN	GB		00				0		52	Asia/Famagusta	2024-03-26
-11812257	Commonwealth of Nations	Commonwealth of Nations	British Commonwealth of Nations	51.50488	-0.13602	A	ZN	GB	AG,AU,BB,BD,BN,BS,BW,BZ,CA,CM,CY,DM,FJ,GB,GD,GH,GY,IN,JM,KE,KI,KN,LC,LK,LS,MT,MU,MW,MY,MZ,NA,NG,NR,NZ,PG,PK,RW,SB,SC,SG,SL,SZ,TO,TT,TV,TZ,UG,VC,VU,WS,ZA,ZM					2400000000		19	Europe/London	2018-09-02

@@ -1,5 +1,0 @@
-﻿3615609	Departamento de (historical) Zelaya	Departamento de (historical) Zelaya	Departamento de Bluefields	13	-84.5	A	ADMD	NI		18				0		71	America/Managua	2008-04-30
-3615750	Comarca Wasayama	Comarca Wasayama	Comarca Wasayama,Wasallama,Wasallamba	13.0776	-85.02791	A	ADMD	NI		18	9305			0		152	America/Managua	2026-01-05
-3616728	Municipio de San Juan del Norte	Municipio de San Juan del Norte		11	-84.08333	A	ADMD	NI		14				0		108	America/Managua	1993-12-27
-3616766	Municipio de San José	Municipio de San Jose		12.58333	-85.75	A	ADMD	NI		01				0		659	America/Managua	1993-12-27
-3618237	Comarca La Sirena	Comarca La Sirena		13.02149	-84.85651	A	ADMD	NI		18	9305			0		131	America/Managua	2026-01-05

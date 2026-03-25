@@ -1,8 +1,0 @@
-﻿1848952	Wakamiya-chō	Wakamiya-cho	Wakamiya-cho,Wakamiya-chō	33.7	130.58333	A	ADMDH	JP		00				0		145	Asia/Tokyo	2015-11-18
-1856824	Miyada-machi	Miyada-machi	Miyada-machi,Miyata-machi	33.71667	130.66667	A	ADMDH	JP		00				0		33	Asia/Tokyo	2015-11-18
-1860488	Kami-mura	Kami-mura	Kami-mura	34.63333	135.56667	A	ADMDH	JP		00				0		8	Asia/Tokyo	2015-06-24
-1864590	Chikuho-machi	Chikuho-machi		33.56667	130.61667	A	ADMDH	JP		00				0		143	Asia/Tokyo	2015-11-18
-1864990	Ashitaka-mura	Ashitaka-mura	Ashitaka-mura	35.15	138.81667	A	ADMDH	JP		00				0		93	Asia/Tokyo	2015-06-15
-2112736	Hippo-mura	Hippo-mura	Hippo-mura	37.81667	140.71667	A	ADMDH	JP		00				0		407	Asia/Tokyo	2015-06-15
-2129004	Namioka Machi	Namioka Machi	Namioka Machi,Namioka-machi,lang gang ding,namiokamachi,なみおかまち,ナミオカマチ,浪岡町	40.73333	140.66667	A	ADMDH	JP		00				0		172	Asia/Tokyo	2014-06-05
-8578244	Iwami-sannnai	Iwami-sannnai		39.71116	140.30593	A	ADMDH	JP		02				0		64	Asia/Tokyo	2013-07-08

@@ -1,2 +1,0 @@
-﻿7669264	Djougou Rural	Djougou Rural		9.68047	1.84481	A	ADM2H	BJ		13	7669264			0		376	Africa/Porto-Novo	2015-08-17
-7670568	Djougou Urban	Djougou Urban		9.70686	1.66992	A	ADM2H	BJ		13	7670568			0		442	Africa/Porto-Novo	2015-08-17
