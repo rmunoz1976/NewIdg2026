@@ -1,0 +1,180 @@
+-- ==================================================================================
+-- PAÍS:      Islas Heard y McDonald (Heard Island and McDonald Islands)
+-- ISO:       HM / HMD / 334
+-- TIPO:      Territorio externo de Australia (Australian external territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:HM / IP2Location / geonames.org / Australian Antarctic Division
+-- NOMBRE:    HM_HEARD_MCDONALD_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Heard y McDonald NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es un territorio externo de Australia, deshabitado permanentemente
+-- - Superficie total: 412 km² (Isla Heard: 368 km², Islas McDonald: 44 km²)
+-- - Población permanente: 0 habitantes
+-- - Solo visitas científicas esporádicas (no hay población permanente)
+-- - Administrado por la Australian Antarctic Division desde Hobart, Tasmania
+--
+-- ISO 3166-2:HM establece explícitamente: "The Heard Island and McDonald Islands 
+-- have no defined subdivisions" 
+--
+-- IP2Location confirma: HM está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que HM tiene 2 entidades geográficas (islas principales),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- La Australian Antarctic Division confirma: "The Territory of Heard Island and 
+-- McDonald Islands is an Australian external territory with no permanent population
+-- and no administrative subdivisions." 
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         HM es un territorio externo de Australia deshabitado.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_hm', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'HM'), 2, 'Territorio externo de Australia', 'Australian external territory', 'Heard Island and McDonald Islands',
+       'Heard Island and McDonald Islands', 'Islas Heard y McDonald', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_hm'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Heard y McDonald no tienen divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Heard y McDonald - Territorio externo de Australia
+--     ├── Isla Heard (Heard Island) - 368 km²
+--     │   ├── Big Ben (volcán activo, 2,745 m, punto más alto)
+--     │   ├── Cape Arkona
+--     │   └── Atlas Cove (antigua estación científica)
+--     ├── Islas McDonald (McDonald Islands) - 44 km²
+--     │   ├── McDonald Island (principal)
+--     │   ├── Flat Island
+--     │   └── Meyer Rock
+--     └── Rocas periféricas (Shag Islet, Sail Rock, etc.)
+--
+-- NOTA: Las islas individuales NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad desde Australia 
+--       sin subdivisiones internas. Es una reserva natural estricta.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** HM NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio externo de Australia desde 1947 
+--         - Superficie total: 412 km²
+--         - Población: 0 permanente (sin residentes)
+--         - Capital administrativa: Hobart, Tasmania (administración externa)
+--         - Administrado por la Australian Antarctic Division 
+--         - Declarado reserva natural en 2002 
+--         - Patrimonio de la Humanidad por la UNESCO desde 1997 
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   HM es un territorio externo de Australia (Australian external territory) 
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: HM
+--     *   Código ISO 3166-1 alpha-3: HMD
+--     *   Código numérico ISO: 334
+--     *   Dominio de internet: .hm (reservado, no utilizado)
+--     *   Administrado bajo la ley australiana a través de la Australian Antarctic Division 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de HM 
+--     *   IP2Location confirma: HM está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   No existen códigos bajo Australia (AU) para este territorio 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para la Isla Heard es 2072937 
+--     *   El geo_id para las Islas McDonald es 2072936 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga HM.zip contiene islas y accidentes geográficos, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DETALLADA:**
+--     *   **Isla Heard (Heard Island):**
+--         - Superficie: 368 km² 
+--         - Coordenadas: 53°06′S 73°31′E
+--         - Volcán activo: Big Ben (2,745 m), el pico más alto de Australia 
+--         - 80% cubierta de hielo y glaciares
+--         - Punto más bajo: Océano Índico
+--     *   **Islas McDonald (McDonald Islands):**
+--         - Superficie total: 44 km² 
+--         - Coordenadas: 53°02′S 72°36′E
+--         - McDonald Island: volcán activo (230 m)
+--         - Erupción volcánica en 1996 que duplicó su tamaño 
+--         - Flat Island y Meyer Rock son pequeñas rocas adyacentes
+--     *   **Ubicación:** Océano Índico Sur, 4,100 km al suroeste de Perth
+--     *   **Clima:** Antártico marítimo (muy frío, húmedo, extremadamente ventoso)
+--     *   **Acceso:** Extremadamente remoto, solo por barco desde Australia o expediciones antárticas
+--
+-- 6.  **POBLACIÓN Y OCUPACIÓN:**
+--     *   **Población permanente:** 0 
+--     *   **Población no permanente:** Solo personal científico ocasional
+--     *   Visitas: Muy esporádicas, cada 2-5 años
+--     *   Última expedición científica australiana: 2016-2017 
+--     *   Estación científica: Existió en Atlas Cove (Isla Heard) de 1947 a 1954 
+--     *   Actualmente: Sin estaciones permanentes, solo campamentos temporales
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: No tiene código telefónico propio
+--     *   En caso de emergencias, se usa el código australiano (+61)
+--
+-- 8.  **CONSERVACIÓN Y PATRIMONIO:**
+--     *   Reserva natural desde 2002 (Heard Island and McDonald Islands Marine Reserve) 
+--     *   Patrimonio de la Humanidad de la UNESCO desde 1997 
+--     *   Área protegida de 65,000 km² 
+--     *   Permiso estrictamente requerido para cualquier visita
+--     *   Considerado uno de los ecosistemas más prístinos del planeta
+--
+-- 9.  **FAUNA:**
+--     *   Poblaciones importantes de focas elefante y leones marinos
+--     *   Colonias de pingüinos rey, pingüinos macaroni y pingüinos papúa
+--     *   Especies de aves marinas endémicas
+--     *   Área clave para investigación del cambio climático por glaciares en retroceso
+--
+-- 10. **HISTORIA (BREVE):**
+--     *   1833: Descubrimiento de Isla Heard por el capitán John Heard (ballenero estadounidense)
+--     *   1854: Descubrimiento de Islas McDonald por el capitán William McDonald
+--     *   1947: Transferencia de soberanía del Reino Unido a Australia
+--     *   1947-1954: Estación científica en Atlas Cove (operada por ANARE)
+--     *   1954-2000: Solo visitas esporádicas de expediciones científicas
+--     *   2002: Declaración como reserva natural
+--     *   2016: Última expedición científica australiana
+--
+-- 11. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:HM NO DEFINE subdivisiones 
+--         - IP2Location confirma que HM está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para HM
+--         - Australian Antarctic Division: sin subdivisiones administrativas 
+--         - UNESCO: territorio sin divisiones políticas 
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 12. **NOTA SOBRE LAS ISLAS:**
+--     *   Aunque hay dos grupos de islas principales (Heard y McDonald),
+--         estas NO son divisiones administrativas ADM1
+--     *   Son características geográficas (islas), no entidades administrativas
+--     *   El territorio completo es administrado como una unidad
+--     *   No hay gobiernos locales, consejos, ni subdivisiones políticas
+--     *   Es uno de los territorios más remotos e inaccesibles del mundo
+-- ==================================================================================

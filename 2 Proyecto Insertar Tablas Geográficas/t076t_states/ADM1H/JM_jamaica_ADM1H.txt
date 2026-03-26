@@ -1,0 +1,3 @@
+﻿3490691	District of Vere	District of Vere	Vere	17.84747	-77.27224	A	ADM1H	JM		01				0		22	America/Jamaica	2023-12-25
+3490694	District of Saint John	District of Saint John		18.11874	-77.10692	A	ADM1H	JM		10				0		488	America/Jamaica	2023-07-14
+3490696	Saint Dorothy Parish	Saint Dorothy Parish		18.04367	-77.14626	A	ADM1H	JM		10				0		452	America/Jamaica	2023-10-17

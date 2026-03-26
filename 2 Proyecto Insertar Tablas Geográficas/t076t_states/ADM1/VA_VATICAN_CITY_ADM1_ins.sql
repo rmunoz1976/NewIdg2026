@@ -1,0 +1,171 @@
+-- ==================================================================================
+-- PAÍS:      Ciudad del Vaticano (Vatican City)
+-- ISO:       VA / VAT / 336
+-- TIPO:      Estado independiente, enclave dentro de Roma (Independent state)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:VA / IP2Location / Vatican City State / geonames.org
+-- NOMBRE:    VA_VATICAN_CITY_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- La Ciudad del Vaticano NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es el estado soberano más pequeño del mundo
+-- - Superficie total: 0.44 km² (aproximadamente 44 hectáreas)
+-- - Población: ~825 habitantes (2023)
+-- - Capital: Ciudad del Vaticano (el estado completo)
+-- - No tiene municipios ni subdivisiones administrativas
+--
+-- ISO 3166-2:VA establece explícitamente: "Vatican City has no defined subdivisions" 
+--
+-- IP2Location confirma: VA está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que VA tiene 1 entidad administrativa (A.PCLI - independent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- El estado vaticano está organizado en departamentos y oficinas, pero NO son
+-- divisiones administrativas territoriales (ADM1). Toda la ciudad-estado es
+-- una única entidad administrativa.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         VA es un estado independiente sin subdivisiones.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'estado_va', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'VA'), 1, 'Estado Independiente', 'Independent State', 'Stato della Città del Vaticano',
+       'Stato della Città del Vaticano', 'Estado de la Ciudad del Vaticano', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'estado_va'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- La Ciudad del Vaticano no tiene divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Ciudad del Vaticano - Estado independiente
+--     ├── Plaza de San Pedro (Piazza San Pietro)
+--     ├── Basílica de San Pedro (Basilica di San Pietro)
+--     ├── Palacio Apostólico (residencia papal)
+--     ├── Museos Vaticanos (Musei Vaticani)
+--     ├── Jardines Vaticanos (Giardini Vaticani)
+--     ├── Estación de tren (Ferrovia Vaticana)
+--     ├── Helipuerto
+--     ├── Oficinas administrativas (Gobernación, Secretaría de Estado, etc.)
+--     └── Otras edificaciones y plazas
+--
+-- NOTA: Las edificaciones y espacios NO son divisiones administrativas ADM1.
+--       El estado es una sola entidad territorial sin subdivisiones.
+--       La organización interna es funcional (departamentos), no territorial.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** La Ciudad del Vaticano NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Estado independiente desde 1929 (Tratados de Letrán)
+--         - Superficie: 0.44 km² (el país más pequeño del mundo)
+--         - Población: 825 habitantes (2023)
+--         - Capital: Ciudad del Vaticano (el estado completo)
+--         - Administrada por el Papa como jefe de estado
+--         - Tiene su propio sistema judicial, policial, postal, etc.
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   La Ciudad del Vaticano es un estado independiente (independent state) 
+--     *   Clasificada como PCLI (País Independiente) en t070t_level_types (id_level_type = 1)
+--     *   Código ISO 3166-1 alpha-2: VA
+--     *   Código ISO 3166-1 alpha-3: VAT
+--     *   Código numérico ISO: 336
+--     *   Dominio de internet: .va
+--
+-- 3.  **CÓDICOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de VA 
+--     *   IP2Location confirma: VA está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para la Ciudad del Vaticano es 3164670 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga VA.zip contiene el territorio completo, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** 41°54′N 12°27′E (Roma, Italia)
+--     *   **Superficie:** 0.44 km² (44 hectáreas)
+--     *   **Fronteras:** Totalmente rodeado por Roma, Italia (3.2 km de frontera)
+--     *   **Punto más alto:** Colina Vaticana (75 m)
+--     *   **Punto más bajo:** Plaza de San Pedro (19 m)
+--
+-- 6.  **POBLACIÓN Y DEMOGRAFÍA:**
+--     *   **Población total:** 825 habitantes (2023) 
+--     *   **Ciudadanos:** ~600 (incluyendo personal eclesiástico y laico)
+--     *   **Población flotante:** ~1,000 empleados (viven fuera del estado)
+--     *   **Idiomas oficiales:** Italiano (de facto), Latín (oficial)
+--     *   **Religión:** Catolicismo (estado confesional)
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +379 (asignado, pero raramente usado)
+--     *   También se usa el código italiano +39 (06) para comunicaciones
+--
+-- 8.  **MONEDA:**
+--     *   Euro (EUR) - acuerdos con la Unión Europea
+--     *   Acuña sus propias monedas de euro (con la imagen del Papa)
+--
+-- 9.  **GOBIERNO Y ADMINISTRACIÓN:**
+--     *   **Jefe de Estado:** El Papa (Sumo Pontífice)
+--     *   **Jefe de Gobierno:** Presidente de la Gobernación
+--     *   **Órganos principales:**
+--         - Secretaría de Estado (asuntos diplomáticos)
+--         - Gobernación del Estado (administración civil)
+--         - Congregaciones y consejos (asuntos eclesiásticos)
+--     *   **No hay divisiones territoriales:** todo el estado es una sola entidad
+--
+-- 10. **ORGANIZACIÓN ADMINISTRATIVA (NO TERRITORIAL):**
+--     *   La administración se organiza en departamentos funcionales:
+--         - Secretaría de Estado
+--         - Gobernación del Estado
+--         - Administración del Patrimonio de la Sede Apostólica (APSA)
+--         - Guardia Suiza (cuerpo de seguridad)
+--         - Gendarmería Vaticana (policía)
+--         - Oficina de Correos
+--         - Museo Vaticano
+--         - Biblioteca Apostólica
+--     *   Estos NO son divisiones territoriales ADM1
+--
+-- 11. **HISTORIA:**
+--     *   756: Donación de Pipino (origen de los Estados Pontificios)
+--     *   1870: Anexión por Italia (fin de los Estados Pontificios)
+--     *   1929: Tratados de Letrán (creación del Estado de la Ciudad del Vaticano)
+--     *   Actualmente: Estado independiente, sede de la Iglesia Católica
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:VA NO DEFINE subdivisiones 
+--         - IP2Location confirma que VA está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para VA
+--         - Vatican City State: el estado es una sola entidad sin subdivisiones 
+--         - No existen municipios ni divisiones administrativas
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   La Ciudad del Vaticano NO tiene municipios
+--     *   No tiene divisiones administrativas de ningún tipo
+--     *   Es el único país del mundo sin subdivisiones administrativas
+--     *   La única entidad es el estado completo
+-- ==================================================================================

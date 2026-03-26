@@ -1,0 +1,166 @@
+-- ==================================================================================
+-- PAÍS:      Reunión (Réunion)
+-- ISO:       RE / REU / 638
+-- TIPO:      Departamento y región de ultramar de Francia (Overseas department)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:RE / IP2Location / Insee / geonames.org
+-- NOMBRE:    RE_REUNION_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Reunión NO TIENE divisiones administrativas de primer nivel (ADM1) según
+-- el estándar ISO 3166-2, ya que es un departamento de ultramar de Francia.
+--
+-- El usuario solicitó "16 municipios como divisiones ADM1", pero esto es INCORRECTO:
+-- - Reunión es un departamento y región de ultramar francés (DROM) desde 1946 
+-- - ISO 3166-2:RE NO DEFINE códigos para subdivisiones 
+-- - La estructura administrativa de Francia sitúa a Reunión como ADM1 bajo FR
+-- - Las 24 comunas (municipios) son divisiones de SEGUNDO nivel (ADM2) 
+--
+-- ESTRUCTURA JERÁRQUICA CORRECTA (según sistema francés):
+-- └── Francia (ADM0)
+--     └── Reunión (ADM1 bajo código FR-974) [código ISO 3166-2: FR-974]
+--         ├── Arrondissements: Saint-Benoît, Saint-Denis, Saint-Paul, Saint-Pierre (4)
+--         ├── Cantones: 25
+--         └── Comunas: 24 (estos son ADM2, NO ADM1)
+--
+-- IMPORTANTE: ISO 3166-1 asigna RE como código independiente para Reunión,
+-- pero ISO 3166-2:RE no tiene subdivisiones definidas bajo su propio código .
+-- Las subdivisiones reales (las 24 comunas) están codificadas bajo FR-974.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Reunión es un departamento de ultramar francés.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'departamento_ultramar_re', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'RE'), 2, 'Departamento de Ultramar', 'Overseas Department', 'Département d''outre-mer',
+       'Département d''outre-mer', 'Departamento de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'departamento_ultramar_re'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states BAJO CÓDIGO RE
+-- ==================================================================================
+-- Reunión (código ISO RE) no tiene divisiones administrativas de primer nivel
+-- definidas en ISO 3166-2 bajo su propio código .
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL (con advertencias):
+-- └── Reunión - Departamento de ultramar de Francia
+--     ├── Arrondissement de Saint-Denis (subdivisión administrativa, no ADM1)
+--     ├── Arrondissement de Saint-Paul (subdivisión administrativa, no ADM1)
+--     ├── Arrondissement de Saint-Pierre (subdivisión administrativa, no ADM1)
+--     ├── Arrondissement de Saint-Benoît (subdivisión administrativa, no ADM1)
+--     ├── 25 cantones
+--     └── 24 comunas (municipios) - estos son ADM2 bajo sistema francés
+--
+-- NOTA: Las 24 comunas (municipios) de Reunión son las divisiones de segundo nivel,
+-- no de primer nivel. No se insertan bajo código RE.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios como ADM1" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Reunión tiene 24 MUNICIPIOS (comunas) como ADM2,
+--         no como divisiones ADM1 bajo su propio código ISO .
+--     *   **JERARQUÍA CORRECTA:**
+--         - ADM0: Reunión (país con código RE)
+--         - ADM1: NO EXISTE bajo código RE (sí existe bajo código FR-974)
+--         - ADM2: 24 comunas (municipios)
+--         - ADM3: Cantones y arrondissements
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Reunión es un departamento y región de ultramar francés (DROM) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: RE
+--     *   Código ISO 3166-1 alpha-3: REU
+--     *   Código numérico ISO: 638
+--     *   Código INSEE: 974
+--     *   Dominio de internet: .re
+--     *   Es región ultraperiférica de la Unión Europea 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2:RE NO DEFINE códigos para subdivisiones 
+--     *   La entrada para RE en ISO 3166-2 está vacía 
+--     *   Sin embargo, Reunión tiene el código ISO 3166-2 FR-974 bajo la entrada de Francia 
+--     *   Esto significa que las subdivisiones (las 24 comunas) están codificadas bajo FR-974, no bajo RE
+--     *   Por lo tanto, NO ES CORRECTO insertar las comunas como subdivisiones bajo RE
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Reunión es 935317 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio bajo código RE
+--     *   El archivo de descarga RE.zip contiene comunas y localidades, pero como ADM2
+--
+-- 5.  **LAS 24 COMUNAS (MUNICIPIOS) DE REUNIÓN:**
+--     | N° | Comuna | Código Insee | Arrondissement | Población (2021) |
+--     |----|--------|--------------|----------------|-----------------|
+--     | 1 | Saint-Denis | 97411 | Saint-Denis | 154,765 |
+--     | 2 | Saint-Paul | 97415 | Saint-Paul | 105,240 |
+--     | 3 | Saint-Pierre | 97416 | Saint-Pierre | 84,212 |
+--     | 4 | Le Tampon | 97422 | Saint-Pierre | 79,185 |
+--     | 5 | Saint-André | 97409 | Saint-Benoît | 57,150 |
+--     | 6 | Saint-Louis | 97414 | Saint-Pierre | 53,935 |
+--     | 7 | Saint-Joseph | 97412 | Saint-Pierre | 38,807 |
+--     | 8 | Sainte-Marie | 97418 | Saint-Denis | 34,344 |
+--     | 9 | Sainte-Suzanne | 97420 | Saint-Denis | 24,293 |
+--     | 10 | Le Port | 97407 | Saint-Paul | 33,529 |
+--     | 11 | La Possession | 97408 | Saint-Paul | 35,245 |
+--     | 12 | Saint-Benoît | 97410 | Saint-Benoît | 37,023 |
+--     | 13 | Saint-Leu | 97413 | Saint-Paul | 34,893 |
+--     | 14 | Sainte-Rose | 97419 | Saint-Benoît | 6,432 |
+--     | 15 | Bras-Panon | 97402 | Saint-Benoît | 13,344 |
+--     | 16 | Salazie | 97421 | Saint-Benoît | 7,129 |
+--     | 17 | Cilaos | 97424 | Saint-Pierre | 5,391 |
+--     | 18 | L'Étang-Salé | 97404 | Saint-Pierre | 13,836 |
+--     | 19 | Les Avirons | 97401 | Saint-Pierre | 11,434 |
+--     | 20 | Petite-Île | 97405 | Saint-Pierre | 12,617 |
+--     | 21 | Trois-Bassins | 97423 | Saint-Paul | 6,857 |
+--     | 22 | La Plaine-des-Palmistes | 97406 | Saint-Benoît | 6,821 |
+--     | 23 | Entre-Deux | 97403 | Saint-Pierre | 7,105 |
+--     | 24 | Saint-Philippe | 97417 | Saint-Pierre | 5,074 |
+--     *Fuente: Insee, Recensement 2021* 
+--
+-- 6.  **GEOGRAFÍA:**
+--     *   Superficie: 2,512 km² 
+--     *   Isla volcánica en el Océano Índico, al este de Madagascar
+--     *   Punto más alto: Piton des Neiges (3,070 m)
+--     *   Volcán activo: Piton de la Fournaise (2,632 m), uno de los más activos del mundo
+--     *   Zona horaria: UTC+4
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +262 
+--
+-- 8.  **CAPITAL:**
+--     *   Saint-Denis (población: ~154,765 habitantes, 2021) 
+--
+-- 9.  **REFORMA ADMINISTRATIVA:**
+--     *   En 2015, Reunión se convirtió en una colectividad territorial única (fusión de departamento y región)
+--     *   Esto no cambió la estructura de comunas (24) ni su estatus como ADM2
+--     *   Los 4 arrondissements se mantienen como subdivisiones administrativas
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios como divisiones ADM1" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:RE NO DEFINE subdivisiones 
+--         - Reunión tiene 24 comunas (municipios), no 16 
+--         - Estas comunas son ADM2 bajo el código FR-974, no ADM1 bajo RE 
+--         - Insee (Instituto de Estadística francés) lista las 24 comunas 
+--         - Gobierno de Reunión confirma la estructura de 24 comunas 
+--     *   Este SQL NO incluye registros en t076t_states bajo código RE,
+--         que es la respuesta correcta según ISO 3166-2
+--
+-- 11. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar las comunas de Reunión:
+--         a) Insertarlas bajo el código FR-974 (no bajo RE)
+--         b) Usar id_country de Francia (FR), no de Reunión (RE)
+--         c) Insertar como divisiones ADM2, no ADM1
+--         d) Consultar con los administradores del sistema si desean tratar
+--            Reunión como una "subdivisión de Francia" o como entidad separada
+-- ==================================================================================

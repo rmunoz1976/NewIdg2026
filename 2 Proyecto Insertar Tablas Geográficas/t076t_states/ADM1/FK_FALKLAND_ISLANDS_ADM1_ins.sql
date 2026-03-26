@@ -1,0 +1,152 @@
+-- ==================================================================================
+-- PAÍS:      Islas Malvinas (Falkland Islands)
+-- ISO:       FK / FLK / 238
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory) en disputa
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:FK / IP2Location / geonames.org
+-- NOMBRE:    FK_FALKLAND_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Malvinas NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para este territorio:
+-- - Es un Territorio Británico de Ultramar (British Overseas Territory) [citation:7]
+-- - Argentina reclama su soberanía bajo el nombre "Islas Malvinas" [citation:3][citation:6]
+-- - Superficie: 12,173 km² [citation:7]
+-- - Población: ~3,662 habitantes (censo 2021) [citation:7]
+-- - Capital: Stanley (también llamada Puerto Argentino) [citation:5][citation:7]
+-- - Administrativamente, el gobierno local reside en Stanley y cubre todo el archipiélago
+--
+-- ISO 3166-2:FK establece explícitamente: "Currently no ISO 3166-2 codes are 
+-- defined in the entry for the Falkland Islands. The territory has no defined 
+-- subdivisions." [citation:4][citation:8]
+--
+-- IP2Location confirma que las Islas Malvinas están entre los 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas. [citation:1]
+--
+-- Aunque las islas tienen una estructura de gobierno local con una Asamblea Legislativa
+-- de 8 miembros (5 de Stanley y 3 del interior) [citation:10], esto NO constituye
+-- divisiones administrativas de primer nivel como provincias o estados.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Las Islas Malvinas son un Territorio Británico de Ultramar en disputa.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_disputa_fk', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'FK'), 4, 'Territorio en Disputa', 'Disputed Territory', 'Falkland Islands (Malvinas)',
+       'Falkland Islands', 'Islas Malvinas', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_disputa_fk'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Malvinas (Falkland Islands) no tienen divisiones administrativas 
+-- de primer nivel según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Malvinas - Territorio Británico de Ultramar
+--     ├── Stanley (Puerto Argentino) - capital y principal asentamiento
+--     ├── East Falkland (Isla Soledad) - isla oriental
+--     ├── West Falkland (Isla Gran Malvina) - isla occidental
+--     └── Más de 200 islas e islotes menores
+--
+-- Los asentamientos y las islas individuales NO son divisiones ADM1.
+-- El gobierno local (Asamblea Legislativa) cubre todo el territorio sin subdivisiones. [citation:10]
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Las Islas Malvinas NO TIENEN divisiones ADM1.
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1833 [citation:7]
+--         - Superficie: 12,173 km² [citation:7]
+--         - Población: 3,662 habitantes (censo 2021) [citation:7]
+--         - Capital: Stanley / Puerto Argentino [citation:5]
+--         - Administrado por el Reino Unido, con gobierno local propio [citation:6]
+--         - La Asamblea Legislativa tiene 8 miembros elegidos: 5 de Stanley y 3 del interior [citation:10]
+--         - El Gobernador es designado por el Rey Carlos III [citation:7]
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Las Islas Malvinas son un Territorio Británico de Ultramar (British Overseas Territory) [citation:7]
+--     *   Argentina reclama su soberanía bajo el nombre "Islas Malvinas" [citation:3][citation:6]
+--     *   Clasificadas como PCLF (Territorio en Disputa) en t070t_level_types (id_level_type = 4)
+--     *   Código ISO 3166-1 alpha-2: FK
+--     *   Código ISO 3166-1 alpha-3: FLK
+--     *   Código numérico ISO: 238
+--     *   Dominio de internet: .fk [citation:7]
+--     *   La ONU lo considera un territorio no autónomo desde 1965 [citation:3]
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones [citation:4][citation:8]
+--     *   IP2Location confirma: "Falkland Islands (Malvinas)" está en la lista de 49 países sin subdivisiones [citation:1]
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para las Islas Malvinas es 3474414 [citation:5]
+--     *   Geonombres NO registra divisiones ADM1 para este territorio
+--     *   El archivo de descarga FK.zip contiene solo islas y localidades, sin subdivisiones ADM1
+--
+-- 5.  **TOPONIMIA (NOMBRES):**
+--     *   **En español:** Islas Malvinas (nombre recomendado por la RAE) [citation:3]
+--     *   **En inglés:** Falkland Islands [citation:7]
+--     *   **En francés:** Îles Malouines [citation:3]
+--     *   **Gentilicio:** malvinense [citation:3]
+--     *   La ONU utiliza "Falkland Islands (Malvinas)" en inglés e "Islas Malvinas (Falklands)" en español [citation:3]
+--     *   La Organización de Estados Americanos (OEA) utiliza "Islas Malvinas" [citation:6]
+--
+-- 6.  **GEOGRAFÍA:**
+--     *   Ubicación: 51°45′S 59°10′O [citation:2][citation:5]
+--     *   Dos islas principales: East Falkland (Isla Soledad, 6,353 km²) y West Falkland (Isla Gran Malvina, 4,377 km²) [citation:3][citation:6]
+--     *   Más de 200 islas e islotes menores [citation:7]
+--     *   Punto más alto: Monte Usborne / Cerro Alberdi (705 msnm) [citation:3]
+--     *   Distancia a la costa argentina: ~500 km [citation:3]
+--     *   Zona horaria: UTC-3 (FKST) [citation:7]
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +500 [citation:7]
+--
+-- 8.  **IDIOMAS:**
+--     *   Inglés (oficial y predominante) [citation:7]
+--     *   Español también se habla [citation:6]
+--
+-- 9.  **HISTORIA (BREVE):**
+--     *   1764: Primer asentamiento francés por Bougainville [citation:3]
+--     *   1767: España toma control de las islas [citation:6]
+--     *   1829: Argentina designa gobernador (Luis Vernet) [citation:10]
+--     *   1833: Ocupación británica [citation:10]
+--     *   1982: Guerra de las Malvinas (2 abril - 14 junio) [citation:7]
+--     *   2013: Referéndum de soberanía (99.8% votó seguir como territorio británico) [citation:7]
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA para las Islas Malvinas
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:FK NO DEFINE subdivisiones [citation:4][citation:8]
+--         - IP2Location confirma que FK está en la lista sin subdivisiones [citation:1]
+--         - Geonombres no tiene registros ADM1 para FK
+--         - El gobierno local es único para todo el territorio [citation:10]
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 11. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar divisiones administrativas de las Islas Malvinas,
+--         se recomienda:
+--         a) Documentar que NO existen códigos ISO 3166-2 oficiales para subdivisiones
+--         b) Las islas individuales (East Falkland, West Falkland) son características geográficas,
+--            NO divisiones administrativas ADM1
+--         c) El gobierno local es único y cubre todo el territorio
+--         d) Los 8 distritos electorales de la Asamblea Legislativa NO son divisiones ADM1 oficiales
+-- ==================================================================================

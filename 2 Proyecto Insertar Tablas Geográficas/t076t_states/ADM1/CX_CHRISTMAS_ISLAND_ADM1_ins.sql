@@ -1,0 +1,155 @@
+-- ==================================================================================
+-- PAÍS:      Isla de Navidad (Christmas Island)
+-- ISO:       CX / CXR / 162
+-- TIPO:      Territorio Dependiente de Australia (Australian External Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:CX / geonames.org / Who's On First (WOF)
+-- NOMBRE:    CX_CHRISTMAS_ISLAND_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- La Isla de Navidad (Christmas Island) NO TIENE divisiones administrativas 
+-- de primer nivel (estados, provincias, departamentos, regiones, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para este territorio:
+-- - Es un territorio externo de Australia desde el 1 de octubre de 1958 [citation:1][citation:4]
+-- - Superficie: 135 km² [citation:1][citation:4]
+-- - Población: ~1,692 habitantes (2021) [citation:1][citation:4][citation:6]
+-- - Capital: Flying Fish Cove (también llamada "The Settlement") [citation:1][citation:4]
+--
+-- ISO 3166-2:CX establece explícitamente: "Currently no ISO 3166-2 codes are 
+-- defined in the entry for Christmas Island. The territory has no defined 
+-- subdivisions." [citation:2][citation:9]
+--
+-- La isla tiene un único gobierno local: el "Shire of Christmas Island" 
+-- (Condado de la Isla de Navidad), que cubre todo el territorio [citation:6].
+-- Los asentamientos (Flying Fish Cove, Silver City, Poon Saan, Drumsite) 
+-- NO son divisiones ADM1, sino localidades dentro del shire [citation:1][citation:4].
+--
+-- Datos confirmados por múltiples fuentes:
+-- 1. ISO 3166-2:CX: Sin subdivisiones definidas [citation:2][citation:9]
+-- 2. Who's On First (WOF): No registra divisiones ADM1 para este territorio [citation:10]
+-- 3. Geonombres: No tiene registros ADM1 para este territorio
+-- 4. Shire of Christmas Island: Único gobierno local que cubre toda la isla [citation:6]
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Como no hay divisiones ADM1, este INSERT es por completitud.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_cx', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'CX'), 2, 'Territorio Dependiente', 'Dependent Territory', 'Christmas Island',
+       'Christmas Island', 'Isla de Navidad', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_cx'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- La Isla de Navidad (Christmas Island) no tiene divisiones administrativas 
+-- de primer nivel.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Isla de Navidad - Territorio externo de Australia
+--     └── Shire of Christmas Island (único gobierno local) [citation:6]
+--         ├── Flying Fish Cove (The Settlement) - capital
+--         ├── Silver City
+--         ├── Poon Saan
+--         └── Drumsite
+--
+-- Los asentamientos NO son divisiones ADM1. Son localidades (PPL) dentro del shire.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA para la Isla de Navidad.
+--     *   **REALIDAD ADMINISTRATIVA:** La Isla de Navidad NO TIENE divisiones ADM1 [citation:2][citation:9]
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio externo de Australia desde 1958 [citation:1][citation:4]
+--         - Superficie: 135 km² [citation:1][citation:4][citation:7]
+--         - Población: 1,692 habitantes (censo 2021) [citation:1][citation:4][citation:6]
+--         - Capital: Flying Fish Cove (The Settlement) [citation:1][citation:4]
+--         - Administrado por el Departamento de Infraestructura de Australia [citation:6]
+--         - Único gobierno local: Shire of Christmas Island (9 concejales) [citation:6]
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   La Isla de Navidad es un territorio externo de Australia [citation:1][citation:4]
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: CX [citation:5]
+--     *   Código ISO 3166-1 alpha-3: CXR
+--     *   Código numérico ISO: 162 [citation:7]
+--     *   Dominio de internet: .cx [citation:4]
+--     *   Código postal australiano: WA 6798 [citation:4]
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones [citation:2][citation:9]
+--     *   La entrada para CX en ISO 3166-2 indica: "no defined subdivisions" [citation:2][citation:9]
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para la Isla de Navidad es 2078138 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio
+--     *   El archivo de descarga CX.zip contiene solo la isla principal, sin subdivisiones ADM1
+--
+-- 5.  **ASENTAMIENTOS (NO SON ADM1):**
+--     *   La isla tiene varios asentamientos en el extremo norte [citation:1][citation:4]:
+--         - Flying Fish Cove (The Settlement) - capital, geo_id: 2078125
+--         - Silver City - asentamiento
+--         - Poon Saan - asentamiento, geo_id: 2078132
+--         - Drumsite - asentamiento, geo_id: 2078131
+--     *   Estos son localidades (feature code PPL), NO divisiones administrativas ADM1
+--     *   Who's On First (WOF) los clasifica como "localities" y "human settlements" [citation:10]
+--
+-- 6.  **SHIRE OF CHRISTMAS ISLAND (GOBIERNO LOCAL):**
+--     *   Único gobierno local que cubre toda la isla [citation:6]
+--     *   Establecido en 1992 bajo la Ley de Reforma de la Ley de Territorios de 1992 [citation:6]
+--     *   Consejo de 9 miembros elegidos por 4 años [citation:6]
+--     *   El shire NO es una división ADM1; es el nivel de gobierno local
+--
+-- 7.  **CARACTERÍSTICAS GEOGRÁFICAS:**
+--     *   Ubicación: 10°25′18″S 105°40′41″E [citation:1]
+--     *   Océano Índico, a 2,600 km al noroeste de Perth [citation:4]
+--     *   Altitud máxima: 361 m (Murray Hill) [citation:1]
+--     *   Zona horaria: UTC+7 [citation:1][citation:4]
+--     *   63% de la isla es Parque Nacional [citation:1][citation:4]
+--
+-- 8.  **DEMOGRAFÍA:**
+--     *   Grupos étnicos (2021): 21.2% chinos, 18% malayos, 12.7% australianos [citation:4]
+--     *   Idiomas: inglés (de facto), malayo, mandarín, cantonés [citation:1]
+--     *   El 60% de la población habla chino en casa [citation:6]
+--
+-- 9.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +61 8 91 (código de Australia) [citation:1][citation:4]
+--     *   Comparte el sistema telefónico australiano
+--
+-- 10. **HISTORIA:**
+--     *   1643: Descubierta por el Capitán William Mynors (día de Navidad) [citation:1][citation:4]
+--     *   1888: Anexión británica [citation:1]
+--     *   1942-1945: Ocupación japonesa [citation:1]
+--     *   1958: Transferencia a Australia [citation:1][citation:4]
+--
+-- 11. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" probablemente se basó en información de otro país
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:CX establece que NO HAY subdivisiones [citation:2][citation:9]
+--         - Geonombres no tiene registros ADM1 para CX
+--         - Who's On First (WOF) no registra divisiones ADM1 [citation:10]
+--         - El único gobierno local (Shire) cubre todo el territorio [citation:6]
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 12. **ACLARACIÓN SOBRE SHIRE Y DIVISIONES:**
+--     *   El "Shire of Christmas Island" es un gobierno local, no una división ADM1
+--     *   Los shires en Australia son típicamente divisiones ADM2 cuando existen estados
+--     *   Como la Isla de Navidad no tiene estados, el shire opera en el nivel ADM0/ADM1
+--     *   Sin embargo, ISO 3166-2 no lo reconoce como una división ADM1 oficial
+-- ==================================================================================

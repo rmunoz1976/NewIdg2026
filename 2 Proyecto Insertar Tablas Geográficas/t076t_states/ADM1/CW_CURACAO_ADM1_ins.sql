@@ -1,0 +1,143 @@
+-- ==================================================================================
+-- PAÍS:      Curazao (Curaçao)
+-- ISO:       CW / CUW / 531
+-- TIPO:      País constituyente del Reino de los Países Bajos
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:CW / geonames.org / Humanitarian Data Exchange / Who's On First
+-- NOMBRE:    CW_CURACAO_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Curazao NO TIENE divisiones administrativas de primer nivel (estados, provincias,
+-- departamentos, regiones, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para Curazao:
+-- - Es un país constituyente del Reino de los Países Bajos desde el 10 de octubre de 2010
+-- - Superficie: 444 km²
+-- - Población: ~152,849 habitantes (2023)
+-- - Capital: Willemstad
+-- - Administrativamente se divide en 3 distritos históricos, pero NO son ADM1 oficiales
+--
+-- ISO 3166-2:CW establece explícitamente: "Currently no ISO 3166-2 codes are defined 
+-- in the entry for Curaçao. The territory has no defined subdivisions." [citation:4][citation:5][citation:7]
+--
+-- Datos confirmados por múltiples fuentes:
+-- 1. ISO 3166-2:CW: Sin subdivisiones definidas [citation:2][citation:4][citation:7]
+-- 2. Humanitarian Data Exchange: Administrative level 1 contiene 66 features, pero el 
+--    tipo de feature es 'currently not known' [citation:1][citation:3]. Estas 66 entidades
+--    corresponden a asentamientos humanos (localidades), NO a divisiones ADM1 oficiales.
+-- 3. Who's On First (WOF): No registra divisiones ADM1 para Curazao [citation:6]
+-- 4. Geonombres: No tiene registros ADM1 para este territorio
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Como no hay divisiones ADM1, este INSERT es por completitud.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'pais_constituyente_cw', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'CW'), 2, 'País Constituyente', 'Constituent Country', 'Land Curaçao',
+       'Land Curaçao', 'País de Curazao', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'pais_constituyente_cw'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Curazao no tiene divisiones administrativas de primer nivel.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Curazao - País constituyente del Reino de los Países Bajos
+--     ├── Willemstad (capital, ciudad principal)
+--     └── Asentamientos humanos (localidades) que NO son divisiones ADM1
+--
+-- Los datos de Humanitarian Data Exchange que muestran 66 features en admin level 1
+-- corresponden a asentamientos humanos, NO a divisiones administrativas oficiales [citation:1][citation:3].
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA para Curazao.
+--     *   **REALIDAD ADMINISTRATIVA:** Curazao NO TIENE divisiones ADM1.
+--     *   **DATOS CONFIRMADOS:**
+--         - Es un país constituyente del Reino de los Países Bajos desde 2010 [citation:8]
+--         - Antes de 2010 era parte de las Antillas Neerlandesas [citation:8]
+--         - Superficie: 444 km²
+--         - Población: ~152,849 habitantes (2023) [citation:8]
+--         - Capital: Willemstad
+--         - Idiomas oficiales: Neerlandés, Papiamento, Inglés [citation:8]
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Curazao es un país constituyente del Reino de los Países Bajos [citation:8]
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: CW
+--     *   Código ISO 3166-1 alpha-3: CUW
+--     *   Código numérico ISO: 531
+--     *   Dominio de internet: .cw
+--     *   También tiene el código NL-CW bajo la entrada de los Países Bajos [citation:4][citation:8]
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de Curazao [citation:4][citation:5][citation:7]
+--     *   La entrada para CW en ISO 3166-2 indica explícitamente: "no defined subdivisions" [citation:4][citation:5]
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Curazao es 7626836 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio
+--     *   El archivo de descarga CW.zip contiene solo islas, ciudades y localidades, sin subdivisiones ADM1
+--
+-- 5.  **DISTRITOS HISTÓRICOS (NO SON ADM1):**
+--     *   Históricamente, Curazao se dividía en 3 distritos:
+--         - Bandabou (oeste)
+--         - Bandariba (este)
+--         - Willemstad (capital)
+--     *   Estos NO son divisiones administrativas oficiales de primer nivel
+--     *   No tienen códigos ISO 3166-2 asignados
+--     *   No aparecen en los datos oficiales de ISO ni Geonombres como ADM1
+--
+-- 6.  **DATOS DE HUMANITARIAN DATA EXCHANGE (HDX):**
+--     *   El dataset muestra "Administrative level 1 contains 66 feature(s)" [citation:1][citation:3]
+--     *   **ACLARACIÓN:** Estos 66 features son asentamientos humanos (localidades)
+--     *   El mismo dataset indica: "The normal administrative level 1 feature type is 'currently not known'" [citation:1][citation:3]
+--     *   Esto confirma que NO son divisiones administrativas oficiales
+--     *   Who's On First (WOF) no registra divisiones ADM1 para Curazao [citation:6]
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +5999 (compartido con otras islas del Caribe neerlandés) [citation:8]
+--     *   Código alternativo: +599
+--
+-- 8.  **CARACTERÍSTICAS GEOGRÁFICAS:**
+--     *   Ubicación: 12°11′N 69°00′O
+--     *   Es la más grande de las islas ABC (Aruba, Bonaire, Curazao) [citation:8]
+--     *   Incluye la isla deshabitada de Klein Curaçao (Pequeña Curazao) [citation:8]
+--     *   Zona horaria: UTC-4 (AST)
+--
+-- 9.  **HISTORIA:**
+--     *   1499: Descubierta por Alonso de Ojeda [citation:8]
+--     *   1634: Tomada por los Países Bajos [citation:8]
+--     *   1954-2010: Parte de las Antillas Neerlandesas [citation:8]
+--     *   10 de octubre de 2010: Se convierte en país constituyente del Reino de los Países Bajos [citation:8]
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" probablemente se basó en información de otro país
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:CW establece que NO HAY subdivisiones [citation:4][citation:5][citation:7]
+--         - Geonombres no tiene registros ADM1 para CW
+--         - Who's On First (WOF) no registra divisiones ADM1 [citation:6]
+--         - Los datos de HDX con 66 features son asentamientos humanos, NO divisiones ADM1 [citation:1][citation:3]
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 11. **ACLARACIÓN SOBRE EL CÓDIGO ISO ADICIONAL:**
+--     *   Curazao también tiene el código NL-CW bajo la entrada ISO 3166-2:NL [citation:4]
+--     *   Esto se debe a que es parte del Reino de los Países Bajos
+--     *   Pero como entidad separada (CW), no tiene subdivisiones definidas
+-- ==================================================================================

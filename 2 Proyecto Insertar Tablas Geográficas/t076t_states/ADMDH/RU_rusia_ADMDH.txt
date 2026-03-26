@@ -1,0 +1,2 @@
+﻿472485	Volodarskiy	Volodarskiy	Volodarskij,Volodarskiy,Володарский	59.82472	30.08194	A	ADMDH	RU		66	542231			0		24	Europe/Moscow	2016-04-11
+8521414	Volodarskaya	Volodarskaya	Volotarkka	59.82644	30.09353	A	ADMDH	RU		66				0		23	Europe/Moscow	2016-04-11

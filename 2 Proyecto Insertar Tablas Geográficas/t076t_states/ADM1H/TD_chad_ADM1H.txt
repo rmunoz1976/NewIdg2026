@@ -1,0 +1,3 @@
+﻿2434873	Région du Borkou-Ennedi-Tibesti	Region du Borkou-Ennedi-Tibesti		18	19	A	ADM1H	TD		03				0		314	Africa/Ndjamena	2017-12-16
+7603256	Ennedi Region	Ennedi Region	Ennedi,Mintaqah Innidi,Minţaqah Innīdī,Region du l'Ennedi,Région du l'Ennedi	18.16667	22.16667	A	ADM1H	TD		24				173606		508	Africa/Ndjamena	2014-08-20
+11789231	Mayo-Kébbi Prefecture	Mayo-Kebbi Prefecture		9.61158	15.39185	A	ADM1H	TD		10				0		360	Africa/Ndjamena	2017-12-16

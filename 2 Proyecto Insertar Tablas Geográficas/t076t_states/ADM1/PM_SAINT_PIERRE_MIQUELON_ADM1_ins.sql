@@ -1,0 +1,179 @@
+-- ==================================================================================
+-- PAÍS:      San Pedro y Miquelón (Saint Pierre and Miquelon)
+-- ISO:       PM / SPM / 666
+-- TIPO:      Colectividad de Ultramar de Francia (French Overseas Collectivity)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:PM / IP2Location / Insee / geonames.org
+-- NOMBRE:    PM_SAINT_PIERRE_MIQUELON_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- San Pedro y Miquelón NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO:
+-- - Es una Colectividad de Ultramar de Francia desde 1985
+-- - Superficie total: 242 km² (dos islas principales: San Pedro y Miquelón)
+-- - Población: ~5,974 habitantes (censo 2021)
+-- - Capital: Saint-Pierre
+-- - No tiene municipios; la colectividad en sí misma es la única división ADM1
+--
+-- ISO 3166-2:PM establece explícitamente: "Saint Pierre and Miquelon has no defined subdivisions" 
+--
+-- IP2Location confirma: PM está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Insee (Instituto de Estadística francés) confirma: "Saint-Pierre-et-Miquelon
+-- est une collectivité d'outre-mer qui n'est pas divisée en communes"
+-- (San Pedro y Miquelón es una colectividad de ultramar que no está dividida en municipios)
+--
+-- Geonombres muestra que PM tiene 1 entidad administrativa (A.PCLD - dependent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         PM es una Colectividad de Ultramar de Francia.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'colectividad_pm', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'PM'), 2, 'Colectividad de Ultramar', 'Overseas Collectivity', 'Collectivité d''outre-mer',
+       'Collectivité d''outre-mer', 'Colectividad de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'colectividad_pm'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- San Pedro y Miquelón no tiene divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── San Pedro y Miquelón - Colectividad de Ultramar de Francia
+--     ├── Isla de San Pedro (Île Saint-Pierre) - 26 km²
+--     │   ├── Saint-Pierre (capital)
+--     │   └── Localidades: L'Anse à Henry, L'Anse à Bertrand, etc.
+--     ├── Isla de Miquelón (Île Miquelon) - 110 km²
+--     │   ├── Miquelon (capital de la isla)
+--     │   └── Localidades: Le Cap, Le Château, etc.
+--     ├── Isla de Langlade (Île Langlade) - 91 km² (unida a Miquelón por un istmo)
+--     │   └── Localidades: Anse du Gouvernement, etc.
+--     └── Islotes menores (Île aux Marins, Île aux Vainqueurs, etc.)
+--
+-- NOTA: Las islas individuales y localidades NO son divisiones administrativas ADM1.
+--       La colectividad completa es administrada como una sola entidad
+--       sin subdivisiones oficiales. No hay municipios (communes) en San Pedro y Miquelón.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** San Pedro y Miquelón NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Colectividad de Ultramar de Francia desde 1985 
+--         - Superficie: 242 km² (San Pedro: 26 km², Miquelón-Langlade: 216 km²)
+--         - Población: 5,974 habitantes (censo 2021) 
+--         - Capital: Saint-Pierre 
+--         - Administrada por un Prefecto (designado por el gobierno francés)
+--         - Tiene un Consejo Territorial (Conseil territorial) de 19 miembros 
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   San Pedro y Miquelón es una Colectividad de Ultramar de Francia (Collectivité d'outre-mer) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: PM
+--     *   Código ISO 3166-1 alpha-3: SPM
+--     *   Código numérico ISO: 666
+--     *   Dominio de internet: .pm
+--     *   También tiene el código FR-975 bajo la entrada de Francia 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de PM 
+--     *   IP2Location confirma: PM está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   También tiene el código FR-975 bajo la entrada de Francia 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para San Pedro es 3424934 
+--     *   El geo_id para Miquelón es 3424935 
+--     *   El geo_id para Langlade es 3424936 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga PM.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DETALLADA:**
+--     *   **Ubicación:** 46°47′N 56°12′O (Atlántico Norte, frente a Terranova)
+--     *   **Isla de San Pedro (Île Saint-Pierre):**
+--         - Superficie: 26 km² 
+--         - Capital: Saint-Pierre (población: ~5,200)
+--         - Es el centro administrativo y comercial
+--     *   **Isla de Miquelón (Île Miquelon):**
+--         - Superficie: 110 km² 
+--         - Unida a Langlade por un istmo de arena (istmo de la Dune)
+--         - Población: ~600 habitantes
+--         - Capital de la isla: Miquelon
+--     *   **Isla de Langlade (Île Langlade):**
+--         - Superficie: 91 km² 
+--         - Población: prácticamente deshabitada (solo algunos habitantes en temporada)
+--         - Conocida como "Pequeña Miquelón" (Petite Miquelon)
+--     *   **Islotes menores:** Île aux Marins (Isla de los Marineros), Île aux Vainqueurs, etc.
+--
+-- 6.  **POBLACIÓN Y ASENTAMIENTOS:**
+--     *   **Población total:** 5,974 (censo 2021) 
+--     *   **Asentamientos principales:**
+--         - Saint-Pierre (capital) - ~5,200 habitantes (aprox. 87% de la población)
+--         - Miquelon - ~600 habitantes (aprox. 10% de la población)
+--         - Île aux Marins - deshabitada permanentemente (antiguo pueblo pesquero)
+--         - Langlade - sin población permanente
+--     *   Estos NO son divisiones administrativas; están bajo la jurisdicción única de la colectividad
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +508 
+--     *   Código independiente del código francés (+33)
+--
+-- 8.  **MONEDA:**
+--     *   Euro (EUR) 
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   Consejo Territorial (Conseil territorial) de 19 miembros, elegido cada 6 años 
+--     *   Presidente del Consejo Territorial (jefe del gobierno local)
+--     *   Prefecto designado por Francia (representante del estado)
+--     *   No hay municipios; la colectividad es la única entidad administrativa
+--
+-- 10. **HISTORIA ADMINISTRATIVA:**
+--     *   1816: Establecimiento de asentamientos permanentes tras el Tratado de París
+--     *   1946: Se convierte en Territorio de Ultramar (TOM)
+--     *   1976: Se convierte en Departamento de Ultramar (DOM)
+--     *   1985: Se convierte en Colectividad de Ultramar (COM) con estatus especial
+--     *   Actualmente: Colectividad de Ultramar sin división en municipios
+--
+-- 11. **ECONOMÍA:**
+--     *   Pesca (bacalao) - histórica, actualmente diversificada
+--     *   Turismo (especialmente francés)
+--     *   Servicios administrativos
+--     *   Actividad portuaria
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:PM NO DEFINE subdivisiones 
+--         - IP2Location confirma que PM está en la lista sin subdivisiones 
+--         - Insee: "Saint-Pierre-et-Miquelon n'est pas divisée en communes" 
+--         - Geonombres no tiene registros ADM1 para PM
+--         - La colectividad no tiene estructura municipal
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE LOCALIDADES:**
+--     *   Saint-Pierre y Miquelon son las dos localidades principales
+--     *   Ambas están dentro de la misma colectividad
+--     *   No existe división en municipios ni parroquias
+--     *   Toda la colectividad se administra como una sola entidad
+--     *   Es uno de los pocos territorios franceses que nunca ha tenido estructura municipal
+-- ==================================================================================

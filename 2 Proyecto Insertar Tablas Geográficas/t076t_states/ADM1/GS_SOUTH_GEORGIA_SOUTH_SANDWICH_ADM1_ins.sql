@@ -1,0 +1,171 @@
+-- ==================================================================================
+-- PAÍS:      Georgia del Sur y las Islas Sandwich del Sur
+--            (South Georgia and the South Sandwich Islands)
+-- ISO:       GS / SGS / 239
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:GS / IP2Location / Statoids / geonames.org
+-- NOMBRE:    GS_SOUTH_GEORGIA_SOUTH_SANDWICH_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Georgia del Sur y las Islas Sandwich del Sur NO TIENEN divisiones administrativas 
+-- de primer nivel (estados, provincias, departamentos, regiones, municipios, etc.) 
+-- según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es un Territorio Británico de Ultramar remoto y deshabitado permanentemente
+-- - Superficie total: 3,903 km² (Georgia del Sur: 3,528 km², Sandwich del Sur: 375 km²)
+-- - Población permanente: 0 habitantes (solo personal de investigación y administración)
+-- - La única población no permanente es en King Edward Point y Grytviken (estaciones científicas)
+--
+-- ISO 3166-2:GS establece explícitamente: "The South Georgia and the South Sandwich 
+-- Islands have no defined subdivisions" 
+--
+-- Statoids confirma: "No administrative divisions exist" para GS 
+--
+-- IP2Location también confirma que GS está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que GS tiene 2 entidades geográficas (islas principales),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         GS es un Territorio Británico de Ultramar remoto y deshabitado.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_gs', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'GS'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'South Georgia and the South Sandwich Islands',
+       'South Georgia and the South Sandwich Islands', 'Georgia del Sur y Sandwich del Sur', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_gs'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Georgia del Sur y las Islas Sandwich del Sur no tienen divisiones administrativas 
+-- de primer nivel según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Georgia del Sur y las Islas Sandwich del Sur - Territorio Británico de Ultramar
+--     ├── Isla Georgia del Sur (South Georgia Island)
+--     │   ├── King Edward Point (administrative center, estación de investigación)
+--     │   └── Grytviken (estación ballenera histórica)
+--     ├── Islas Sandwich del Sur (South Sandwich Islands)
+--     │   ├── Islas Traverse (Candlemas, Vindication, Saunders, Montagu, etc.)
+--     │   ├── Islas Centrales (Bristol, Bellingshausen)
+--     │   └── Islas Australes (Thule, Cook)
+--     └── Islas Shag Rocks (rocas periféricas)
+--
+-- NOTA: Las islas individuales NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad desde Londres 
+--       con un Comisionado designado por el gobierno del Reino Unido.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** GS NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1985 
+--         - Superficie total: 3,903 km²
+--         - Población: 0 permanente (20-40 estacional en verano) 
+--         - Capital administrativa: King Edward Point (Isla Georgia del Sur)
+--         - Administrado por el Comisionado designado por el Reino Unido
+--         - El territorio se administra como una sola entidad sin subdivisiones
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   GS es un Territorio Británico de Ultramar (British Overseas Territory) 
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: GS
+--     *   Código ISO 3166-1 alpha-3: SGS
+--     *   Código numérico ISO: 239
+--     *   Dominio de internet: .gs
+--     *   Argentina reclama su soberanía bajo el nombre "Islas Georgias del Sur y Sandwich del Sur" 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de GS 
+--     *   IP2Location confirma: GS está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   Statoids: "No administrative divisions exist" 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Georgia del Sur es 3474415 
+--     *   El geo_id para las Islas Sandwich del Sur es 3474416 (como parte del territorio)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga GS.zip contiene islas y accidentes geográficos, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DETALLADA:**
+--     *   **Isla Georgia del Sur (South Georgia):**
+--         - Superficie: 3,528 km² 
+--         - Longitud: 160 km, ancho: 2-40 km
+--         - Punto más alto: Monte Paget (2,934 m)
+--         - Asentamientos históricos: Grytviken (estación ballenera 1904-1965)
+--         - Centro administrativo: King Edward Point (estación de investigación científica)
+--     *   **Islas Sandwich del Sur (South Sandwich Islands):**
+--         - Superficie total: 375 km² 
+--         - 11 islas principales en arco volcánico
+--         - Deshabitadas permanentemente (volcánicamente activas)
+--         - Subgrupos: Islas Traverse (Candlemas, Vindication, Saunders, Montagu, Bristol)
+--         - Islas Centrales y Australes (Bellingshausen, Thule, Cook)
+--     *   **Rocas Shag:**
+--         - 3 rocas pequeñas a 240 km al oeste de Georgia del Sur
+--         - Superficie total: 0.2 km²
+--     *   **Clima:** Antártico marítimo (frío, húmedo, ventoso) 
+--
+-- 6.  **POBLACIÓN Y ASENTAMIENTOS:**
+--     *   **Población permanente:** 0 
+--     *   **Población no permanente (verano):** 20-40 personas 
+--         - King Edward Point: British Antarctic Survey (BAS) científicos y personal
+--         - Grytviken: Museo, restauraciones históricas
+--     *   **Invierno:** Solo personal esencial de mantenimiento
+--     *   El territorio es una Zona de Manejo Especialmente Protegida 
+--     *   No hay residentes civiles permanentes desde el cierre de la estación ballenera en 1965 
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +500 (compartido con las Islas Malvinas) 
+--
+-- 8.  **ECONOMÍA:**
+--     *   Pesca (merluza negra, krill antártico) - licencias de pesca
+--     *   Turismo de cruceros (estacional, verano austral)
+--     *   Estación de investigación científica
+--     *   Sellos postales coleccionables
+--
+-- 9.  **HISTORIA (BREVE):**
+--     *   1675: Descubrimiento de las Islas Sandwich por James Cook
+--     *   1775: Primer desembarco de Cook en Georgia del Sur
+--     *   1904-1965: Industria ballenera (Grytviken)
+--     *   1916: Expedición de Ernest Shackleton (rescate en Grytviken)
+--     *   1982: Ocupación argentina durante la Guerra de Malvinas 
+--     *   1985: Separación de las Islas Malvinas como territorio separado 
+--     *   1993: Zona de Manejo Especialmente Protegida establecida 
+--     *   2001: Reapertura de Grytviken como museo
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:GS NO DEFINE subdivisiones 
+--         - IP2Location confirma que GS está en la lista sin subdivisiones 
+--         - Statoids: "No administrative divisions exist" 
+--         - Geonombres no tiene registros ADM1 para GS
+--         - La población no permanente no constituye divisiones administrativas
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 11. **NOTA SOBRE LAS ISLAS:**
+--     *   Aunque hay islas individuales (Georgia del Sur, Islas Sandwich del Sur),
+--         estas NO son divisiones administrativas ADM1
+--     *   Son características geográficas (islas), no entidades administrativas
+--     *   El territorio completo es administrado como una unidad
+--     *   No hay gobiernos locales, consejos municipales ni subdivisiones políticas
+-- ==================================================================================

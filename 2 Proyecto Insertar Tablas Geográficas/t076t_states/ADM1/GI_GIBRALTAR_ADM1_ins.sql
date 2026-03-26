@@ -1,0 +1,155 @@
+-- ==================================================================================
+-- PAÍS:      Gibraltar (Gibraltar)
+-- ISO:       GI / GIB / 292
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:GI / IP2Location / Statoids / geonames.org
+-- NOMBRE:    GI_GIBRALTAR_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Gibraltar NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para este territorio:
+-- - Es un Territorio Británico de Ultramar desde 1713
+-- - Superficie: 6.7 km² (aproximadamente)
+-- - Población: ~32,000-34,000 habitantes
+-- - Capital: Gibraltar (toda la península es una sola entidad administrativa)
+--
+-- ISO 3166-2:GI establece explícitamente: "Gibraltar has no defined subdivisions" [citation:2][citation:7][citation:9]
+--
+-- Statoids confirma: "Gibraltar has no known administrative divisions" [citation:5]
+-- La entrada muestra que el territorio completo se trata como una división única por compatibilidad.
+--
+-- IP2Location también confirma que Gibraltar está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas [citation:4].
+--
+-- Geonombres muestra que Gibraltar tiene 1 entidad administrativa (A.PCLD - dependent political entity)
+-- y NO registra divisiones ADM1 para este territorio [citation:3].
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Gibraltar es un Territorio Británico de Ultramar.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_gi', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'GI'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'Gibraltar',
+       'Gibraltar', 'Gibraltar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_gi'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Gibraltar no tiene divisiones administrativas de primer nivel según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Gibraltar - Territorio Británico de Ultramar
+--     └── La península completa es una sola entidad administrativa
+--         (sin provincias, regiones, municipios u otras subdivisiones ADM1)
+--
+-- Nota: Gibraltar tiene una ciudad capital (Gibraltar) que es el territorio completo,
+--       no una subdivisión separada. La ciudad y el territorio son la misma entidad.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Gibraltar NO TIENE divisiones ADM1 [citation:2][citation:5][citation:9].
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1713 
+--         - Superficie: 6.7 km² 
+--         - Población: 32,577 (censo 2012) / 29,629 (estimación reciente) [citation:5][citation:6]
+--         - Capital: Gibraltar (la península completa)
+--         - Administrado por el Reino Unido, con gobierno autónomo desde 2006
+--         - El territorio es una sola entidad administrativa sin subdivisiones internas
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Gibraltar es un Territorio Británico de Ultramar (British Overseas Territory) [citation:1]
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: GI
+--     *   Código ISO 3166-1 alpha-3: GIB
+--     *   Código numérico ISO: 292
+--     *   Dominio de internet: .gi
+--     *   España reclama su soberanía desde el Tratado de Utrecht (1713)
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de Gibraltar [citation:2][citation:7][citation:9]
+--     *   IP2Location confirma: Gibraltar está en la lista de 49 países sin subdivisiones definidas [citation:4]
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   Gibraltar no tiene código ISO 3166-2 derivado de Reino Unido (GB) porque es un territorio separado [citation:7]
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Gibraltar es 2411585 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio [citation:3]
+--     *   La estadística de Geonombres muestra 1 entidad administrativa de tipo A.PCLD
+--     *   El archivo de descarga GI.zip contiene solo la península, sin subdivisiones ADM1
+--
+-- 5.  **CARACTERÍSTICAS GEOGRÁFICAS:**
+--     *   Ubicación: 36°08′N 5°21′O
+--     *   Península de 6.7 km² en el extremo sur de la península ibérica
+--     *   Punto más alto: The Rock (Peñón de Gibraltar), 426 m
+--     *   Zona horaria: UTC+1 (CET), UTC+2 en verano (CEST)
+--     *   Frontera terrestre: solo con España (1.2 km)
+--     *   Clima: Mediterráneo subtropical
+--
+-- 6.  **DEMOGRAFÍA:**
+--     *   Grupos étnicos: Gibraltareños (mayoría), británicos, marroquíes, indios
+--     *   Idiomas oficiales: Inglés
+--     *   Idiomas hablados: Llanito (mezcla de español e inglés), español, inglés
+--     *   Religión: 78% católicos, 7% Iglesia de Inglaterra, 4% musulmanes
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +350 
+--     *   Código independiente del Reino Unido (+44)
+--
+-- 8.  **ECONOMÍA:**
+--     *   Moneda: Libra de Gibraltar (GIP), vinculada a la libra esterlina
+--     *   Principales industrias: Juego en línea, servicios financieros, turismo, puerto
+--     *   Es un centro financiero y de juego online de importancia global
+--
+-- 9.  **POLÍTICA:**
+--     *   Jefe de Estado: Rey Carlos III (representado por el Gobernador)
+--     *   Jefe de Gobierno: Ministro Principal
+--     *   Parlamento unicameral de 17 miembros
+--     *   No pertenece a la Unión Europea (salió junto con Reino Unido en 2020)
+--     *   Forma parte del Espacio Schengen? No
+--
+-- 10. **HISTORIA (BREVE):**
+--     *   711: Conquista musulmana por Tariq ibn Ziyad (Jabal Tariq) 
+--     *   1462: Reconquista española 
+--     *   1704: Capturada por fuerzas anglo-neerlandesas 
+--     *   1713: Tratado de Utrecht - cesión a Gran Bretaña 
+--     *   1967: Referéndum de soberanía (99.6% vota seguir bajo soberanía británica) 
+--     *   1969: Cierre de la verja por Franco 
+--     *   1985: Reapertura total de la verja 
+--     *   2002: Referéndum sobre soberanía compartida (98.48% vota NO) 
+--     *   2006: Nuevo Estatuto de Autonomía
+--
+-- 11. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA para Gibraltar
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:GI NO DEFINE subdivisiones [citation:2][citation:7][citation:9]
+--         - IP2Location confirma que GI está en la lista sin subdivisiones [citation:4]
+--         - Statoids: "Gibraltar has no known administrative divisions" [citation:5]
+--         - Geonombres no tiene registros ADM1 para GI [citation:3]
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 12. **NOTA SOBRE LA CIUDAD DE GIBRALTAR:**
+--     *   La ciudad de Gibraltar es el territorio completo
+--     *   No es una subdivisión administrativa separada
+--     *   Los servicios de geolocalización (como IP2Location) muestran "Region Name: Gibraltar" 
+--         y "City Name: Gibraltar" como valores predeterminados [citation:6]
+--     *   Esto no indica la existencia de subdivisiones administrativas
+-- ==================================================================================

@@ -1,0 +1,185 @@
+-- ==================================================================================
+-- PAÍS:      Islas Vírgenes Británicas (British Virgin Islands)
+-- ISO:       VG / VGB / 092
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:VG / IP2Location / Government of the Virgin Islands / geonames.org
+-- NOMBRE:    VG_BRITISH_VIRGIN_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Vírgenes Británicas NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO:
+-- - Es un Territorio Británico de Ultramar
+-- - Superficie total: 153 km² (archipiélago de 60 islas, 16 habitadas)
+-- - Población: ~31,000 habitantes (2023)
+-- - Capital: Road Town (isla de Tórtola)
+-- - No tiene municipios; el territorio se administra como una sola entidad
+--   con distritos electorales (districts) que NO son divisiones administrativas ADM1
+--
+-- ISO 3166-2:VG establece explícitamente: "The British Virgin Islands have
+-- no defined subdivisions" 
+--
+-- IP2Location confirma: VG está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que VG tiene 1 entidad administrativa (A.PCLD - dependent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- El gobierno de las Islas Vírgenes Británicas tiene 9 distritos electorales,
+-- pero estos NO son divisiones administrativas con gobiernos locales autónomos.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         VG es un Territorio Británico de Ultramar.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_vg', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'VG'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'Virgin Islands',
+       'Virgin Islands', 'Islas Vírgenes', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_vg'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Vírgenes Británicas no tienen divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Vírgenes Británicas - Territorio Británico de Ultramar
+--     ├── Islas principales habitadas:
+--     │   ├── Tórtola (Tortola) - 55.7 km², capital Road Town
+--     │   ├── Virgen Gorda (Virgin Gorda) - 21.4 km²
+--     │   ├── Anegada (Anegada) - 38.6 km²
+--     │   └── Jost Van Dyke (Jost Van Dyke) - 8.3 km²
+--     ├── Islas menores habitadas:
+--     │   ├── Great Tobago, Little Tobago, Cooper Island, Peter Island,
+--     │       Salt Island, Guana Island, Beef Island, etc.
+--     └── Distritos electorales (NO son divisiones administrativas ADM1):
+--         └── 9 distritos para la elección de la Asamblea Legislativa
+--
+-- NOTA: Las islas individuales y los distritos electorales NO son divisiones
+--       administrativas ADM1. No tienen gobiernos locales autónomos.
+--       El gobierno central en Road Town administra todo el territorio.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Las Islas Vírgenes Británicas NO TIENEN divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1960 
+--         - Superficie: 153 km² (60 islas, 16 habitadas)
+--         - Población: 31,000 habitantes (2023)
+--         - Capital: Road Town (Tórtola)
+--         - Administrado por un Gobernador (designado por el Reino Unido)
+--         - Tiene un Primer Ministro y una Asamblea Legislativa de 13 miembros
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Las Islas Vírgenes Británicas son un Territorio Británico de Ultramar (British Overseas Territory) 
+--     *   Clasificadas como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: VG
+--     *   Código ISO 3166-1 alpha-3: VGB
+--     *   Código numérico ISO: 092
+--     *   Dominio de internet: .vg
+--     *   Es uno de los centros financieros offshore más importantes del mundo
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de VG 
+--     *   IP2Location confirma: VG está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para las Islas Vírgenes Británicas es 3577718 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga VG.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** Caribe, 18°30′N 64°30′O
+--     *   **Islas principales (16 habitadas):**
+--         - Tórtola (Tortola): 55.7 km², isla más grande, capital Road Town
+--         - Virgen Gorda (Virgin Gorda): 21.4 km², segundo centro poblado
+--         - Anegada (Anegada): 38.6 km², isla de coral, la única no volcánica
+--         - Jost Van Dyke (Jost Van Dyke): 8.3 km², centro turístico
+--         - Islas menores: Great Tobago, Little Tobago, Cooper Island, Peter Island,
+--           Salt Island, Guana Island, Beef Island, Norman Island, etc.
+--     *   **Punto más alto:** Mount Sage (521 m) en Tórtola
+--     *   **Clima:** Tropical marítimo
+--
+-- 6.  **POBLACIÓN Y DISTRITOS ELECTORALES (NO SON ADM1):**
+--     *   **Población total:** 31,000 (2023) 
+--     *   **Distribución por islas:**
+--         - Tórtola: ~24,000 habitantes (80% de la población)
+--         - Virgen Gorda: ~4,000 habitantes
+--         - Anegada: ~200 habitantes
+--         - Jost Van Dyke: ~300 habitantes
+--         - Otras islas: ~500 habitantes (resorts, personal, etc.)
+--     *   **Distritos electorales (9):**
+--         1. Anegada and Virgin Gorda
+--         2. Jost Van Dyke
+--         3. Road Town East
+--         4. Road Town West
+--         5. Central Tortola
+--         6. East End
+--         7. West End
+--         8. North Sound
+--         9. The Valley (Virgin Gorda)
+--     *   Estos distritos son exclusivamente para elecciones de la Asamblea Legislativa,
+--         NO son divisiones administrativas con gobiernos locales
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +1 (código de EE.UU.)
+--     *   Código de área: 284
+--
+-- 8.  **MONEDA:**
+--     *   Dólar estadounidense (USD)
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   **Asamblea Legislativa:** 13 miembros (9 elegidos por distrito, 4 por representación general)
+--     *   **Gobernador:** designado por el Reino Unido (representante del Rey Carlos III)
+--     *   **Primer Ministro:** jefe de gobierno local
+--     *   **No hay gobiernos locales** (municipios, consejos de distrito, etc.)
+--     *   El gobierno central en Road Town administra todo el territorio
+--
+-- 10. **ECONOMÍA:**
+--     *   Principal centro financiero offshore del mundo
+--     *   Turismo (cruceros, yates, resorts)
+--     *   Servicios financieros (más de 400,000 empresas registradas)
+--     *   Servicios de registro de barcos
+--
+-- 11. **HISTORIA:**
+--     *   1493: Descubiertas por Cristóbal Colón
+--     *   1666: Anexión británica
+--     *   1872-1960: Administradas como parte de las Islas de Sotavento Británicas
+--     *   1960: Se convierten en Territorio Británico de Ultramar independiente
+--     *   1967: Constitución con autogobierno
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:VG NO DEFINE subdivisiones 
+--         - IP2Location confirma que VG está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para VG
+--         - Government of the Virgin Islands: no hay municipios ni subdivisiones administrativas 
+--         - Los distritos electorales son para elecciones, no para administración
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   Las Islas Vírgenes Británicas NO tienen municipios
+--     *   Aunque hay 16 islas habitadas, ninguna tiene gobierno local autónomo
+--     *   El gobierno central es el único nivel de administración
+--     *   Las islas son divisiones geográficas, no administrativas
+-- ==================================================================================

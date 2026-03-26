@@ -1,0 +1,46 @@
+﻿225869	West Madi County	West Madi County		3.5	31.58333	A	ADMD	UG		N	72			0		694	Africa/Kampala	2012-04-28
+225871	Western Province	Western Province		1.15	31.1	A	ADMD	UG		00				0		1086	Africa/Kampala	2010-08-28
+225873	West Budama County	West Budama County	West Budama,West Budama County,WestBudama	0.75	34	A	ADMD	UG		E	76			0		1126	Africa/Kampala	2022-02-17
+226050	Usuku County	Usuku County	Usuku,Usuku County	2	34	A	ADMD	UG		E	69			0		1095	Africa/Kampala	2022-02-17
+226057	Upe County	Upe County	Upe,Upe County	1.83333	34.91667	A	ADMD	UG		N	E5			0		1276	Africa/Kampala	2022-02-17
+226229	South Bugisu County	South Bugisu County	South Bugishu,South Bugisu,South Bugisu County,SouthBugisu	0.91667	34.33333	A	ADMD	UG		E	D6			0		1293	Africa/Kampala	2022-02-17
+226279	Singo County	Singo County		0.75	31.83333	A	ADMD	UG		C	56			0		1347	Africa/Kampala	2012-04-28
+226312	Shema County	Shema County	Shema,Shema County	-0.7	30.3	A	ADMD	UG		W	H6			0		1631	Africa/Kampala	2022-02-17
+226322	Sese County	Sese County	Sese,Sese County	-0.33333	32.33333	A	ADMD	UG		C	36			0		1134	Africa/Kampala	2022-02-17
+226405	Samia Bugwe County	Samia Bugwe County	Samia Bugwe,Samia Bugwe County,SamiaBugwe	0.41667	34	A	ADMD	UG		E	67			0		1199	Africa/Kampala	2022-02-17
+226535	Ruzhumbura County	Ruzhumbura County	Ruzhumbura,Ruzhumbura County,Ruzumbura	-0.66667	29.86667	A	ADMD	UG		W	93			0		1167	Africa/Kampala	2022-02-17
+227538	Nyabushozi County	Nyabushozi County	Nyabushozi,Nyabushozi County	-0.25	30.83333	A	ADMD	UG		W	D3			0		1340	Africa/Kampala	2022-02-17
+227723	Northern Province	Northern Province		2.75	32.9	A	ADMD	UG		00				0		1016	Africa/Kampala	2010-08-28
+227724	North Bugisu County	North Bugisu County	North Bugishu,North Bugisu,North Bugisu County,NorthBugisu	1.25	34.33333	A	ADMD	UG		00				0		1352	Africa/Kampala	2022-02-17
+227725	North Buganda Province	North Buganda Province		1	32.2	A	ADMD	UG		00				0		1085	Africa/Kampala	2010-08-28
+229142	Mitoma County	Mitoma County	Mitoma,Mitoma County	0	30.58333	A	ADMD	UG		00				0		1265	Africa/Kampala	2022-02-17
+229276	Territory of Mbale	Territory of Mbale		1.08333	34.16667	A	ADMD	UG		E	87			0		1132	Africa/Kampala	2012-04-28
+229551	Madi County	Madi County	Mad,Madi County	2.8	31.25	A	ADMD	UG		N	77			0		659	Africa/Kampala	2012-04-28
+230513	Kyagwe County	Kyagwe County	Kyaggwe,Kyagwe County	0.41667	32.83333	A	ADMD	UG		C	90			0		1116	Africa/Kampala	2012-04-28
+230515	Kyadondo County	Kyadondo County		0.41667	32.58333	A	ADMD	UG		C	96			0		1201	Africa/Kampala	2012-04-28
+230693	Koki County	Koki County	Koki,Koki County	-0.71667	31.33333	A	ADMD	UG		C	61			0		1224	Africa/Kampala	2022-02-17
+231208	Kinkizi County	Kinkizi County	Kinkizi,Kinkizi County	-0.83333	29.75	A	ADMD	UG		W	82			0		1413	Africa/Kampala	2022-02-17
+232712	Kajara County	Kajara County	Kajara,Kajara County,Kazara	-0.91667	30.16667	A	ADMD	UG		W	59			0		1365	Africa/Kampala	2022-02-17
+233534	East Madi County	East Madi County	East Madi,East Madi County,EastMadi	3.25	31.83333	A	ADMD	UG		N	65			0		781	Africa/Kampala	2022-02-17
+233535	Eastern Province	Eastern Province		1.4	33.95	A	ADMD	UG		00				0		1117	Africa/Kampala	2010-08-28
+233710	Central Bugisu County	Central Bugisu County	Central Bugisu,Central Bugisu County,Central Busgishu,CentralBugisu	1	34.16667	A	ADMD	UG		E	87			0		1140	Africa/Kampala	2022-02-17
+233789	Bwamba County	Bwamba County	Bwamba,Bwamba County	0.83333	30.05	A	ADMD	UG		W	28			0		693	Africa/Kampala	2022-02-17
+233973	Butembe Bunya County	Butembe Bunya County	Butembe Bunya,Butembe Bunya County,ButembeBunya	0.41667	33.46667	A	ADMD	UG		E	86			0		1181	Africa/Kampala	2022-02-17
+234029	Busuju County	Busuju County	Busujju County,Busuju,Busuju County	0.3	32.03333	A	ADMD	UG		C	D8			0		1229	Africa/Kampala	2022-02-17
+234278	Bulemezi County	Bulemezi County	Bulemezi,Bulemezi County,Bulumezi	1	32.25	A	ADMD	UG		C	D9			0		1116	Africa/Kampala	2022-02-17
+234376	Bukoli County	Bukoli County	Bukoli,Bukoli County	0.33333	33.75	A	ADMD	UG		E	66			0		1170	Africa/Kampala	2022-02-17
+234590	Bugangazi County	Bugangazi County	Bugangadzi,Bugangazi,Bugangazi County	1	31.3	A	ADMD	UG		W	41			0		1182	Africa/Kampala	2022-02-17
+234614	Bugahya County	Bugahya County	Bugahya,Bugahya County	1.5	31.33333	A	ADMD	UG		W	31			0		1121	Africa/Kampala	2022-02-17
+234650	Buddu County	Buddu County	Buddo,Buddu,Buddu County	-0.41667	31.66667	A	ADMD	UG		C	71			0		1268	Africa/Kampala	2022-02-17
+234657	Budaka Bugwere County	Budaka Bugwere County	Budaka,Budaka Bugwere,Budaka Bugwere County,BudakaBugwere	1.08333	33.83333	A	ADMD	UG		E	F6			0		1062	Africa/Kampala	2022-02-17
+235527	Acholi District	Acholi District	Acholi,Acholi District	3	32.5	A	ADMD	UG		N	30			0		995	Africa/Kampala	2022-02-17
+8194359	Omutanyata	Omutanyata		2.12743	32.21919	A	ADMD	UG		W	F7			0		1080	Africa/Kampala	2012-04-28
+8195598	Sabagabo	Sabagabo		2.10728	32.28312	A	ADMD	UG		W	F7			0		1063	Africa/Kampala	2012-04-28
+8202050	Koc	Koc		2.40583	32.11452	A	ADMD	UG		N	H2			0		966	Africa/Kampala	2012-04-28
+8261600	Omutalya	Omutalya		2.24737	31.92141	A	ADMD	UG		W	F7			0		933	Africa/Kampala	2012-05-06
+8261606	Omutalya	Omutalya		2.1389	32.12882	A	ADMD	UG		W	F7			0		1051	Africa/Kampala	2012-05-06
+10860836	Katikamu	Katikamu		0.52015	32.33516	A	ADMD	UG		C	96	234053	8658698	0		1170	Africa/Kampala	2015-11-06
+11072676	Jaguzi Subcounty	Jaguzi Subcounty	Jagusi,Jagusi Subcounty	0.13893	33.57388	A	ADMD	UG		E	86	8644164	8658516	0		1156	Africa/Kampala	2016-04-26
+11072681	Moyok Subcounty	Moyok Subcounty	Moyok	1.40089	34.63182	A	ADMD	UG		E	F9	7732258	8657898	0		2082	Africa/Kampala	2016-04-26
+11279572	Obi	Obi		3.2413	31.0671	A	ADMD	UG		N	77	226158	8658433	0		951	Africa/Kampala	2016-10-12
+13589569	Kikuube	Kikuube	Kikuube,Kikuube District	1.21667	31.13333	A	ADMD	UG		W	31	8644163	8657785	0		1060	Africa/Kampala	2026-02-26

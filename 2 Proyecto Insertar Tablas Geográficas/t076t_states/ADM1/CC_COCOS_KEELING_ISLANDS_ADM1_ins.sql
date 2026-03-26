@@ -1,0 +1,126 @@
+-- ==================================================================================
+-- PAÍS:      Islas Cocos (Keeling) - Cocos (Keeling) Islands
+-- ISO:       CC / CCK / 166
+-- TIPO:      Territorio Dependiente de Australia (Australian External Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:CC / geonames.org / Australian Government
+-- NOMBRE:    CC_COCOS_KEELING_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Cocos (Keeling) NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para este territorio:
+-- - Es un territorio externo de Australia con una superficie de solo 14.2 km²
+-- - Está compuesto por 27 islas, pero solo 2 están habitadas: West Island y Home Island
+-- - Administrativamente tiene un SOLO gobierno local: el "Shire of Cocos (Keeling) Islands"
+-- - ISO 3166-2:CC establece explícitamente: "The Cocos (Keeling) Islands have no defined subdivisions"
+-- - Geonombres no registra divisiones ADM1 para este territorio
+--
+-- El territorio tiene 2 asentamientos principales (West Island y Home Island), pero estos
+-- NO son divisiones administrativas de primer nivel, sino localidades dentro del único
+-- gobierno local (shire). El shire en sí mismo es la división de nivel más bajo.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Como no hay divisiones, este INSERT es por completitud.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_cc', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'CC'), 2, 'Territorio Dependiente', 'Dependent Territory', 'Cocos (Keeling) Islands',
+       'Cocos (Keeling) Islands', 'Islas Cocos', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_cc'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Cocos (Keeling) no tienen divisiones administrativas de primer nivel.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Cocos (Keeling) - Territorio Dependiente de Australia
+--     └── Shire of Cocos (Keeling) Islands (único gobierno local)
+--         ├── West Island (asentamiento, sede administrativa)
+--         └── Home Island (asentamiento)
+--
+-- Los asentamientos NO son divisiones ADM1. Son localidades (PPL) dentro del shire.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Las Islas Cocos NO TIENEN divisiones ADM1.
+--     *   **DATOS CONFIRMADOS:**
+--         - Superficie: 14.2 km² (solo 2 islas habitadas de 27 totales)
+--         - Población: ~600 habitantes (2022 est.)
+--         - Es un territorio externo de Australia desde 1955
+--         - Administrado por el Australian Department of Infrastructure, Transport, Regional Development and Communications
+--         - El administrador es nombrado por el Gobernador General de Australia
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Las Islas Cocos (Keeling) son un territorio externo de Australia [citation:7]
+--     *   Clasificadas como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: CC
+--     *   Código ISO 3166-1 alpha-3: CCK
+--     *   Código numérico ISO: 166
+--     *   Dominio de internet: .cc
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones [citation:2]
+--     *   La entrada para CC en ISO 3166-2 indica explícitamente: "The Cocos (Keeling) Islands have no defined subdivisions"
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para las Islas Cocos es 1547376 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio [citation:9]
+--     *   El archivo de descarga CC.zip contiene solo islas y localidades, sin subdivisiones administrativas
+--
+-- 5.  **HISTORIA Y ORGANIZACIÓN:**
+--     *   1609: Descubiertas por el Capitán William Keeling
+--     *   1826: Primer asentamiento por Alexander Hare
+--     *   1827: Establecimiento por John Clunies-Ross
+--     *   1857: Anexión británica
+--     *   1955: Transferencia a Australia [citation:7]
+--     *   1984: Referéndum de integración con Australia
+--     *   Desde 1995: Gobernado por el "Shire of Cocos (Keeling) Islands" como único gobierno local [citation:10]
+--
+-- 6.  **CARACTERÍSTICAS GEOGRÁFICAS:**
+--     *   Ubicación: 12°07′S 96°54′E
+--     *   27 islas coralinas formando dos atolones
+--     *   Islas habitadas: West Island (capital administrativa) y Home Island [citation:7]
+--     *   Zona horaria: UTC+6:30
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +61 (Australia)
+--     *   Código de área específico: 8-9162 (West Island)
+--
+-- 8.  **IDIOMAS:**
+--     *   Inglés (oficial)
+--     *   Cocos Malay (criollo malayo) hablado por la comunidad malaya en Home Island [citation:7]
+--
+-- 9.  **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" probablemente se basó en información de otro país (posiblemente Islas Åland)
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:CC establece que NO HAY subdivisiones [citation:2]
+--         - Geonombres no tiene registros ADM1 para CC [citation:9]
+--         - Kontur Boundaries muestra solo el territorio completo como entidad [citation:1]
+--         - WOF Administrative Subdivisions confirma ausencia de divisiones ADM1 [citation:4]
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 10. **ACLARACIÓN SOBRE ASENTAMIENTOS:**
+--     *   West Island (geo_id: 1547359) es la capital y sede administrativa
+--     *   Home Island (geo_id: 1547375) es el asentamiento de la comunidad malaya
+--     *   Estos NO son divisiones administrativas ADM1, son localidades (feature code PPL)
+--     *   El único gobierno local (Shire) abarca todo el territorio, sin subdivisiones internas
+-- ==================================================================================

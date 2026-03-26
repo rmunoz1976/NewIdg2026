@@ -1,0 +1,59 @@
+﻿725278	Zlatiya Obshtina	Zlatiya Obshtina	Obshhina Zlatija,Община Златия	43.76667	23.5	A	ADMD	BG		47				0		64	Europe/Sofia	2007-05-30
+725470	Zafirovo Obshtina	Zafirovo Obshtina	Obshhina Zafirovo,Община Зафирово	44	26.83333	A	ADMD	BG		55				0		119	Europe/Sofia	2007-05-30
+725484	Yuper Obshtina	Yuper Obshtina	Obshhina Juper,Община Юпер	43.91667	26.4	A	ADMD	BG		52				0		86	Europe/Sofia	2007-05-30
+725768	Voynika Obshtina	Voynika Obshtina	Obshhina Vojnika,Община Войника	42.38333	26.81667	A	ADMD	BG		65				0		210	Europe/Sofia	2007-05-30
+725796	Voditsa Obshtina	Voditsa Obshtina	Obshhina Vodica,Община Водица	43.35	26.05	A	ADMD	BG		00				0		319	Europe/Sofia	2007-05-30
+725960	Verdikal Obshtina	Verdikal Obshtina	Obshhina Verdikal,Община Вердикал	42.71667	23.13333	A	ADMD	BG		00				0		679	Europe/Sofia	2007-05-30
+726027	Vasil Levski Rayon	Vasil Levski Rayon	Chervenkov,Fifth Rayon,Peti Rayon Vasil Levski,Rajon Vasil Levski,V-i Rayon,Vasil Levski,Район Васил Левски	42.66667	23.45	A	ADMD	BG		42				0		543	Europe/Sofia	2007-05-30
+726292	Trustenik Gradska Obshtina	Trustenik Gradska Obshtina	Obshhina Trustenik,Obshtina Trustenik,Obshtina Trŭstenik,Община Тръстеник	43.51667	24.46667	A	ADMD	BG		50				0		124	Europe/Sofia	2007-05-30
+726380	Topolovo Obshtina	Topolovo Obshtina	Obshhina Topolovo,Topolovska Obshtina,Община Тополово	41.9	25	A	ADMD	BG		00				0		471	Europe/Sofia	2007-05-30
+726481	Tenevo Obshtina	Tenevo Obshtina	Obshhina Tenevo,Община Тенево	42.35	26.53333	A	ADMD	BG		65				0		117	Europe/Sofia	2007-05-30
+726783	Stokite Obshtina	Stokite Obshtina	Obshhina Stokite,Община Стоките	42.86667	25.06667	A	ADMD	BG		00				0		489	Europe/Sofia	2007-05-30
+726909	Sredno Selo Obshtina	Sredno Selo Obshtina	Obshhina Sredno Selo,Община Средно Село	43.01667	26.06667	A	ADMD	BG		00				0		490	Europe/Sofia	2007-05-30
+727027	Smolyanovtsi Obshtina	Smolyanovtsi Obshtina	Obshhina Stoljanovci,Община Столяновци	43.5	22.98333	A	ADMD	BG		47				0		387	Europe/Sofia	2007-05-30
+727049	Smilyan Obshtina	Smilyan Obshtina	Obshhina Smiljan,Община Смилян	41.5	24.75	A	ADMD	BG		57				0		911	Europe/Sofia	2007-05-30
+727105	Slaveino Obshtina	Slaveino Obshtina	Obshhina Slaveino,Община Славеино	41.63333	24.86667	A	ADMD	BG		57				0		1148	Europe/Sofia	2007-05-30
+727156	Skalitsa Obshtina	Skalitsa Obshtina	Obshhina Skalica,Община Скалица	42.26667	26.26667	A	ADMD	BG		65				0		169	Europe/Sofia	2007-05-30
+727245	Shtruklevo Obshtina	Shtruklevo Obshtina	Obshhina Shhruklevo,Община Щръклево	43.71667	26.05	A	ADMD	BG		00				0		170	Europe/Sofia	2007-05-30
+727276	Shiroki Dol Obshtina	Shiroki Dol Obshtina	Obshhina Shiroki Dol,Община Широки Дол	42.4	23.51667	A	ADMD	BG		58				0		956	Europe/Sofia	2007-05-30
+727281	Shiroka Laka Obshtina	Shiroka Laka Obshtina	Obshhina Shiroka Luka,Shiroka Laka Obshtina,Община Широка Лъка	41.67791	24.58397	A	ADMD	BG		51				0		1067	Europe/Sofia	2007-08-26
+727356	Senovo Obshtina	Senovo Obshtina	Obshhina Senovo,Община Сеново	43.65	26.36667	A	ADMD	BG		00				0		210	Europe/Sofia	2007-05-30
+727484	Sadina Obshtina	Sadina Obshtina	Obshhina Sadina,Община Садина	43.48333	26.3	A	ADMD	BG		60				0		221	Europe/Sofia	2007-05-30
+727940	Profesor-Ishirkovo Obshtina	Profesor-Ishirkovo Obshtina	Obshhina Profesor Ishirkovo,Община Професор Иширково	44	27.16667	A	ADMD	BG		00				0		91	Europe/Sofia	2007-05-30
+728167	Podkova Obshtina	Podkova Obshtina	Obshhina Podkova,Община Подкова	41.4	25.4	A	ADMD	BG		00				0		328	Europe/Sofia	2007-05-30
+728174	Podem Obshtina	Podem Obshtina	Obshhina Podem,Община Подем	43.53333	24.58333	A	ADMD	BG		50				0		54	Europe/Sofia	2007-05-30
+728324	Perperek Obshtina	Perperek Obshtina	Obshhina Perperek,Община Перперек	41.68333	25.55	A	ADMD	BG		00				0		330	Europe/Sofia	2007-05-30
+728641	Okorsh Obshtina	Okorsh Obshtina	Obshhina Okorsh,Община Окорш	43.75	27.03333	A	ADMD	BG		55				0		248	Europe/Sofia	2007-05-30
+728686	Obitel Obshtina	Obitel Obshtina	Obshhina Obitel,Община Обител	43.06667	26.56667	A	ADMD	BG		00				0		370	Europe/Sofia	2007-05-30
+728705	Novo Selo Obshtina	Novo Selo Obshtina	Obshhina Novo Selo,Община Ново Село	43.8	26.18333	A	ADMD	BG		00				0		138	Europe/Sofia	2007-05-30
+728798	Nikolaevka Obshtina	Nikolaevka Obshtina	Obshhina Nikolaevka,Община Николаевка	43.35	27.66667	A	ADMD	BG		00				0		311	Europe/Sofia	2007-05-30
+729022	Mlekarevo Obshtina	Mlekarevo Obshtina	Obshhina Mlekarevo,Община Млекарево	42.35	26.08333	A	ADMD	BG		56				0		159	Europe/Sofia	2007-05-30
+729024	Mlechino Obshtina	Mlechino Obshtina	Obshhina Mlechino,Община Млечино	41.65	25.15	A	ADMD	BG		00				0		772	Europe/Sofia	2007-05-30
+729116	Mikhalkovo Obshtina	Mikhalkovo Obshtina	Obshhina Mikhalkovo,Община Михалково	41.85	24.43333	A	ADMD	BG		57				0		758	Europe/Sofia	2007-05-30
+729158	Melnik Obshtina	Melnik Obshtina	Melnishka Obshtina,Obshhina Melnik,Община Мелник	41.52297	23.39338	A	ADMD	BG		38				0		392	Europe/Sofia	2009-08-11
+729417	Makariopolsko Obshtina	Makariopolsko Obshtina	Obshhina Makariopolsko,Община Макариополско	43.33333	26.66667	A	ADMD	BG		00				0		255	Europe/Sofia	2007-05-30
+729546	Lozarevo Obshtina	Lozarevo Obshtina	Obshhina Lozarevo,Община Лозарево	42.76667	26.88333	A	ADMD	BG		39				0		237	Europe/Sofia	2007-05-30
+729693	Lekhchevo Obshtina	Lekhchevo Obshtina	Obshhina Lekhchevo,Община Лехчево	43.53333	23.53333	A	ADMD	BG		47				0		71	Europe/Sofia	2007-05-30
+730237	Kolarovo Obshtina	Kolarovo Obshtina	Kolarovska Obshtina,Obshhina Kolarovo,Община Коларово	41.36667	23.1	A	ADMD	BG		38				0		375	Europe/Sofia	2007-05-30
+730366	Kilifarevo Gradska Obshtina	Kilifarevo Gradska Obshtina	Obshhina Kilifarevo,Obshtina Kilifarevo,Община Килифарево	42.98333	25.63333	A	ADMD	BG		00				0		268	Europe/Sofia	2007-05-30
+730374	Khvoyna Obshtina	Khvoyna Obshtina	Obshhina Khvojna,Община Хвойна	41.86667	24.68333	A	ADMD	BG		57				0		745	Europe/Sofia	2007-05-30
+730396	Khristo Botev Rayon	Khristo Botev Rayon	rajon Khristo Botev,район Христо Ботев	42.66667	23.4	A	ADMD	BG		00				0		547	Europe/Sofia	2007-05-30
+730477	Kermen Gradska Obshtina	Kermen Gradska Obshtina	Obshhina Kermen,Obshtina Kermen,Община Кермен	42.5	26.25	A	ADMD	BG		00				0		169	Europe/Sofia	2007-05-30
+730521	Katuntsi Obshtina	Katuntsi Obshtina	Obshhina Katunci,Община Катунци	41.45	23.43333	A	ADMD	BG		00				0		186	Europe/Sofia	2007-05-30
+730734	Kaloyanovets Obshtina	Kaloyanovets Obshtina	Obshhina Kalojanovec,Община Калояновец	42.3	25.56667	A	ADMD	BG		59				0		185	Europe/Sofia	2007-05-30
+730736	Kaloyan Obshtina	Kaloyan Obshtina	Obshhina Kalojan,Obshtina Esenitsa,Община Калоян	43.43333	27.4	A	ADMD	BG		00				0		301	Europe/Sofia	2007-05-30
+730843	Ivanski Obshtina	Ivanski Obshtina	Ivanska Obshtina,Obshhina Ivanci,Община Иванци	43.13333	27.03333	A	ADMD	BG		00				0		78	Europe/Sofia	2007-05-30
+730962	Gurlyano Obshtina	Gurlyano Obshtina	Gurlyanska Obshtina,Gyueshevska Obshtina,Gŭrlyanska Obshtina,Obshhina Gurljano,Obshtina Gyueshevo,Община Гърляно	42.25	22.56667	A	ADMD	BG		00				0		1120	Europe/Sofia	2007-05-30
+731065	Gradnitsa Obshtina	Gradnitsa Obshtina	Obshhina Gradnica,Община Градница	42.95	24.96667	A	ADMD	BG		00				0		430	Europe/Sofia	2007-05-30
+731573	Gabare Obshtina	Gabare Obshtina	Obshhina Gabare,Община Габаре	43.31667	23.91667	A	ADMD	BG		64				0		238	Europe/Sofia	2007-05-30
+731808	Dunavtsi Gradska Obshtina	Dunavtsi Gradska Obshtina	Obshhina Dunavci,Obshtina Dunavtsi,Община Дунавци	43.91667	22.81667	A	ADMD	BG		00				0		48	Europe/Sofia	2007-05-30
+731835	Dulboki Obshtina	Dulboki Obshtina	Obshhina Dulboki,Община Дълбоки	42.48333	25.76667	A	ADMD	BG		59				0		285	Europe/Sofia	2007-05-30
+731935	Dralfa Obshtina	Dralfa Obshtina	Obshhina Dralfa,Община Дралфа	43.33333	26.43333	A	ADMD	BG		52				0		212	Europe/Sofia	2007-05-30
+731948	Dragovishtitsa Obshtina	Dragovishtitsa Obshtina	Obshhina Dragovishhica,Община Драговищица	42.36667	22.65	A	ADMD	BG		00				0		557	Europe/Sofia	2007-05-30
+732287	Deveti Septemvri Rayon	Deveti Septemvri Rayon	Rayon IX-ti Septemvri,Sedmi Rayon IX-ti Septemvri,VII-i Rayon,rajon Deveti septemvri,район Девети септември	42.58333	23.33333	A	ADMD	BG		42				0		1291	Europe/Sofia	2007-05-30
+732309	Dermantsi Obshtina	Dermantsi Obshtina	Obshhina Dermanci,Община Дерманци	43.15	24.28333	A	ADMD	BG		00				0		194	Europe/Sofia	2007-05-30
+732696	Byal Izvor Obshtina	Byal Izvor Obshtina	Obshhina Bjal izvor,Община Бял извор	41.55	25.08333	A	ADMD	BG		00				0		654	Europe/Sofia	2007-05-30
+733177	Blatets Obshtina	Blatets Obshtina	Obshhina Blatec,Община Блатец	42.63333	26.53333	A	ADMD	BG		00				0		156	Europe/Sofia	2007-05-30
+733270	Benkovski Obshtina	Benkovski Obshtina	Obshhina Benkovski,Община Бенковски	41.38333	25.26667	A	ADMD	BG		00				0		389	Europe/Sofia	2007-05-30
+733586	Avren Obshtina	Avren Obshtina	Avrenska Obshtina,Golemokamenyanska Obshtina,Obshhina Avren,Obshtina Golyamo Kamenyane,Община Аврен	41.35	25.71667	A	ADMD	BG		00				0		501	Europe/Sofia	2007-05-30
+733687	Aleksandrovo Obshtina	Aleksandrovo Obshtina	Obshhina Aleksandrovo,Община Александрово	43.25	24.95	A	ADMD	BG		00				0		95	Europe/Sofia	2007-05-30

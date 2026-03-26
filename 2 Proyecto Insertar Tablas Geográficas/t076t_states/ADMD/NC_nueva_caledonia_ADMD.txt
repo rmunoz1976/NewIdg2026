@@ -1,0 +1,8 @@
+﻿12023829	Penelo	Penelo	District de Penelo,Penelo	-21.58846	168.07461	A	ADMD	NC		03				0		57	Pacific/Noumea	2019-02-23
+12023830	Eni	Eni	District de Eni,Eni	-21.60028	168.00234	A	ADMD	NC		03				0		79	Pacific/Noumea	2019-02-23
+12023831	Medu	Medu	District de Medu,Medu	-21.60907	167.96083	A	ADMD	NC		03				0		92	Pacific/Noumea	2019-02-23
+12023832	Wabao	Wabao	District de Wabao,Wabao	-21.57589	167.94916	A	ADMD	NC		03				0		105	Pacific/Noumea	2019-02-23
+12023833	District de Tadine	District de Tadine	District de Tadin,District de Tadine,Tadin,Tadine	-21.54468	167.90871	A	ADMD	NC		03				0		85	Pacific/Noumea	2019-02-23
+12023834	Guahma	Guahma	District de Guahma,Guahma	-21.45862	167.89023	A	ADMD	NC		03				0		78	Pacific/Noumea	2019-02-23
+12023835	La Roche	La Roche	District de La Roche,La Roche	-21.49862	168.00567	A	ADMD	NC		03				0		49	Pacific/Noumea	2019-02-23
+12023836	Tawainedr	Tawainedr	District de Tawainedr,Tawainedr	-21.49922	168.09142	A	ADMD	NC		03				0		64	Pacific/Noumea	2019-02-23

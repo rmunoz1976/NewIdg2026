@@ -1,0 +1,3 @@
+﻿1173473	Kohistān District	Kohistan District	Kohistan,Kohistan District,Kohistān,Kohistān District	35.325	73.22923	A	ADM2H	PK		03	1173473			0		2188	Asia/Karachi	2019-11-28
+1174870	Karāchi District	Karachi District	Karachi,Karachi District,Karāchi,Karāchi District	25.07267	67.20346	A	ADM2H	PK		05	1174870			0		101	Asia/Karachi	2019-11-28
+11744836	Lehri District	Lehri District	Lehri,Lehri District	29.00896	68.02303	A	ADM2H	PK		02	11744836	11744836		118046		95	Asia/Karachi	2019-12-10

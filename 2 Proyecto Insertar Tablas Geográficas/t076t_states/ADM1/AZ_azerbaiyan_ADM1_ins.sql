@@ -1,0 +1,93 @@
+-- =============================================
+-- Script de inserción para AZERBAIYÁN (AZ)
+-- Archivo: AZ_azerbaiyan_ADM1_ins.sql
+-- =============================================
+
+-- Insertar tipo de división geográfica ADM1 para AZERBAIYÁN: Distrito
+INSERT INTO `t075t_division_types` (
+    `code`, `id_country`, `id_level_type`, `name_spanish`, `name_english`,
+    `name_iso`, `name_original`, `name_transcribed`, `status`,
+    `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES (
+    'distrito_az', 16, 8, 'Distrito', 'District',
+    'District', 'Rayon', 'Rayon', 1, NOW(6), NOW(6), 1, 1
+);
+
+-- Insertar las divisiones ADM1 de AZERBAIYÁN (Distritos, Repúblicas Autónomas y Ciudades)
+INSERT INTO `t076t_states` (
+    `geo_id`, `id_country`, `code`, `code_dane`, `code_dian`, `code_iso_numeric`,
+    `code_iso_alpha2`, `code_iso_alpha3`, `phone_code`, `id_division_type`,
+    `name_spanish`, `name_english`, `name_iso`, `name_original`, `name_transcribed`,
+    `status`, `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES
+(146879, 16, 'BEY', NULL, NULL, '0', 'AZ-BEY', 'AZ-BEY', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'beylagan', 'Beylagan', 'Beylagan Rayon', 'Beylagan Rayon', 'beylagan', 1, NOW(6), NOW(6), 1, 1),
+(146900, 16, 'ZAN', NULL, NULL, '0', 'AZ-ZAN', 'AZ-ZAN', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'zangilan', 'Zangilan', 'Zangilan Rayon', 'Zangilan Rayon', 'zangilan', 1, NOW(6), NOW(6), 1, 1),
+(146962, 16, 'YAR', NULL, NULL, '0', 'AZ-YAR', 'AZ-YAR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'yardimli', 'Yardymli', 'Yardymli Rayon', 'Yardymli Rayon', 'yardimli', 1, NOW(6), NOW(6), 1, 1),
+(147163, 16, 'SUS', NULL, NULL, '0', 'AZ-SUS', 'AZ-SUS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shusha', 'Shusha', 'Shusha Rayon', 'Shusha Rayon', 'shusha', 1, NOW(6), NOW(6), 1, 1),
+(147269, 16, 'SAL', NULL, NULL, '0', 'AZ-SAL', 'AZ-SAL', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'salyan', 'Salyan', 'Salyan Rayon', 'Salyan Rayon', 'salyan', 1, NOW(6), NOW(6), 1, 1),
+(147284, 16, 'SAB', NULL, NULL, '0', 'AZ-SAB', 'AZ-SAB', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'sabirabad', 'Sabirabad', 'Sabirabad Rayon', 'Sabirabad Rayon', 'sabirabad', 1, NOW(6), NOW(6), 1, 1),
+(147287, 16, 'SAT', NULL, NULL, '0', 'AZ-SAT', 'AZ-SAT', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'saatly', 'Saatly', 'Saatly Rayon', 'Saatly Rayon', 'saatly', 1, NOW(6), NOW(6), 1, 1),
+(147310, 16, 'BIL', NULL, NULL, '0', 'AZ-BIL', 'AZ-BIL', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'bilasuvar', 'Bilasuvar', 'Bilasuvar Rayon', 'Bilasuvar Rayon', 'bilasuvar', 1, NOW(6), NOW(6), 1, 1),
+(147422, 16, 'NEF', NULL, NULL, '0', 'AZ-NEF', 'AZ-NEF', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'neftchala', 'Neftchala', 'Neftchala Rayon', 'Neftchala Rayon', 'neftchala', 1, NOW(6), NOW(6), 1, 1),
+(147435, 16, 'NX', NULL, NULL, '0', 'AZ-NX', 'AZ-NX', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'nakhchivan', 'Nakhchivan', 'Nakhchivan Autonomous Republic', 'Nakhchivan Autonomous Republic', 'nakhchivan', 1, NOW(6), NOW(6), 1, 1),
+(147551, 16, 'MAS', NULL, NULL, '0', 'AZ-MAS', 'AZ-MAS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'masally', 'Masally', 'Masally District', 'Masally District', 'masally', 1, NOW(6), NOW(6), 1, 1),
+(147610, 16, 'LER', NULL, NULL, '0', 'AZ-LER', 'AZ-LER', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'lerik', 'Lerik', 'Lerik Rayon', 'Lerik Rayon', 'lerik', 1, NOW(6), NOW(6), 1, 1),
+(147613, 16, 'LAN', NULL, NULL, '0', 'AZ-LAN', 'AZ-LAN', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'lankaran', 'Lankaran', 'Lankaran Rayon', 'Lankaran Rayon', 'lankaran', 1, NOW(6), NOW(6), 1, 1),
+(147626, 16, 'LAC', NULL, NULL, '0', 'AZ-LAC', 'AZ-LAC', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'lachin', 'Lachin', 'Lachin Rayon', 'Lachin Rayon', 'lachin', 1, NOW(6), NOW(6), 1, 1),
+(147694, 16, 'QUB', NULL, NULL, '0', 'AZ-QUB', 'AZ-QUB', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'qubadli', 'Qubadli', 'Qubadli Rayon', 'Qubadli Rayon', 'qubadli', 1, NOW(6), NOW(6), 1, 1),
+(147983, 16, 'IMI', NULL, NULL, '0', 'AZ-IMI', 'AZ-IMI', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'imishli', 'Imishli', 'Imishli Rayon', 'Imishli Rayon', 'imishli', 1, NOW(6), NOW(6), 1, 1),
+(148107, 16, 'FUZ', NULL, NULL, '0', 'AZ-FUZ', 'AZ-FUZ', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'fizuli', 'Fizuli', 'Fizuli Rayon', 'Fizuli Rayon', 'fizuli', 1, NOW(6), NOW(6), 1, 1),
+(148140, 16, 'CAB', NULL, NULL, '0', 'AZ-CAB', 'AZ-CAB', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'jabrayil', 'Jabrayil', 'Jabrayil District', 'Jabrayil District', 'jabrayil', 1, NOW(6), NOW(6), 1, 1),
+(148155, 16, 'CAL', NULL, NULL, '0', 'AZ-CAL', 'AZ-CAL', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'jalilabad', 'Jalilabad', 'Jalilabad', 'Jalilabad', 'jalilabad', 1, NOW(6), NOW(6), 1, 1),
+(148442, 16, 'AST', NULL, NULL, '0', 'AZ-AST', 'AZ-AST', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'astara', 'Astara', 'Astara District', 'Astara District', 'astara', 1, NOW(6), NOW(6), 1, 1),
+(148449, 16, 'XCI', NULL, NULL, '0', 'AZ-XCI', 'AZ-XCI', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'khojaly', 'Khojaly', 'Khojaly', 'Khojaly', 'khojaly', 1, NOW(6), NOW(6), 1, 1),
+(148615, 16, 'AGC', NULL, NULL, '0', 'AZ-AGC', 'AZ-AGC', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'aghjabadi', 'Aghjabadi', 'Aghjabadi Rayon', 'Aghjabadi Rayon', 'aghjabadi', 1, NOW(6), NOW(6), 1, 1),
+(148617, 16, 'AGM', NULL, NULL, '0', 'AZ-AGM', 'AZ-AGM', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'aghdam', 'Aghdam', 'Aghdam Rayon', 'Aghdam Rayon', 'aghdam', 1, NOW(6), NOW(6), 1, 1),
+(409417, 16, 'SR', NULL, NULL, '0', 'AZ-SR', 'AZ-SR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shirvan', 'Shirvan', 'Shirvan', 'Shirvan', 'shirvan', 1, NOW(6), NOW(6), 1, 1),
+(409418, 16, 'LA', NULL, NULL, '0', 'AZ-LA', 'AZ-LA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'lankaran sahari', 'Lankaran Sahari', 'Lankaran Sahari', 'Lankaran Sahari', 'lankaran sahari', 1, NOW(6), NOW(6), 1, 1),
+(409419, 16, 'SS', NULL, NULL, '0', 'AZ-SS', 'AZ-SS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shusha', 'Shusha', 'Shusha', 'Shusha', 'shusha', 1, NOW(6), NOW(6), 1, 1),
+(409420, 16, 'TAR', NULL, NULL, '0', 'AZ-TAR', 'AZ-TAR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'tartar', 'Tartar', 'Tartar Rayon', 'Tartar Rayon', 'tartar', 1, NOW(6), NOW(6), 1, 1),
+(409421, 16, 'XAN', NULL, NULL, '0', 'AZ-XAN', 'AZ-XAN', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'xankandi', 'Xankandi', 'Xankandi Sahari', 'Xankandi Sahari', 'xankandi', 1, NOW(6), NOW(6), 1, 1),
+(409423, 16, 'XVD', NULL, NULL, '0', 'AZ-XVD', 'AZ-XVD', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'khojavend', 'Khojavend', 'Khojavend District', 'Khojavend District', 'khojavend', 1, NOW(6), NOW(6), 1, 1),
+(584583, 16, 'ZAR', NULL, NULL, '0', 'AZ-ZAR', 'AZ-ZAR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'zardab', 'Zardab', 'Zardab Rayon', 'Zardab Rayon', 'zardab', 1, NOW(6), NOW(6), 1, 1),
+(584604, 16, 'ZAQ', NULL, NULL, '0', 'AZ-ZAQ', 'AZ-ZAQ', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'zaqatala', 'Zaqatala', 'Zaqatala Rayon', 'Zaqatala Rayon', 'zaqatala', 1, NOW(6), NOW(6), 1, 1),
+(584650, 16, 'YEV', NULL, NULL, '0', 'AZ-YEV', 'AZ-YEV', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'yevlakh', 'Yevlakh', 'Yevlakh Rayon', 'Yevlakh Rayon', 'yevlakh', 1, NOW(6), NOW(6), 1, 1),
+(584742, 16, 'OGU', NULL, NULL, '0', 'AZ-OGU', 'AZ-OGU', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'oghuz', 'Oghuz', 'Oghuz Rayon', 'Oghuz Rayon', 'oghuz', 1, NOW(6), NOW(6), 1, 1),
+(584783, 16, 'UCA', NULL, NULL, '0', 'AZ-UCA', 'AZ-UCA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'ujar', 'Ujar', 'Ujar Rayon', 'Ujar Rayon', 'ujar', 1, NOW(6), NOW(6), 1, 1),
+(584861, 16, 'TOV', NULL, NULL, '0', 'AZ-TOV', 'AZ-TOV', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'tovuz', 'Tovuz', 'Tovuz Rayon', 'Tovuz Rayon', 'tovuz', 1, NOW(6), NOW(6), 1, 1),
+(585030, 16, 'SMA', NULL, NULL, '0', 'AZ-SMA', 'AZ-SMA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shamakhi', 'Shamakhi', 'Shamakhi Rayon', 'Shamakhi Rayon', 'shamakhi', 1, NOW(6), NOW(6), 1, 1),
+(585031, 16, 'SA', NULL, NULL, '0', 'AZ-SA', 'AZ-SA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shaki', 'Shaki', 'Shaki Rayon', 'Shaki Rayon', 'shaki', 1, NOW(6), NOW(6), 1, 1),
+(585059, 16, 'SKR', NULL, NULL, '0', 'AZ-SKR', 'AZ-SKR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shamkir', 'Shamkir', 'Shamkir Rayon', 'Shamkir Rayon', 'shamkir', 1, NOW(6), NOW(6), 1, 1),
+(585686, 16, 'KUR', NULL, NULL, '0', 'AZ-KUR', 'AZ-KUR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'kurdamir', 'Kurdamir', 'Kurdamir Rayon', 'Kurdamir Rayon', 'kurdamir', 1, NOW(6), NOW(6), 1, 1),
+(585738, 16, 'QAB', NULL, NULL, '0', 'AZ-QAB', 'AZ-QAB', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'qabala', 'Qabala', 'Qabala Rayon', 'Qabala Rayon', 'qabala', 1, NOW(6), NOW(6), 1, 1),
+(585749, 16, 'QUS', NULL, NULL, '0', 'AZ-QUS', 'AZ-QUS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'qusar', 'Qusar', 'Qusar Rayon', 'Qusar Rayon', 'qusar', 1, NOW(6), NOW(6), 1, 1),
+(585786, 16, 'QBA', NULL, NULL, '0', 'AZ-QBA', 'AZ-QBA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'quba', 'Quba', 'Quba Rayon', 'Quba Rayon', 'quba', 1, NOW(6), NOW(6), 1, 1),
+(585967, 16, 'GYG', NULL, NULL, '0', 'AZ-GYG', 'AZ-GYG', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'goygol', 'Goygol', 'Goygol Rayon', 'Goygol Rayon', 'goygol', 1, NOW(6), NOW(6), 1, 1),
+(586001, 16, 'XAC', NULL, NULL, '0', 'AZ-XAC', 'AZ-XAC', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'khachmaz', 'Khachmaz', 'Khachmaz Rayon', 'Khachmaz Rayon', 'khachmaz', 1, NOW(6), NOW(6), 1, 1),
+(586047, 16, 'KAL', NULL, NULL, '0', 'AZ-KAL', 'AZ-KAL', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'kalbajar', 'Kalbajar', 'Kalbajar District', 'Kalbajar District', 'kalbajar', 1, NOW(6), NOW(6), 1, 1),
+(586087, 16, 'QAZ', NULL, NULL, '0', 'AZ-QAZ', 'AZ-QAZ', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'qazakh', 'Qazakh', 'Qazakh Rayon', 'Qazakh Rayon', 'qazakh', 1, NOW(6), NOW(6), 1, 1),
+(586112, 16, 'GOR', NULL, NULL, '0', 'AZ-GOR', 'AZ-GOR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'goranboy', 'Goranboy', 'Goranboy Rayon', 'Goranboy Rayon', 'goranboy', 1, NOW(6), NOW(6), 1, 1),
+(586290, 16, 'QAX', NULL, NULL, '0', 'AZ-QAX', 'AZ-QAX', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'qakh', 'Qakh', 'Qakh Rayon', 'Qakh Rayon', 'qakh', 1, NOW(6), NOW(6), 1, 1),
+(586320, 16, 'ISM', NULL, NULL, '0', 'AZ-ISM', 'AZ-ISM', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'ismayilli', 'Ismayilli', 'Ismayilli Rayon', 'Ismayilli Rayon', 'ismayilli', 1, NOW(6), NOW(6), 1, 1),
+(586482, 16, 'GOY', NULL, NULL, '0', 'AZ-GOY', 'AZ-GOY', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'goychay', 'Goychay', 'Goychay Rayon', 'Goychay Rayon', 'goychay', 1, NOW(6), NOW(6), 1, 1),
+(586725, 16, 'SBN', NULL, NULL, '0', 'AZ-SBN', 'AZ-SBN', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shabran', 'Shabran', 'Shabran Rayon', 'Shabran Rayon', 'shabran', 1, NOW(6), NOW(6), 1, 1),
+(586771, 16, 'DAS', NULL, NULL, '0', 'AZ-DAS', 'AZ-DAS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'dashkasan', 'Dashkasan', 'Dashkasan Rayon', 'Dashkasan Rayon', 'dashkasan', 1, NOW(6), NOW(6), 1, 1),
+(587010, 16, 'BAL', NULL, NULL, '0', 'AZ-BAL', 'AZ-BAL', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'balakan', 'Balakan', 'Balakan Rayon', 'Balakan Rayon', 'balakan', 1, NOW(6), NOW(6), 1, 1),
+(587056, 16, 'BAR', NULL, NULL, '0', 'AZ-BAR', 'AZ-BAR', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'barda', 'Barda', 'Barda Rayon', 'Barda Rayon', 'barda', 1, NOW(6), NOW(6), 1, 1),
+(587081, 16, 'BA', NULL, NULL, '0', 'AZ-BA', 'AZ-BA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'baku', 'Baku', 'Baku City', 'Baku City', 'baku', 1, NOW(6), NOW(6), 1, 1),
+(587245, 16, 'ABS', NULL, NULL, '0', 'AZ-ABS', 'AZ-ABS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'absheron', 'Absheron', 'Absheron Rayon', 'Absheron Rayon', 'absheron', 1, NOW(6), NOW(6), 1, 1),
+(587342, 16, 'AGU', NULL, NULL, '0', 'AZ-AGU', 'AZ-AGU', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'agshu', 'Aghsu', 'Aghsu Rayon', 'Aghsu Rayon', 'agshu', 1, NOW(6), NOW(6), 1, 1),
+(587376, 16, 'AGS', NULL, NULL, '0', 'AZ-AGS', 'AZ-AGS', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'aghdash', 'Aghdash', 'Aghdash Rayon', 'Aghdash Rayon', 'aghdash', 1, NOW(6), NOW(6), 1, 1),
+(627535, 16, 'GAD', NULL, NULL, '0', 'AZ-GAD', 'AZ-GAD', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'gadabay', 'Gadabay', 'Gadabay Rayon', 'Gadabay Rayon', 'gadabay', 1, NOW(6), NOW(6), 1, 1),
+(828297, 16, 'AGA', NULL, NULL, '0', 'AZ-AGA', 'AZ-AGA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'agstafa', 'Aghstafa', 'Aghstafa Rayon', 'Aghstafa Rayon', 'agstafa', 1, NOW(6), NOW(6), 1, 1),
+(828298, 16, 'GA', NULL, NULL, '0', 'AZ-GA', 'AZ-GA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'ganja', 'Ganja', 'Ganja City', 'Ganja City', 'ganja', 1, NOW(6), NOW(6), 1, 1),
+(828299, 16, 'MI', NULL, NULL, '0', 'AZ-MI', 'AZ-MI', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'mingacevir', 'Mingacevir', 'Mingacevir City', 'Mingacevir City', 'mingacevir', 1, NOW(6), NOW(6), 1, 1),
+(828300, 16, 'NA', NULL, NULL, '0', 'AZ-NA', 'AZ-NA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'naftalan', 'Naftalan', 'Naftalan City', 'Naftalan City', 'naftalan', 1, NOW(6), NOW(6), 1, 1),
+(828301, 16, 'QOB', NULL, NULL, '0', 'AZ-QOB', 'AZ-QOB', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'gobustan', 'Gobustan', 'Gobustan Rayon', 'Gobustan Rayon', 'gobustan', 1, NOW(6), NOW(6), 1, 1),
+(828302, 16, 'SMX', NULL, NULL, '0', 'AZ-SMX', 'AZ-SMX', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'samukh', 'Samukh', 'Samukh Rayon', 'Samukh Rayon', 'samukh', 1, NOW(6), NOW(6), 1, 1),
+(828303, 16, 'SA', NULL, NULL, '0', 'AZ-SA', 'AZ-SA', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'shaki', 'Shaki', 'Shaki city', 'Shaki city', 'shaki', 1, NOW(6), NOW(6), 1, 1),
+(828304, 16, 'SIY', NULL, NULL, '0', 'AZ-SIY', 'AZ-SIY', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'siazan', 'Siazan', 'Siazan Rayon', 'Siazan Rayon', 'siazan', 1, NOW(6), NOW(6), 1, 1),
+(828305, 16, 'SM', NULL, NULL, '0', 'AZ-SM', 'AZ-SM', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'sumqayit', 'Sumqayit', 'Sumqayit City', 'Sumqayit City', 'sumqayit', 1, NOW(6), NOW(6), 1, 1),
+(828306, 16, 'XIZ', NULL, NULL, '0', 'AZ-XIZ', 'AZ-XIZ', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'khizi', 'Khizi', 'Khizi Rayon', 'Khizi Rayon', 'khizi', 1, NOW(6), NOW(6), 1, 1),
+(828307, 16, 'YEV', NULL, NULL, '0', 'AZ-YEV', 'AZ-YEV', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'yevlakh', 'Yevlakh', 'Yevlakh City', 'Yevlakh City', 'yevlakh', 1, NOW(6), NOW(6), 1, 1),
+(828315, 16, 'HAJ', NULL, NULL, '0', 'AZ-HAJ', 'AZ-HAJ', '+994', (SELECT id FROM t075t_division_types WHERE code = 'distrito_az' AND id_country = 16), 'hajigabul', 'Hajigabul', 'Hajigabul Rayon', 'Hajigabul Rayon', 'hajigabul', 1, NOW(6), NOW(6), 1, 1);

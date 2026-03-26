@@ -1,0 +1,39 @@
+﻿2661875	Aarwangen	Aarwangen		47.25	7.75	A	ADM2H	CH		BE	202			0		468	Europe/Zurich	2012-12-29
+6458740	Amt Konolfingen	Amt Konolfingen		46.89237	7.61064	A	ADM2H	CH		BE	212			0		928	Europe/Zurich	2012-12-29
+6458757	District de la Neuveville	District de la Neuveville	District de la Neuveville,La Neuveville	47.0964	7.11089	A	ADM2H	CH		BE	215			0		820	Europe/Zurich	2012-12-29
+6458759	Hinterrhein District	Hinterrhein District	Bezirk Hinterrhein	46.55827	9.41183	A	ADM2H	CH		GR	1823			13003		1987	Europe/Zurich	2017-07-27
+6458761	Amt Hochdorf	Amt Hochdorf	Amt Hochdorf,Hochdorf	47.15196	8.26148	A	ADM2H	CH		LU	302			0		611	Europe/Zurich	2014-04-03
+6458782	Amt Thun	Amt Thun	Amt Thun,Thun	46.75405	7.64012	A	ADM2H	CH		BE	224			0		683	Europe/Zurich	2012-12-29
+6458787	Amt Bern	Amt Bern	Amt Bern,Bern	46.93478	7.45067	A	ADM2H	CH		BE	203			0		531	Europe/Zurich	2012-12-29
+6458789	Amt Niedersimmental	Amt Niedersimmental	Amt Niedersimmental,Niedersimmental	46.66286	7.58337	A	ADM2H	CH		BE	217			0		662	Europe/Zurich	2012-12-29
+6458791	District de Moutier	District de Moutier	District de Moutier,Moutier	47.25788	7.29422	A	ADM2H	CH		BE	214			0	535	876	Europe/Zurich	2021-03-10
+6458793	Amt Seftigen	Amt Seftigen	Amt Seftigen,Seftigen	46.83371	7.49972	A	ADM2H	CH		BE	222			0		576	Europe/Zurich	2012-12-29
+6458803	Amt Büren	Amt Bueren	Amt Bueren,Amt Büren,Bueren,Büren	47.13958	7.38111	A	ADM2H	CH		BE	205			0		459	Europe/Zurich	2012-12-29
+6458819	Amt Trachselwald	Amt Trachselwald	Amt Trachselwald,Trachselwald	47.05344	7.75123	A	ADM2H	CH		BE	225			0		756	Europe/Zurich	2012-12-29
+6458822	Amt Wangen	Amt Wangen	Amt Wangen,Wangen	47.20253	7.6791	A	ADM2H	CH		BE	226			0		465	Europe/Zurich	2019-12-28
+6458827	Albula District	Albula District	Aebura,Bezirk Albula	46.63506	9.60845	A	ADM2H	CH		GR	1821			8212		2169	Europe/Zurich	2017-07-27
+6458828	Amt Willisau	Amt Willisau	Amt Willisau,Willisau	47.17125	7.96775	A	ADM2H	CH		LU	305			0		502	Europe/Zurich	2014-04-03
+6458842	Verwaltungskreis Interlaken-Oberhasli	Verwaltungskreis Interlaken-Oberhasli	Interlaken-Oberhasli	46.673	7.92305	A	ADM2H	CH		BE	211			0		1391	Europe/Zurich	2012-12-29
+6458851	Bernina District	Bernina District	Distretto di Bernina	46.30994	10.08814	A	ADM2H	CH		GR	1822			4690		1474	Europe/Zurich	2017-07-27
+6458856	Amt Fraubrunnen	Amt Fraubrunnen	Amt Fraubrunnen,Fraubrunnen	47.0678	7.5029	A	ADM2H	CH		BE	209			0		545	Europe/Zurich	2012-12-29
+6458858	Inn District	Inn District	Bezirk Inn	46.80835	10.26657	A	ADM2H	CH		GR	1825			9574		2112	Europe/Zurich	2017-07-27
+6458861	Amt Schwarzenburg	Amt Schwarzenburg	Amt Schwarzenburg,Schwarzenburg	46.79861	7.3375	A	ADM2H	CH		BE	221			0		854	Europe/Zurich	2016-10-28
+6458873	District de Courtelary	District de Courtelary	Courtelary,District de Courtelary	47.17153	7.08278	A	ADM2H	CH		BE	207			0		811	Europe/Zurich	2012-12-29
+6458876	Amt Luzern	Amt Luzern	Amt Luzern,Luzern	47.06634	8.3018	A	ADM2H	CH		LU	303			0		464	Europe/Zurich	2014-04-03
+6458877	Amt Sursee	Amt Sursee	Amt Sursee,Sursee	47.14929	8.12719	A	ADM2H	CH		LU	304			0		503	Europe/Zurich	2014-04-03
+6458882	Amt Saanen	Amt Saanen	Amt Saanen,Saanen	46.47121	7.27879	A	ADM2H	CH		BE	220			0		1058	Europe/Zurich	2012-12-29
+6458884	Plessur District	Plessur District	Bezirk Plessur,Plessur	46.83039	9.5693	A	ADM2H	CH		GR	1829			40293		914	Europe/Zurich	2017-09-13
+6458887	Amt Laupen	Amt Laupen	Amt Laupen,Laupen	46.92242	7.23661	A	ADM2H	CH		BE	213			0		477	Europe/Zurich	2012-12-29
+6458890	Amt Obersimmental	Amt Obersimmental	Amt Obersimmental,Obersimmental	46.52189	7.37437	A	ADM2H	CH		BE	219			0		1375	Europe/Zurich	2012-12-29
+6458892	Amt Burgdorf	Amt Burgdorf	Amt Burgdorf,Burgdorf	47.05983	7.60801	A	ADM2H	CH		BE	206			0		548	Europe/Zurich	2012-12-29
+6458895	Amt Aarberg	Amt Aarberg	Aarberg,Amt Aarberg	47.03542	7.32266	A	ADM2H	CH		BE	201			0		571	Europe/Zurich	2012-12-29
+6458899	Amt Entlebuch	Amt Entlebuch	Amt Entlebuch,Entlebuch	46.9627	8.03135	A	ADM2H	CH		LU	301			0		718	Europe/Zurich	2014-04-03
+6458905	Imboden District	Imboden District	Bezirk Imboden	46.83287	9.37222	A	ADM2H	CH		GR	1824			19181		1062	Europe/Zurich	2017-07-27
+6458906	Amt Frutigen	Amt Frutigen	Amt Frutigen,Frutigen	46.56761	7.67566	A	ADM2H	CH		BE	210			0		1417	Europe/Zurich	2012-12-29
+6458907	Amt Signau	Amt Signau	Amt Signau,Signau	46.9315	7.78725	A	ADM2H	CH		BE	223			0		815	Europe/Zurich	2012-12-29
+6458908	Amt Erlach	Amt Erlach	Amt Erlach,Erlach	47.03349	7.12984	A	ADM2H	CH		BE	208			0		506	Europe/Zurich	2012-12-29
+7284995	Landquart District	Landquart District	Bahnhof Landquart,Bezirk Landquart	46.95942	9.55472	A	ADM2H	CH		GR	1826			24517		522	Europe/Zurich	2017-07-27
+7284997	Maloja District	Maloja District	Bezirk Maloja,Distretto di Maloggia	46.49112	9.77932	A	ADM2H	CH		GR	1827			18733		2456	Europe/Zurich	2017-07-27
+7284998	Moesa District	Moesa District	Distretto di Moesa	46.3462	9.17679	A	ADM2H	CH		GR	1828			8146		1791	Europe/Zurich	2017-07-27
+7284999	Surselva District	Surselva District	Bezirk Surselva	46.69297	9.01569	A	ADM2H	CH		GR	1831			21335		2379	Europe/Zurich	2017-07-27
+7285011	Prättigau/Davos District	Praettigau/Davos District	Bezirk Praettigau/Davos,Bezirk Prättigau/Davos,Partenz/Tavau (district)	46.86624	9.84407	A	ADM2H	CH		GR	1830			26236		1870	Europe/Zurich	2017-07-27

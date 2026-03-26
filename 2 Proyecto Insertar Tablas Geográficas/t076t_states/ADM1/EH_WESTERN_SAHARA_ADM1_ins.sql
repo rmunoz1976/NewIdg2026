@@ -1,0 +1,164 @@
+-- ==================================================================================
+-- PAÍS:      Sáhara Occidental (Western Sahara)
+-- ISO:       EH / ESH / 732
+-- TIPO:      Territorio en Disputa (Disputed Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel en ISO 3166-2 (sin códigos oficiales)
+-- FUENTE:    ISO 3166-2:EH / geonames.org / Humanitarian Data Exchange / GADM
+-- NOMBRE:    EH_WESTERN_SAHARA_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- El Sáhara Occidental es un TERRITORIO EN DISPUTA. Su situación administrativa
+-- es compleja y NO tiene códigos ISO 3166-2 oficiales para sus subdivisiones.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO para este territorio:
+-- - Es un territorio en disputa entre Marruecos y la República Árabe Saharaui Democrática (RASD) 
+-- - El territorio está dividido por un muro de separación construido por Marruecos
+-- - ISO 3166-2:EH NO DEFINE códigos para subdivisiones 
+-- - Las provincias que existen en el territorio tienen códigos BAJO MARRUECOS (MA-*)
+--
+-- ISO 3166-2:EH establece explícitamente: "Currently no ISO 3166-2 codes are 
+-- defined in the entry for Western Sahara." 
+--
+-- Aunque EXISTEN provincias como divisiones ADM1 en la realidad geográfica 
+-- (confirmado por GADM, Humanitarian Data Exchange y Map Maker Ltd.) ,
+-- estas NO TIENEN CÓDIGOS ISO OFICIALES BAJO EH. Están codificadas bajo MA.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio
+-- con código ISO EH, ya que no existen subdivisiones oficiales bajo ese código.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         El Sáhara Occidental es un territorio en disputa.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_disputa_eh', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'EH'), 4, 'Territorio en Disputa', 'Disputed Territory', 'Western Sahara',
+       'الصحراء الغربية', 'Sáhara Occidental', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_disputa_eh'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states CON CÓDIGO EH
+-- ==================================================================================
+-- El Sáhara Occidental (código ISO EH) no tiene códigos ISO 3166-2 oficiales 
+-- para sus subdivisiones administrativas de primer nivel.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL (con advertencias):
+-- └── Sáhara Occidental - Territorio en disputa
+--     ├── Zona controlada por Marruecos (80% del territorio)
+--     │   └── Provincias marroquíes (con códigos MA-*):
+--     │       ├── Aousserd (MA-AOU)
+--     │       ├── Oued Ed-Dahab (MA-OUD)
+--     │       ├── Boujdour (MA-BOD)
+--     │       ├── Es-Semara (MA-ESM, parcial)
+--     │       ├── Laâyoune (MA-LAA)
+--     │       └── Tarfaya (MA-TAF, parcial)
+--     └── Zona controlada por la RASD (20% del territorio, detrás del muro)
+--         └── Regiones administrativas de la RASD (sin códigos ISO)
+--
+-- NOTA: Las provincias que existen como divisiones ADM1 en este territorio
+--       NO tienen códigos bajo EH. Sus códigos ISO 3166-2 son MA-*
+--       (bajo la entrada de Marruecos) .
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **CONFLICTO Y ESTATUS TERRITORIAL:**
+--     *   El Sáhara Occidental es un TERRITORIO EN DISPUTA entre Marruecos y la RASD 
+--     *   Clasificado como PCLF (Territorio en Disputa) en t070t_level_types (id_level_type = 4)
+--     *   Código ISO 3166-1 alpha-2: EH 
+--     *   Código ISO 3166-1 alpha-3: ESH 
+--     *   Código numérico ISO: 732
+--     *   El territorio está dividido por un muro de separación de 2,700 km construido por Marruecos 
+--     *   Marruecos controla aproximadamente el 80% del territorio (las zonas costeras y más fértiles)
+--     *   La RASD controla aproximadamente el 20% del territorio (la zona oriental, desértica)
+--
+-- 2.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de EH 
+--     *   La entrada para EH en ISO 3166-2 indica explícitamente: "no defined subdivisions" 
+--     *   Sin embargo, las provincias que existen en el territorio SÍ tienen códigos en ISO 3166-2:MA
+--     *   Esto significa que para obtener datos de subdivisiones, se debe consultar la entrada de Marruecos
+--
+-- 3.  **PROVINCIAS EN EL TERRITORIO (BAJO CÓDIGOS MA-*):**
+--     *   Las siguientes provincias marroquíes están total o parcialmente en el Sáhara Occidental :
+--
+--     | Código MA-* | Nombre (español) | Ubicación en EH |
+--     |-------------|------------------|-----------------|
+--     | MA-12 | Dajla-Río de Oro | Total |
+--     | MA-AOU | Auserd | Total |
+--     | MA-OUD | Río de Oro | Total |
+--     | MA-BOD | Bojador | Total |
+--     | MA-LAA | El Aaiún | Total |
+--     | MA-10 | Guelmín-Uad Nun | Parcial |
+--     | MA-ASZ | Assa-Zag | Parcial |
+--     | MA-TNT | Tan-Tan | Parcial |
+--     | MA-11 | El Aaiún-Saguía el Hamra | Parcial |
+--     | MA-ESM | Smara | Parcial |
+--     | MA-TAF | Tarfaya | Parcial |
+--
+-- 4.  **DIVISIONES ADM1 EN DATOS GEOESPACIALES:**
+--     *   Aunque ISO 3166-2 no define códigos para EH, los datos geográficos SÍ registran
+--         divisiones ADM1 para este territorio :
+--         - GADM (Global Administrative Areas) tiene datos de provincias 
+--         - Humanitarian Data Exchange tiene datos de límites subnacionales 
+--         - Map Maker Ltd. (2007) publicó shapefiles de provincias 
+--         - UC Berkeley tiene shapefiles de divisiones ADM1 
+--     *   Estas divisiones (provincias) EXISTEN EN LA REALIDAD, pero NO TIENEN CÓDIGOS ISO BAJO EH
+--     *   Si el sistema requiere poblarlas, deberían insertarse con códigos personalizados (ej. EH-BOD)
+--         y con la advertencia de que no son códigos ISO oficiales
+--
+-- 5.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para el Sáhara Occidental es 2461445 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 bajo el código EH
+--     *   Para obtener datos de provincias, se debe consultar la entrada de Marruecos (MA)
+--
+-- 6.  **REPÚBLICA ÁRABE SAHARAUI DEMOCRÁTICA (RASD):**
+--     *   La RASD reclama todo el territorio y tiene su propia estructura administrativa 
+--     *   Administrativamente, la RASD divide el territorio en 6 regiones militares 
+--     *   Su gobierno en el exilio está en Tinduf, Argelia
+--     *   Estas regiones NO tienen códigos ISO 3166-2
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +212 (Marruecos) en la zona controlada por Marruecos
+--     *   No tiene código telefónico propio independiente
+--
+-- 8.  **CARACTERÍSTICAS GEOGRÁFICAS:**
+--     *   Ubicación: 24°30′N 13°00′O
+--     *   Superficie: 266,000 km² (aproximadamente)
+--     *   Capital reclamada: El Aaiún (Laâyoune)
+--     *   Capital de la RASD en el exilio: Tinduf, Argelia
+--     *   Población: ~600,000 habitantes (estimación)
+--     *   Idioma oficial: Árabe (Marruecos), también español reconocido
+--
+-- 9.  **HISTORIA:**
+--     *   1884: Protectorado español
+--     *   1975: Acuerdos de Madrid, retirada española
+--     *   1976: Marruecos y Mauritania se reparten el territorio
+--     *   1979: Mauritania se retira, Marruecos ocupa su parte
+--     *   1991: Alto el fuego negociado por la ONU
+--     *   Actualmente: Estancamiento del proceso de autodeterminación
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA para el Sáhara Occidental
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:EH NO DEFINE subdivisiones 
+--         - Las provincias existentes tienen códigos bajo MA-*
+--         - No hay 16 municipios; hay aproximadamente 11 provincias/regiones en el territorio
+--     *   Este SQL NO incluye registros en t076t_states bajo código EH,
+--         que es la respuesta correcta según el estándar ISO 3166-2
+--
+-- 11. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar las provincias del Sáhara Occidental como ADM1,
+--         se recomienda:
+--         a) Usar códigos personalizados (ej. EH-LAA, EH-BOD, EH-AOU)
+--         b) Documentar claramente que NO son códigos ISO 3166-2 oficiales
+--         c) Considerar si es mejor tratarlas como parte de Marruecos (códigos MA-*)
+--         d) Consultar con los administradores del sistema sobre el enfoque deseado
+-- ==================================================================================

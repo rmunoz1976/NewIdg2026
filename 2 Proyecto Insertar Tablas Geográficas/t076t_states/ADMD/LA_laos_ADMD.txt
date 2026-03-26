@@ -1,0 +1,31 @@
+﻿1652037	Muang Xon	Muang Xon	Muang Son,Muang Xon,Muongson,Xone	20.45	103.31667	A	ADMD	LA		03				0		889	Asia/Vientiane	2020-08-30
+1652041	Muang Xôm	Muang Xom		19.8	102	A	ADMD	LA		17				0		297	Asia/Vientiane	1994-01-25
+1652096	Muang Xépian	Muang Xepian	Muang Xepian,Muang Xépian,Sepiene	14.63333	106.33333	A	ADMD	LA		01				0		113	Asia/Vientiane	2020-06-10
+1652199	Muang Xamteu	Muang Xamteu	Muang Sam Teu,Muang Xamteu,Samtay	19.98333	104.63333	A	ADMD	LA		03				0		325	Asia/Vientiane	2012-01-17
+1652237	Muang Vientiane	Muang Vientiane		17.96667	102.6	A	ADMD	LA		24				0		174	Asia/Vientiane	2011-03-06
+1652672	Muang Thac Hiet	Muang Thac Hiet		15	107.23333	A	ADMD	LA		01				0		164	Asia/Vientiane	1994-01-25
+1652758	Muang Tassèng	Muang Tasseng		14.71667	107.41667	A	ADMD	LA		01				0		266	Asia/Vientiane	1994-01-25
+1652969	Muang Sôy	Muang Soy	Muang Soi,Muang Soy,Muang Sôy	20.26667	104.53333	A	ADMD	LA		03				0		444	Asia/Vientiane	2020-06-10
+1652976	Muang Souvannakhili	Muang Souvannakhili	Muang Souvannakhili,Souvannakhily	15.38333	105.81667	A	ADMD	LA		02				0		130	Asia/Vientiane	2012-01-17
+1652978	Muang Soutabali	Muang Soutabali	Muang Soutabali,Soutabaly	15.6	106.23333	A	ADMD	LA		19				0		246	Asia/Vientiane	2012-01-17
+1653518	Muang Salam Phao	Muang Salam Phao	Muang Salam Phao,Selamphao	14.2	105.78333	A	ADMD	LA		02				0		100	Asia/Vientiane	2012-01-17
+1653832	Muang Phrabatphônsan	Muang Phrabatphonsan	Muang Phrabatphonsan,Muang Phrabatphônsan,Phone Sanh	18.27885	103.17267	A	ADMD	LA		00				0		184	Asia/Vientiane	2020-06-10
+1653885	Muang Phôntiou	Muang Phontiou	Bo Phone Tiou,Muang Phontiou,Muang Phôntiou	17.88333	104.61667	A	ADMD	LA		15				0		171	Asia/Vientiane	2020-06-10
+1653887	Muang Phônsavan	Muang Phonsavan	Muang Phonsavan,Muang Phônsavan,Muang Savan	19.45	103.21667	A	ADMD	LA		14				0		1129	Asia/Vientiane	2020-06-10
+1653897	Muang Phong	Muang Phong		16.38409	105.42851	A	ADMD	LA		20				0		146	Asia/Vientiane	2011-10-08
+1654090	Muang Phalan	Muang Phalan	Muang Phalan,Phalane	16.65	105.56667	A	ADMD	LA		20				0		159	Asia/Vientiane	2012-01-17
+1654206	Muang Peun	Muang Peun		20.21667	103.86667	A	ADMD	LA		03				0		1189	Asia/Vientiane	1994-01-25
+1654375	Muang Pakxèng	Muang Pakxeng	Muang Pakxeng,Muang Pakxèng,Pakseng	20.16667	102.66667	A	ADMD	LA		17				0		366	Asia/Vientiane	2020-06-10
+1654377	Muang Pakxébangfai	Muang Pakxebangfai	Muang Pakxebangfai,Muang Pakxébangfai,Sebangfay	16.95	104.75	A	ADMD	LA		15				0		147	Asia/Vientiane	2020-06-10
+1654479	Muang Ou Tai	Muang Ou Tai	Muang Ou Tai,Outay	22.11667	101.8	A	ADMD	LA		18				0		702	Asia/Vientiane	2012-01-17
+1655251	Muang Mouay	Muang Mouay		20.26667	103.05	A	ADMD	LA		17				0		517	Asia/Vientiane	1994-01-25
+1655366	Muang Mèt	Muang Met		18.85	101.96667	A	ADMD	LA		17				0		457	Asia/Vientiane	1994-01-25
+1655794	Muang Lave	Muang Lave		14.51667	106.91667	A	ADMD	LA		01				0		472	Asia/Vientiane	1994-01-25
+1656214	Muang Kleum	Muang Kleum		16	107.06667	A	ADMD	LA		26				0		1211	Asia/Vientiane	2011-03-06
+1656458	Muang Khay	Muang Khay		19.78333	101.98333	A	ADMD	LA		17				0		307	Asia/Vientiane	1994-01-25
+1656789	Muang Kao	Muang Kao	Cao,Muang Kao	14.81667	106.95	A	ADMD	LA		01				0		106	Asia/Vientiane	2012-01-17
+1657280	Muang Heup	Muang Heup	Hup,Muang Heup	21	102.93333	A	ADMD	LA		17				0		655	Asia/Vientiane	2012-01-17
+1657779	Muang Chavan	Muang Chavan	Muang Chavan,Muang Chavane	15.35	107.06667	A	ADMD	LA		26				0		1131	Asia/Vientiane	2012-01-17
+1657843	Muang Chakeuy Tai	Muang Chakeuy Tai	Muang Chakeuy Tai,Muong Chakeuy Tay	15.78333	106.76667	A	ADMD	LA		26				0		382	Asia/Vientiane	2012-01-17
+1663158	Muang Ban Keun	Muang Ban Keun		18.36667	102.58333	A	ADMD	LA		27				0		172	Asia/Vientiane	1994-01-25
+1664942	Muang Ban Ban	Muang Ban Ban		19.63333	103.56667	A	ADMD	LA		14				0		584	Asia/Vientiane	1994-01-25

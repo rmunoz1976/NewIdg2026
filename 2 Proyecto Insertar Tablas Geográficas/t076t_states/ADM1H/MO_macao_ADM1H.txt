@@ -1,0 +1,2 @@
+﻿1821273	Concelho de Macau	Concelho de Macau	Concelho de Macau,Macau,Municipality of Macau,makao si,마카오 시	22.20028	113.54694	A	ADM1H	MO		02				0		25	Asia/Macau	2016-11-03
+1821286	Concelho das Ilhas	Concelho das Ilhas	Concelho das Ilhas,Ilhas,Municipality of the Islands,haidao si,하이다오 시	22.125	113.56583	A	ADM1H	MO		01				0		120	Asia/Macau	2016-11-03

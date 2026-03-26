@@ -1,0 +1,174 @@
+-- ==================================================================================
+-- PAÍS:      Svalbard y Jan Mayen (Svalbard and Jan Mayen)
+-- ISO:       SJ / SJM / 744
+-- TIPO:      Territorios no incorporados de Noruega (Unincorporated territories)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:SJ / IP2Location / Sysselmesteren på Svalbard / geonames.org
+-- NOMBRE:    SJ_SVALBARD_JAN_MAYEN_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Svalbard y Jan Mayen NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Svalbard es un territorio no incorporado de Noruega, gobernado por el Tratado de Svalbard
+-- - Jan Mayen es un territorio no incorporado administrado por el Gobernador de Nordland
+-- - Ambos territorios se agrupan bajo el código SJ por razones estadísticas ISO
+-- - No tienen municipios ni subdivisiones administrativas
+--
+-- ISO 3166-2:SJ establece explícitamente: "Svalbard and Jan Mayen has no defined subdivisions" 
+--
+-- IP2Location confirma: SJ está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que SJ tiene entidades geográficas (islas),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- Estructura administrativa:
+-- - Svalbard: administrado por el Gobernador de Svalbard (Sysselmesteren)
+-- - Jan Mayen: administrado por el Gobernador de Nordland (Noruega continental)
+-- - Ambos territorios se administran como entidades únicas sin subdivisiones
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         SJ es un territorio no incorporado de Noruega.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_no_incorporado_sj', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'SJ'), 2, 'Territorio no incorporado', 'Unincorporated territory', 'Unincorporated area',
+       'Unincorporated area', 'Territorio no incorporado', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_no_incorporado_sj'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Svalbard y Jan Mayen no tienen divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Svalbard y Jan Mayen (agrupación estadística ISO)
+--     ├── Svalbard - Archipiélago en el Ártico
+--     │   ├── Spitsbergen (isla principal)
+--     │   ├── Longyearbyen (centro administrativo y principal asentamiento)
+--     │   ├── Barentsburg (asentamiento ruso)
+--     │   ├── Ny-Ålesund (asentamiento de investigación)
+--     │   ├── Sveagruva (asentamiento minero, en desuso)
+--     │   └── Islas periféricas (Nordaustlandet, Edgeøya, Barentsøya, etc.)
+--     └── Jan Mayen - Isla volcánica aislada
+--         ├── Olonkinbyen (único asentamiento, estación meteorológica y de comunicaciones)
+--         └── Beerenberg (volcán activo, 2,277 m)
+--
+-- NOTA: Svalbard tiene 4 asentamientos principales (Longyearbyen, Barentsburg,
+-- Ny-Ålesund, Sveagruva), pero NO son divisiones administrativas.
+-- Jan Mayen tiene un solo asentamiento.
+-- El territorio completo es administrado como una sola entidad sin subdivisiones.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** SJ NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Svalbard es un territorio no incorporado de Noruega bajo el Tratado de Svalbard (1920)
+--         - Jan Mayen es un territorio no incorporado de Noruega
+--         - Ambos territorios se agrupan bajo SJ por razones estadísticas de la ISO 
+--         - No hay municipios ni subdivisiones administrativas
+--         - Svalbard tiene 4 asentamientos, pero NO son divisiones administrativas
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Svalbard es un territorio no incorporado de Noruega bajo soberanía noruega desde 1920 
+--     *   Jan Mayen es un territorio no incorporado de Noruega (administrado desde 1930)
+--     *   Clasificados como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: SJ
+--     *   Código ISO 3166-1 alpha-3: SJM
+--     *   Código numérico ISO: 744
+--     *   Dominio de internet: .sj (asignado, no utilizado)
+--     *   También tienen códigos separados bajo Noruega: NO-21 (Svalbard), NO-22 (Jan Mayen)
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de SJ 
+--     *   IP2Location confirma: SJ está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   Svalbard tiene código NO-21 bajo la entrada de Noruega, pero no subdivisiones propias
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Svalbard es 607062 
+--     *   El geo_id para Jan Mayen es 3041965 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga SJ.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DE SVALBARD:**
+--     *   **Superficie total:** 61,022 km² 
+--     *   **Islas principales:**
+--         - Spitsbergen (39,044 km²) - isla principal
+--         - Nordaustlandet (14,443 km²) - noreste
+--         - Edgeøya (5,074 km²)
+--         - Barentsøya (1,288 km²)
+--         - Islas menores: Prins Karls Forland, Kong Karls Land, Kvitøya, etc.
+--     *   **Punto más alto:** Newtontoppen (1,713 m)
+--     *   **Asentamientos:**
+--         - Longyearbyen (población ~2,400) - centro administrativo
+--         - Barentsburg (población ~500) - asentamiento ruso
+--         - Ny-Ålesund (población ~35) - estación de investigación
+--         - Sveagruva (población ~0, temporal) - asentamiento minero
+--         - Estaciones de investigación polacas, alemanas, etc.
+--     *   **Zona horaria:** UTC+1 (CET)
+--
+-- 6.  **GEOGRAFÍA DE JAN MAYEN:**
+--     *   **Superficie:** 377 km² 
+--     *   **Ubicación:** 71°00′N 8°20′O
+--     *   **Punto más alto:** Beerenberg (2,277 m), volcán activo
+--     *   **Asentamiento único:** Olonkinbyen (población ~18, personal de comunicaciones)
+--     *   **Zona horaria:** UTC+1 (CET)
+--
+-- 7.  **POBLACIÓN:**
+--     *   **Svalbard:** ~2,500 habitantes (mayoría noruegos, también rusos y ucranianos)
+--     *   **Jan Mayen:** ~18 habitantes (personal de estación meteorológica)
+--     *   **Total SJ:** ~2,518 habitantes
+--
+-- 8.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +47 (Noruega)
+--     *   Códigos locales: Svalbard 79, Jan Mayen 79
+--
+-- 9.  **TRATADO DE SVALBARD (1920):**
+--     *   Establece la soberanía noruega sobre Svalbard
+--     *   Permite a ciudadanos de países firmantes acceder y establecerse
+--     *   Actualmente 46 países son signatarios
+--     *   Zona desmilitarizada
+--
+-- 10. **ADMINISTRACIÓN:**
+--     *   **Svalbard:** Gobernador de Svalbard (Sysselmesteren) - máxima autoridad
+--     *   **Jan Mayen:** Administrado por el Gobernador de Nordland (Noruega continental)
+--     *   No hay municipios ni gobierno local autónomo
+--     *   Longyearbyen tiene un consejo local (Longyearbyen lokalstyre), pero NO es un municipio
+--
+-- 11. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:SJ NO DEFINE subdivisiones 
+--         - IP2Location confirma que SJ está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para SJ
+--         - Sysselmesteren på Svalbard: el territorio tiene un solo gobierno 
+--         - No existen municipios en Svalbard ni Jan Mayen
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 12. **NOTA SOBRE MUNICIPIOS:**
+--     *   Svalbard NO tiene municipios
+--     *   Longyearbyen NO es un municipio, es un asentamiento con consejo local
+--     *   Jan Mayen NO tiene municipios, solo una estación científica
+--     *   La única división administrativa es el territorio completo
+--     *   Para fines prácticos, Svalbard a veces se trata como "municipio" en sistemas extranjeros,
+--         pero esto no corresponde con la realidad administrativa noruega
+-- ==================================================================================

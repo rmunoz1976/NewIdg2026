@@ -1,0 +1,2 @@
+﻿9640643	Khmilnytska Miskrada	Khmilnytska Miskrada	Khmil'nic'ka Mis'krada,Khmil'nyts'ka Mis'krada,Khmil’nyts’ka Mis’krada,Хмільницька Міськрада	49.55607	27.94213	A	ADM5H	UA		23	706374			0		255	Europe/Kyiv	2022-09-01
+9812967	Vatutinska Miskrada	Vatutinska Miskrada	Vatutins'ka Mis'krada,Vatutins’ka Mis’krada,Ватутінська Міськрада	49.01332	31.05237	A	ADM5H	UA		01	686801			0		143	Europe/Kyiv	2022-09-01

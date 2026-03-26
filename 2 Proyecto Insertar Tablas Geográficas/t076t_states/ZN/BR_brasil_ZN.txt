@@ -1,0 +1,2 @@
+﻿10177607	Recife Metropolitan Area	Recife Metropolitan Area		-23.98333	-47.05	A	ZN	BR		27	3526209			0		742	America/Sao_Paulo	2015-04-09
+10228320	Greater Rio de Janeiro	Greater Rio de Janeiro		-22.9028	-43.2078	A	ZN	BR		21	3304557			0		5	America/Sao_Paulo	2015-07-22

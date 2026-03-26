@@ -1,0 +1,12 @@
+﻿2959975	Wiltz	Wiltz	Canton de Wiltz,Kanton Wiltz,Kanton Wolz,Wiltz,Wolz	49.94698	5.907	A	ADM1	LU		WI				19530		452	Europe/Luxembourg	2025-01-25
+2960020	Vianden	Vianden	Canton de Vianden,Kanton Veianen,Kanton Vianden,Veianen,Vianden	49.93256	6.16618	A	ADM1	LU		VD				5680		372	Europe/Luxembourg	2025-01-26
+2960152	Remich	Remich	Canton de Remich,Kanton Reimech,Kanton Remich,Kanton Réimech,Reimech,Remich,Réimech	49.54323	6.31779	A	ADM1	LU		RM				24391		179	Europe/Luxembourg	2025-01-26
+2960161	Redange	Redange	Canton de Redange,Kanton Redange,Kanton Redingen,Redange,Redingen	49.79716	5.88731	A	ADM1	LU		RD				21138		398	Europe/Luxembourg	2025-01-26
+2960275	Mersch	Mersch	Canton de Mersch,Kanton Mersch,Kanton Miersch,Mersch,Miersch	49.75636	6.12717	A	ADM1	LU		ME				36262		301	Europe/Luxembourg	2025-01-25
+2960315	Luxembourg	Luxembourg	Canton de Luxembourg,Canton de Luxembourg-Campagne,Kanton Letzebuerg,Kanton Luxemburg,Kanton Lëtzebuerg,Letzebuerg,Luxembourg,Luxembourg Campagne,Luxemburg,Lëtzebuerg	49.61427	6.17289	A	ADM1	LU		LU				204358		324	Europe/Luxembourg	2025-01-26
+2960514	Grevenmacher	Grevenmacher	Canton de Grevenmacher,Greiwemaacher,Grevenmacher,Gréiwemaacher,Kanton Greiwemaacher,Kanton Grevenmacher,Kanton Gréiwemaacher	49.68341	6.34307	A	ADM1	LU		GR				3888		234	Europe/Luxembourg	2019-07-27
+2960599	Canton d'Esch-sur-Alzette	Canton d'Esch-sur-Alzette	Esch,Esch-sur-Alzette	49.5	6.03333	A	ADM1	LU		ES				192739		341	Europe/Luxembourg	2025-01-26
+2960629	Canton d'Echternach	Canton d'Echternach	Canton d'Echternach,Echternach,Iechternach,Kanton Echternach,Kanton Iechternach	49.78872	6.39024	A	ADM1	LU		EC				20283		317	Europe/Luxembourg	2025-01-26
+2960656	Diekirch	Diekirch	Canton de Diekirch,Diekirch,Dikrech,Kanton Diekirch,Kanton Dikrech	49.86155	6.1475	A	ADM1	LU		DI				35764		191	Europe/Luxembourg	2025-01-25
+2960683	Clervaux	Clervaux	Canton de Clervaux,Clerf,Clervaux,Kanton Clerf,Kanton Klierf,Klierf	50.07852	6.02236	A	ADM1	LU		CL				21214		398	Europe/Luxembourg	2025-01-26
+2960696	Capellen	Capellen	Canton de Capellen,Capellen,Kanton Capellen,Kanton Kapellen,Kapellen	49.63678	5.97031	A	ADM1	LU		CA				54352		311	Europe/Luxembourg	2025-01-25

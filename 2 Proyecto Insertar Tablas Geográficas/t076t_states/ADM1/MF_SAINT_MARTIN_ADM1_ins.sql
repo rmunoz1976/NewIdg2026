@@ -1,0 +1,172 @@
+-- ==================================================================================
+-- PAÍS:      San Martín (Saint Martin - French part)
+-- ISO:       MF / MAF / 663
+-- TIPO:      Colectividad de Ultramar de Francia (French Overseas Collectivity)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:MF / IP2Location / Insee / geonames.org
+-- NOMBRE:    MF_SAINT_MARTIN_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- San Martín (parte francesa) NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es una Colectividad de Ultramar de Francia desde 2007
+-- - Superficie total: 53.2 km² (la mitad norte de la isla)
+-- - Población: ~32,000 habitantes (2021)
+-- - Capital: Marigot
+-- - No tiene municipios; la colectividad en sí misma es la única división ADM1
+--
+-- ISO 3166-2:MF establece explícitamente: "The French part of Saint Martin has
+-- no defined subdivisions" 
+--
+-- IP2Location confirma: MF está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Insee (Instituto de Estadística francés) confirma: "Saint-Martin est une
+-- collectivité d'outre-mer qui n'est pas divisée en communes" 
+-- (San Martín es una colectividad de ultramar que no está dividida en municipios)
+--
+-- Geonombres muestra que MF tiene 1 entidad administrativa (A.PCLI - independent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         MF es una Colectividad de Ultramar de Francia.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'colectividad_mf', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'MF'), 2, 'Colectividad de Ultramar', 'Overseas Collectivity', 'Collectivité d''outre-mer',
+       'Collectivité d''outre-mer', 'Colectividad de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'colectividad_mf'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- San Martín (parte francesa) no tiene divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── San Martín - Colectividad de Ultramar de Francia
+--     ├── Marigot (capital)
+--     ├── Quartier d'Orléans (población principal)
+--     ├── Grand Case
+--     ├── Sandy Ground
+--     ├── Cul-de-Sac
+--     └── Otras localidades (Terre-Basse, Colombier, La Savane, etc.)
+--
+-- NOTA: Las localidades NO son divisiones administrativas ADM1.
+--       La colectividad completa es administrada como una sola entidad
+--       sin subdivisiones oficiales. No hay municipios (communes) en San Martín.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** San Martín NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Colectividad de Ultramar de Francia desde 2007 
+--         - Superficie: 53.2 km²
+--         - Población: 32,489 habitantes (censo 2021) 
+--         - Capital: Marigot 
+--         - Administrada por un Presidente de la Colectividad y un Consejo Territorial
+--         - No existe división en municipios (communes) como en la Francia metropolitana
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   San Martín es una Colectividad de Ultramar de Francia (Collectivité d'outre-mer) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: MF
+--     *   Código ISO 3166-1 alpha-3: MAF
+--     *   Código numérico ISO: 663
+--     *   Dominio de internet: .mf (asignado, pero .fr es comúnmente utilizado)
+--     *   También tiene el código FR-978 bajo la entrada de Francia 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de MF 
+--     *   IP2Location confirma: MF está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   También tiene el código FR-978 bajo la entrada de Francia 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para San Martín (parte francesa) es 3578421 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga MF.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** Caribe, 18°04′N 63°03′O
+--     *   **Isla:** San Martín (Saint Martin) es la isla más pequeña del mundo
+--         dividida entre dos naciones soberanas:
+--         - Norte: San Martín (Saint-Martin) - parte francesa (MF) - 53.2 km²
+--         - Sur: Sint Maarten - parte neerlandesa (SX) - 34 km²
+--     *   **Límites:** Frontera terrestre con Sint Maarten de aproximadamente 12 km
+--     *   **Punto más alto:** Pic Paradis (424 m)
+--
+-- 6.  **DIVISIÓN HISTÓRICA:**
+--     *   La isla fue dividida entre Francia y los Países Bajos por el Tratado de Concordia de 1648 
+--     *   La parte francesa nunca tuvo municipios
+--     *   Antes de 2007, San Martín era un municipio (commune) de Guadalupe (departamento de ultramar)
+--     *   En 2007, San Martín se separó de Guadalupe para convertirse en colectividad de ultramar
+--     *   Al separarse, dejó de tener el estatus de comuna
+--
+-- 7.  **POBLACIÓN Y ASENTAMIENTOS:**
+--     *   **Capital:** Marigot (población: ~5,700) 
+--     *   **Principales localidades:** 
+--         - Quartier d'Orléans (el asentamiento más poblado)
+--         - Grand Case (conocida como la capital gastronómica del Caribe)
+--         - Sandy Ground (puerto y zona turística)
+--         - Cul-de-Sac (puerto para excursiones a la isla de Tintamarre)
+--         - Terres-Basses (zona residencial de lujo)
+--         - Colombier (área residencial)
+--         - La Savane
+--         - Friar's Bay
+--         - Baie Rouge
+--         - Pointe Blanche
+--     *   Estas NO son divisiones administrativas, son localidades (PPL) 
+--
+-- 8.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +590 
+--
+-- 9.  **MONEDA:**
+--     *   Euro (EUR) 
+--
+-- 10. **POLÍTICA:**
+--     *   Jefe de Estado: Presidente de Francia (representado por el Prefecto)
+--     *   Jefe de Gobierno: Presidente del Consejo Territorial
+--     *   Consejo Territorial: 23 miembros elegidos cada 6 años
+--     *   No pertenece a la Unión Europea? Sí, es región ultraperiférica de la UE
+--
+-- 11. **HISTORIA (BREVE):**
+--     *   1493: Descubierta por Cristóbal Colón (día de San Martín)
+--     *   1648: Tratado de Concordia (división de la isla)
+--     *   1946: Se convierte en municipio de Guadalupe
+--     *   2003: Referéndum para separarse de Guadalupe
+--     *   2007: Se convierte en Colectividad de Ultramar independiente
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:MF NO DEFINE subdivisiones 
+--         - IP2Location confirma que MF está en la lista sin subdivisiones 
+--         - Insee: "Saint-Martin n'est pas divisée en communes" 
+--         - Geonombres no tiene registros ADM1 para MF
+--         - La colectividad no tiene estructura municipal
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE SINT MAARTEN (PARTE NEERLANDESA):**
+--     *   Sint Maarten (SX) es un país constituyente del Reino de los Países Bajos
+--     *   Tiene su propia estructura administrativa
+--     *   NO debe confundirse con la parte francesa (MF)
+--     *   Sint Maarten tiene subdivisiones administrativas, pero MF no
+-- ==================================================================================

@@ -1,0 +1,6 @@
+﻿2610816	Vága Sýsla	Vaga Sysla	Vaga sysla,Vagar,Vagar region,Vago Syssel,Vága sýsla,Vágar,Vágar region,Vågø Syssel	62.08333	-7.25	A	ADM1	FO		VG				2972		69	Atlantic/Faroe	2016-05-06
+2612137	Suðuroyar sýsla	Suduroyar sysla	Sudero syssel,Suderø syssel,Suduroy,Suduroy region,Suduroyar sysla,Suðuroy,Suðuroy region,Suðuroyar sýsla	61.48333	-6.81667	A	ADM1	FO		SU				4678		77	Atlantic/Faroe	2016-05-06
+2612225	Streymoyar Sýsla	Streymoyar Sysla	Streymoy,Streymoy region,Streymoyar sysla,Streymoyar sýsla,Stromo Syssel,Strømø Syssel	62.13333	-7	A	ADM1	FO		ST				3356		208	Atlantic/Faroe	2016-05-06
+2614219	Sandoyar Sýsla	Sandoyar Sysla	Sando Syssel,Sandoy,Sandoy region,Sandoyar sysla,Sandoyar sýsla,Sandø Syssel	61.83333	-6.75	A	ADM1	FO		SA				1353		107	Atlantic/Faroe	2016-05-06
+2616145	Norðoyar sýsla	Nordoyar sysla	Norderoernes Syssel,Norderøernes Syssel,Nordoyar,Nordoyar region,Nordoyar sysla,Norðoyar,Norðoyar region,Norðoyar sýsla	62.28333	-6.58333	A	ADM1	FO		NO				6000		142	Atlantic/Faroe	2021-02-05
+2622387	Eysturoyar sýsla	Eysturoyar sysla	Eysturoy,Eysturoy region,Eysturoyar sysla,Eysturoyar sýsla,Ostero Syssel,Østerø Syssel	62.21667	-6.86667	A	ADM1	FO		OS				10810		75	Atlantic/Faroe	2016-05-06

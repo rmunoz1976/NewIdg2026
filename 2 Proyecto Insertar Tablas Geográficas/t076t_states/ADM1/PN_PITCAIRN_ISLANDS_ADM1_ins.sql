@@ -1,0 +1,179 @@
+-- ==================================================================================
+-- PAÍS:      Islas Pitcairn (Pitcairn Islands)
+-- ISO:       PN / PCN / 612
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:PN / IP2Location / geonames.org / Pitcairn Islands Government
+-- NOMBRE:    PN_PITCAIRN_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Pitcairn NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es un Territorio Británico de Ultramar, el más pequeño del mundo en población
+-- - Superficie total: 47 km² (4 islas, solo una habitada)
+-- - Población: ~50 habitantes (aproximadamente 40-50 personas)
+-- - Capital: Adamstown (único asentamiento)
+-- - No tiene municipios; el territorio se administra como una sola entidad
+--
+-- ISO 3166-2:PN establece explícitamente: "Pitcairn Islands has no defined subdivisions" 
+--
+-- IP2Location confirma: PN está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que PN tiene 1 entidad administrativa (A.PCLD - dependent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- El gobierno de las Islas Pitcairn opera con un sistema de gobierno local único:
+-- - La isla principal (Pitcairn) es el único asentamiento permanente
+-- - Las otras islas (Henderson, Ducie, Oeno) están deshabitadas
+-- - La administración es centralizada en Adamstown
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         PN es un Territorio Británico de Ultramar remoto.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_pn', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'PN'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'Pitcairn Islands',
+       'Pitcairn Islands', 'Islas Pitcairn', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_pn'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Pitcairn no tienen divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Pitcairn - Territorio Británico de Ultramar
+--     ├── Isla Pitcairn (Pitcairn Island) - 4.6 km², única isla habitada
+--     │   ├── Adamstown (único asentamiento, capital)
+--     │   └── Pequeñas localidades: The Edge, Garnets, etc.
+--     ├── Isla Henderson (Henderson Island) - 37.3 km², Patrimonio de la Humanidad UNESCO
+--     │   └── Deshabitada, sitio de conservación
+--     ├── Isla Ducie (Ducie Island) - 3.9 km², deshabitada
+--     └── Isla Oeno (Oeno Island) - 1.1 km², deshabitada
+--
+-- NOTA: Las islas individuales NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad con un único gobierno local.
+--       Adamstown es el único asentamiento y la capital.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Las Islas Pitcairn NO TIENEN divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1838 
+--         - Superficie total: 47 km² (4 islas)
+--         - Población: ~50 habitantes (el territorio menos poblado del mundo)
+--         - Capital: Adamstown (único asentamiento)
+--         - Administrado por un Gobernador (residente en Nueva Zelanda)
+--         - Gobierno local: Consejo de la Isla (Island Council)
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Las Islas Pitcairn son un Territorio Británico de Ultramar (British Overseas Territory) 
+--     *   Clasificadas como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: PN
+--     *   Código ISO 3166-1 alpha-3: PCN
+--     *   Código numérico ISO: 612
+--     *   Dominio de internet: .pn
+--     *   El Gobernador reside en Auckland, Nueva Zelanda 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de PN 
+--     *   IP2Location confirma: PN está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para las Islas Pitcairn es 4030699 
+--     *   El geo_id para Pitcairn Island es 4030700 
+--     *   El geo_id para Henderson Island es 4030701 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga PN.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DETALLADA:**
+--     *   **Isla Pitcairn (Pitcairn Island):**
+--         - Superficie: 4.6 km² 
+--         - Coordenadas: 25°04′S 130°06′O
+--         - Punto más alto: Pawala Valley Ridge (347 m)
+--         - Única isla habitada
+--     *   **Isla Henderson (Henderson Island):**
+--         - Superficie: 37.3 km² (la más grande)
+--         - Coordenadas: 24°22′S 128°19′O
+--         - Patrimonio de la Humanidad de la UNESCO desde 1988 
+--         - Deshabitada, ecosistema prístino
+--     *   **Isla Ducie (Ducie Island):**
+--         - Superficie: 3.9 km² 
+--         - Coordenadas: 24°40′S 124°47′O
+--         - Deshabitada, atolón remoto
+--     *   **Isla Oeno (Oeno Island):**
+--         - Superficie: 1.1 km² 
+--         - Coordenadas: 23°55′S 130°44′O
+--         - Deshabitada, atolón coralino
+--
+-- 6.  **POBLACIÓN Y ASENTAMIENTOS:**
+--     *   **Población total:** ~50 habitantes (2023 estimate) 
+--     *   **Adamstown:** único asentamiento (todos los residentes viven aquí)
+--     *   **Asentamientos secundarios:** The Edge, Garnets, Down Rope, entre otros, pero todos dentro de Adamstown
+--     *   No hay otros asentamientos en las islas deshabitadas
+--     *   La población es descendiente de los amotinados del HMS Bounty (1790) 
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +870 (satélite Inmarsat)
+--     *   No tiene código telefónico terrestre fijo
+--
+-- 8.  **MONEDA:**
+--     *   Dólar neozelandés (NZD)
+--     *   También se aceptan dólares estadounidenses
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   Consejo de la Isla (Island Council): 10 miembros, incluyendo el Alcalde
+--     *   El Alcalde (Mayor) es el jefe del gobierno local
+--     *   El Gobernador (residente en Nueva Zelanda) representa a la Corona Británica
+--     *   No hay divisiones administrativas; toda la isla es una sola entidad
+--
+-- 10. **HISTORIA (BREVE):**
+--     *   1790: Los amotinados del HMS Bounty se asientan en Pitcairn
+--     *   1838: Declarada territorio británico
+--     *   1856: Población trasladada a Norfolk Island (regresaron algunos posteriormente)
+--     *   1970: Se convierte en Territorio Británico de Ultramar
+--     *   Actualmente: La comunidad más pequeña y aislada del mundo
+--
+-- 11. **ECONOMÍA:**
+--     *   Agricultura de subsistencia
+--     *   Recaudación de sellos postales (ingreso importante)
+--     *   Turismo (cruceros ocasionales)
+--     *   Venta de artesanías y miel
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:PN NO DEFINE subdivisiones 
+--         - IP2Location confirma que PN está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para PN
+--         - Pitcairn Islands Government: el territorio tiene un solo gobierno local 
+--         - No existen municipios ni subdivisiones administrativas
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   Las Islas Pitcairn NO tienen municipios
+--     *   La unidad administrativa básica es el territorio completo
+--     *   Adamstown NO es un municipio, es el único asentamiento
+--     *   No existen divisiones de tipo "municipio" en las Islas Pitcairn
+--     *   Es el territorio con la estructura administrativa más simple del mundo
+-- ==================================================================================

@@ -1,0 +1,186 @@
+-- ==================================================================================
+-- PAÍS:      Sint Maarten (Sint Maarten)
+-- ISO:       SX / SXM / 534
+-- TIPO:      País constituyente del Reino de los Países Bajos (Constituent country)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:SX / IP2Location / Government of Sint Maarten / geonames.org
+-- NOMBRE:    SX_SINT_MAARTEN_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Sint Maarten NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO:
+-- - Sint Maarten es un país constituyente del Reino de los Países Bajos desde 2010
+-- - Superficie total: 34 km² (parte sur de la isla de San Martín)
+-- - Población: ~43,000 habitantes (2023)
+-- - Capital: Philipsburg
+-- - No tiene municipios; el territorio se administra como una sola entidad
+--
+-- ISO 3166-2:SX establece explícitamente: "Sint Maarten has no defined subdivisions" 
+--
+-- IP2Location confirma: SX está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que SX tiene 1 entidad administrativa (A.PCLI - independent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- La estructura administrativa de Sint Maarten:
+-- - Es un país autónomo dentro del Reino de los Países Bajos
+-- - Tiene su propio parlamento (Estados de Sint Maarten)
+-- - El gobierno local es centralizado, sin subdivisiones municipales
+-- - Existen localidades como Philipsburg, Simpson Bay, Maho, etc., pero NO son municipios
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         SX es un país constituyente del Reino de los Países Bajos.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'pais_constituyente_sx', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'SX'), 2, 'País constituyente', 'Constituent country', 'Land Sint Maarten',
+       'Land Sint Maarten', 'País de Sint Maarten', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'pais_constituyente_sx'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Sint Maarten no tiene divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Sint Maarten - País constituyente del Reino de los Países Bajos
+--     ├── Philipsburg (capital)
+--     ├── Simpson Bay (zona turística, puerto deportivo)
+--     ├── Maho (zona turística, aeropuerto)
+--     ├── Cole Bay (zona residencial)
+--     ├── Cay Hill (zona residencial)
+--     ├── Dutch Quarter
+--     ├── South Reward
+--     ├── St Peters
+--     ├── Middle Region
+--     └── Otras localidades
+--
+-- NOTA: Las localidades NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad con un
+--       gobierno central único.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Sint Maarten NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - País constituyente del Reino de los Países Bajos desde 2010 
+--         - Superficie: 34 km²
+--         - Población: 43,847 habitantes (censo 2023) 
+--         - Capital: Philipsburg
+--         - Administrado por un Primer Ministro y un parlamento de 15 miembros
+--         - No tiene municipios (gemeenten) como los Países Bajos europeos
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Sint Maarten es un país constituyente del Reino de los Países Bajos 
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: SX
+--     *   Código ISO 3166-1 alpha-3: SXM
+--     *   Código numérico ISO: 534
+--     *   Dominio de internet: .sx
+--     *   También tiene el código NL-SX bajo la entrada de los Países Bajos 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de SX 
+--     *   IP2Location confirma: SX está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   También tiene el código NL-SX bajo la entrada de los Países Bajos 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Sint Maarten es 7609695 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga SX.zip contiene la isla y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** Caribe, 18°02′N 63°03′O
+--     *   **Isla:** San Martín (Saint Martin) es la isla más pequeña del mundo dividida entre dos naciones:
+--         - Norte: San Martín (Saint-Martin) - parte francesa (MF) - 53.2 km²
+--         - Sur: Sint Maarten - parte neerlandesa (SX) - 34 km²
+--     *   **Frontera terrestre:** con San Martín (MF) de aproximadamente 12 km
+--     *   **Punto más alto:** Sentry Hill (340 m) - en la parte neerlandesa
+--     *   **Lago salado:** Great Salt Pond, Little Salt Pond
+--
+-- 6.  **POBLACIÓN Y LOCALIDADES (NO SON DIVISIONES ADMINISTRATIVAS):**
+--     *   **Población total:** 43,847 (2023) 
+--     *   **Localidades principales:**
+--         - Philipsburg (capital) - ~3,500 habitantes
+--         - Simpson Bay - zona turística, puerto deportivo
+--         - Maho - zona turística, aeropuerto internacional
+--         - Cole Bay - zona residencial
+--         - Cay Hill - zona residencial
+--         - Dutch Quarter - zona residencial
+--         - South Reward
+--         - St Peters
+--         - Middle Region
+--         - Lowlands
+--         - Pointe Blanche (puerto)
+--     *   Estas NO son divisiones administrativas; están bajo la jurisdicción única del gobierno central
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +1 (código de EE.UU.)
+--     *   Código de área: 721
+--
+-- 8.  **MONEDA:**
+--     *   Florín antillano neerlandés (ANG) - actualmente
+--     *   En transición al florín caribeño (Caribbean guilder)
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   **Estados de Sint Maarten (Staten van Sint Maarten):** parlamento de 15 miembros
+--     *   **Primer Ministro:** jefe de gobierno
+--     *   **Gobernador:** representante del Rey de los Países Bajos
+--     *   No hay municipios; la administración es centralizada
+--     *   El país está dividido electoralmente en 5 distritos electorales,
+--         pero estos NO son divisiones administrativas
+--
+-- 10. **DISTRITOS ELECTORALES (NO SON ADM1):**
+--     *   Sint Maarten tiene 5 distritos electorales para la elección del parlamento:
+--         - Distrito 1: Philipsburg
+--         - Distrito 2: South Reward, Dutch Quarter, Middle Region
+--         - Distrito 3: Cole Bay, Cay Hill, St Peters
+--         - Distrito 4: Simpson Bay, Lowlands
+--         - Distrito 5: Maho, Pointe Blanche
+--     *   Estos son distritos electorales, NO divisiones administrativas de primer nivel
+--     *   No tienen gobiernos locales propios
+--
+-- 11. **HISTORIA:**
+--     *   1493: Descubierta por Cristóbal Colón (día de San Martín)
+--     *   1648: Tratado de Concordia (división de la isla entre Francia y Países Bajos)
+--     *   1954-2010: Parte de las Antillas Neerlandesas
+--     *   10 de octubre de 2010: Se convierte en país constituyente del Reino de los Países Bajos
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:SX NO DEFINE subdivisiones 
+--         - IP2Location confirma que SX está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para SX
+--         - Government of Sint Maarten: el territorio tiene un solo gobierno central 
+--         - No existen municipios en Sint Maarten
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   Sint Maarten NO tiene municipios
+--     *   A diferencia de los Países Bajos europeos (que tienen 12 provincias y 342 municipios),
+--         Sint Maarten no tiene subdivisiones municipales
+--     *   Los asentamientos (Philipsburg, Simpson Bay, Maho, etc.) son localidades,
+--         no divisiones administrativas
+--     *   La única división administrativa es el territorio completo
+-- ==================================================================================

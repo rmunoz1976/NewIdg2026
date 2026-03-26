@@ -1,0 +1,191 @@
+-- ==================================================================================
+-- PAÍS:      Islas Turcas y Caicos (Turks and Caicos Islands)
+-- ISO:       TC / TCA / 796
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:TC / IP2Location / Government of Turks and Caicos / geonames.org
+-- NOMBRE:    TC_TURKS_CAICOS_ISLANDS_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Las Islas Turcas y Caicos NO TIENEN divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO:
+-- - Es un Territorio Británico de Ultramar
+-- - Superficie total: 948 km² (archipiélago de 40 islas, 8 habitadas)
+-- - Población: ~44,000 habitantes (2023)
+-- - Capital: Cockburn Town (en Gran Turca)
+-- - No tiene municipios; el territorio se administra como una sola entidad
+--   con distritos electorales (districts) que NO son divisiones administrativas ADM1
+--
+-- ISO 3166-2:TC establece explícitamente: "The Turks and Caicos Islands have
+-- no defined subdivisions" 
+--
+-- IP2Location confirma: TC está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que TC tiene 1 entidad administrativa (A.PCLD - dependent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- El gobierno de las Islas Turcas y Caicos tiene 6 distritos electorales:
+-- - Grand Turk
+-- - Salt Cay
+-- - South Caicos
+-- - North Caicos
+-- - Middle Caicos
+-- - Providenciales & West Caicos
+--
+-- Estos son distritos electorales, NO divisiones administrativas ADM1.
+-- No tienen gobiernos locales autónomos.
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         TC es un Territorio Británico de Ultramar.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_tc', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'TC'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'Turks and Caicos Islands',
+       'Turks and Caicos Islands', 'Islas Turcas y Caicos', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_tc'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- Las Islas Turcas y Caicos no tienen divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Islas Turcas y Caicos - Territorio Británico de Ultramar
+--     ├── Distritos electorales (NO son divisiones administrativas):
+--     │   ├── Grand Turk (isla principal, capital Cockburn Town)
+--     │   ├── Salt Cay (isla)
+--     │   ├── South Caicos (isla)
+--     │   ├── North Caicos (isla)
+--     │   ├── Middle Caicos (isla)
+--     │   └── Providenciales & West Caicos (isla principal turística)
+--     └── Otras islas deshabitadas (30+)
+--
+-- NOTA: Los distritos electorales NO son divisiones administrativas ADM1.
+--       No tienen gobiernos locales propios ni estructura administrativa independiente.
+--       El gobierno central en Cockburn Town administra todo el territorio.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Las Islas Turcas y Caicos NO TIENEN divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1962 
+--         - Superficie: 948 km²
+--         - Población: 44,542 habitantes (censo 2023) 
+--         - Capital: Cockburn Town (Grand Turk)
+--         - Administrado por un Gobernador (designado por el Reino Unido)
+--         - Tiene un Primer Ministro y una Asamblea Legislativa de 15 miembros
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Las Islas Turcas y Caicos son un Territorio Británico de Ultramar (British Overseas Territory) 
+--     *   Clasificadas como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: TC
+--     *   Código ISO 3166-1 alpha-3: TCA
+--     *   Código numérico ISO: 796
+--     *   Dominio de internet: .tc
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de TC 
+--     *   IP2Location confirma: TC está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para las Islas Turcas y Caicos es 3576916 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga TC.zip contiene islas y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** Caribe, 21°45′N 71°35′O
+--     *   **Archipiélago:** 40 islas (8 habitadas)
+--     *   **Islas principales (habitadas):**
+--         - Grand Turk (18 km²) - capital, centro administrativo
+--         - Providenciales (98 km²) - centro turístico y económico
+--         - North Caicos (116 km²)
+--         - Middle Caicos (144 km²)
+--         - South Caicos (21 km²)
+--         - Salt Cay (7 km²)
+--         - West Caicos (unida a Providenciales)
+--         - Parrot Cay (resort privado)
+--     *   **Islas deshabitadas:** 32 islas, incluyendo East Caicos, Ambergris Cay, etc.
+--     *   **Punto más alto:** 49 m (Blue Hills, Providenciales)
+--
+-- 6.  **POBLACIÓN Y DISTRITOS ELECTORALES (NO SON ADM1):**
+--     *   **Población total:** 44,542 (2023) 
+--     *   **Distribución por distrito electoral:**
+--         - Providenciales: ~37,000 habitantes (80% de la población)
+--         - Grand Turk: ~4,500 habitantes
+--         - North Caicos: ~1,500 habitantes
+--         - Middle Caicos: ~200 habitantes
+--         - South Caicos: ~1,200 habitantes
+--         - Salt Cay: ~100 habitantes
+--     *   Estos distritos electorales son para elección de la Asamblea Legislativa,
+--         NO son divisiones administrativas con gobiernos locales
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +1 (código de EE.UU.)
+--     *   Código de área: 649
+--
+-- 8.  **MONEDA:**
+--     *   Dólar estadounidense (USD)
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   **Asamblea Legislativa:** 15 miembros (5 elegidos por distrito, 10 por representación proporcional)
+--     *   **Gobernador:** designado por el Reino Unido (representante del Rey Carlos III)
+--     *   **Primer Ministro:** jefe de gobierno local
+--     *   **No hay gobiernos locales** (municipios, consejos de distrito, etc.)
+--     *   El gobierno central en Cockburn Town administra todo el territorio
+--
+-- 10. **DISTRITOS ELECTORALES (NO SON DIVISIONES ADMINISTRATIVAS):**
+--     *   Los 6 distritos electorales actuales (desde 2021):
+--         - Grand Turk North
+--         - Grand Turk South
+--         - Salt Cay
+--         - South Caicos
+--         - North Caicos
+--         - Middle Caicos
+--         - Providenciales (subdividido en 4 distritos electorales)
+--         - West Caicos
+--     *   Estos son exclusivamente para fines electorales
+--     *   No tienen poderes administrativos ni presupuesto propio
+--
+-- 11. **HISTORIA:**
+--     *   1492: Descubiertas por Cristóbal Colón (posiblemente)
+--     *   1670: Anexión británica
+--     *   1766-1873: Administradas como parte de las Bahamas
+--     *   1873-1962: Administradas como dependencia de Jamaica
+--     *   1962: Se convierten en Territorio Británico de Ultramar independiente
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:TC NO DEFINE subdivisiones 
+--         - IP2Location confirma que TC está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para TC
+--         - Government of Turks and Caicos: no hay municipios ni subdivisiones administrativas 
+--         - Los distritos electorales son para elecciones, no para administración
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   Las Islas Turcas y Caicos NO tienen municipios
+--     *   A diferencia de otros territorios británicos, no hay estructura de gobierno local
+--     *   El gobierno central es el único nivel de administración
+--     *   Las islas son divisiones geográficas, no administrativas
+-- ==================================================================================

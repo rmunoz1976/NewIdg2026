@@ -1,0 +1,173 @@
+-- ==================================================================================
+-- PAÍS:      Isla Norfolk (Norfolk Island)
+-- ISO:       NF / NFK / 574
+-- TIPO:      Territorio externo de Australia (Australian external territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:NF / IP2Location / Australian Government / geonames.org
+-- NOMBRE:    NF_NORFOLK_ISLAND_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- La Isla Norfolk NO TIENE divisiones administrativas de primer nivel
+-- (estados, provincias, departamentos, regiones, municipios, etc.) según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es INCORRECTO:
+-- - Es un territorio externo de Australia, con gobierno local único
+-- - Superficie total: 34.6 km² (isla principal + pequeñas islas adyacentes)
+-- - Población: ~2,188 habitantes (censo 2021)
+-- - Capital: Kingston (centro administrativo histórico) y Burnt Pine (centro comercial)
+-- - No tiene municipios; el territorio se administra como una sola entidad
+--
+-- ISO 3166-2:NF establece explícitamente: "Norfolk Island has no defined subdivisions" 
+--
+-- IP2Location confirma: NF está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que NF tiene 1 entidad administrativa (A.PCLD - dependent political entity),
+-- pero NO registra divisiones ADM1 para este territorio .
+--
+-- La estructura de gobierno local de la Isla Norfolk es única:
+-- - Entre 1979 y 2015, la isla tenía autogobierno con su propia Asamblea Legislativa
+-- - Desde 2016, se integró en el sistema de gobierno local de Australia,
+--   administrada por el Consejo Regional de la Isla Norfolk (Norfolk Island Regional Council)
+-- - La isla se administra como una sola entidad sin subdivisiones internas
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         NF es un territorio externo de Australia con gobierno local único.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_nf', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'NF'), 2, 'Territorio externo de Australia', 'Australian external territory', 'Norfolk Island',
+       'Norfolk Island', 'Isla Norfolk', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_nf'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- La Isla Norfolk no tiene divisiones administrativas de primer nivel
+-- según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Isla Norfolk - Territorio externo de Australia
+--     ├── Kingston (capital histórica, centro administrativo)
+--     ├── Burnt Pine (centro comercial y principal asentamiento)
+--     ├── Middlegate (zona residencial)
+--     ├── Cascade (puerto)
+--     ├── Longridge (zona residencial)
+--     ├── Rocky Point
+--     └── Islotes adyacentes: Phillip Island, Nepean Island
+--
+-- NOTA: Los asentamientos NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad con un
+--       Consejo Regional único (Norfolk Island Regional Council).
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** La Isla Norfolk NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio externo de Australia desde 1914 
+--         - Superficie: 34.6 km²
+--         - Población: 2,188 habitantes (censo 2021) 
+--         - Capital histórica: Kingston 
+--         - Centro comercial: Burnt Pine
+--         - Administrada por el Norfolk Island Regional Council (NIRC) desde 2016 
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   La Isla Norfolk es un territorio externo de Australia (Australian external territory) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: NF
+--     *   Código ISO 3166-1 alpha-3: NFK
+--     *   Código numérico ISO: 574
+--     *   Dominio de internet: .nf
+--     *   Los residentes son ciudadanos australianos desde 2016 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de NF 
+--     *   IP2Location confirma: NF está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   También tiene el código AU-NF bajo la entrada de Australia 
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para la Isla Norfolk es 2155115 
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga NF.zip contiene la isla principal y localidades, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA:**
+--     *   **Ubicación:** Pacífico Sur, 29°02′S 167°57′E
+--     *   **Isla principal:** 34.6 km², de origen volcánico
+--     *   **Punto más alto:** Mount Bates (319 m)
+--     *   **Islotes adyacentes:** Phillip Island (2.1 km², deshabitada), Nepean Island (0.1 km², deshabitada)
+--     *   **Distancia:** 1,412 km al este de la costa australiana, 1,100 km al noroeste de Nueva Zelanda
+--     *   **Clima:** subtropical marítimo
+--
+-- 6.  **POBLACIÓN Y ASENTAMIENTOS:**
+--     *   **Población total:** 2,188 (censo 2021) 
+--     *   **Asentamientos principales:**
+--         - Burnt Pine: centro comercial (población ~800)
+--         - Kingston: capital histórica, centro administrativo (población ~500)
+--         - Middlegate: zona residencial
+--         - Cascade: puerto principal
+--         - Longridge: zona residencial
+--         - Rocky Point: zona residencial
+--         - Anson Bay: zona costera
+--     *   Estos asentamientos NO son divisiones administrativas; están bajo la jurisdicción única del Consejo Regional
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +672 
+--     *   Código de área: 3 (para la isla)
+--
+-- 8.  **MONEDA:**
+--     *   Dólar australiano (AUD)
+--
+-- 9.  **GOBIERNO LOCAL:**
+--     *   **Norfolk Island Regional Council (NIRC):** único gobierno local desde 2016 
+--     *   Consejo de 5 miembros elegidos cada 4 años
+--     *   Responsable de servicios locales: carreteras, residuos, planificación, parques
+--     *   La isla se administra como una sola entidad sin subdivisiones
+--
+-- 10. **HISTORIA ADMINISTRATIVA:**
+--     *   1788-1814: Primera colonia penal británica
+--     *   1825-1855: Segunda colonia penal
+--     *   1856: Asentamiento de los descendientes del HMS Bounty desde Isla Pitcairn
+--     *   1914: Transferida a Australia
+--     *   1979-2015: Autogobierno con Asamblea Legislativa propia
+--     *   2016: Abolición del autogobierno, integración en sistema australiano
+--     *   Actualmente: Administrada por el Norfolk Island Regional Council 
+--
+-- 11. **IDIOMA Y CULTURA:**
+--     *   Idioma oficial: Inglés
+--     *   Idioma local: Norfuk (criollo basado en inglés del siglo XVIII y tahitiano)
+--     *   La isla tiene una cultura única derivada de los colonos de Pitcairn
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:NF NO DEFINE subdivisiones 
+--         - IP2Location confirma que NF está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para NF
+--         - Australian Government: la isla tiene un solo gobierno local 
+--         - Norfolk Island Regional Council: único consejo que cubre toda la isla 
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 13. **NOTA SOBRE MUNICIPIOS:**
+--     *   La Isla Norfolk NO tiene municipios
+--     *   La unidad administrativa básica es el territorio completo
+--     *   Los asentamientos (Burnt Pine, Kingston, etc.) son localidades dentro del territorio,
+--         no divisiones administrativas separadas
+--     *   El Norfolk Island Regional Council es un único gobierno local para toda la isla
+--     *   No existen divisiones de tipo "municipio" en la Isla Norfolk
+-- ==================================================================================

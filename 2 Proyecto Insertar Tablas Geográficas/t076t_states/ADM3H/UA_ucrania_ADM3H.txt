@@ -1,0 +1,10 @@
+﻿697606	Pershotravnevyy Rayon	Pershotravnevyy Rayon	Perschotrawnewyj rajon,Pershotravnevij rajon,Persotravnevii raion,Pervomajskij rajon,Perwomajski rajon,Perșotravnevii raion,Raionul 1 Mai,Rajon Perschotrawnewe,Первомайский район,Першотравневий район	48.3	25.93333	A	ADM3H	UA		03	9637102		697606	70000	173	173	Europe/Kyiv	2022-09-01
+698283	Osokorky	Osokorky	Osokorki,Osokorky,Осокорки	50.40866	30.61777	A	ADM3H	UA		12				0		93	Europe/Kyiv	2022-09-01
+8519948	Pyrohiv	Pyrohiv	Pirogiv,Pirogovo,Pyrohiv,Пирогово,Пирогів	50.35347	30.52821	A	ADM3H	UA		12	700708			0		102	Europe/Kyiv	2022-09-01
+11494435	Qarasuv Bazar	Qarasuv Bazar	Qarasuv Bazar	45.44893	34.57518	A	ADM3H	UA		11				0		29	Europe/Simferopol	2024-09-12
+11494436	Or	Or	Or	45.81971	33.92355	A	ADM3H	UA		11				0		10	Europe/Simferopol	2024-09-12
+11494437	Kezlev	Kezlev	Kezlev	45.50069	33.21133	A	ADM3H	UA		11				0		39	Europe/Simferopol	2024-09-12
+11494438	Kefe	Kefe	Kefe	45.20442	35.50953	A	ADM3H	UA		11				0		34	Europe/Simferopol	2024-09-12
+11494439	Bahçesaray	Bahcesaray	Bahcesaray,Bahçesaray	44.8819	33.80648	A	ADM3H	UA		11				0		136	Europe/Simferopol	2024-09-12
+11494440	Aq Mečit	Aq Mecit	Aq Mecit,Aq Mečit	45.11327	34.14259	A	ADM3H	UA		11				0		180	Europe/Simferopol	2024-09-11
+13526778	Lisovyi masyv	Lisovyi masyv	Lesnoj massiv,Lisovij masiv,Lisovyi masyv,Лесной массив,Лісовий масив	50.47291	30.63116	A	ADM3H	UA		12	8520167			0		96	Europe/Kyiv	2025-11-29

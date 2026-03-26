@@ -1,0 +1,4 @@
+﻿7732466	Eminönü	Eminoenue		41.01588	28.97301	A	ADM2H	TR		34	7732466			0		15	Europe/Istanbul	2017-11-27
+7732984	Merkez	Merkez		37.08216	39.14955	A	ADM2H	TR		63	7732984			0		447	Europe/Istanbul	2025-05-04
+10330935	Dadaşkent İlçesi	Dadaskent Ilcesi	Dadaskent Ilcesi,Dadaşkent İlçesi	39.94678	41.25464	A	ADM2H	TR		25	10330935			0		1777	Europe/Istanbul	2017-12-09
+11235394	Bekirpaşa İlçesi	Bekirpasa Ilcesi	Bekirpasa Ilcesi,Bekirpaşa İlçesi	40.77169	29.97509	A	ADM2H	TR		41	11235394			0		7	Europe/Istanbul	2017-12-09

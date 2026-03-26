@@ -1,0 +1,183 @@
+-- ==================================================================================
+-- PAÍS:      Territorio Británico del Océano Índico
+--            (British Indian Ocean Territory - BIOT)
+-- ISO:       IO / IOT / 086
+-- TIPO:      Territorio Británico de Ultramar (British Overseas Territory)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:IO / IP2Location / geonames.org / BIOT Administration
+-- NOMBRE:    IO_BRITISH_INDIAN_OCEAN_TERRITORY_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- El Territorio Británico del Océano Índico NO TIENE divisiones administrativas 
+-- de primer nivel (estados, provincias, departamentos, regiones, municipios, etc.) 
+-- según ISO 3166-2.
+--
+-- El usuario solicitó "16 municipios", pero esto es COMPLETAMENTE INCORRECTO:
+-- - Es un Territorio Británico de Ultramar remoto, con población solo militar
+-- - Superficie total: 60 km² (archipiélago de 55 islas, solo Diego Garcia habitada)
+-- - Población permanente: 0 residentes civiles (3,000-5,000 personal militar y contratistas)
+-- - Solo la isla Diego Garcia está habitada por personal militar estadounidense y británico
+-- - Administrado por el Foreign & Commonwealth Office desde Londres
+--
+-- ISO 3166-2:IO establece explícitamente: "The British Indian Ocean Territory has 
+-- no defined subdivisions" 
+--
+-- IP2Location confirma: IO está en la lista de 49 países/territorios
+-- que NO tienen subdivisiones ISO 3166-2 definidas .
+--
+-- Geonombres muestra que IO tiene 55 islas, pero NO registra divisiones ADM1 .
+--
+-- La Administración del BIOT confirma que el territorio es administrado directamente
+-- como una sola entidad sin subdivisiones internas .
+--
+-- Por lo tanto, NO SE GENERAN registros en t076t_states para este territorio,
+-- ya que no existen divisiones administrativas de primer nivel.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         IO es un Territorio Británico de Ultramar con población militar.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'territorio_io', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'IO'), 2, 'Territorio Británico de Ultramar', 'British Overseas Territory', 'British Indian Ocean Territory',
+       'British Indian Ocean Territory', 'Territorio Británico del Océano Índico', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'territorio_io'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states
+-- ==================================================================================
+-- El Territorio Británico del Océano Índico no tiene divisiones administrativas 
+-- de primer nivel según ISO 3166-2.
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL:
+-- └── Territorio Británico del Océano Índico - Territorio Británico de Ultramar
+--     ├── Archipiélago de Chagos (Chagos Archipelago)
+--     │   ├── Diego Garcia (única isla habitada, base militar)
+--     │   │   ├── Base Naval de Apoyo Diego Garcia
+--     │   │   └── Personal militar y contratistas (3,000-5,000)
+--     │   ├── Islas Peros Banhos (atolón)
+--     │   ├── Islas Salomón (atolón)
+--     │   ├── Gran Banco de Chagos (Great Chagos Bank)
+--     │   └── Múltiples islas deshabitadas (55 islas totales)
+--     └── Área Marina Protegida (MPA) - 640,000 km²
+--
+-- NOTA: Las islas individuales NO son divisiones administrativas ADM1.
+--       El territorio es administrado como una sola entidad desde Londres 
+--       sin subdivisiones internas. Diego Garcia es una base militar, no una división.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** IO NO TIENE divisiones ADM1 .
+--     *   **DATOS CONFIRMADOS:**
+--         - Territorio Británico de Ultramar desde 1965 
+--         - Superficie total: 60 km² (55 islas, 7 atolones)
+--         - Población: 0 residentes civiles (3,000-5,000 personal militar)
+--         - Capital: Base Naval de Diego Garcia (no es ciudad civil)
+--         - Administrado por el Foreign, Commonwealth & Development Office (FCDO)
+--         - Comisionado del BIOT (designado por la Corona Británica)
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   IO es un Territorio Británico de Ultramar (British Overseas Territory) 
+--     *   Clasificado como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: IO
+--     *   Código ISO 3166-1 alpha-3: IOT
+--     *   Código numérico ISO: 086
+--     *   Dominio de internet: .io (popular para startups tecnológicas)
+--     *   Disputa territorial con Mauricio, que reclama el archipiélago de Chagos 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2 NO asigna códigos oficiales para subdivisiones de IO 
+--     *   IP2Location confirma: IO está en la lista de 49 países sin subdivisiones definidas 
+--     *   No existen códigos `code_iso_numeric`, `code_iso_alpha2`, `code_iso_alpha3` para subdivisiones
+--     *   También tiene el código "IO" bajo la ISO 3166-1 alpha-2, pero no hay subdivisiones
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para el Territorio Británico del Océano Índico es 1282588 
+--     *   El geo_id para Diego Garcia es 1282588 (isla principal)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio 
+--     *   El archivo de descarga IO.zip contiene islas y accidentes geográficos, no subdivisiones ADM1
+--
+-- 5.  **GEOGRAFÍA DETALLADA:**
+--     *   **Archipiélago de Chagos (Chagos Archipelago):**
+--         - 55 islas tropicales en 7 atolones principales 
+--         - Superficie total: 60 km² (de 640,000 km² de océano)
+--         - Ubicación: 6°00′S 71°30′E
+--         - Punto más alto: 15 m sobre el nivel del mar
+--     *   **Diego Garcia:**
+--         - Isla principal (44 km²)
+--         - Forma de "V" (atolón cerrado)
+--         - Laguna central de 19 km de largo
+--         - Base naval operada conjuntamente por Reino Unido y EE.UU.
+--         - Aeropuerto con pista de 3,000 m
+--     *   **Atolones principales:**
+--         - Peros Banhos (islas deshabitadas)
+--         - Salomón (islas deshabitadas)
+--         - Gran Banco de Chagas (el mayor atolón de coral del mundo)
+--         - Egmont, Danger, Eagle, Three Brothers, Cow, Nelson, etc.
+--     *   **Área Marina Protegida (MPA):**
+--         - Establecida en 2010 
+--         - 640,000 km², una de las mayores áreas protegidas marinas del mundo
+--
+-- 6.  **POBLACIÓN Y OCUPACIÓN:**
+--     *   **Población permanente:** 0 residentes civiles 
+--     *   **Personal militar (EE.UU. y Reino Unido):** 3,000-5,000 personas 
+--     *   **Contratistas civiles:** 1,500-2,000 personas 
+--     *   **Población desplazada:** Población indígena (chagosianos) desplazada entre 1968-1973,
+--         actualmente viven en Mauricio, Seychelles y Reino Unido 
+--     *   **Acceso:** Estrictamente restringido, solo personal autorizado
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +246 
+--     *   Solo disponible para personal militar y contratistas
+--
+-- 8.  **BASE MILITAR:**
+--     *   **Base Naval de Apoyo Diego Garcia:**
+--         - Operada conjuntamente por EE.UU. (US Navy) y Reino Unido (RAF)
+--         - Base naval, aérea y de comunicaciones estratégica
+--         - Instalaciones: puerto de aguas profundas, pista de 3,000 m, muelles, almacenamiento
+--         - Usada como base de apoyo para operaciones en el Océano Índico, Medio Oriente y Afganistán
+--         - Papel clave en las guerras de Irak y Afganistán
+--
+-- 9.  **HISTORIA Y CONTROVERSIA:**
+--     *   1965: Creación del BIOT separando las islas de Mauricio (entonces colonia británica)
+--     *   1968-1973: Desplazamiento forzado de la población chagosiana (aproximadamente 2,000 personas) 
+--     *   1966: Acuerdo Reino Unido-EE.UU. para uso militar de Diego Garcia
+--     *   2019: La Corte Internacional de Justicia (CIJ) dictaminó que la descolonización de Mauricio
+--                no se completó legalmente y el Reino Unido debe entregar el territorio 
+--     *   2021: La Corte Internacional del Derecho del Mar (ITLOS) confirmó la soberanía de Mauricio 
+--     *   Actualmente: En proceso de transferencia de soberanía a Mauricio (acuerdo alcanzado en 2024) 
+--
+-- 10. **CONSERVACIÓN:**
+--     *   Área Marina Protegida (MPA) desde 2010 
+--     *   Reserva marina con estricta protección (640,000 km²)
+--     *   Uno de los ecosistemas marinos más prístinos del mundo
+--     *   Poblaciones de tortugas marinas, tiburones, corales saludables
+--
+-- 11. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios" es COMPLETAMENTE INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:IO NO DEFINE subdivisiones 
+--         - IP2Location confirma que IO está en la lista sin subdivisiones 
+--         - Geonombres no tiene registros ADM1 para IO
+--         - BIOT Administration: administración centralizada sin subdivisiones 
+--         - La población es militar y contratistas, no hay estructuras civiles locales
+--     *   Este SQL NO incluye registros en t076t_states, que es la respuesta correcta según los datos oficiales
+--
+-- 12. **NOTA SOBRE MUNICIPIOS:**
+--     *   No existen municipios en el BIOT
+--     *   Diego Garcia NO es un municipio, es una base militar
+--     *   No hay autoridades locales, consejos municipales, ni gobiernos locales
+--     *   El Comisionado del BIOT es la autoridad única
+--     *   La administración es ejercida directamente desde Londres
+-- ==================================================================================

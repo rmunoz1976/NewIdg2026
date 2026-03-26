@@ -1,0 +1,176 @@
+-- ==================================================================================
+-- PAÍS:      Guadalupe (Guadeloupe)
+-- ISO:       GP / GLP / 312
+-- TIPO:      Departamento y región de ultramar de Francia (Overseas department)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1 en ISO 3166-2)
+-- FUENTE:    ISO 3166-2:GP / Insee / Ministère de la Culture / geonames.org
+-- NOMBRE:    GP_GUADELOUPE_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Guadalupe NO TIENE divisiones administrativas de primer nivel (ADM1) según
+-- el estándar ISO 3166-2, ya que es un departamento de ultramar de Francia.
+--
+-- El usuario solicitó "16 municipios como divisiones ADM1", pero esto es INCORRECTO:
+-- - Guadalupe es un departamento y región de ultramar francés (DROM) desde 1946 
+-- - ISO 3166-2:GP NO DEFINE códigos para subdivisiones 
+-- - La estructura administrativa de Francia sitúa a Guadalupe como ADM1 bajo FR
+-- - Las 32 comunas (municipios) son divisiones de SEGUNDO nivel (ADM2) 
+--
+-- ESTRUCTURA JERÁRQUICA CORRECTA (según sistema francés):
+-- └── Francia (ADM0)
+--     └── Guadalupe (ADM1 bajo código FR-971) [código ISO 3166-2: FR-971]
+--         ├── Arrondissements: Basse-Terre y Pointe-à-Pitre (2)
+--         ├── Cantones: 21
+--         └── Comunas: 32 (estos son ADM2, NO ADM1)
+--
+-- IMPORTANTE: ISO 3166-1 asigna GP como código independiente para Guadalupe,
+-- pero ISO 3166-2:GP no tiene subdivisiones definidas bajo su propio código .
+-- Las subdivisiones reales (las 32 comunas) están codificadas bajo FR-971.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Guadalupe es un departamento de ultramar francés.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'departamento_ultramar_gp', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'GP'), 2, 'Departamento de Ultramar', 'Overseas Department', 'Département d''outre-mer',
+       'Département d''outre-mer', 'Departamento de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'departamento_ultramar_gp'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states BAJO CÓDIGO GP
+-- ==================================================================================
+-- Guadalupe (código ISO GP) no tiene divisiones administrativas de primer nivel
+-- definidas en ISO 3166-2 bajo su propio código .
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL (con advertencias):
+-- └── Guadalupe - Departamento de ultramar de Francia
+--     ├── Arrondissement de Basse-Terre (subdivisión administrativa, no ADM1) 
+--     ├── Arrondissement de Pointe-à-Pitre (subdivisión administrativa, no ADM1) 
+--     ├── 21 cantones 
+--     └── 32 comunas (municipios) - estos son ADM2 bajo sistema francés 
+--
+-- NOTA: Las 32 comunas (municipios) de Guadalupe son:
+--       Basse-Terre, Les Abymes, Anse-Bertrand, Baie-Mahault, Baillif, Bouillante,
+--       Capesterre-Belle-Eau, Capesterre-de-Marie-Galante, Deshaies, La Désirade,
+--       Le Gosier, Gourbeyre, Goyave, Grand-Bourg, Lamentin, Morne-à-l'Eau, Le Moule,
+--       Petit-Bourg, Petit-Canal, Pointe-à-Pitre, Pointe-Noire, Port-Louis, Saint-Claude,
+--       Saint-François, Saint-Louis, Sainte-Anne, Sainte-Rose, Terre-de-Bas, Terre-de-Haut,
+--       Trois-Rivières, Vieux-Fort, Vieux-Habitants .
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios como ADM1" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Guadalupe tiene 32 MUNICIPIOS (comunas) como ADM2,
+--         no como divisiones ADM1 bajo su propio código ISO .
+--     *   **JERARQUÍA CORRECTA:**
+--         - ADM0: Guadalupe (país con código GP)
+--         - ADM1: NO EXISTE bajo código GP (sí existe bajo código FR-971)
+--         - ADM2: 32 comunas (municipios)
+--         - ADM3: Cantones y arrondissements
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Guadalupe es un departamento y región de ultramar francés (DROM) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: GP
+--     *   Código ISO 3166-1 alpha-3: GLP
+--     *   Código numérico ISO: 312
+--     *   Código INSEE: 971
+--     *   Dominio de internet: .gp
+--     *   Moneda: Euro 
+--     *   Es región ultraperiférica de la Unión Europea 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2:GP NO DEFINE códigos para subdivisiones 
+--     *   La entrada para GP en ISO 3166-2 está vacía 
+--     *   Sin embargo, Guadalupe tiene el código ISO 3166-2 FR-971 bajo la entrada de Francia 
+--     *   Esto significa que las subdivisiones (las 32 comunas) están codificadas bajo FR-971, no bajo GP
+--     *   Por lo tanto, NO ES CORRECTO insertar las comunas como subdivisiones bajo GP
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Guadalupe es 3579143 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio bajo código GP
+--     *   El archivo de descarga GP.zip contiene comunas y localidades, pero como ADM2
+--
+-- 5.  **LAS 32 COMUNAS (MUNICIPIOS) DE GUADALUPE:**
+--     | N° | Comuna | Código Insee | Arrondissement | Población (2023) |
+--     |----|--------|--------------|----------------|-----------------|
+--     | 1 | Basse-Terre | 97105 | Basse-Terre | 9,417 |
+--     | 2 | Les Abymes | 97101 | Pointe-à-Pitre | 51,055 |
+--     | 3 | Anse-Bertrand | 97102 | Pointe-à-Pitre | 4,412 |
+--     | 4 | Baie-Mahault | 97103 | Basse-Terre | 30,924 |
+--     | 5 | Baillif | 97104 | Basse-Terre | 5,096 |
+--     | 6 | Bouillante | 97106 | Basse-Terre | 6,127 |
+--     | 7 | Capesterre-Belle-Eau | 97107 | Basse-Terre | 17,684 |
+--     | 8 | Capesterre-de-Marie-Galante | 97108 | Pointe-à-Pitre | 3,123 |
+--     | 9 | Deshaies | 97111 | Basse-Terre | 3,710 |
+--     | 10 | La Désirade | 97110 | Pointe-à-Pitre | 1,306 |
+--     | 11 | Le Gosier | 97113 | Pointe-à-Pitre | 27,757 |
+--     | 12 | Gourbeyre | 97109 | Basse-Terre | 7,307 |
+--     | 13 | Goyave | 97114 | Basse-Terre | 7,565 |
+--     | 14 | Grand-Bourg | 97112 | Pointe-à-Pitre | 4,617 |
+--     | 15 | Lamentin | 97115 | Basse-Terre | 18,628 |
+--     | 16 | Morne-à-l'Eau | 97116 | Pointe-à-Pitre | 16,228 |
+--     | 17 | Le Moule | 97117 | Pointe-à-Pitre | 23,014 |
+--     | 18 | Petit-Bourg | 97118 | Basse-Terre | 24,665 |
+--     | 19 | Petit-Canal | 97119 | Pointe-à-Pitre | 8,212 |
+--     | 20 | Pointe-à-Pitre | 97120 | Pointe-à-Pitre | 15,040 |
+--     | 21 | Pointe-Noire | 97121 | Basse-Terre | 5,762 |
+--     | 22 | Port-Louis | 97122 | Pointe-à-Pitre | 5,607 |
+--     | 23 | Saint-Claude | 97124 | Basse-Terre | 10,177 |
+--     | 24 | Saint-François | 97125 | Pointe-à-Pitre | 13,942 |
+--     | 25 | Saint-Louis | 97126 | Pointe-à-Pitre | 2,610 |
+--     | 26 | Sainte-Anne | 97128 | Pointe-à-Pitre | 23,973 |
+--     | 27 | Sainte-Rose | 97129 | Basse-Terre | 17,700 |
+--     | 28 | Terre-de-Bas | 97130 | Basse-Terre | 873 |
+--     | 29 | Terre-de-Haut | 97131 | Basse-Terre | 1,463 |
+--     | 30 | Trois-Rivières | 97132 | Basse-Terre | 7,415 |
+--     | 31 | Vieux-Fort | 97133 | Basse-Terre | 1,674 |
+--     | 32 | Vieux-Habitants | 97134 | Basse-Terre | 7,077 |
+--     *Fuente: Insee, Recensement 2023* 
+--
+-- 6.  **GEOGRAFÍA:**
+--     *   Archipiélago de 1,628 km² compuesto por: 
+--         - Basse-Terre (848 km², origen volcánico, Pico de la Soufrière 1,467 m) 
+--         - Grande-Terre (588 km², origen calcáreo) 
+--         - Marie-Galante (158 km²)
+--         - La Désirade (22 km²)
+--         - Les Saintes (14 km²)
+--     *   Las islas de Saint-Barthélemy y Saint-Martin eran parte de Guadalupe hasta 2007,
+--         cuando se convirtieron en colectividades de ultramar separadas 
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +590 
+--
+-- 8.  **CAPITAL:**
+--     *   Basse-Terre (población: ~9,417 habitantes, 2023) 
+--
+-- 9.  **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios como divisiones ADM1" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:GP NO DEFINE subdivisiones 
+--         - Guadalupe tiene 32 comunas (municipios), no 16 
+--         - Estas comunas son ADM2 bajo el código FR-971, no ADM1 bajo GP 
+--         - El Ministerio de Cultura de Francia confirma la estructura de 32 comunas 
+--         - Insee (Instituto de Estadística francés) lista las 32 comunas 
+--     *   Este SQL NO incluye registros en t076t_states bajo código GP,
+--         que es la respuesta correcta según ISO 3166-2
+--
+-- 10. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar las comunas de Guadalupe:
+--         a) Insertarlas bajo el código FR-971 (no bajo GP)
+--         b) Usar id_country de Francia (FR), no de Guadalupe (GP)
+--         c) Insertar como divisiones ADM2, no ADM1
+--         d) Consultar con los administradores del sistema si desean tratar
+--            Guadalupe como una "subdivisión de Francia" o como entidad separada
+-- ==================================================================================

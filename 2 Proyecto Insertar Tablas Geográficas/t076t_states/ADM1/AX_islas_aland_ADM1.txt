@@ -1,0 +1,3 @@
+﻿9611689	Mariehamns stad	Mariehamns stad	Mariehamn	60.08348	19.94307	A	ADM1	AX		211				11209		21	Europe/Mariehamn	2016-05-06
+9611692	Ålands landsbygd	Alands landsbygd	Alands landsbygd,Ålands landsbygd	60.22496	19.93363	A	ADM1	AX		212				14626		-9999	Europe/Mariehamn	2015-04-21
+9611694	Ålands skärgård	Alands skaergard	Alands skaergard,Ålands skärgård	60.17575	20.71799	A	ADM1	AX		213				2230		-9999	Europe/Mariehamn	2015-04-21

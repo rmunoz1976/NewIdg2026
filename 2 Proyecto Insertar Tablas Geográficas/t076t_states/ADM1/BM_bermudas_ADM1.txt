@@ -1,0 +1,11 @@
+﻿3572972	Warwick Parish	Warwick Parish	Heron Bay,Warwick,Warwick Parish	32.26583	-64.80722	A	ADM1	BM		11				8932		11	Atlantic/Bermuda	2012-01-16
+3573026	Southampton Parish	Southampton Parish	Port Royal,Southampton,Southampton Parish	32.25083	-64.85639	A	ADM1	BM		10				6260		29	Atlantic/Bermuda	2012-01-16
+3573031	Smith’s Parish	Smith's Parish	Harris Bay,Smith's,Smith's Parish,Smithʼs,Smith’s,Smith’s Parish	32.31528	-64.73528	A	ADM1	BM		09				5852		69	Atlantic/Bermuda	2020-06-09
+3573050	Sandys Parish	Sandys Parish	Sandys,Somerset	32.29345	-64.86828	A	ADM1	BM		08				7723		14	Atlantic/Bermuda	2007-01-09
+3573057	Saint George’s Parish	Saint George's Parish	Saint George's,Saint George's Parish,Saint Georgeʼs,Saint George’s,Saint George’s Parish	32.3726	-64.69437	A	ADM1	BM		07				5659		13	Atlantic/Bermuda	2021-01-24
+3573062	Saint George	Saint George	Saint George	32.38417	-64.67639	A	ADM1	BM		06				1743		26	Atlantic/Bermuda	2018-06-07
+3573095	Pembroke Parish	Pembroke Parish	Pembroke,Pembroke Parish,Spanish Point	32.29944	-64.79278	A	ADM1	BM		05				10249		8	Atlantic/Bermuda	2012-01-16
+3573103	Paget Parish	Paget Parish	Crow Lane,Paget,Paget Parish	32.27833	-64.78167	A	ADM1	BM		04				5179		46	Atlantic/Bermuda	2012-01-16
+3573195	Hamilton	Hamilton	Bailey's Bay,Bailey’s Bay,Hamilton,Hamilton Parish	32.34222	-64.72833	A	ADM1	BM		02				5584		39	Atlantic/Bermuda	2016-11-25
+3573198	Hamilton City	Hamilton City	Hamilton,Hamilton city	32.29326	-64.78063	A	ADM1	BM		03				1010		14	Atlantic/Bermuda	2020-11-03
+3573251	Devonshire Parish	Devonshire Parish	Brackish Pond,Devonshire,Devonshire Parish	32.30278	-64.75583	A	ADM1	BM		01				7087		21	Atlantic/Bermuda	2021-02-16

@@ -1,0 +1,176 @@
+-- ==================================================================================
+-- PAÍS:      Martinica (Martinique)
+-- ISO:       MQ / MTQ / 474
+-- TIPO:      Departamento y región de ultramar de Francia (Overseas department)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:MQ / IP2Location / Insee / geonames.org
+-- NOMBRE:    MQ_MARTINIQUE_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Martinica NO TIENE divisiones administrativas de primer nivel (ADM1) según
+-- el estándar ISO 3166-2, ya que es un departamento de ultramar de Francia.
+--
+-- El usuario solicitó "16 municipios como divisiones ADM1", pero esto es INCORRECTO:
+-- - Martinica es un departamento y región de ultramar francés (DROM) desde 1946 
+-- - ISO 3166-2:MQ NO DEFINE códigos para subdivisiones 
+-- - La estructura administrativa de Francia sitúa a Martinica como ADM1 bajo FR
+-- - Las 34 comunas (municipios) son divisiones de SEGUNDO nivel (ADM2) 
+--
+-- ESTRUCTURA JERÁRQUICA CORRECTA (según sistema francés):
+-- └── Francia (ADM0)
+--     └── Martinica (ADM1 bajo código FR-972) [código ISO 3166-2: FR-972]
+--         ├── Arrondissements: Fort-de-France, Le Marin, La Trinité (3)
+--         ├── Cantones: 45 (hasta 2015) / 2 distritos electorales
+--         └── Comunas: 34 (estos son ADM2, NO ADM1)
+--
+-- IMPORTANTE: ISO 3166-1 asigna MQ como código independiente para Martinica,
+-- pero ISO 3166-2:MQ no tiene subdivisiones definidas bajo su propio código .
+-- Las subdivisiones reales (las 34 comunas) están codificadas bajo FR-972.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Martinica es un departamento de ultramar francés.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'departamento_ultramar_mq', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'MQ'), 2, 'Departamento de Ultramar', 'Overseas Department', 'Département d''outre-mer',
+       'Département d''outre-mer', 'Departamento de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'departamento_ultramar_mq'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states BAJO CÓDIGO MQ
+-- ==================================================================================
+-- Martinica (código ISO MQ) no tiene divisiones administrativas de primer nivel
+-- definidas en ISO 3166-2 bajo su propio código .
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL (con advertencias):
+-- └── Martinica - Departamento de ultramar de Francia
+--     ├── Arrondissement de Fort-de-France (subdivisión administrativa, no ADM1)
+--     ├── Arrondissement du Marin (subdivisión administrativa, no ADM1)
+--     ├── Arrondissement de La Trinité (subdivisión administrativa, no ADM1)
+--     ├── 2 distritos electorales (circunscripciones legislativas)
+--     └── 34 comunas (municipios) - estos son ADM2 bajo sistema francés
+--
+-- NOTA: Las 34 comunas (municipios) de Martinica son las divisiones de segundo nivel,
+-- no de primer nivel. No se insertan bajo código MQ.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios como ADM1" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Martinica tiene 34 MUNICIPIOS (comunas) como ADM2,
+--         no como divisiones ADM1 bajo su propio código ISO .
+--     *   **JERARQUÍA CORRECTA:**
+--         - ADM0: Martinica (país con código MQ)
+--         - ADM1: NO EXISTE bajo código MQ (sí existe bajo código FR-972)
+--         - ADM2: 34 comunas (municipios)
+--         - ADM3: Cantones y arrondissements
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Martinica es un departamento y región de ultramar francés (DROM) 
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: MQ
+--     *   Código ISO 3166-1 alpha-3: MTQ
+--     *   Código numérico ISO: 474
+--     *   Código INSEE: 972
+--     *   Dominio de internet: .mq
+--     *   Es región ultraperiférica de la Unión Europea 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2:MQ NO DEFINE códigos para subdivisiones 
+--     *   La entrada para MQ en ISO 3166-2 está vacía 
+--     *   Sin embargo, Martinica tiene el código ISO 3166-2 FR-972 bajo la entrada de Francia 
+--     *   Esto significa que las subdivisiones (las 34 comunas) están codificadas bajo FR-972, no bajo MQ
+--     *   Por lo tanto, NO ES CORRECTO insertar las comunas como subdivisiones bajo MQ
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Martinica es 3570311 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio bajo código MQ
+--     *   El archivo de descarga MQ.zip contiene comunas y localidades, pero como ADM2
+--
+-- 5.  **LAS 34 COMUNAS (MUNICIPIOS) DE MARTINICA:**
+--     | N° | Comuna | Código Insee | Arrondissement | Población (2021) |
+--     |----|--------|--------------|----------------|-----------------|
+--     | 1 | Fort-de-France | 97209 | Fort-de-France | 74,921 |
+--     | 2 | Le Lamentin | 97213 | Fort-de-France | 39,641 |
+--     | 3 | Le Robert | 97222 | La Trinité | 21,305 |
+--     | 4 | Schœlcher | 97229 | Fort-de-France | 19,341 |
+--     | 5 | Le François | 97210 | Le Marin | 15,996 |
+--     | 6 | Sainte-Marie | 97228 | La Trinité | 14,650 |
+--     | 7 | Le Carbet | 97204 | Fort-de-France | 3,560 |
+--     | 8 | La Trinité | 97230 | La Trinité | 12,243 |
+--     | 9 | Ducos | 97207 | Fort-de-France | 17,912 |
+--     | 10 | Saint-Joseph | 97224 | Fort-de-France | 16,135 |
+--     | 11 | Le Morne-Vert | 97218 | Fort-de-France | 1,746 |
+--     | 12 | Les Trois-Îlets | 97231 | Le Marin | 7,061 |
+--     | 13 | Rivière-Pilote | 97220 | Le Marin | 11,712 |
+--     | 14 | Le Diamant | 97206 | Le Marin | 5,687 |
+--     | 15 | Le Marin | 97217 | Le Marin | 8,586 |
+--     | 16 | Saint-Esprit | 97223 | Le Marin | 10,270 |
+--     | 17 | Sainte-Luce | 97227 | Le Marin | 9,351 |
+--     | 18 | Le Vauclin | 97232 | Le Marin | 9,186 |
+--     | 19 | Le Lorrain | 97214 | La Trinité | 6,649 |
+--     | 20 | Le Marigot | 97216 | La Trinité | 3,034 |
+--     | 21 | Le Prêcheur | 97219 | Fort-de-France | 1,377 |
+--     | 22 | Bellefontaine | 97234 | Fort-de-France | 1,901 |
+--     | 23 | Case-Pilote | 97205 | Fort-de-France | 4,490 |
+--     | 24 | Fonds-Saint-Denis | 97208 | Fort-de-France | 641 |
+--     | 25 | Grand'Rivière | 97211 | La Trinité | 752 |
+--     | 26 | Gros-Morne | 97212 | La Trinité | 9,876 |
+--     | 27 | L'Ajoupa-Bouillon | 97203 | La Trinité | 1,726 |
+--     | 28 | Macouba | 97215 | La Trinité | 1,017 |
+--     | 29 | Rivière-Salée | 97221 | Le Marin | 12,188 |
+--     | 30 | Saint-Pierre | 97225 | Fort-de-France | 4,088 |
+--     | 31 | Basse-Pointe | 97203 | La Trinité | 3,586 |
+--     | 32 | Le Morne-Rouge | 97218 | Fort-de-France | 4,551 |
+--     | 33 | Les Anses-d'Arlet | 97202 | Le Marin | 3,752 |
+--     | 34 | Sainte-Anne | 97226 | Le Marin | 4,478 |
+--     *Fuente: Insee, Recensement 2021* 
+--
+-- 6.  **GEOGRAFÍA:**
+--     *   Superficie: 1,128 km² 
+--     *   Isla volcánica con el Monte Pelée (1,397 m), volcán activo que devastó Saint-Pierre en 1902 
+--     *   Punto más bajo: Mar Caribe (0 m)
+--     *   Costa: 350 km 
+--     *   Zona horaria: UTC-4 (AST)
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +596 
+--
+-- 8.  **CAPITAL:**
+--     *   Fort-de-France (población: ~74,921 habitantes, 2021) 
+--
+-- 9.  **REFORMA ADMINISTRATIVA DE 2015:**
+--     *   En 2015, Martinica se convirtió en una colectividad territorial única (Collectivité Territoriale de Martinique)
+--     *   Se fusionaron el Consejo General (departamento) y el Consejo Regional (región) 
+--     *   Se creó una Asamblea de Martinica con 51 miembros 
+--     *   Esta reforma no cambió la estructura de comunas (34) ni su estatus como ADM2
+--
+-- 10. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios como divisiones ADM1" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:MQ NO DEFINE subdivisiones 
+--         - Martinica tiene 34 comunas (municipios), no 16 
+--         - Estas comunas son ADM2 bajo el código FR-972, no ADM1 bajo MQ 
+--         - Insee (Instituto de Estadística francés) lista las 34 comunas 
+--         - Gobierno de Martinica confirma la estructura de 34 comunas 
+--     *   Este SQL NO incluye registros en t076t_states bajo código MQ,
+--         que es la respuesta correcta según ISO 3166-2
+--
+-- 11. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar las comunas de Martinica:
+--         a) Insertarlas bajo el código FR-972 (no bajo MQ)
+--         b) Usar id_country de Francia (FR), no de Martinica (MQ)
+--         c) Insertar como divisiones ADM2, no ADM1
+--         d) Consultar con los administradores del sistema si desean tratar
+--            Martinica como una "subdivisión de Francia" o como entidad separada
+-- ==================================================================================

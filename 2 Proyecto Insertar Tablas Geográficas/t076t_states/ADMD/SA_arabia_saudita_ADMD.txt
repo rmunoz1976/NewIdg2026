@@ -1,0 +1,3 @@
+﻿100258	Minţaqat al Muqāt‘ah ash Shamālīyah	Mintaqat al Muqat`ah ash Shamaliyah	Al Muqata`ah ash Shamaliyah,Al Muqāţa‘ah ash Shamālīyah,Mintaqat al Muqat`ah ash Shamaliyah,Minţaqat al Muqāt‘ah ash Shamālīyah	28	36.5	A	ADMD	SA		00				0		1104	Asia/Riyadh	2012-01-16
+107390	Minţaqat Bīshah	Mintaqat Bishah	Beisha,Bisha,Bisha Region,Mintaqat Bishah,Minţaqat Bīshah	20.5	43	A	ADMD	SA		11				0		1011	Asia/Riyadh	2020-06-10
+110248	Minţaqat ‘Afīf	Mintaqat `Afif	Afeef,Afef,Afif Region,Mintaqat `Afif,Minţaqat ‘Afīf	24	42.5	A	ADMD	SA		10				0		992	Asia/Riyadh	2020-06-10

@@ -1,0 +1,65 @@
+-- Insertar tipo de división geográfica ADM1 para ALBANIA: Condado
+INSERT INTO `t075t_division_types` (
+    `code`, `id_country`, `id_level_type`, `name_spanish`, `name_english`, 
+    `name_iso`, `name_original`, `name_transcribed`, `status`, 
+    `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES (
+    'condado_al', 3, 8, 'Condado', 'County', 
+    'Qark', 'Qark', 'Condado', 1, NOW(6), NOW(6), 1, 1
+);
+
+-- Insertar las divisiones ADM1 de ALBANIA (Condados)
+INSERT INTO `t076t_states` (
+    `geo_id`, `id_country`, `code`, `code_dane`, `code_dian`, `code_iso_numeric`, 
+    `code_iso_alpha2`, `code_iso_alpha3`, `phone_code`, `id_division_type`, 
+    `name_spanish`, `name_english`, `name_iso`, `name_original`, `name_transcribed`, 
+    `status`, `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES 
+(3183726, 3, 'AL-01', NULL, NULL, '0', 'AL-01', 'AL-01', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Berat', 'Berat', 'Berat', 'Berat', 
+    'Berat', 1, NOW(6), NOW(6), 1, 1),
+(3183728, 3, 'AL-09', NULL, NULL, '0', 'AL-09', 'AL-09', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Korçë', 'Korçë', 'Korçë', 'Korçë', 
+    'Korçë', 1, NOW(6), NOW(6), 1, 1),
+(3185736, 3, 'AL-02', NULL, NULL, '0', 'AL-02', 'AL-02', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Durrës', 'Durrës', 'Durrës', 'Durrës', 
+    'Durrës', 1, NOW(6), NOW(6), 1, 1),
+(3186070, 3, 'AL-05', NULL, NULL, '0', 'AL-05', 'AL-05', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Gjirokastër', 'Gjirokastër', 'Gjirokastër', 'Gjirokastër', 
+    'Gjirokastër', 1, NOW(6), NOW(6), 1, 1),
+(3186083, 3, 'AL-07', NULL, NULL, '0', 'AL-07', 'AL-07', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Kukës', 'Kukës', 'Kukës', 'Kukës', 
+    'Kukës', 1, NOW(6), NOW(6), 1, 1),
+(3186358, 3, 'AL-08', NULL, NULL, '0', 'AL-08', 'AL-08', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Lezhë', 'Lezhë', 'Lezhë', 'Lezhë', 
+    'Lezhë', 1, NOW(6), NOW(6), 1, 1),
+(3186629, 3, 'AL-03', NULL, NULL, '0', 'AL-03', 'AL-03', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Elbasan', 'Elbasan', 'Elbasan', 'Elbasan', 
+    'Elbasan', 1, NOW(6), NOW(6), 1, 1),
+(3187042, 3, 'AL-04', NULL, NULL, '0', 'AL-04', 'AL-04', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Fier', 'Fier', 'Fier', 'Fier', 
+    'Fier', 1, NOW(6), NOW(6), 1, 1),
+(3187220, 3, 'AL-06', NULL, NULL, '0', 'AL-06', 'AL-06', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Shkodër', 'Shkodër', 'Shkodër', 'Shkodër', 
+    'Shkodër', 1, NOW(6), NOW(6), 1, 1),
+(3187335, 3, 'AL-10', NULL, NULL, '0', 'AL-10', 'AL-10', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Tiranë', 'Tiranë', 'Tiranë', 'Tiranë', 
+    'Tiranë', 1, NOW(6), NOW(6), 1, 1),
+(3187394, 3, 'AL-11', NULL, NULL, '0', 'AL-11', 'AL-11', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Vlorë', 'Vlorë', 'Vlorë', 'Vlorë', 
+    'Vlorë', 1, NOW(6), NOW(6), 1, 1),
+(3187395, 3, 'AL-12', NULL, NULL, '0', 'AL-12', 'AL-12', '+355', 
+    (SELECT id FROM t075t_division_types WHERE code = 'condado_al' AND id_country = 3),
+    'Dibër', 'Dibër', 'Dibër', 'Dibër', 
+    'Dibër', 1, NOW(6), NOW(6), 1, 1);

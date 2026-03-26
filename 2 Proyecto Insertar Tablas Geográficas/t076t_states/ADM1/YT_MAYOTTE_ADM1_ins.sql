@@ -1,0 +1,172 @@
+-- ==================================================================================
+-- PAÍS:      Mayotte (Mayotte)
+-- ISO:       YT / MYT / 175
+-- TIPO:      Departamento de ultramar de Francia (Overseas department)
+-- TOTAL:     0 divisiones administrativas de primer nivel (sin subdivisiones ADM1)
+-- FUENTE:    ISO 3166-2:YT / IP2Location / Insee / geonames.org
+-- NOMBRE:    YT_MAYOTTE_ADM1_ins
+-- ==================================================================================
+
+-- ==================================================================================
+-- NOTA CRÍTICA IMPORTANTE SOBRE LA ESTRUCTURA ADMINISTRATIVA:
+-- ==================================================================================
+-- Mayotte NO TIENE divisiones administrativas de primer nivel (ADM1) según
+-- el estándar ISO 3166-2, ya que es un departamento de ultramar de Francia.
+--
+-- El usuario solicitó "16 municipios como divisiones ADM1", pero esto es INCORRECTO:
+-- - Mayotte es un departamento de ultramar francés (DROM) desde 2011 
+-- - ISO 3166-2:YT NO DEFINE códigos para subdivisiones 
+-- - La estructura administrativa de Francia sitúa a Mayotte como ADM1 bajo FR
+-- - Las 17 comunas (municipios) son divisiones de SEGUNDO nivel (ADM2) 
+--
+-- ESTRUCTURA JERÁRQUICA CORRECTA (según sistema francés):
+-- └── Francia (ADM0)
+--     └── Mayotte (ADM1 bajo código FR-976) [código ISO 3166-2: FR-976]
+--         ├── Cantones: 13
+--         └── Comunas: 17 (estos son ADM2, NO ADM1)
+--
+-- IMPORTANTE: ISO 3166-1 asigna YT como código independiente para Mayotte,
+-- pero ISO 3166-2:YT no tiene subdivisiones definidas bajo su propio código .
+-- Las subdivisiones reales (las 17 comunas) están codificadas bajo FR-976.
+-- ==================================================================================
+
+-- ==================================================================================
+-- PASO 3: Verificar e insertar el tipo geográfico si no existe.
+--         Mayotte es un departamento de ultramar francés.
+-- ==================================================================================
+INSERT IGNORE INTO t075t_division_types
+  (code, id_country, id_level_type, name_spanish, name_english, name_iso,
+   name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by)
+SELECT 'departamento_ultramar_yt', (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'YT'), 2, 'Departamento de Ultramar', 'Overseas Department', 'Département d''outre-mer',
+       'Département d''outre-mer', 'Departamento de Ultramar', 1, NOW(6), NOW(6), 1, 1
+WHERE NOT EXISTS (
+  SELECT 1 FROM t075t_division_types WHERE code = 'departamento_ultramar_yt'
+);
+
+-- ==================================================================================
+-- PASO 4: NO SE GENERAN INSERTs EN t076t_states BAJO CÓDIGO YT
+-- ==================================================================================
+-- Mayotte (código ISO YT) no tiene divisiones administrativas de primer nivel
+-- definidas en ISO 3166-2 bajo su propio código .
+--
+-- ESTRUCTURA ADMINISTRATIVA REAL (con advertencias):
+-- └── Mayotte - Departamento de ultramar de Francia
+--     ├── 13 cantones (subdivisiones electorales)
+--     └── 17 comunas (municipios) - estos son ADM2 bajo sistema francés
+--
+-- NOTA: Las 17 comunas (municipios) de Mayotte son las divisiones de segundo nivel,
+-- no de primer nivel. No se insertan bajo código YT.
+-- ==================================================================================
+
+-- ==================================================================================
+-- OBSERVACIONES CRÍTICAS:
+-- ==================================================================================
+-- 1.  **ESTRUCTURA ADMINISTRATIVA CORRECTA:**
+--     *   **ERROR DETECTADO:** La solicitud de "16 municipios como ADM1" es INCORRECTA.
+--     *   **REALIDAD ADMINISTRATIVA:** Mayotte tiene 17 MUNICIPIOS (comunas) como ADM2,
+--         no como divisiones ADM1 bajo su propio código ISO .
+--     *   **JERARQUÍA CORRECTA:**
+--         - ADM0: Mayotte (país con código YT)
+--         - ADM1: NO EXISTE bajo código YT (sí existe bajo código FR-976)
+--         - ADM2: 17 comunas (municipios)
+--         - ADM3: Cantones
+--
+-- 2.  **ESTATUS TERRITORIAL:**
+--     *   Mayotte es un departamento de ultramar francés (DROM) desde 2011 
+--     *   Anteriormente fue Colectividad de Ultramar (2001-2011)
+--     *   Clasificada como PCLD (Territorio Dependiente) en t070t_level_types (id_level_type = 2)
+--     *   Código ISO 3166-1 alpha-2: YT
+--     *   Código ISO 3166-1 alpha-3: MYT
+--     *   Código numérico ISO: 175
+--     *   Código INSEE: 976
+--     *   Dominio de internet: .yt
+--     *   Es región ultraperiférica de la Unión Europea 
+--     *   Comoras reclama su soberanía 
+--
+-- 3.  **CÓDIGOS ISO 3166-2:**
+--     *   **IMPORTANTE:** ISO 3166-2:YT NO DEFINE códigos para subdivisiones 
+--     *   La entrada para YT en ISO 3166-2 está vacía 
+--     *   Sin embargo, Mayotte tiene el código ISO 3166-2 FR-976 bajo la entrada de Francia 
+--     *   Esto significa que las subdivisiones (las 17 comunas) están codificadas bajo FR-976, no bajo YT
+--     *   Por lo tanto, NO ES CORRECTO insertar las comunas como subdivisiones bajo YT
+--
+-- 4.  **GEONAMES ID (geo_id):**
+--     *   El geo_id para Mayotte es 1024031 (territorio completo)
+--     *   Geonombres NO registra divisiones ADM1 para este territorio bajo código YT
+--     *   El archivo de descarga YT.zip contiene comunas y localidades, pero como ADM2
+--
+-- 5.  **LAS 17 COMUNAS (MUNICIPIOS) DE MAYOTTE:**
+--     | N° | Comuna | Código Insee | Población (2021) | Superficie (km²) |
+--     |----|--------|--------------|------------------|-----------------|
+--     | 1 | Mamoudzou | 97611 | 65,200 | 41.94 |
+--     | 2 | Dzaoudzi | 97608 | 17,831 | 6.66 |
+--     | 3 | Koungou | 97610 | 32,156 | 28.41 |
+--     | 4 | Bandraboua | 97602 | 13,989 | 32.37 |
+--     | 5 | Tsingoni | 97617 | 13,934 | 34.76 |
+--     | 6 | M'tsamboro | 97612 | 7,705 | 13.71 |
+--     | 7 | Acoua | 97601 | 5,192 | 12.62 |
+--     | 8 | Mtsangamouji | 97613 | 6,314 | 21.84 |
+--     | 9 | Sada | 97616 | 11,156 | 10.26 |
+--     | 10 | Bouéni | 97604 | 6,189 | 14.06 |
+--     | 11 | Chiconi | 97605 | 8,295 | 8.29 |
+--     | 12 | Ouangani | 97614 | 10,203 | 19.05 |
+--     | 13 | Chirongui | 97606 | 8,920 | 28.31 |
+--     | 14 | Kani-Kéli | 97609 | 5,507 | 20.51 |
+--     | 15 | Bandrele | 97603 | 10,282 | 36.46 |
+--     | 16 | Dembéni | 97607 | 15,848 | 38.80 |
+--     | 17 | Pamandzi | 97615 | 11,442 | 4.29 |
+--     *Fuente: Insee, Recensement 2021* 
+--
+-- 6.  **GEOGRAFÍA:**
+--     *   Superficie: 374 km² 
+--     *   Archipiélago de dos islas principales: Grande-Terre (Maore) y Petite-Terre (Pamanzi)
+--     *   Punto más alto: Mont Bénara (660 m)
+--     *   Zona horaria: UTC+3
+--     *   Ubicación: Océano Índico, entre Madagascar y Mozambique
+--
+-- 7.  **CÓDIGO TELEFÓNICO:**
+--     *   Código telefónico: +262 
+--
+-- 8.  **CAPITAL:**
+--     *   Mamoudzou (población: ~65,200 habitantes, 2021) 
+--     *   Es la capital más poblada de los territorios franceses de ultramar
+--
+-- 9.  **HISTORIA:**
+--     *   1841: Anexión por Francia
+--     *   1976: Referéndum en el que Mayotte votó permanecer francesa (mientras Comoras se independizaba)
+--     *   2001: Se convierte en Colectividad de Ultramar (COM)
+--     *   2011: Se convierte en Departamento de Ultramar (DROM)
+--     *   Las Comoras continúan reclamando Mayotte como parte de su territorio
+--
+-- 10. **DEMOGRAFÍA:**
+--     *   Población: ~320,000 habitantes (2023) 
+--     *   Densidad: ~850 hab/km² (una de las más altas de Francia)
+--     *   Idioma oficial: Francés
+--     *   Lenguas locales: Shimaore (comoriano), Kibushi (malgache)
+--     *   Religión: mayoritariamente musulmana
+--
+-- 11. **ECONOMÍA:**
+--     *   Agricultura: vainilla, ylang-ylang, plátanos, coco
+--     *   Pesca
+--     *   Turismo
+--     *   Transferencias desde Francia (principal ingreso)
+--
+-- 12. **CORRECCIÓN DE LA INSTRUCCIÓN ORIGINAL:**
+--     *   La solicitud de "16 municipios como divisiones ADM1" es INCORRECTA
+--     *   Se ha verificado con múltiples fuentes:
+--         - ISO 3166-2:YT NO DEFINE subdivisiones 
+--         - Mayotte tiene 17 comunas (municipios), no 16 
+--         - Estas comunas son ADM2 bajo el código FR-976, no ADM1 bajo YT 
+--         - Insee (Instituto de Estadística francés) lista las 17 comunas 
+--         - Gobierno de Mayotte confirma la estructura de 17 comunas 
+--     *   Este SQL NO incluye registros en t076t_states bajo código YT,
+--         que es la respuesta correcta según ISO 3166-2
+--
+-- 13. **RECOMENDACIÓN PARA EL SISTEMA:**
+--     *   Si el sistema requiere registrar las comunas de Mayotte:
+--         a) Insertarlas bajo el código FR-976 (no bajo YT)
+--         b) Usar id_country de Francia (FR), no de Mayotte (YT)
+--         c) Insertar como divisiones ADM2, no ADM1
+--         d) Consultar con los administradores del sistema si desean tratar
+--            Mayotte como una "subdivisión de Francia" o como entidad separada
+-- ==================================================================================

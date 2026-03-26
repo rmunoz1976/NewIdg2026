@@ -1,0 +1,113 @@
+﻿1821393	Srŏk Virôchey	Srok Virochey	Srok Virachey,Srok Virochey,Srok de Voeunsai,Srŏk Virôchey,Veunsai	14.16667	107	A	ADMD	KH		23				0		421	Asia/Phnom_Penh	2012-01-18
+1821444	Srŏk Varĭn	Srok Varin		13.75	103.91667	A	ADMD	KH		24				0		150	Asia/Phnom_Penh	2009-05-12
+1821506	Srŏk Treăng	Srok Treang	Srok Treang,Srok de Trang,Srŏk Treăng	10.83333	104.75	A	ADMD	KH		19				0		8	Asia/Phnom_Penh	2012-01-18
+1821554	Srŏk Trăm Kák	Srok Tram Kak		11	104.58333	A	ADMD	KH		19				0		34	Asia/Phnom_Penh	1993-12-30
+1821590	Khêt Tônlé Sab	Khet Tonle Sab	Brigade des Lacs,Khet Tonle Sab,Khet Tonle Sap,Khêt Tônlé Sab,Province des Lacs	13	104	A	ADMD	KH		00				0		4	Asia/Phnom_Penh	2020-06-10
+1821618	Srŏk Tœ̆k Phŏs	Srok Toek Phos	Srok Toek Phos,Srok Tuk Phos,Srŏk Tœ̆k Phŏs	12.08333	104.33333	A	ADMD	KH		03				0		111	Asia/Phnom_Penh	2012-01-18
+1821719	Srŏk Thpông	Srok Thpong		11.9	104.36667	A	ADMD	KH		04				0		99	Asia/Phnom_Penh	1993-12-30
+1821747	Srŏk Thmâ Kŏng	Srok Thma Kong	Srok Thma Kong,Srŏk Thmâ Kŏng,Thmar Kong	10.83333	103.83333	A	ADMD	KH		28				0		9	Asia/Phnom_Penh	2020-06-10
+1821748	Srŏk Thmâ Kêv	Srok Thma Kev	Srok Thma Kev,Srŏk Thmâ Kêv,Thmar Keo	12.11667	103.93333	A	ADMD	KH		12				0		119	Asia/Phnom_Penh	2020-06-10
+1821756	Srŏk Thmâ Bang	Srok Thma Bang	Srok Thma Bang,Srok Thmar Bang,Srŏk Thmâ Bang	11.81667	103.41667	A	ADMD	KH		08				0		571	Asia/Phnom_Penh	2012-01-18
+1821776	Srŏk Thalabârĭvăt	Srok Thalabarivat	Srok Thalabarivat,Srok Thalabarivath,Srok Theareabarivoat,Srŏk Thalabârivath,Srŏk Thalabârĭvăt,Thalaborivath	13.58333	105.75	A	ADMD	KH		17				0		104	Asia/Phnom_Penh	2012-01-18
+1821876	Srŏk Tăng Koŭk	Srok Tang Kouk	Srok Tang Kouk,Srŏk Tăng Koŭk,Taing Kauk	12.3	105	A	ADMD	KH		05				0		10	Asia/Phnom_Penh	2020-06-10
+1821941	Srŏk Ta Kên	Srok Ta Ken		10.96667	104.23333	A	ADMD	KH		21				0		44	Asia/Phnom_Penh	2009-05-12
+1821958	Srŏk Tadák Pông	Srok Tadak Pong		11.55	103.61667	A	ADMD	KH		08				0		496	Asia/Phnom_Penh	1993-12-30
+1821984	Srŏk Svay Téab	Srok Svay Teab	Srok Svay Teab,Srok Svay Teap,Srŏk Svay Téab	11	106.08333	A	ADMD	KH		18				0		6	Asia/Phnom_Penh	2012-01-18
+1821991	Srŏk Svay Riĕng	Srok Svay Rieng	Srok Svay Rieng,Srŏk Svay Riĕng,Svairieng	11.16667	105.66667	A	ADMD	KH		18				0		7	Asia/Phnom_Penh	2012-01-18
+1822027	Srŏk Stœ̆ng Trêng	Srok Stoeng Treng	Srok Stoeng Treng,Srok Stung Treng,Srŏk Stœ̆ng Trêng	13.58333	106.25	A	ADMD	KH		17				0		91	Asia/Phnom_Penh	2012-01-18
+1822030	Srŏk Stœ̆ng Tráng	Srok Stoeng Trang	Srok Stoeng Trang,Srok Stung Trang,Srŏk Stœ̆ng Tráng	12.33333	105.58333	A	ADMD	KH		02				111987		129	Asia/Phnom_Penh	2012-01-18
+1822079	Srŏk Srê Krâsăng	Srok Sre Krasang		11.13333	104.2	A	ADMD	KH		21				0		105	Asia/Phnom_Penh	1993-12-30
+1822088	Srŏk Srei Snam	Srok Srei Snam		13.83333	103.58333	A	ADMD	KH		24				0		30	Asia/Phnom_Penh	2009-05-12
+1822089	Srŏk Srei Sânthôr	Srok Srei Santhor	Srok Srei Santhor,Srok Srey Santhor,Srŏk Srei Sânthôr	11.83333	105.16667	A	ADMD	KH		02				0		7	Asia/Phnom_Penh	2012-01-18
+1822101	Srŏk Srê Âmbĕl	Srok Sre Ambel		10.98333	103.7	A	ADMD	KH		08				0		15	Asia/Phnom_Penh	1993-12-30
+1822146	Srŏk Sotr Nĭkôm	Srok Sotr Nikom	Sauthnikom,Southnikum,Srok Saut Nikom,Srok Sot Nikum,Srok Sothnikum,Srok Sothnikŭm,Srok Sotr Nikom,Srŏk Sotr Nĭkôm	13.33333	104	A	ADMD	KH		24				0		21	Asia/Phnom_Penh	2012-01-18
+1822156	Srŏk Snuŏl	Srok Snuol		12.16667	106.58333	A	ADMD	KH		09				0		106	Asia/Phnom_Penh	1993-12-30
+1822204	Srŏk Sithôr Kândal	Srok Sithor Kandal		11.75	105.33333	A	ADMD	KH		14				0		14	Asia/Phnom_Penh	1993-12-30
+1822206	Srŏk Sisŏphŏn	Srok Sisophon	Sisophom,Srok Sisophon,Srŏk Sisŏphŏn	13.75	102.75	A	ADMD	KH		25				0		40	Asia/Phnom_Penh	2012-01-18
+1822212	Srŏk Siĕmréab	Srok Siemreab	Srok Siem Reap,Srok Siemreab,Srŏk Siĕmréab	13.33333	103.83333	A	ADMD	KH		24				0		13	Asia/Phnom_Penh	2012-01-18
+1822215	Srŏk Siĕmpang	Srok Siempang	Serei Toat,Srok Serei-Taeut,Srok Siempang,Srŏk Siĕmpang	14.25	106.33333	A	ADMD	KH		17				0		82	Asia/Phnom_Penh	2012-01-18
+1822218	Srŏk Siĕmbok	Srok Siembok	Srok Siem Boak,Srok Siembaok,Srok Siembauk,Srok Siembok,Srŏk Siĕmbok	13.25	105.75	A	ADMD	KH		17				0		116	Asia/Phnom_Penh	2012-01-18
+1822226	Srŏk Sên Sâm	Srok Sen Sam		14	104.25	A	ADMD	KH		24				0		123	Asia/Phnom_Penh	2009-05-12
+1822266	Srŏk Sântŭk	Srok Santuk	Santuc,Srok Santuk,Srŏk Sântŭk	12.66667	105.5	A	ADMD	KH		05				0		113	Asia/Phnom_Penh	2012-01-18
+1822286	Srŏk Sângkê	Srok Sangke	Srok Sangke,Srok Sangker,Srŏk Sângkê	13.16667	103.5	A	ADMD	KH		29				0		7	Asia/Phnom_Penh	2012-01-18
+1822294	Srŏk S’ang	Srok S'ang	Srok S'ang,Srok Saang,Srŏk S’ang	11.33333	105.08333	A	ADMD	KH		07				0		7	Asia/Phnom_Penh	2012-01-18
+1822301	Srŏk Sândăn	Srok Sandan		13.08333	105.28333	A	ADMD	KH		05				0		32	Asia/Phnom_Penh	1993-12-30
+1822315	Srŏk Sâmraông Tông	Srok Samraong Tong	Srok Samraong Tong,Srok Samrong Tong,Srŏk Sâmraông Tông	11.5	104.5	A	ADMD	KH		04				0		40	Asia/Phnom_Penh	2012-01-18
+1822359	Srŏk Sâmbor	Srok Sambor	Srok Sambau,Srok Sambaur,Srok Sambor,Srŏk Sâmbor	13	105.91667	A	ADMD	KH		09				0		64	Asia/Phnom_Penh	2012-01-18
+1822392	Srok Rung Kiri	Srok Rung Kiri		11.31667	103.3	A	ADMD	KH		08				0		44	Asia/Phnom_Penh	1993-12-30
+1822408	Srŏk Rumduŏl	Srok Rumduol	Srok Romduol,Srok Rumduol,Srŏk Rumduŏl	11.16667	105.83333	A	ADMD	KH		18				0		6	Asia/Phnom_Penh	2012-01-18
+1822471	Srŏk Rôméas Hêk	Srok Romeas Hek		11.41667	105.75	A	ADMD	KH		18				0		6	Asia/Phnom_Penh	1993-12-30
+1822488	Srŏk Rôléa P’iĕr	Srok Rolea P'ier	Srok Rolea P'ier,Srok Rolea Pa-ir,Srok Rolea Paier,Srok Rolea-Peir,Srŏk Rôléa P’iĕr	12.25	104.58333	A	ADMD	KH		03				0		28	Asia/Phnom_Penh	2012-01-18
+1822489	Srŏk Rôleăk Kâng Cheung	Srok Roleak Kang Cheung	Roleak Kangchoeung,Srok Roleak Kang Cheung,Srŏk Rôleăk Kâng Cheung	11.61667	104.06667	A	ADMD	KH		04				0		204	Asia/Phnom_Penh	2020-06-10
+1822607	Srŏk Prey Vêng	Srok Prey Veng		11.5	105.41667	A	ADMD	KH		14				0		8	Asia/Phnom_Penh	1993-12-30
+1822619	Srŏk Prey Nób	Srok Prey Nob	Prey Nor,Srok Prey Nob,Srok Prey Nop,Srok Prey Nup,Srŏk Prey Nób	10.58333	103.75	A	ADMD	KH		28				0		2	Asia/Phnom_Penh	2012-01-18
+1822628	Srŏk Prey Kdei	Srok Prey Kdei	Prey Kdey,Srok Prey Kdei,Srŏk Prey Kdei	12.91667	105.16667	A	ADMD	KH		05				0		21	Asia/Phnom_Penh	2020-06-10
+1822629	Srŏk Prey Kâbbas	Srok Prey Kabbas	Srok Prey Kabas,Srok Prey Kabbas,Srok Prey Kapbas,Srok Prey Krabas,Srŏk Prey Kâbbas,Srŏk Prey Kâpbas	11.08333	104.91667	A	ADMD	KH		19				0		8	Asia/Phnom_Penh	2012-01-18
+1822631	Srŏk Prey Chhôr	Srok Prey Chhor		12.08333	105.16667	A	ADMD	KH		02				0		18	Asia/Phnom_Penh	1993-12-30
+1822645	Srŏk Prêk Ta Meăk	Srok Prek Ta Meak	Srok Ksach Kandal,Srok Prek Ta Meak,Srok de Khsach Kandal,Srŏk Prêk Ta Meăk	11.66667	105.08333	A	ADMD	KH		07				0		17	Asia/Phnom_Penh	2020-06-10
+1822650	Srŏk Prêk Prâsáb	Srok Prek Prasab	Srok Prek Prasab,Srok Prek Prasap,Srŏk Prêk Prâsáb	12.33333	105.83333	A	ADMD	KH		09				0		28	Asia/Phnom_Penh	2012-01-18
+1822681	Srŏk Preăh Nétr Preăh	Srok Preah Netr Preah	Praneth Preas,Srok Pranet Preah,Srok Preah Netr Preah,Srok Preahnet Preah,Srŏk Preăh Nétr Preăh	13.61667	103.25	A	ADMD	KH		25				0		12	Asia/Phnom_Penh	2012-01-18
+1822714	Srŏk Prasat Rôviĕng	Srok Prasat Rovieng	Prasath Rovieng,Srok Prasat Rovieng,Srŏk Prasat Rôviĕng	14.16667	104	A	ADMD	KH		27				0		64	Asia/Phnom_Penh	2020-06-10
+1822797	Srŏk Pônhéa Lœ	Srok Ponhea Loe	Srok Ponhea Loe,Srok Ponhea Lu,Srŏk Pônhéa Lœ	11.75	104.75	A	ADMD	KH		07				0		19	Asia/Phnom_Penh	2012-01-18
+1830099	Srŏk Phnum Sruŏch	Srok Phnum Sruoch	Srok Phnom Sruoch,Srok Phnum Sruoch,Srŏk Phnum Sruŏch	11.41667	104.16667	A	ADMD	KH		04				0		68	Asia/Phnom_Penh	2012-01-18
+1830100	Srŏk Phnum Srŏk	Srok Phnum Srok	Srok Phnom Srok,Srok Phnum Srok,Srŏk Phnum Srŏk	13.78333	103.16667	A	ADMD	KH		25				0		24	Asia/Phnom_Penh	2012-01-18
+1830102	Srŏk Phnum Pénh	Srok Phnum Penh	Srok Ang Snuol,Srok Phnom-Penh,Srok Phnum Penh,Srŏk Phnum Pénh	11.58333	104.75	A	ADMD	KH		07				0		14	Asia/Phnom_Penh	2012-01-18
+1830104	Srŏk Phnum Krâvanh	Srok Phnum Kravanh	Srok Phnom Kravanh,Srok Phnum Kravanh,Srŏk Phnum Krâvanh	12.08333	103.66667	A	ADMD	KH		12				0		119	Asia/Phnom_Penh	2012-01-18
+1830159	Srŏk Péareăng	Srok Peareang		11.66667	105.25	A	ADMD	KH		14				0		9	Asia/Phnom_Penh	1993-12-30
+1830164	Srŏk Péam Rô	Srok Peam Ro		11.36667	105.3	A	ADMD	KH		14				0		3	Asia/Phnom_Penh	1993-12-30
+1830174	Srŏk Péam Chôr	Srok Peam Chor	Srok Peam Chor,Srok de Ream Chor,Srŏk Péam Chôr	10.91667	105.25	A	ADMD	KH		14				0		5	Asia/Phnom_Penh	2012-01-18
+1830188	Srŏk Pav	Srok Pav	Paav,Srok Pav,Srŏk Pav	14.1	104.21667	A	ADMD	KH		27				0		134	Asia/Phnom_Penh	2020-06-10
+1830220	Srŏk O Rang	Srok O Rang	Srok O Raing,Srok O Rang,Srŏk O Rang	12.25	107	A	ADMD	KH		10				0		338	Asia/Phnom_Penh	2012-01-18
+1830232	Srŏk O Chrŏu	Srok O Chrou	Srok Au Chreou,Srok Auchrou,Srok O Chreou,Srok O Chrou,Srŏk Au Chreou,Srŏk O Chrŏu	13.5	102.66667	A	ADMD	KH		25				0		39	Asia/Phnom_Penh	2012-01-18
+1830289	Srŏk Mŭkh Kâmpul	Srok Mukh Kampul	Mouk-Kompoul,Srok Muk Kompoul,Srok Muk Kompul,Srok Mukh Kampul,Srŏk Mŭkh Kâmpul	11.75	104.93333	A	ADMD	KH		07				0		10	Asia/Phnom_Penh	2012-01-18
+1830297	Srŏk Moŭng Rœssei	Srok Moung Roessei	Maung,Srok Maung Russei,Srok Mong Russei,Srok Moung Roessei,Srok Moung Russei,Srŏk Moŭng Rœssei,Srŏk Moŭng Rŭssei	12.75	103.41667	A	ADMD	KH		29				0		20	Asia/Phnom_Penh	2012-01-18
+1830305	Srŏk Môngkól Borei	Srok Mongkol Borei	Mongkolborey,Srok Mongkol Baurei,Srok Mongkol Borei,Srŏk Môngkól Borei	13.46667	103.16667	A	ADMD	KH		25				0		11	Asia/Phnom_Penh	2012-01-18
+1830367	Srŏk Lvéa Êm	Srok Lvea Em	Srok Lovea Em,Srok Lvea Em,Srŏk Lvéa Êm,district de Lovea Em	11.53333	105.16667	A	ADMD	KH		00				0		7	Asia/Phnom_Penh	2012-01-18
+1830376	Srŏk Lumphăt	Srok Lumphat	Srok Lomphat,Srok Lumphat,Srŏk Lumphăt	13.41667	107	A	ADMD	KH		23				0		109	Asia/Phnom_Penh	2012-01-18
+1830403	Srŏk Leuk Dêk	Srok Leuk Dek	Srok Leuk Dek,Srok Loeuk Dek,Srŏk Leuk Dêk	11.16667	105.16667	A	ADMD	KH		07				0		4	Asia/Phnom_Penh	2012-01-18
+1830552	Srŏk Krâlănh	Srok Kralanh	Srok Kralanh,Srŏk Krâlănh	13.58333	103.5	A	ADMD	KH		24				0		14	Asia/Phnom_Penh	2012-02-02
+1830556	Srŏk Krâkôr	Srok Krakor		12.5	104.16667	A	ADMD	KH		12				0		26	Asia/Phnom_Penh	1993-12-30
+1830562	Srŏk Krâchéh	Srok Kracheh	Srok Kracheh,Srok Kratie,Srŏk Krâchéh	12.66667	106.16667	A	ADMD	KH		09				0		46	Asia/Phnom_Penh	2012-01-18
+1830670	Srŏk Kirivôngs	Srok Kirivongs	Srok Kirivong,Srok Kirivongs,Srok Kirivung,Srŏk Kirivôngs,Srŏk Kirivŭng	10.58333	104.75	A	ADMD	KH		19				0		4	Asia/Phnom_Penh	2012-01-18
+1830672	Srŏk Kiri Sakôr	Srok Kiri Sakor		11	103.16667	A	ADMD	KH		08				0		66	Asia/Phnom_Penh	1993-12-30
+1830674	Srŏk Kiriroăt	Srok Kiriroat		12.65	102.66667	A	ADMD	KH		29				0		189	Asia/Phnom_Penh	2009-05-11
+1830676	Srŏk Kiĕn Svay	Srok Kien Svay		11.33333	105.16667	A	ADMD	KH		07				0		5	Asia/Phnom_Penh	2009-05-14
+1831010	Srŏk Kaôh Thum	Srok Kaoh Thum	Kas-Thom,Kâs-Thom,Srok Kaoh Thom,Srok Kaoh Thum,Srok Koh Thom,Srŏk Kaôh Thom,Srŏk Kaôh Thum	11.08333	105.1	A	ADMD	KH		07				0		4	Asia/Phnom_Penh	2012-01-18
+1831014	Srŏk Kaôh Sotĭn	Srok Kaoh Sotin	Kassutin,Kâssutin,Srok Kaoh Sotin,Srok Koh Sautin,Srŏk Kaôh Sotĭn	11.86667	105.43333	A	ADMD	KH		02				0		10	Asia/Phnom_Penh	2012-01-18
+1831028	Srŏk Kaôh Nhêk	Srok Kaoh Nhek	Srok Kaoh Nhek,Srok Koh Nhek,Srŏk Kaôh Nhêk	13	107	A	ADMD	KH		10				0		157	Asia/Phnom_Penh	2012-01-18
+1831069	Srŏk Kânhchriĕch	Srok Kanhchriech	Srok Kanchreach,Srok Kanchriech,Srok Kanhchriech,Srŏk Kânchréach,Srŏk Kânhchriĕch	11.7	105.53333	A	ADMD	KH		14				0		12	Asia/Phnom_Penh	2012-01-18
+1831076	Srŏk Kâng Méas	Srok Kang Meas		11.91667	105.08333	A	ADMD	KH		02				0		8	Asia/Phnom_Penh	1993-12-30
+1831110	Srŏk Kâmpôt	Srok Kampot		10.66667	104.16667	A	ADMD	KH		21				0		4	Asia/Phnom_Penh	2009-05-12
+1831114	Srŏk Kâmpóng Trâlach	Srok Kampong Tralach	Srok Kampong Tralach,Srok Kompong Tralach,Srŏk Kâmpóng Trâlach	11.83333	104.58333	A	ADMD	KH		03				0		47	Asia/Phnom_Penh	2012-01-18
+1831116	Srŏk Kâmpóng Trach	Srok Kampong Trach	Srok Kampong Trach,Srok Kompong Trach,Srŏk Kâmpóng Trach	10.58333	104.58333	A	ADMD	KH		21				0		4	Asia/Phnom_Penh	2012-01-18
+1831119	Srŏk Kâmpóng Trâbêk	Srok Kampong Trabek	Srok Kampong Trabek,Srok Kompong Trabek,Srŏk Kâmpóng Trâbêk	11.08333	105.5	A	ADMD	KH		14				0		6	Asia/Phnom_Penh	2012-01-18
+1831136	Srŏk Kâmpóng Siĕm	Srok Kampong Siem	Srok Kampong Siem,Srok Kompong Siem,Srŏk Kâmpóng Siĕm	12.08333	105.41667	A	ADMD	KH		02				0		31	Asia/Phnom_Penh	2012-01-18
+1831138	Sihanoukville	Sihanoukville	Kampong Saom,Kâmpóng Saôm,Sihanoukville,Srok Kampong Saom,Srok Kompong Som,Srŏk Kâmpóng Saôm	11.16667	103.83333	A	ADMD	KH		08				0		7	Asia/Phnom_Penh	2012-01-18
+1831144	Srŏk Kâmpóng Sala	Srok Kampong Sala	Kampong Seila,Srok Kampong Sala,Srŏk Kâmpóng Sala	11.01667	103.93333	A	ADMD	KH		08				0		16	Asia/Phnom_Penh	2012-01-18
+1831145	Srŏk Kâmpóng Roŭ	Srok Kampong Rou	Srok Kampong Ro,Srok Kampong Rou,Srok Kompong Rau,Srok Kâmpóng Ro,Srŏk Kâmpóng Roŭ	10.91667	105.91667	A	ADMD	KH		18				0		7	Asia/Phnom_Penh	2012-01-18
+1831152	Srŏk Kâmpóng Lêng	Srok Kampong Leng	Srok Kampong Leng,Srok Kompong Leng,Srŏk Kâmpóng Lêng	12.41667	104.75	A	ADMD	KH		03				0		21	Asia/Phnom_Penh	2012-01-18
+1831193	Srŏk Kâmchay Méa	Srok Kamchay Mea	Srok Kamchay Mea,Srok Komchai Mea,Srŏk Kâmchay Méa	11.55	105.6	A	ADMD	KH		14				0		11	Asia/Phnom_Penh	2012-01-18
+1831365	Srŏk Dâmnăk Khlŏng	Srok Damnak Khlong		11	104.4	A	ADMD	KH		21				0		90	Asia/Phnom_Penh	2009-05-12
+1831475	Srŏk Chréav Aôral	Srok Chreav Aoral	Chreav Aural,Srok Chreav Aoral,Srŏk Chréav Aôral	11.85	104.16667	A	ADMD	KH		04				0		144	Asia/Phnom_Penh	2012-01-18
+1831514	Srŏk Chŏng Kal	Srok Chong Kal	Srok Chong Kal,Srok Samraong Chong,Srŏk Chŏng Kal,Srŏk Sâmraông Chŏng	14.16667	103.58333	A	ADMD	KH		27				0		54	Asia/Phnom_Penh	2012-01-18
+1831530	Srŏk Chŏâm Khsant	Srok Choam Khsant	Chheam Ksan,Srok Cheam Khsan,Srok Cheom Khsan,Srok Choam Khsan,Srok Choam Khsant,Srŏk Chŏâm Khsant	14.16667	104.91667	A	ADMD	KH		13				0		74	Asia/Phnom_Penh	2012-01-18
+1831553	Srŏk Chikrêng	Srok Chikreng		13.25	104.41667	A	ADMD	KH		24				0		34	Asia/Phnom_Penh	2009-05-12
+1831564	Srŏk Chhuk	Srok Chhuk	Srok Chhouk,Srok Chhuk,Srŏk Chhuk,district de Chhouk	10.83333	104.4	A	ADMD	KH		21				0		42	Asia/Phnom_Penh	2012-01-18
+1831577	Srŏk Chhlong	Srok Chhlong	Srok Chhlaung,Srok Chhlong,Srŏk Chhlong	12.25	106.16667	A	ADMD	KH		09				0		107	Asia/Phnom_Penh	2012-01-18
+1831615	Srŏk Cheung Prey	Srok Cheung Prey	Srok Cheung Prey,Srok Choeung,Srok Choeung Prey,Srŏk Cheung Prey	12.08333	105	A	ADMD	KH		02				0		20	Asia/Phnom_Penh	2012-01-18
+1831635	Srŏk Chbar	Srok Chbar		12.66667	107	A	ADMD	KH		10				0		236	Asia/Phnom_Penh	1993-12-30
+1831652	Srŏk Chântréa	Srok Chantrea		10.91667	106.08333	A	ADMD	KH		18				0		2	Asia/Phnom_Penh	1993-12-30
+1831655	Srŏk Chan Méanchey	Srok Chan Meanchey		12.7	103	A	ADMD	KH		29				0		89	Asia/Phnom_Penh	2009-05-11
+1831697	Srŏk Châmkar Leu	Srok Chamkar Leu	Chamoa Leu,Srok Chamca Leu,Srok Chamcar Leu,Srok Chamcar Loeu,Srok Chamkar Leu,Srŏk Chamcar Lœu,Srŏk Châmkar Leu	12.25	105.25	A	ADMD	KH		02				0		83	Asia/Phnom_Penh	2012-01-18
+1831738	Bok Koŭ	Bok Kou	Bok Kou,Bok Koŭ,City of Bokor,Municipality of Bokor,Rural Center of Bokor	10.61667	104.05	A	ADMD	KH		21				0		759	Asia/Phnom_Penh	2020-06-10
+1831751	Srŏk Bœ̆ng Méaléa	Srok Boeng Mealea	Beng Mealea,Srok Boeng Mealea,Srŏk Bœ̆ng Méaléa	13.66667	104.25	A	ADMD	KH		24				0		89	Asia/Phnom_Penh	2021-10-06
+1831792	Srŏk Bati	Srok Bati		11.26667	104.83333	A	ADMD	KH		19				0		9	Asia/Phnom_Penh	1993-12-30
+1831805	Srŏk Bârĭbon	Srok Baribon	Srok Babaur,Srok Barebau,Srok Baribau,Srok Baribo,Srok Baribon,Srŏk Bâribo,Srŏk Bârĭbon	12.41667	104.5	A	ADMD	KH		03				0		15	Asia/Phnom_Penh	2012-01-18
+1831806	Srŏk Barayn	Srok Barayn	Barai,Srok Baray,Srok Barayn,Srŏk Barayn	12.33333	105	A	ADMD	KH		05				0		12	Asia/Phnom_Penh	2012-01-18
+1831814	Srŏk Ba Phnum	Srok Ba Phnum	Srok Ba Phnom,Srok Ba Phnum,Srŏk Ba Phnum	11.33333	105.5	A	ADMD	KH		14				0		11	Asia/Phnom_Penh	2012-01-18
+1831818	Srŏk Bântéay Srei Preăh Thum	Srok Banteay Srei Preah Thum	Banteay Preah Thom,Srok Banteay Srei Preah Thum,Srok Banteay Srey Preahthom,Srŏk Bântéay Srei Preăh Thum	13.58333	103.83333	A	ADMD	KH		24				0		41	Asia/Phnom_Penh	2012-01-18
+1831822	Srŏk Bântéay Méas	Srok Banteay Meas	Srok Banteay Meas,Srŏk Bântéay Méas,district de Banteay Meas	10.66667	104.5	A	ADMD	KH		21				0		8	Asia/Phnom_Penh	2012-01-18
+1831859	Srŏk Bakan	Srok Bakan		12.58333	103.75	A	ADMD	KH		12				0		17	Asia/Phnom_Penh	1993-12-30
+1831950	Srŏk Ângkôr Chŭm	Srok Angkor Chum		14.16667	104.33333	A	ADMD	KH		27				0		126	Asia/Phnom_Penh	2009-05-12
+1831951	Srŏk Ângkôr Chey	Srok Angkor Chey	Srok Angkor Chey,Srŏk Ângkôr Chey,district d' Angkor Chey,district d’ Angkor Chey	10.83333	104.58333	A	ADMD	KH		21				0		22	Asia/Phnom_Penh	2012-01-18
+1831967	Srŏk Ândong Péch	Srok Andong Pech	Andong Peich,Srok Andaung Pech,Srok Andaung-Pich,Srok Andong Pech,Srok Andong Pich,Srŏk Ândong Péch	13.83333	107.25	A	ADMD	KH		23				0		241	Asia/Phnom_Penh	2020-06-10

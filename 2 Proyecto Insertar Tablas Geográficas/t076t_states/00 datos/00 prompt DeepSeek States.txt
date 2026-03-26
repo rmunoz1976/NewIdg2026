@@ -1,0 +1,259 @@
+PROMPT PARA IA - PROCESAMIENTO DE DIVISIONES ADMINISTRATIVAS ADM1
+CONTEXTO
+Tengo un sistema de base de datos con las siguientes tablas:
+t074t_countries: Almacena los países con sus datos básicos
+t070t_level_types: Clasificación de tipos de divisiones geográficas según geonames.org (ej: ADM1, PRSH, etc.)
+t075t_division_types: Almacena los TIPOS de divisiones geográficas por país (ej: para Andorra el tipo ADM1 es "Parroquia")
+t076t_states: Almacena las divisiones específicas de nivel ADM1 (ej: las 7 parroquias de Andorra)
+
+OBJETIVO
+Procesar un archivo de texto con datos de geonames.org (formato ADM1) para un país específico y generar:
+Si no existe, el INSERT en t075t_division_types para el tipo de división ADM1 de ese país
+Los INSERTs en t076t_states para cada división ADM1 encontrada en el archivo
+
+ESTRUCTURA DEL ARCHIVO DE ENTRADA
+El archivo tiene formato TSV (tabuladores) con las siguientes columnas relevantes:
+Columna 1: geo_id (ID de geonames.org)
+Columna 2: name_original (Nombre en idioma original/catalán)
+Columna 3: name_english (Nombre en inglés)
+Columna 7: feature_code (Código de característica geográfica, debe ser "ADM1")
+Columna 11: country_code (Código ISO alpha-2 del país)
+Columnas 12-13: Coordenadas (no necesarias para inserciones)
+Columna 18: Zona horaria (no necesaria para inserciones)
+
+DATOS DEL PAÍS (proporcionados en formato CSV)
+text
+# cd_name, id, geo_id, id_continent, code, code_dane, code_dian, code_iso_numeric, code_iso_alpha2, code_iso_alpha3, phone_code, tld, name_spanish, name_english, name_iso, name_original, name_transcribed, id_currency, status, created_at, updated_at, created_by, updated_by
+'[PAÍS] - [NOMBRE]', '[ID]', '[GEO_ID]', '[ID_CONTINENTE]', '[CODE]', '[CODE_DANE]', '[CODE_DIAN]', '[CODE_ISO_NUMERIC]', '[CODE_ISO_ALPHA2]', '[CODE_ISO_ALPHA3]', '[PHONE_CODE]', '[TLD]', '[NAME_SPANISH]', '[NAME_ENGLISH]', '[NAME_ISO]', '[NAME_ORIGINAL]', '[NAME_TRANSCRIBED]', '[ID_CURRENCY]', '1', '[FECHA]', '[FECHA]', '1', '1'
+
+TABLAS DE REFERENCIA
+t070t_level_types (tipos de nivel de geonames.org):
+# id, code, name, status, created_at, updated_at, created_by, updated_by
+'1', 'PCLI', 'País Independiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'2', 'PCLD', 'Territorio Dependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'3', 'PCLIX', 'Sección de Territorio Dependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'4', 'PCLF', 'Territorio en Disputa', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'5', 'PCLH', 'Entidad Política Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'6', 'PCLS', 'Estado Semiindependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'7', 'TERR', 'Territorio', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'8', 'ADM1', 'División Administrativa de Primer Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'9', 'ADM2', 'División Administrativa de Segundo Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'10', 'ADM3', 'División Administrativa de Tercer Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'11', 'ADM4', 'División Administrativa de Cuarto Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'12', 'ADM5', 'División Administrativa de Quinto Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'13', 'ADMD', 'División Administrativa Sin Nivel Definido', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'14', 'ADM1H', 'División Administrativa de Primer Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'15', 'ADM2H', 'División Administrativa de Segundo Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'16', 'ADM3H', 'División Administrativa de Tercer Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'17', 'ADM4H', 'División Administrativa de Cuarto Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'18', 'ADM5H', 'División Administrativa de Quinto Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'19', 'ADMDH', 'División Administrativa Sin Nivel Definido Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'20', 'PRSH', 'Parroquia', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'21', 'ZN', 'Zona', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+
+REGLAS DE NEGOCIO
+Para t075t_division_types:
+Identificar el tipo de división según el feature_code del archivo (en este caso "ADM1")
+Buscar en t070t_level_types el id_level_type correspondiente al código "ADM1" (id=8)
+Determinar el nombre del tipo de división en español, inglés, original, etc. basado en:
+Si el país tiene un nombre específico para sus divisiones (ej: Andorra usa "Parroquia"), usar ese
+Si no, usar el nombre genérico "División Administrativa de Primer Nivel" o su equivalente en cada idioma
+Generar un code único en minúsculas, sin acentos, usando guiones bajos
+Verificar que no exista ya un registro con el mismo code y id_country en t075t_division_types
+Si no existe, generar el INSERT
+
+Regla para el campo code en t075t_division_types:
+El código se forma concatenando el nombre del tipo de división (en minúsculas, sin acentos, con guiones bajos) y el código ISO alpha-2 del país (en minúsculas), separados por un guion bajo.
+Formato: [tipo_division]_[codigo_pais]
+Ejemplos:
+Andorra, tipo "Parroquia" → parroquia_ad
+Colombia, tipo "Departamento" → departamento_co
+España, tipo "Provincia" → provincia_es
+
+- Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+duplicándolas (''), NO con barra invertida (\').
+Ejemplos de nombres que requieren escape:
+M'sila      → 'M''sila'
+Aïn N'Sour  → 'Aïn N''Sour'
+Oum el Bouaghi → sin apóstrofe, no requiere escape
+Aplica a TODOS los campos varchar: name_spanish, name_english,
+name_iso, name_original, name_transcribed, code, etc.
+Antes de generar el SQL, revisar todos los valores en busca de
+apóstrofes o comillas simples embebidas y duplicarlas.
+- NULL sin comillas para valores nulos
+- name_spanish en minúsculas con tilde si aplica
+- name_english siempre en inglés sin caracteres especiales
+- name_iso: nombre oficial exacto según ISO 3166-2
+- No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+- Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+agrupa por tipo y genera un INSERT de division_type por cada uno
+- si no obtienes los valores de code_iso_alpha2, code_iso_alpha3, code_iso_numeric y phone_code, déjalos con cero (0)
+
+
+Para t076t_states:
+Para cada línea del archivo con feature_code = "ADM1" y country_code coincidente
+
+Extraer:
+geo_id = columna 1
+name_original = columna 2
+name_english = columna 3
+Asignar:
+id_country = ID del país de la tabla t074t_countries
+code = código ISO 3166-2 de la división (si está disponible en el nombre o inferido del orden), si no usar un correlativo
+code_iso_numeric = código numérico ISO de la división (si aplica)
+code_iso_alpha2 = código ISO alpha-2 en formato "AD-XX"
+code_iso_alpha3 = mismo que alpha-2
+phone_code = mismo que el país
+id_division_type = ID obtenido del INSERT en t075t_division_types (usar subconsulta SELECT)
+name_spanish = usar el nombre en español si está disponible, si no usar name_original
+name_transcribed = usar name_spanish
+name_iso = usar name_original o name_english
+Verificar que no exista ya un registro con el mismo geo_id en t076t_states (UK_t076t_geo_id)
+
+Regla de los campos de las tabla, ten presente lo que indica el comment:
+CREATE TABLE `t070t_level_types` (
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'Consecutivo único del registro',
+  `code` varchar(16) NOT NULL COMMENT 'Código interno del nivel de división',
+  `name` varchar(128) NOT NULL COMMENT 'Nombre del nivel de división',
+  `status` int NOT NULL DEFAULT '1' COMMENT 'Estado del registro: 1=activo, 0=inactivo',
+  `created_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de creación del registro',
+  `updated_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de última actualización del registro',
+  `created_by` int NOT NULL COMMENT 'Usuario que creó el registro',
+  `updated_by` int NOT NULL COMMENT 'Usuario que realizó la última actualización del registro',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `UK_t070t_code` (`code`),
+  CONSTRAINT `CHK_NE_t070t_code` CHECK ((`code` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t070t_name` CHECK ((`name` <> _utf8mb4''))
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Nivel de divisiones geográficas';
+
+Para la tabla t075t_division_types ten presente buscar los datos de estas columnas:
+  
+  `name_spanish` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en español',
+  `name_english` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en inglés',
+  `name_iso` varchar(128) NOT NULL COMMENT 'Nombre oficial ISO del tipo geográfico',
+  `name_original` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en idioma oficial',
+  `name_transcribed` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico transcrito a alfabeto latino legible',
+
+
+CREATE TABLE `t075t_division_types` (
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'Consecutivo único del registro',
+  `code` varchar(16) NOT NULL COMMENT 'Código interno de la división',
+  `id_country` int NOT NULL COMMENT 'Identificador del país',
+  `id_level_type` int NOT NULL COMMENT 'Identificador del nivel de división',
+  `name_spanish` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en español',
+  `name_english` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en inglés',
+  `name_iso` varchar(128) NOT NULL COMMENT 'Nombre oficial ISO del tipo geográfico',
+  `name_original` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico en idioma oficial',
+  `name_transcribed` varchar(128) NOT NULL COMMENT 'Nombre del tipo geográfico transcrito a alfabeto latino legible',
+  `status` int NOT NULL DEFAULT '1' COMMENT 'Estado del registro: 1=activo, 0=inactivo',
+  `created_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de creación del registro',
+  `updated_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de última actualización del registro',
+  `created_by` int NOT NULL COMMENT 'Usuario que creó el registro',
+  `updated_by` int NOT NULL COMMENT 'Usuario que realizó la última actualización del registro',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `UK_t075t_code` (`code`),
+  KEY `FK_t075t_id_country_t074t` (`id_country`),
+  KEY `FK_t075t_id_level_type_t070t` (`id_level_type`),
+  CONSTRAINT `FK_t075t_id_country_t074t` FOREIGN KEY (`id_country`) REFERENCES `t074t_countries` (`id`),
+  CONSTRAINT `FK_t075t_id_level_type_t070t` FOREIGN KEY (`id_level_type`) REFERENCES `t070t_level_types` (`id`),
+  CONSTRAINT `CHK_NE_t075t_code` CHECK ((`code` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t075t_name_english` CHECK ((`name_english` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t075t_name_spanish` CHECK ((`name_spanish` <> _utf8mb4''))
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Tipificación de divisiones geográficas: departamento, municipio, barrio, etc.';
+
+Para la tabla t076t_states ten presente buscar los datos de estas columnas:
+  `name_spanish` varchar(128) NOT NULL COMMENT 'Nombre del departamento en español',
+  `name_english` varchar(128) NOT NULL COMMENT 'Nombre del departamento en inglés',
+  `name_iso` varchar(128) NOT NULL COMMENT 'Nombre oficial ISO del departamento',
+  `name_original` varchar(128) NOT NULL COMMENT 'Nombre del departamento en idioma oficial',
+  `name_transcribed` varchar(128) NOT NULL COMMENT 'Nombre del departamento transcrito a alfabeto latino legible',
+
+
+CREATE TABLE `t076t_states` (
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'Consecutivo único del registro',
+  `geo_id` int NOT NULL COMMENT 'ID del departamento en geonames.org',
+  `id_country` int NOT NULL COMMENT 'Identificador del país',
+  `code` varchar(16) NOT NULL COMMENT 'Código interno del departamento',
+  `code_dane` varchar(16) DEFAULT NULL COMMENT 'Código DANE del departamento',
+  `code_dian` varchar(16) DEFAULT NULL COMMENT 'Código DIAN del departamento',
+  `code_iso_numeric` varchar(16) NOT NULL COMMENT 'Código ISO numérico del departamento',
+  `code_iso_alpha2` varchar(16) NOT NULL COMMENT 'Código ISO alpha-2 del departamento',
+  `code_iso_alpha3` varchar(16) NOT NULL COMMENT 'Código ISO alpha-3 del departamento',
+  `phone_code` varchar(16) NOT NULL COMMENT 'Indicativo telefónico del departamento',
+  `id_division_type` int NOT NULL COMMENT 'Identificador del tipo de división geográfica',
+  `name_spanish` varchar(128) NOT NULL COMMENT 'Nombre del departamento en español',
+  `name_english` varchar(128) NOT NULL COMMENT 'Nombre del departamento en inglés',
+  `name_iso` varchar(128) NOT NULL COMMENT 'Nombre oficial ISO del departamento',
+  `name_original` varchar(128) NOT NULL COMMENT 'Nombre del departamento en idioma oficial',
+  `name_transcribed` varchar(128) NOT NULL COMMENT 'Nombre del departamento transcrito a alfabeto latino legible',
+  `status` int NOT NULL DEFAULT '1' COMMENT 'Estado del registro: 1=activo, 0=inactivo',
+  `created_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de creación del registro',
+  `updated_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de última actualización del registro',
+  `created_by` int NOT NULL COMMENT 'Usuario que creó el registro',
+  `updated_by` int NOT NULL COMMENT 'Usuario que realizó la última actualización del registro',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `UK_t076t_geo_id` (`geo_id`),
+  KEY `IDX_t076t_name_spanish` (`name_spanish`),
+  KEY `IDX_t076t_name_english` (`name_english`),
+  KEY `IDX_t076t_id_country` (`id_country`),
+  KEY `IDX_t076t_code` (`code`),
+  KEY `IDX_t076t_id_division_type` (`id_division_type`),
+  KEY `IDX_t076t_id_country_name` (`id_country`,`name_spanish`),
+  CONSTRAINT `FK_t076t_id_country_t074t` FOREIGN KEY (`id_country`) REFERENCES `t074t_countries` (`id`),
+  CONSTRAINT `FK_t076t_id_division_type_t071t` FOREIGN KEY (`id_division_type`) REFERENCES `t071t_division_types` (`id`),
+  CONSTRAINT `CHK_NE_t076t_code` CHECK ((`code` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t076t_name_english` CHECK ((`name_english` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t076t_name_iso` CHECK ((`name_iso` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t076t_name_spanish` CHECK ((`name_spanish` <> _utf8mb4''))
+) ENGINE=InnoDB AUTO_INCREMENT=480 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Departamentos, estados y provincias del mundo';
+
+
+FORMATO DE SALIDA ESPERADO
+sql
+-- Insertar tipo de división geográfica ADM1 para [PAÍS]: [TIPO]
+INSERT INTO `t075t_division_types` (
+    `code`, `id_country`, `id_level_type`, `name_spanish`, `name_english`, 
+    `name_iso`, `name_original`, `name_transcribed`, `status`, 
+    `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES (
+    '[code]', [id_country], [id_level_type], '[name_spanish]', '[name_english]',
+    '[name_iso]', '[name_original]', '[name_transcribed]', 1, NOW(6), NOW(6), 1, 1
+);
+
+-- Insertar las divisiones ADM1 de [PAÍS] ([NOMBRE_PLURAL])
+INSERT INTO `t076t_states` (
+    `geo_id`, `id_country`, `code`, `code_dane`, `code_dian`, `code_iso_numeric`, 
+    `code_iso_alpha2`, `code_iso_alpha3`, `phone_code`, `id_division_type`, 
+    `name_spanish`, `name_english`, `name_iso`, `name_original`, `name_transcribed`, 
+    `status`, `created_at`, `updated_at`, `created_by`, `updated_by`
+) VALUES (
+    [geo_id], [id_country], '[code]', NULL, NULL, '[code_iso_numeric]', 
+    '[code_iso_alpha2]', '[code_iso_alpha3]', '[phone_code]', 
+    (SELECT id FROM t075t_division_types WHERE code = '[tipo_code]' AND id_country = [id_country]),
+    '[name_spanish]', '[name_english]', '[name_iso]', '[name_original]', 
+    '[name_transcribed]', 1, NOW(6), NOW(6), 1, 1
+);
+-- (repetir para cada división)
+
+EJEMPLO COMPLETO (PAÍS: ANDORRA)
+Archivo de entrada: AD_andorra_ADM1.txt
+Datos del país:
+id: 6
+code_iso_alpha2: AD
+name_spanish: ANDORRA
+Salida generada: (ver ejemplo anterior en el historial)
+
+INSTRUCCIÓN FINAL
+Procesa el archivo adjunto para el país y genera los INSERTs correspondientes en el formato anteriormente especificado.
+
+Al final solo dime:
+nro de registros para t075t_division_types ##
+nro de registros para t076t_states ##
+nota: GENERA ESTE NOMBRE SEGÚN EL PAÍS AD_ANDORRA_ADM1_INS
+Solo dame las observaciones de forma compacta y solo si son críticas, no hagas lita de lo insertado 
+y dame| la información de forma que pueda descargar en un texto
+
+Datos del país:
+# id, code, name_english, cant, id, geo_id, id_continent, code, code_dane, code_dian, code_iso_numeric, code_iso_alpha2, code_iso_alpha3, phone_code, tld, name_spanish, name_english, name_iso, name_original, name_transcribed, id_currency, status, created_at, updated_at, created_by, updated_by
+
+250	ZW	ZIMBABWE	0	250	878675	1	ZW	665	665	716	ZW	ZWE	+263	.zw	ZIMBABUE	ZIMBABWE	Zimbabwe	Zimbabwe	zimbabwe	180	1	2026-03-18 14:06:15.416575	2026-03-18 14:06:15.416575	1	1

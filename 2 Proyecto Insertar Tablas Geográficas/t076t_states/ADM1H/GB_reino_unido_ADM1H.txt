@@ -1,0 +1,14 @@
+﻿2634259	West Suffolk	West Suffolk		52.25	0.83333	A	ADM1H	GB		ENG				0		56	Europe/London	2012-07-21
+2636157	Tayside Region	Tayside Region	Tayside,Tayside Region	56.41667	-3.53333	A	ADM1H	GB		SCT				391274		62	Europe/London	2012-07-21
+2636703	Strathclyde Region	Strathclyde Region	Strathclyde	55.81209	-4.02649	A	ADM1H	GB		SCT				2435104		81	Europe/London	2012-07-21
+2637237	Spenborough	Spenborough	Spenborough	53.73333	-1.61667	A	ADM1H	GB		ENG				0		156	Europe/London	2012-08-04
+2643575	Lothian Region	Lothian Region		55.7	-3	A	ADM1H	GB		SCT				0		518	Europe/London	2012-07-21
+2646436	Humberside	Humberside	HUY,Humberside	53.75	-0.41667	A	ADM1H	GB		ENG				0		4	Europe/London	2017-02-03
+2647072	Hereford and Worcester	Hereford and Worcester		52.15	-2.5	A	ADM1H	GB		ENG				0		140	Europe/London	2012-07-21
+2648228	Grampian Region	Grampian Region	Grampian	57.26667	-3.16667	A	ADM1H	GB		SCT				0		678	Europe/London	2012-07-21
+2653431	Central Region	Central Region	Central,Central Region	56.08333	-4.11667	A	ADM1H	GB		SCT	W6			0		375	Europe/London	2015-06-02
+2656749	Avon	Avon		51.43333	-2.5	A	ADM1H	GB		ENG				0		63	Europe/London	2012-07-21
+2657600	Aireborough	Aireborough	Aireborough	53.86667	-1.68333	A	ADM1H	GB		ENG				0		187	Europe/London	2012-08-04
+8378485	Britannia	Britannia	Bretagne (province romaine),Britain (Roman province),Britania (provincia romana),Britannia (provincia romana),Britannien (roemische Provinz),Britannien (römische Provinz)	51.51858	-0.12606	A	ADM1H	GB		ENG	GLA	C4		0		34	Europe/London	2012-10-24
+8378486	Britannia Inferior	Britannia Inferior	Bretagne inferieure (province romaine),Bretagne inférieure (province romaine),Britania Inferior (provincia romana),Britannia Inferiore (provincia romana),Lower Britain (Roman province),Niederbritannien (roemische Provinz),Niederbritannien (römische Provinz)	53.95745	-1.08464	A	ADM1H	GB		ENG	Q5			0		14	Europe/London	2012-10-24
+8378487	Britannia Superior	Britannia Superior	Bretagne superieure (province romaine),Bretagne supérieure (province romaine),Britania Superior (provincia romana),Britannia Superiore (provincia romana),Oberbritannien (roemische Provinz),Oberbritannien (römische Provinz),Upper Britain (Roman province)	51.51845	-0.12581	A	ADM1H	GB		ENG	GLA	C4		0		34	Europe/London	2012-10-24
